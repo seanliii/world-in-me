@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#183e38">
+  <meta name="description" content="从旅途中的追问出发，连接全球历史、思想原典与个人行动。一部有出处、能反驳、可持续修订的中文互动作品。">
+  <meta name="referrer" content="no-referrer">
+  <meta name="robots" content="noindex,nofollow">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https: data:; connect-src 'self'; frame-src https://www.youtube-nocookie.com https://www.youtube.com; object-src 'none'; base-uri 'self'; form-action 'none'">
+  <title>世界照见我 · 从旅途，到历史，到自己</title>
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link id="optional-reading-font" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700&display=swap" rel="stylesheet" media="print">
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到正文</a>
+  <header class="site-header">
+    <a class="brand" href="#home" aria-label="世界照见我，返回首页">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="16"/><ellipse cx="20" cy="20" rx="7" ry="16"/><path d="M4 20h32M7 11c8 5 18 5 26 0M7 29c8-5 18-5 26 0"/></svg>
+      <span>世界照见我<small>从旅途，到历史，到自己</small></span>
+    </a>
+    <nav aria-label="主要导航">
+      <a id="nav-atlas" href="#atlas">旅程</a>
+      <a id="nav-themes" href="#themes">主题</a>
+      <a id="nav-questions" href="#questions">问题</a>
+      <a id="nav-library" href="#library">原典</a>
+      <a id="nav-practice" href="#practice">行动</a>
+      <a id="nav-personal" href="#personal">自己</a>
+    </nav>
+    <div class="header-tools">
+      <a class="icon-button saved-link" href="#saved" aria-label="我的收藏"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4Z"/></svg><span id="saved-count">0</span></a>
+      <button class="icon-button" id="search-open" type="button" aria-label="搜索整部作品"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg></button>
+    </div>
+  </header>
+  <div id="reading-progress" aria-hidden="true"></div>
+  <div id="storage-warning" class="storage-warning" role="status" hidden></div>
+  <main id="main" tabindex="-1">
+    <div class="loading-page"><span class="loading-globe" aria-hidden="true">◎</span><h1>正在打开这部世界史</h1><p>加载正文、地图与来源目录。个人笔记不会上传。</p></div>
+  </main>
+  <footer class="site-footer">
+    <div><a href="#home" class="footer-brand">世界照见我</a><p>让远方成为问题，让问题改变日常。</p></div>
+    <div class="footer-links"><a href="#about">如何阅读</a><a href="#sources">出处与纠错</a><a href="#practice">我的阅读与行动</a><a href="#personal">个人研究室</a><a href="research/研究总稿.md" download>下载研究总稿</a></div>
+    <p class="footer-note">AI 辅助整理的可修订作品 · 不以旅行清单证明普遍规律<br>个人记录只存当前浏览器。外部影像、字体与视频可能联网；不会附带你的笔记。</p>
+  </footer>
+  <dialog id="search-dialog" aria-labelledby="search-title">
+    <div class="dialog-heading"><h2 id="search-title">在问题之间，找到一条路</h2><button id="search-close" class="icon-button" aria-label="关闭搜索">×</button></div>
+    <label class="sr-only" for="global-search">搜索主题、问题、书籍和来源</label>
+    <input id="global-search" type="search" placeholder="试试：法郎、福柯、突厥、自由……" autocomplete="off">
+    <div id="search-results"><p class="muted">搜索主题、研究问题、原典与出处。按 Esc 返回阅读。</p></div>
+  </dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="js/bootstrap.mjs"></script>
+  <noscript><div class="no-script">互动阅读需要 JavaScript。你也可以<a href="research/研究总稿.md">直接打开完整研究总稿</a>。</div></noscript>
+</body>
+</html>

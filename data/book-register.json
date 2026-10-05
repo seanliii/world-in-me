@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-05",
+  "status": "旧稿21部作品分项登记；正文阅读范围分别披露",
+  "note": "旧稿20张卡中的第12张含两部小说，拆为21部。专项书目核查与其他研究包查阅范围不同，均保留，不将访问失败当作其他来源从未读到。",
+  "works": [
+    {
+      "id": "original-01",
+      "originalNumber": 1,
+      "oldCard": 1,
+      "oldVolume": 1,
+      "title": "枪炮、病菌与钢铁",
+      "originalTitle": "Guns, Germs, and Steel",
+      "author": "Jared Diamond",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "元数据、出版社简介、作者介绍；未读正文。",
+      "siteAccess": "元数据、出版社简介、作者介绍；未读正文。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-original-01",
+      "refs": [
+        "OR-01-1"
+      ],
+      "limits": "只读公开简介；不能据此把殖民结果全归于地理，更不能推出文明或族群高低。"
+    },
+    {
+      "id": "original-02",
+      "originalNumber": 2,
+      "oldCard": 2,
+      "oldVolume": 1,
+      "title": "中国的亚洲内陆边疆",
+      "originalTitle": "Inner Asian Frontiers of China",
+      "author": "Owen Lattimore",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "Google Books 原著书目/目录预览：读到 OUP 1988 版信息、简介和可见的三个目录标题；页面标“未提供电子书”，没有读正文。",
+      "siteAccess": "Google Books 原著书目/目录预览：读到 OUP 1988 版信息、简介和可见的三个目录标题；页面标“未提供电子书”，没有读正文。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-original-02",
+      "refs": [
+        "OR-02-1"
+      ],
+      "limits": "只读书目、简介及可见目录；未核降水线数字或唐朝战略，不能把边疆简化成一条生态线。"
+    },
+    {
+      "id": "original-03",
+      "originalNumber": 3,
+      "oldCard": 3,
+      "oldVolume": 1,
+      "title": "奥斯曼帝国六百年",
+      "originalTitle": "The Ottoman Centuries: The Rise and Fall of the Turkish Empire",
+      "author": "Lord Kinross",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "仅检索级书目；直连超时，无会话渲染失败，远程提取仍 extract_failed。",
+      "siteAccess": "仅检索级书目；直连超时，无会话渲染失败，远程提取仍 extract_failed。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-original-03",
+      "refs": [
+        "OR-03-1"
+      ],
+      "limits": "仅核书目索引，未取得简介和正文；不据此声称本书证明了“帝国边际成本公式”。"
+    },
+    {
+      "id": "original-04",
+      "originalNumber": 4,
+      "oldCard": 4,
+      "oldVolume": 1,
+      "title": "大征服：阿拉伯帝国的崛起",
+      "originalTitle": "The Great Arab Conquests: How the Spread of Islam Changed the World We Live In",
+      "author": "Hugh Kennedy",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "元数据、出版社 Description、作者介绍；未读正文。",
+      "siteAccess": "元数据、出版社 Description、作者介绍；未读正文。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-original-04",
+      "refs": [
+        "OR-04-1"
+      ],
+      "limits": "只读简介；征服与改宗不能混为一谈，简介不足以证明“全非暴力传播”或“几乎无人反抗”。"
+    },
+    {
+      "id": "original-05",
+      "originalNumber": 5,
+      "oldCard": 5,
+      "oldVolume": 1,
+      "title": "黑海史",
+      "originalTitle": "The Black Sea: A History",
+      "author": "Charles King",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "作者官网本书简介；未读正文。",
+      "siteAccess": "作者官网本书简介；未读正文。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-original-05",
+      "refs": [
+        "OR-05-1"
+      ],
+      "limits": "只读作者简介；区域联系不等于始终和谐，也不能把海域通史当成全部当地人的共同记忆。"
+    },
+    {
+      "id": "original-06",
+      "originalNumber": 6,
+      "oldCard": 6,
+      "oldVolume": 1,
+      "title": "规训与惩罚：监狱的诞生",
+      "originalTitle": "Surveiller et punir: Naissance de la prison",
+      "author": "Michel Foucault",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "检索可见题名和作者；原页直连超时，未读到出版社完整简介或正文。",
+      "siteAccess": "只评注已经核对的章节片段，不声称通读全书。 已读取并 OCR 核对普林斯顿课程存档中 Docile bodies 的十五页节选；不是全书。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-ag-01",
+      "refs": [
+        "OR-06-1",
+        "AG-S01",
+        "AG-S02"
+      ],
+      "limits": "本任务只核书目检索，未读正文；不把规训、生命政治与所有社会规则当成同一概念。"
+    },
+    {
+      "id": "original-07",
+      "originalNumber": 7,
+      "oldCard": 7,
+      "oldVolume": 1,
+      "title": "1844年经济学哲学手稿",
+      "originalTitle": "Ökonomisch-philosophische Manuskripte aus dem Jahre 1844",
+      "author": "Karl Marx",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "检索可见原著目录条目；英文目录原页直连超时。本次没有阅读手稿正文或序言。",
+      "siteAccess": "核对异化劳动篇，不把早期手稿当成马克思全部著作的摘要。 已读取明尼苏达大学德卢斯分校课程网页所载整篇 Estranged Labour；网页译者信息不清楚。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-ag-03",
+      "refs": [
+        "OR-07-1",
+        "AG-S03"
+      ],
+      "limits": "本次只核公开目录检索，未读手稿或序言；四重异化等具体措辞仍需回到版本和段落。"
+    },
+    {
+      "id": "original-08",
+      "originalNumber": 8,
+      "oldCard": 8,
+      "oldVolume": 1,
+      "title": "新教伦理与资本主义精神",
+      "originalTitle": "Die protestantische Ethik und der Geist des Kapitalismus",
+      "author": "Max Weber",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "英文书目检索可见；原页直连超时。Mohr ISBN 入口实际仅返回导航页，没有据此声称已读该书简介。",
+      "siteAccess": "只核对末段和译词讨论；不宣称通读德文原著。 核对在线德文末段的公开检索文本，并用 AG-S05 的原文讨论交叉核对；未通读德文全书。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-ag-04",
+      "refs": [
+        "OR-08-1",
+        "AG-S04",
+        "AG-S05"
+      ],
+      "limits": "仅核书目索引，未读论证；不能把新教说成资本主义唯一成因，或把“铁笼”当万能解释。"
+    },
+    {
+      "id": "original-09",
+      "originalNumber": 9,
+      "oldCard": 9,
+      "oldVolume": 1,
+      "title": "毫无意义的工作",
+      "originalTitle": "Bullshit Jobs: A Theory",
+      "author": "David Graeber",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "作者遗产网站的简介、目录、简体/繁体译本记录；未读 2018 年书籍正文或被链接的评论全文。",
+      "siteAccess": "本次核书目与公开定义介绍；不提供未逐字复核的引句，不装作读完整本书。 核对出版社及大学书目条目、公开定义介绍和相关研究；未取得可逐字复核的完整书摘，未通读全书。",
+      "fullBookRead": false,
+      "translationStatus": "已由作者遗产网站译本记录核到简体中文名《毫无意义的工作》，中信2022年版。保留旧称“狗屁工作”仅用于检索，不冒充本版正式题名。未通读中文译本。",
+      "libraryId": "book-ag-05",
+      "refs": [
+        "OR-09-1",
+        "AG-S06",
+        "AG-S07",
+        "AG-S20"
+      ],
+      "limits": "只读作者简介、目录与译本记录；未核样本和比例，不据此诊断某个职业或某个人。"
+    },
+    {
+      "id": "original-10",
+      "originalNumber": 10,
+      "oldCard": 10,
+      "oldVolume": 1,
+      "title": "石器时代经济学",
+      "originalTitle": "Stone Age Economics",
+      "author": "Marshall Sahlins",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "检索级题录与简短摘要；原页直连超时。未核原版版权页、正文或田野数据。",
+      "siteAccess": "核对第一章重印件及反方论文，不声称通读全书。 已对佛蒙特大学课程存档中的第一章重印扫描件做 OCR，核对开篇、时间资料与样本说明；未通读全书。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-ag-06",
+      "refs": [
+        "OR-10-1",
+        "AG-S08",
+        "AG-S09"
+      ],
+      "limits": "仅核出版社书目索引；未核劳作时数、样本或风险，不把采集社会写成无约束天堂。"
+    },
+    {
+      "id": "original-11",
+      "originalNumber": 11,
+      "oldCard": 11,
+      "oldVolume": 1,
+      "title": "想象的共同体",
+      "originalTitle": "Imagined Communities: Reflections on the Origin and Spread of Nationalism",
+      "author": "Benedict Anderson",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "元数据与出版社简介；未读正文。",
+      "siteAccess": "元数据与出版社简介；未读正文。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-original-11",
+      "refs": [
+        "OR-11-1"
+      ],
+      "limits": "只读出版社简介；民族与宗教共同体不能直接画等号，“想象”也不等于虚假。"
+    },
+    {
+      "id": "original-12",
+      "originalNumber": 12,
+      "oldCard": 12,
+      "oldVolume": 1,
+      "title": "雅库布扬大厦",
+      "originalTitle": "The Yacoubian Building",
+      "author": "Alaa Al Aswany",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "出版社公开简介和书名作者信息；部分版次字段仍为模板占位，故未把 ISBN/出版日猜填为已核。未读小说正文。",
+      "siteAccess": "出版社公开简介和书名作者信息；部分版次字段仍为模板占位，故未把 ISBN/出版日猜填为已核。未读小说正文。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-original-12",
+      "refs": [
+        "OR-12-1"
+      ],
+      "limits": "只读授权英译本简介；不是埃及社会统计。阿文题签、正式中文译名及情节细节未核。"
+    },
+    {
+      "id": "original-13",
+      "originalNumber": 13,
+      "oldCard": 12,
+      "oldVolume": 1,
+      "title": "耻",
+      "originalTitle": "Disgrace",
+      "author": "J. M. Coetzee",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "检索级书目与主题线索；原页直连超时，未读小说正文。",
+      "siteAccess": "出版社书页及简介已读取",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-lit-02",
+      "refs": [
+        "OR-13-1",
+        "LIT-L02"
+      ],
+      "limits": "本次仅核出版社检索书目，未读小说；不补写具体情节，也不把小说判断当作社会事实。"
+    },
+    {
+      "id": "original-14",
+      "originalNumber": 14,
+      "oldCard": 13,
+      "oldVolume": 2,
+      "title": "奥德赛",
+      "originalTitle": "Odyssey / Ὀδύσσεια",
+      "author": "Homer（传统归名）",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "本次读到 Penguin 简介和版本信息；同日先前另校对 Perseus 希腊原文第一卷第 1–5 行，未通读全诗。",
+      "siteAccess": "已取得完整英译文件，仅核读第九卷自述故乡及第十三卷归返伊塔卡的相关段落；未通读全诗。译者序言的作者身份与地理假说不作为本站定论。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-homer",
+      "refs": [
+        "OR-14-1",
+        "OR-14-2",
+        "EX-HOMER"
+      ],
+      "limits": "只读出版社简介并校对第一卷开头五行；未通读，神话地点不能直接等同确定历史航线。"
+    },
+    {
+      "id": "original-15",
+      "originalNumber": 15,
+      "oldCard": 14,
+      "oldVolume": 2,
+      "title": "黑色雅典娜（第一卷）",
+      "originalTitle": "Black Athena: The Afroasiatic Roots of Classical Civilization, Volume I: The Fabrication of Ancient Greece 1785–1985",
+      "author": "Martin Bernal",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "通过远程读取取得 Rutgers 本书页：第一卷完整副题、2020 重版信息、出版社简介、目录、作者介绍。未取得预览正文；另一个 PDF 预览地址返回 404。",
+      "siteAccess": "通过远程读取取得 Rutgers 本书页：第一卷完整副题、2020 重版信息、出版社简介、目录、作者介绍。未取得预览正文；另一个 PDF 预览地址返回 404。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-original-15",
+      "refs": [
+        "OR-15-1"
+      ],
+      "limits": "已读出版社简介和目录，未读正文；锁定第一卷，非2001年答辩书。争论性论点不是学界共识。"
+    },
+    {
+      "id": "original-16",
+      "originalNumber": 16,
+      "oldCard": 15,
+      "oldVolume": 2,
+      "title": "历史",
+      "originalTitle": "The Histories / Ἱστορίαι",
+      "author": "Herodotus",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "出版社简介、作者介绍、版本信息；未读《历史》原文。",
+      "siteAccess": "出版社简介、作者介绍、版本信息；未读《历史》原文。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-original-16",
+      "refs": [
+        "OR-16-1"
+      ],
+      "limits": "只读出版社简介；“古人写下了”不等于事实已证实，不能用一条记载结束文明源流争论。"
+    },
+    {
+      "id": "original-17",
+      "originalNumber": 17,
+      "oldCard": 16,
+      "oldVolume": 2,
+      "title": "奥德修斯的世界",
+      "originalTitle": "The World of Odysseus",
+      "author": "M. I. Finley",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "NYRB 出版社简介和 2002 版信息；未读 Finley 正文，也未读 Knox 导言。",
+      "siteAccess": "NYRB 出版社简介和 2002 版信息；未读 Finley 正文，也未读 Knox 导言。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-original-17",
+      "refs": [
+        "OR-17-1"
+      ],
+      "limits": "只读出版社简介与版次信息；未读正文或导言，不把其社会定位当成已无争议的断代。"
+    },
+    {
+      "id": "original-18",
+      "originalNumber": 18,
+      "oldCard": 17,
+      "oldVolume": 3,
+      "title": "众神的植物",
+      "originalTitle": "Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers",
+      "author": "Richard Evans Schultes; Albert Hofmann; Christian Rätsch",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "只核到列三位作者的修订版书目索引；出版社直连、无会话渲染及远程提取均未取得简介正文。未读植物条目或版权页。",
+      "siteAccess": "只核到列三位作者的修订版书目索引；出版社直连、无会话渲染及远程提取均未取得简介正文。未读植物条目或版权页。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-original-18",
+      "refs": [
+        "OR-18-1"
+      ],
+      "limits": "只核修订版书目索引，未读植物条目；不据此给出用法、剂量、疗效或安全结论。"
+    },
+    {
+      "id": "original-19",
+      "originalNumber": 19,
+      "oldCard": 18,
+      "oldVolume": 3,
+      "title": "如何改变你的意识",
+      "originalTitle": "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence",
+      "author": "Michael Pollan",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "作者官网的简介、书籍完整副题和公开资源入口；没有打开其 PDF Excerpt，没有读正文。",
+      "siteAccess": "作者官网的简介、书籍完整副题和公开资源入口；没有打开其 PDF Excerpt，没有读正文。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-original-19",
+      "refs": [
+        "OR-19-1"
+      ],
+      "limits": "只读作者官网简介，未打开样章；记者作品不是临床指南，更不能证明“所有规训都储存在DMN”。"
+    },
+    {
+      "id": "original-20",
+      "originalNumber": 20,
+      "oldCard": 19,
+      "oldVolume": 3,
+      "title": "白银资本",
+      "originalTitle": "ReORIENT: Global Economy in the Asian Age",
+      "author": "Andre Gunder Frank",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "依据原站明确重定向到现行 URL，读到 UC Press 简介、1998 版元数据与目录；未读正文。",
+      "siteAccess": "实际读取UC Press简介和目录；未通读。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-af-04",
+      "refs": [
+        "AF-S18"
+      ],
+      "limits": "只读简介和目录，未核统计与原论证；不把全球循环说简化成“白银必然毁掉西班牙”。"
+    },
+    {
+      "id": "original-21",
+      "originalNumber": 21,
+      "oldCard": 20,
+      "oldVolume": 3,
+      "title": "非洲最后的殖民货币",
+      "originalTitle": "L’arme invisible de la Françafrique : Une histoire du franc CFA",
+      "author": "Fanny Pigeaud; Ndongo Samba Sylla",
+      "status": "分项登记完成；不表示通读",
+      "registerAccess": "读到法文原著出版社简介、2018 年出版记录、目录、两位作者简介；英译本 Pluto 原页 403，只取得其检索书目。未读任何版本的正文。",
+      "siteAccess": "通过浏览器读取Pluto Press简介、完整目录及2021年2月出版信息；未通读。",
+      "fullBookRead": false,
+      "translationStatus": "登记暂用中文名／沿用旧单；本次未以中文出版方核定正式版名。“未核”不表示没有正式中文版；不凭零售页或旧 Kimi 文本授予“正式译名”状态。",
+      "libraryId": "book-af-06",
+      "refs": [
+        "OR-21-1",
+        "OR-21-2",
+        "AF-S20",
+        "AF-S01",
+        "AF-S02",
+        "AF-S03",
+        "AF-S04",
+        "AF-S05",
+        "AF-S06",
+        "AF-S07",
+        "AF-S08"
+      ],
+      "limits": "读到的是2018年法文简介和目录，未读正文；旧制度描述不能直接当成今天各区域的现状。"
+    }
+  ]
+}

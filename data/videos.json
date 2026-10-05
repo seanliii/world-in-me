@@ -1,0 +1,57 @@
+[
+  {
+    "id": "video-yale-death",
+    "title": "如何面对生命的有限：耶鲁公开课第23讲",
+    "originalTitle": "PHIL 176 — Lecture 23: How to Live Given the Certainty of Death",
+    "speaker": "Shelly Kagan",
+    "url": "https://oyc.yale.edu/philosophy/phil-176/lecture-23",
+    "language": "英语，官网有文字转录",
+    "description": "卡根关于死亡确定性与如何生活的哲学课程。可从官方课程页进入，不把哲学论证当作心理诊断或实验结论。",
+    "access": "官方页面已核；未观看全片",
+    "refs": [
+      "VID-YALE"
+    ],
+    "questions": [
+      "这段讨论提出什么问题，依靠何种论证？",
+      "它在哪里需要其他资料，哪些结论不能直接套到个人身上？"
+    ],
+    "videoId": "O8Hu465KL1w",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/O8Hu465KL1w"
+  },
+  {
+    "id": "video-sdt",
+    "title": "自主、胜任与联结：自我决定理论官方讲座",
+    "originalTitle": "Self-Determination Theory: An Incomplete Overview in 100 Minutes",
+    "speaker": "Richard Ryan、Edward Deci",
+    "url": "https://selfdeterminationtheory.org/video/self-determination-theory-an-incomplete-overview-in-100-minutes-plenary-address-by-richard-ryan-and-edward-deci-sdt2019/",
+    "language": "英语",
+    "description": "由瑞安与德西介绍自我决定理论。可以与书架中的理论论文对读；本次核的是官方录像条目，不冒称看完百分钟讲座。",
+    "access": "官方页面已核；未观看全片",
+    "refs": [
+      "VID-SDT"
+    ],
+    "questions": [
+      "这段讨论提出什么问题，依靠何种论证？",
+      "它在哪里需要其他资料，哪些结论不能直接套到个人身上？"
+    ],
+    "embedUrl": null
+  },
+  {
+    "id": "video-ostrom",
+    "title": "超越市场与国家：奥斯特罗姆诺贝尔讲座",
+    "speaker": "Elinor Ostrom",
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/lecture/",
+    "language": "英语",
+    "embedUrl": null,
+    "access": "官方录像入口已核；未观看全片",
+    "description": "2009年12月8日的正式讲座。用作多中心治理研究入口，不根据标题宣称所有社区都会成功。",
+    "questions": [
+      "市场、国家之外的治理安排是什么？",
+      "应怎样同时检查合作成功与失败的条件？"
+    ],
+    "refs": [
+      "M-OSTROM",
+      "M-COMMONS"
+    ]
+  }
+]

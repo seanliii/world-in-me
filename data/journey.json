@@ -1,0 +1,715 @@
+{
+  "title": "原计划二十站与美洲八国讨论层",
+  "stops": [
+    {
+      "id": "cairo",
+      "city": "开罗",
+      "country": "埃及",
+      "lat": 30.0444,
+      "lng": 31.2357,
+      "status": "planned",
+      "theme": "civilizations",
+      "title": "同一座城市，不只一种时间",
+      "observation": "若到访，分别观察遗址说明、博物馆叙述与当代街区。哪些人被放进“文明起源”，哪些日常生活被略去？",
+      "history": "《米达克巷》提供从开罗街区进入文学的入口；瑙克拉提斯的考古接触则发生在另一地点，不把它挪到开罗。吉萨照片也是规划近郊支线，不是开罗市中心。",
+      "refs": [
+        "LIT-L01",
+        "H-S06"
+      ],
+      "photoId": "giza-pyramids",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "joburg",
+      "city": "约翰内斯堡",
+      "country": "南非",
+      "lat": -26.2041,
+      "lng": 28.0473,
+      "status": "planned",
+      "theme": "labor",
+      "title": "公共记忆怎样进入今天的生活",
+      "observation": "在纪念空间里区分法律制度、个人经历与后来如何展示；再问哪些社会关系不能由一张照片看出来。",
+      "history": "种族隔离博物馆资料照是现代纪念空间影像，不是当年的事件照片。《耻》可打开南非社会变化中的责任问题，但不是约翰内斯堡居民调查。",
+      "refs": [
+        "LIT-L02",
+        "AF-S17"
+      ],
+      "photoId": "johannesburg-apartheid-museum",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "addis",
+      "city": "亚的斯亚贝巴",
+      "country": "埃塞俄比亚",
+      "lat": 8.9806,
+      "lng": 38.7578,
+      "status": "planned",
+      "theme": "empires",
+      "title": "胜利与占领，可以同时属于一段历史",
+      "observation": "比较纪念叙述怎样呈现民族独立、战争与普通人的位置；不要预设这里是未受殖民影响的实验基准。",
+      "history": "埃塞俄比亚1896年阿杜瓦胜利与1936—1941年意大利占领需要同时保留。本次未核亚的斯亚贝巴完整城市史，也不把拉利贝拉照片充作首都照片。",
+      "refs": [
+        "AF-S11",
+        "LIT-L03"
+      ],
+      "photoId": null,
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "cotonou",
+      "city": "科托努",
+      "country": "贝宁",
+      "lat": 6.3703,
+      "lng": 2.3912,
+      "status": "planned",
+      "theme": "money",
+      "title": "从一张钞票查到制度，而不是先下结论",
+      "observation": "若观察支付与价格，只记录可见现象，再查货币区、主管机构和日期；不向交易者索取账户等私人资料。",
+      "history": "贝宁属于本次讨论的西非货币区。2019年改革公告与2021年实际关账应分开；科托努是原计划主站，乌伊达不是可以直接挪到同一点的历史布景。",
+      "refs": [
+        "AF-S01",
+        "AF-S02",
+        "AF-S03",
+        "LIT-L04"
+      ],
+      "photoId": null,
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "abidjan",
+      "city": "阿比让",
+      "country": "科特迪瓦",
+      "lat": 5.3453,
+      "lng": -4.0244,
+      "status": "planned",
+      "theme": "money",
+      "title": "独立的承诺与货币的实际安排",
+      "observation": "在城市表象之外追问谁能决定、谁承担调整成本。钞票、商业建筑和文学可以引出问题，但不单独证明经济关系。",
+      "history": "西非改革后的安排不能按中非报表描述。库鲁马的作品只作独立主题的阅读入口；所示圣保罗大教堂照片在阿比让，不冒充大巴萨姆。",
+      "refs": [
+        "AF-S01",
+        "AF-S02",
+        "LIT-L05"
+      ],
+      "photoId": "abidjan-saint-paul",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "dakar",
+      "city": "达喀尔",
+      "country": "塞内加尔",
+      "lat": 14.7167,
+      "lng": -17.4677,
+      "status": "planned",
+      "theme": "borders",
+      "title": "戈雷：纪念的重量，不靠夸大的数字",
+      "observation": "若前往戈雷，分开记录现场展示、数量说法与个人感受；追问数字指一栋房子、一座岛还是整个区域。",
+      "history": "UNESCO报道与Sene论文分别提供纪念意义和历史争论。不能从记忆地的重要性推出它是最大输出港，也不能因数量争论而否认真实苦难。图片为岛屿支线，不是市中心。",
+      "refs": [
+        "AF-S12",
+        "AF-S13"
+      ],
+      "photoId": "goree-island",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "casablanca",
+      "city": "卡萨布兰卡",
+      "country": "摩洛哥",
+      "lat": 33.5731,
+      "lng": -7.5898,
+      "status": "planned",
+      "theme": "belief",
+      "title": "从建筑外观退一步，听具体解释",
+      "observation": "宗教建筑与街头衣着可以引起问题，但不要把颜色、规模或风格直接翻译为居民的政治立场。",
+      "history": "《简单过去时》的摩洛哥文学入口适合同时思考家庭与殖民权力，不能当作今日卡萨布兰卡实录。清真寺照片是现代摄影，不为整座城市指定一个古老性格。",
+      "refs": [
+        "LIT-L07",
+        "H-S12"
+      ],
+      "photoId": "casablanca-hassan-mosque",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "tunis",
+      "city": "突尼斯",
+      "country": "突尼斯",
+      "lat": 36.8065,
+      "lng": 10.1815,
+      "status": "planned",
+      "theme": "civilizations",
+      "title": "古代遗址与现代政治，不是同一段时间",
+      "observation": "区分考古遗址、馆方讲述和现代生活，观察城市如何并置不同历史层次，而不只沿文明接力线阅读。",
+      "history": "配图是迦太基近郊遗址方向，不是古罗马现场影像。《意大利人》提供20世纪末突尼斯的文学问题，不把其背景当2011年或今天的直接记录。",
+      "refs": [
+        "LIT-L08",
+        "H-S05"
+      ],
+      "photoId": "carthage-antonine-baths",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "amman",
+      "city": "安曼",
+      "country": "约旦",
+      "lat": 31.9539,
+      "lng": 35.9106,
+      "status": "planned",
+      "theme": "literature",
+      "title": "让个人叙述进入宏观历史",
+      "observation": "看到古代建筑时，也问谁在讲述现代生活。若交谈，先获得同意，不要求一个居民代表整个国家。",
+      "history": "Pillars of Salt可作为约旦女性叙述与权力关系的阅读入口，不能把小说设定复制到当代安曼。配图从城堡山望向罗马剧场；这里只确认照片场景，不编建造年。",
+      "refs": [
+        "LIT-L09",
+        "M-OHA-ETHICS"
+      ],
+      "photoId": "amman-roman-theatre",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "beirut",
+      "city": "贝鲁特",
+      "country": "黎巴嫩",
+      "lat": 33.8938,
+      "lng": 35.5018,
+      "status": "planned",
+      "theme": "borders",
+      "title": "一个人不是一个阵营的缩影",
+      "observation": "把日常空间、战争记忆与今日处境分开。不要追问陌生人的创伤，也不从城市照片判断当下安全。",
+      "history": "《笑之石》目前核到出版目录，可作进一步阅读入口而非完整战争解释。海滨照片摄于过去，只说明拍摄场景；本次未完成贝鲁特政治史与实时出行核查。",
+      "refs": [
+        "LIT-L10",
+        "M-OHA-ETHICS"
+      ],
+      "photoId": "beirut-corniche",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "abudhabi",
+      "city": "阿布扎比",
+      "country": "阿联酋",
+      "lat": 24.4539,
+      "lng": 54.3773,
+      "status": "planned",
+      "theme": "belief",
+      "title": "现代海湾建筑，不能替整个社会发言",
+      "observation": "从建筑、劳动与公共展示提出具体问题；把自己看到的游客空间与尚未了解的居民生活区分。",
+      "history": "阿联酋文学补入《沙鱼》，但它的背景是1950年代迪拜地区，不是阿布扎比城市史。国家政治经济史专题仍待补；当前清真寺照片不作历史机制的证据。",
+      "refs": [
+        "LIT-L12",
+        "M-DUNNING"
+      ],
+      "photoId": "abu-dhabi-zayed-mosque",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "jeddah",
+      "city": "吉达",
+      "country": "沙特阿拉伯",
+      "lat": 21.4858,
+      "lng": 39.1925,
+      "status": "planned",
+      "theme": "belief",
+      "title": "老城细部与当代生活，各自需要什么材料",
+      "observation": "可观察建筑木作、街道使用与公开说明，不凭外观推测住宅年代、居民阶层或信仰强度。",
+      "history": "所示资料图是吉达Al-Balad木作。《利雅得女孩》发生在另一城市及特定社会背景，不当作吉达居民或2026年沙特的统一肖像；本次不附未经核验的封禁史。",
+      "refs": [
+        "LIT-L11",
+        "H-S11",
+        "H-S12"
+      ],
+      "photoId": "jeddah-al-balad-woodwork",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "istanbul",
+      "city": "伊斯坦布尔",
+      "country": "土耳其",
+      "lat": 40.9907,
+      "lng": 29.025,
+      "status": "planned",
+      "theme": "steppe",
+      "title": "同一地名里的多个政治世界",
+      "observation": "在观看建筑或跨岸移动时，分开现代城市空间与不同帝国时期的称谓；不把一张景色照片当作文明交接的证据。",
+      "history": "1453年奥斯曼攻取君士坦丁堡可由机构研究核对；1204年的十字军占领与1261年恢复统治也不能省去。配图为Kadıköy海滨，保留原计划坐标，不替换为欧洲侧景点。",
+      "refs": [
+        "H-S04",
+        "H-S02"
+      ],
+      "photoId": "istanbul-kadikoy-waterfront",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "sarajevo",
+      "city": "萨拉热窝",
+      "country": "波黑",
+      "lat": 43.8563,
+      "lng": 18.4131,
+      "status": "planned",
+      "theme": "borders",
+      "title": "纪念空间之外，再读具体文本",
+      "observation": "区分现场纪念、个人记忆和司法事实，不用情绪强度决定历史真伪，也不把一个人视为某个族群的发言人。",
+      "history": "1995年代顿宪制保留波黑国家并规定两个实体；塞族共和国不是塞尔维亚。法庭案件处理具体个人责任。照片中的拉丁桥在萨拉热窝，不是莫斯塔尔，也不是1914年现场照。",
+      "refs": [
+        "H-S13",
+        "H-S14"
+      ],
+      "photoId": "sarajevo-latin-bridge",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "belgrade",
+      "city": "贝尔格莱德",
+      "country": "塞尔维亚",
+      "lat": 44.8176,
+      "lng": 20.4633,
+      "status": "planned",
+      "theme": "borders",
+      "title": "一个人物，为什么可以有多重身份",
+      "observation": "从博物馆如何标注人物出生地、背景与国籍开始，检查这些标签是否被当作同一种东西。",
+      "history": "特斯拉馆藏目录记录其洗礼和美国入籍材料；出生地、塞尔维亚裔背景与法律国籍并不互斥。要塞配图只是现代城市空间，不为任何战役补写现场细节。",
+      "refs": [
+        "H-S15"
+      ],
+      "photoId": "belgrade-kalemegdan",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "podgorica",
+      "city": "波德戈里察",
+      "country": "黑山",
+      "lat": 42.4304,
+      "lng": 19.2594,
+      "status": "planned",
+      "theme": "method",
+      "title": "先校正地点，再开始解释",
+      "observation": "先核主站、候选往返与照片地点是否相同。把科托尔的名声或湖区照片挪到波德戈里察，都会让研究从错误定位开始。",
+      "history": "本站主线保留波德戈里察；科托尔是旧稿中的不同地点。斯卡达尔湖图片只作规划湖区方向。本次未完成城市史专题，先提出说明牌、居民叙述与地方资料如何互相核对的问题。",
+      "refs": [
+        "M-DUNNING",
+        "M-OHA"
+      ],
+      "photoId": "montenegro-skadar-lake",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "yerevan",
+      "city": "埃里温",
+      "country": "亚美尼亚",
+      "lat": 40.1872,
+      "lng": 44.5152,
+      "status": "planned",
+      "theme": "borders",
+      "title": "居民社区与国家叙述，如何放在同一页",
+      "observation": "把社区空间与纪念叙述分开，观察谁在使用地方、谁在解释地方；不以照片替居民宣告身份。",
+      "history": "配图为现代埃里温Kond街区，不是历史复原。本次未系统核读亚美尼亚地方史，因此不以“帝国交替、身份不变”填空；问题应留待地方材料与自愿讲述共同检验。",
+      "refs": [
+        "M-OHA",
+        "M-DUNNING"
+      ],
+      "photoId": "yerevan-kond",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "tbilisi",
+      "city": "第比利斯",
+      "country": "格鲁吉亚",
+      "lat": 41.7151,
+      "lng": 44.8271,
+      "status": "planned",
+      "theme": "method",
+      "title": "同一街区，怎样容纳不同使用方式",
+      "observation": "以浴场街区为观察入口，区分建筑、游客解说与日常使用；不把一次消费体验升级为民族志。",
+      "history": "资料照标识Abanotubani的浴场建筑，但不表示用户预约或体验了该处。本次高加索城市史尚不完整；地域联系可提出问题，不能自动填入一条固定的文明过渡公式。",
+      "refs": [
+        "M-OHA-ETHICS",
+        "M-DUNNING"
+      ],
+      "photoId": "tbilisi-abanotubani",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "baku",
+      "city": "巴库",
+      "country": "阿塞拜疆",
+      "lat": 40.4093,
+      "lng": 49.8671,
+      "status": "planned",
+      "theme": "borders",
+      "title": "老城并不只有一种历史声音",
+      "observation": "观察建筑如何被命名、展示和使用，区分被选来代表城市的部分与没有进入导览的部分。",
+      "history": "内城喷泉照片只能确认现代拍摄场景，不证明喷泉年代或用户参观了某馆。本次未完成阿塞拜疆城市政治史；宗教、语言与国家认同的关系保持为待查问题，不作居民诊断。",
+      "refs": [
+        "M-OHA",
+        "M-DUNNING"
+      ],
+      "photoId": "baku-icherisheher-fountain",
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    },
+    {
+      "id": "moscow",
+      "city": "莫斯科",
+      "country": "俄罗斯",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "status": "planned",
+      "theme": "method",
+      "title": "补回原计划的一站，不补造个人经历",
+      "observation": "这站出现在原规划而未进入旧稿十九城。先确认材料差异，再问未来需要哪些俄罗斯地方史来源。",
+      "history": "本站保留莫斯科的原计划状态与坐标，没有已到访证明、现场笔记或本轮完整俄罗斯史章节。书架中的社会批判不能直接替代苏联或当代俄罗斯的具体史料。",
+      "refs": [
+        "M-DUNNING",
+        "M-OHA"
+      ],
+      "photoId": null,
+      "evidenceNote": "原规划站点；不是已到访或已执行证明。"
+    }
+  ],
+  "americas": [
+    {
+      "id": "country-usa",
+      "iso3": "USA",
+      "country": "美国",
+      "lat": 39.538479,
+      "lng": -97.482602,
+      "theme": "borders",
+      "question": "博物馆与公共纪念怎样呈现不同社群？需补当地历史资料，不用一个城市代表全国。",
+      "status": "mentioned-country",
+      "coordinateType": "Natural Earth国家标签示意坐标，不是城市、首都或实际航线",
+      "refs": [
+        "GEO-NE",
+        "M-DUNNING"
+      ]
+    },
+    {
+      "id": "country-mex",
+      "iso3": "MEX",
+      "country": "墨西哥",
+      "lat": 23.919988,
+      "lng": -102.289448,
+      "theme": "empires",
+      "question": "怎样把征服中的地方联盟、疾病与长期抵抗并读，而不只读少数欧洲人的故事？",
+      "status": "mentioned-country",
+      "coordinateType": "Natural Earth国家标签示意坐标，不是城市、首都或实际航线",
+      "refs": [
+        "GEO-NE",
+        "M-DUNNING"
+      ]
+    },
+    {
+      "id": "country-cri",
+      "iso3": "CRI",
+      "country": "哥斯达黎加",
+      "lat": 10.0651,
+      "lng": -84.077922,
+      "theme": "method",
+      "question": "若比较殖民与独立后的制度，应选择哪些地区、年代与可比材料？本次尚未完成该国专题。",
+      "status": "mentioned-country",
+      "coordinateType": "Natural Earth国家标签示意坐标，不是城市、首都或实际航线",
+      "refs": [
+        "GEO-NE",
+        "M-DUNNING"
+      ]
+    },
+    {
+      "id": "country-pan",
+      "iso3": "PAN",
+      "country": "巴拿马",
+      "lat": 8.72198,
+      "lng": -80.352106,
+      "theme": "labor",
+      "question": "交通与贸易的叙述怎样同时呈现具体劳动者？运河及地方劳动史仍需另补，不能用金融比喻代替。",
+      "status": "mentioned-country",
+      "coordinateType": "Natural Earth国家标签示意坐标，不是城市、首都或实际航线",
+      "refs": [
+        "GEO-NE",
+        "M-DUNNING"
+      ]
+    },
+    {
+      "id": "country-col",
+      "iso3": "COL",
+      "country": "哥伦比亚",
+      "lat": 3.373111,
+      "lng": -73.174347,
+      "theme": "empires",
+      "question": "如何追查土地、劳动与贸易在不同时期的变化？国家锚点不代表任何已核城市行程。",
+      "status": "mentioned-country",
+      "coordinateType": "Natural Earth国家标签示意坐标，不是城市、首都或实际航线",
+      "refs": [
+        "GEO-NE",
+        "M-DUNNING"
+      ]
+    },
+    {
+      "id": "country-per",
+      "iso3": "PER",
+      "country": "秘鲁",
+      "lat": -12.976679,
+      "lng": -72.90016,
+      "theme": "empires",
+      "question": "怎样分别核白银流动、人口灾难与地方行动者，不让一条资源兴衰故事解释全部历史？",
+      "status": "mentioned-country",
+      "coordinateType": "Natural Earth国家标签示意坐标，不是城市、首都或实际航线",
+      "refs": [
+        "GEO-NE",
+        "M-DUNNING"
+      ]
+    },
+    {
+      "id": "country-chl",
+      "iso3": "CHL",
+      "country": "智利",
+      "lat": -38.151771,
+      "lng": -72.318871,
+      "theme": "borders",
+      "question": "同一国家的历史解释，会不会随观察地区和年代改变？需补地方来源，不能从国名推出统一经验。",
+      "status": "mentioned-country",
+      "coordinateType": "Natural Earth国家标签示意坐标，不是城市、首都或实际航线",
+      "refs": [
+        "GEO-NE",
+        "M-DUNNING"
+      ]
+    },
+    {
+      "id": "country-arg",
+      "iso3": "ARG",
+      "country": "阿根廷",
+      "lat": -33.501159,
+      "lng": -64.173331,
+      "theme": "money",
+      "question": "怎样按时期与机构追问货币、国家认同和治理？本站未做该国经济史或当下金融专题。",
+      "status": "mentioned-country",
+      "coordinateType": "Natural Earth国家标签示意坐标，不是城市、首都或实际航线",
+      "refs": [
+        "GEO-NE",
+        "M-DUNNING"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "event-330-1",
+      "year": 330,
+      "date": null,
+      "title": "君士坦丁堡与东罗马的长期历史",
+      "body": "这里用作东罗马专题的分期入口；后世“拜占庭”的命名不等于当时居民放弃罗马认同。",
+      "theme": "steppe",
+      "refs": [
+        "H-S04"
+      ]
+    },
+    {
+      "id": "event-630-2",
+      "year": 630,
+      "date": null,
+      "title": "东突厥败于唐",
+      "body": "这一政治阶段不能与657年的西突厥事件合并，更不表示所有突厥语人口消失。",
+      "theme": "steppe",
+      "refs": [
+        "H-S01"
+      ]
+    },
+    {
+      "id": "event-657-3",
+      "year": 657,
+      "date": null,
+      "title": "西突厥贺鲁被俘",
+      "body": "区分具体政权的军事挫败与人群、语言、制度的后续变化。",
+      "theme": "steppe",
+      "refs": [
+        "H-S01"
+      ]
+    },
+    {
+      "id": "event-682-4",
+      "year": 682,
+      "date": null,
+      "title": "第二突厥汗国兴起",
+      "body": "政权的重组与复兴，直接提醒人们不要把此前一次战败写成永久消失。",
+      "theme": "steppe",
+      "refs": [
+        "H-S01"
+      ]
+    },
+    {
+      "id": "event-1071-5",
+      "year": 1071,
+      "date": null,
+      "title": "曼齐刻尔特：塞尔柱与拜占庭的战役",
+      "body": "Hillenbrand专著摘要可核基本事件，并研究其后世宗教与民族记忆；不在此补造战术或将其写成1453年的必然起点。",
+      "theme": "steppe",
+      "refs": [
+        "EX-MANZIKERT"
+      ]
+    },
+    {
+      "id": "event-1204-6",
+      "year": 1204,
+      "date": null,
+      "title": "十字军占领君士坦丁堡",
+      "body": "大都会博物馆概述将此与后来奥斯曼征服分开；不能用两大文明永恒对抗代替具体政治变化。",
+      "theme": "borders",
+      "refs": [
+        "H-S04"
+      ]
+    },
+    {
+      "id": "event-1261-7",
+      "year": 1261,
+      "date": null,
+      "title": "君士坦丁堡恢复拜占庭统治",
+      "body": "恢复统治不等于早期帝国疆域全部恢复，分期要保留范围。",
+      "theme": "steppe",
+      "refs": [
+        "H-S04"
+      ]
+    },
+    {
+      "id": "event-1453-8",
+      "year": 1453,
+      "date": null,
+      "title": "奥斯曼攻取君士坦丁堡",
+      "body": "这是可核的事件；不能说成几百年前同一支突厥队伍终于完成复仇。",
+      "theme": "steppe",
+      "refs": [
+        "H-S04",
+        "H-S02"
+      ]
+    },
+    {
+      "id": "event-1492-9",
+      "year": 1492,
+      "date": null,
+      "title": "1492年后美洲人口与社会剧变的研究起点",
+      "body": "这是所引论文的历史范围起点，不表示整个大陆同年发生同样过程；疫病与战争、奴役、迁移及生活破坏需要结合地区研究。",
+      "theme": "empires",
+      "refs": [
+        "AF-S10"
+      ]
+    },
+    {
+      "id": "event-1896-10",
+      "year": 1896,
+      "date": null,
+      "title": "阿杜瓦之战：意大利战败",
+      "body": "埃塞俄比亚抵御征服的胜利应被保留，也不能用它抹去后来的占领阶段。",
+      "theme": "empires",
+      "refs": [
+        "AF-S11"
+      ]
+    },
+    {
+      "id": "event-1936-11",
+      "year": 1936,
+      "date": null,
+      "title": "意大利占领埃塞俄比亚的阶段开始",
+      "body": "Zewde研究章节将1936—1941年单独讨论；本次只核摘要与目录，不编战术及伤亡。",
+      "theme": "empires",
+      "refs": [
+        "AF-S11"
+      ]
+    },
+    {
+      "id": "event-1941-12",
+      "year": 1941,
+      "date": null,
+      "title": "埃塞俄比亚意大利占领阶段结束",
+      "body": "与1896年的胜利、1936年的占领开始分开记录，不把主权经历写成从未变化。",
+      "theme": "empires",
+      "refs": [
+        "AF-S11"
+      ]
+    },
+    {
+      "id": "event-1978-13",
+      "year": 1978,
+      "date": null,
+      "title": "戈雷列入世界遗产",
+      "body": "UNESCO报道可核这个纪念与遗产节点；名录地位不能证明奴隶贸易港口排名。",
+      "theme": "borders",
+      "refs": [
+        "AF-S12",
+        "AF-S13"
+      ]
+    },
+    {
+      "id": "event-1995-14",
+      "year": 1995,
+      "date": null,
+      "title": "代顿框架规定波黑国家与两个实体",
+      "body": "使用1995年附件四作为历史文本；不把它等同于所有后续法律和今日政治实践。",
+      "theme": "borders",
+      "refs": [
+        "H-S13"
+      ]
+    },
+    {
+      "id": "event-2019-15",
+      "year": 2019,
+      "date": "2019-12-21",
+      "title": "西非货币合作改革宣布",
+      "body": "2019年12月21日公告提出储备、操作账户与法国代表退出等变化；固定汇率与兑换保证保留。",
+      "theme": "money",
+      "refs": [
+        "AF-S01"
+      ]
+    },
+    {
+      "id": "event-2021-16",
+      "year": 2021,
+      "date": "2021-04",
+      "title": "BCEAO操作账户实际关闭",
+      "body": "执行年报记录2021年4月关账并转移资源；不能仅用宣布年份代替落实年份。",
+      "theme": "money",
+      "refs": [
+        "AF-S02"
+      ]
+    },
+    {
+      "id": "event-2023-17",
+      "year": 2023,
+      "date": "2023-07-30",
+      "title": "ECOWAS决定对尼日尔实施列明制裁",
+      "body": "7月30日公报列出国家资产冻结等措施；本次原件未支持法国单方面冻结某个特定欧元金额。",
+      "theme": "money",
+      "refs": [
+        "AF-S06",
+        "AF-S08"
+      ]
+    },
+    {
+      "id": "event-2024-18",
+      "year": 2024,
+      "date": "2024-02-24",
+      "title": "ECOWAS撤销包括国家资产冻结在内的列明措施",
+      "body": "2月24日公报第27段撤销列明制裁，第31段仍保留其他措施；不是所有措施一并结束。",
+      "theme": "money",
+      "refs": [
+        "AF-S07"
+      ]
+    },
+    {
+      "id": "event-2026-19",
+      "year": 2026,
+      "date": "2026-03-18",
+      "title": "BEAC公布2025年末财务报表",
+      "body": "文件于2026年3月18日公布，所描述的是2025年末中非账户与治理安排，不把报表时点混成全天候现状。",
+      "theme": "money",
+      "refs": [
+        "AF-S04"
+      ]
+    }
+  ],
+  "routeNote": "保留原计划顺序和坐标，连线不是实际航路，也不是已到访证明。",
+  "americasNote": "旧稿仅明确八国；未恢复具体城市、到访日期或路线顺序。示意点逐项取原始Natural Earth的LABEL_X/Y。",
+  "differences": [
+    "旧稿写科托尔，原计划主站为波德戈里察；两者不合并。",
+    "原计划有莫斯科，旧稿十九城未含该站；保留差异。",
+    "吉萨、戈雷、迦太基、斯卡达尔湖照片属于近郊或候选支线，不伪装成主站市中心。",
+    "拉利贝拉、马丘比丘和奇琴伊察为扩展资料影像，不新增原计划站点。"
+  ],
+  "coordinateRefs": [
+    "GEO-NE"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-05",
+  "title": "用户告知已发送的六封补充邮件",
+  "boundary": "尚未取得任何邮件正文；不能把用户告知已发送等同于本次已读取。六封须逐封读取、辨认角色、整理问题、核查主要主张、融入网站并独立回查。",
+  "entries": [
+    {"id":"email-1","label":"邮件 1","status":"等待邮箱身份验证","note":"用户告知主题为“1”；正文和实际消息身份尚未核对。","bodyReceived":false,"bodyFullyRead":false,"questionsMapped":false,"majorClaimsReviewed":false,"integrated":false,"independentlyChecked":false},
+    {"id":"email-2","label":"邮件 2","status":"等待按顺序读取","note":"先完成邮件1的读取与初步分析，再处理本封。","bodyReceived":false,"bodyFullyRead":false,"questionsMapped":false,"majorClaimsReviewed":false,"integrated":false,"independentlyChecked":false},
+    {"id":"email-3","label":"邮件 3","status":"等待按顺序读取","note":"原始问题、AI回复和引用须分别辨认，不预填内容。","bodyReceived":false,"bodyFullyRead":false,"questionsMapped":false,"majorClaimsReviewed":false,"integrated":false,"independentlyChecked":false},
+    {"id":"email-4","label":"邮件 4","status":"等待按顺序读取","note":"未取得正文，不根据旧稿猜测本封的问题。","bodyReceived":false,"bodyFullyRead":false,"questionsMapped":false,"majorClaimsReviewed":false,"integrated":false,"independentlyChecked":false},
+    {"id":"email-5","label":"邮件 5","status":"等待按顺序读取","note":"后续须将问题连接到已有主题，无法合并的独立保留。","bodyReceived":false,"bodyFullyRead":false,"questionsMapped":false,"majorClaimsReviewed":false,"integrated":false,"independentlyChecked":false},
+    {"id":"email-6","label":"邮件 6","status":"等待按顺序读取","note":"本封分析后仍需回查前五封及Kimi，不能只回答最后一封。","bodyReceived":false,"bodyFullyRead":false,"questionsMapped":false,"majorClaimsReviewed":false,"integrated":false,"independentlyChecked":false}
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "world-in-me",
+  "title": "世界照见我",
+  "subtitle": "从旅途，到历史，到可以检查的一次行动",
+  "date": "2026-10-05",
+  "contentVersion": "2026-10-05-public-foundation",
+  "heroImages": [
+    "giza-pyramids",
+    "sarajevo-latin-bridge",
+    "peru-machu-picchu"
+  ],
+  "featuredBooks": [
+    "book-ag-01",
+    "book-ag-03",
+    "book-h-06",
+    "book-af-06"
+  ],
+  "intake": [
+    {
+      "id": "kimi-volumes",
+      "kind": "kimi",
+      "title": "Kimi三卷旧稿",
+      "status": "正文完整读取",
+      "note": "已取得三卷完整结构化内容，含66条编号问题和11篇重点问答。它是AI整理的二次材料，不是原始聊天，也不作为历史事实的独立证据。"
+    },
+    {
+      "id": "doubao-1",
+      "kind": "doubao",
+      "title": "豆包分享入口 1",
+      "status": "正文未取得",
+      "note": "已登记入口，但未取得可核对正文；不从标题、旧稿转述或补写内容推称已读。原始分享地址不公开。"
+    },
+    {
+      "id": "doubao-2",
+      "kind": "doubao",
+      "title": "豆包分享入口 2",
+      "status": "正文未取得",
+      "note": "已登记入口，但未取得可核对正文；不从标题、旧稿转述或补写内容推称已读。原始分享地址不公开。"
+    },
+    {
+      "id": "doubao-3",
+      "kind": "doubao",
+      "title": "豆包分享入口 3",
+      "status": "正文未取得",
+      "note": "已登记入口，但未取得可核对正文；不从标题、旧稿转述或补写内容推称已读。原始分享地址不公开。"
+    },
+    {
+      "id": "doubao-4",
+      "kind": "doubao",
+      "title": "豆包分享入口 4",
+      "status": "正文未取得",
+      "note": "已登记入口，但未取得可核对正文；不从标题、旧稿转述或补写内容推称已读。原始分享地址不公开。"
+    },
+    {
+      "id": "doubao-5",
+      "kind": "doubao",
+      "title": "豆包分享入口 5",
+      "status": "正文未取得",
+      "note": "已登记入口，但未取得可核对正文；不从标题、旧稿转述或补写内容推称已读。原始分享地址不公开。"
+    },
+    {
+      "id": "original-plan",
+      "kind": "journey-plan",
+      "title": "既有旅行原计划",
+      "status": "规划数据已核对",
+      "note": "20个主站的ID、顺序与经纬度按原规划保留，统一为planned。科托尔与波德戈里察不合并；不公开订单和精确交通信息，也不视为到访证明。"
+    },
+    {
+      "id": "public-research",
+      "kind": "public-research",
+      "title": "历史、非洲政治经济与行动研究包",
+      "status": "分项证据已整理",
+      "note": "逐来源保留正文、节选、摘要、目录和检索题录的不同范围；研究包存在不代表其中所有书籍被通读。2026年补充工作论文不混作2019年临床试验。"
+    },
+    {
+      "id": "method-materials",
+      "kind": "method",
+      "title": "方法与公共行动补充材料",
+      "status": "部分正文与目录已读取",
+      "note": "Dunning读取出版社简介和目录；OHA读取2018版导言及现行伦理声明；阿伦特读取Canovan导言而非原著；Ostrom官方讲座页可核，讲稿未完成可用文本核验。"
+    },
+    {
+      "id": "original-book-register",
+      "kind": "book-register",
+      "title": "旧稿20张书卡中的21部作品",
+      "status": "21部逐项登记，阅读范围分级",
+      "note": "原第12张卡内两部小说分开登记。旧书不会被新推荐静默替代；已核正式中译名与暂用名分开，目录和书目不冒充读完全书。"
+    },
+    {
+      "id": "forwarded-mail-status",
+      "kind": "supplement-status",
+      "title": "用户补充的六封Gmail长邮件",
+      "status": "正文尚未读取，等待登录后导入",
+      "note": "用户已转发6封Gmail长邮件；主任务等待账号登录后逐封导入，当前尚未读取Gmail正文。私人项目行为分析单独进行，本公共内容任务未参与，不提前给出最终个人结论。"
+    }
+  ],
+  "note": "六封邮件已转发，但Gmail正文尚未读取，等待登录后由主任务导入；私人项目分析单独进行。本次仅提供公共研究和条件性假说。",
+  "counts": {
+    "chapters": 13,
+    "chapterSections": 55,
+    "legacyQuestions": 66,
+    "additionalQuestions": 9,
+    "answers": 12,
+    "books": 54,
+    "originalWorks": 21,
+    "sources": 116,
+    "plannedStops": 20,
+    "mentionedCountries": 8,
+    "events": 19,
+    "photos": 20,
+    "practices": 5,
+    "videos": 3,
+    "corrections": 24
+  },
+  "files": [
+    "manifest.json",
+    "chapters.json",
+    "questions.json",
+    "answers.json",
+    "library.json",
+    "sources.json",
+    "journey.json",
+    "media.json",
+    "corrections.json",
+    "practices.json",
+    "videos.json",
+    "book-register.json"
+  ],
+  "readingPromise": "引用跟随具体判断；分清事实、作者解释与本网站的练习设计。没有足够原文就不制作短引或页码。",
+  "mapPromise": "现代资料照片不作为历史现场或用户到访证明；美洲照片不冒充非洲，国家示意点不冒充行程城市。",
+  "privacy": "不包含原始分享地址、邮箱地址、订单、私人路径或公司代码日志。私人材料不由本构建脚本读取。",
+  "quotePolicy": "只收录实际核对的极短原文与自译。按JSON与研究总稿重复展示累计，每一来源不超过25词；不伪造页码、译本或通读经历。"
+}
