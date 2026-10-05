@@ -1,4 +1,4 @@
-import { e, arrow, external, byId, bookCover, citations, sourceList, paragraphs, saveButton, notePanel, notFound, short } from '../render.mjs';
+import { e, arrow, external, sourceHref, byId, bookCover, citations, sourceList, paragraphs, saveButton, notePanel, notFound, short } from '../render.mjs';
 import { renderEmailIntake } from '../intake.mjs';
 
 const readingPairs = [
@@ -83,9 +83,10 @@ export function renderSource(ctx, id) {
     <section><h2>本次查阅范围</h2><p>${e(source.access)}</p>${source.yearNote ? `<p><strong>版本与年份：</strong>${e(source.yearNote)}</p>` : ''}${source.locator ? `<p><strong>原文定位：</strong>${e(source.locator)}</p>` : ''}${source.checked ? `<p>核对日期：${e(source.checked)}</p>` : ''}</section>
     <section><h2>它能支持什么</h2>${paragraphs(source.supports)}</section>
     <section class="counterpoint"><h2>它不能替我们证明什么</h2>${paragraphs(source.limits)}</section>
-    <a class="button" href="${external(source.url)}" target="_blank" rel="noopener noreferrer">打开原始资料 ${arrow}</a>
+    ${source.transportNotice ? `<div class="boundary-note"><strong>旧文献入口提示</strong><p>${e(source.transportNotice)}</p></div>` : ''}
+    <a class="button" href="${sourceHref(source.url)}" target="_blank" rel="noopener noreferrer">打开原始资料 ${arrow}</a>
     <p class="source-url">${e(source.url)}</p>
-    ${(source.verifiedReadUrls || []).filter(url => url !== source.url).length ? `<section><h2>实际核读的其他版本或页面</h2><ul class="alternate-sources">${source.verifiedReadUrls.filter(url => url !== source.url).map((url, index) => `<li><a href="${external(url)}" target="_blank" rel="noopener noreferrer">已核读入口 ${index + 2} ${arrow}</a><p>${e(url)}</p></li>`).join('')}</ul></section>` : ''}
+    ${(source.verifiedReadUrls || []).filter(url => url !== source.url).length ? `<section><h2>实际核读的其他版本或页面</h2><ul class="alternate-sources">${source.verifiedReadUrls.filter(url => url !== source.url).map((url, index) => `<li><a href="${sourceHref(url)}" target="_blank" rel="noopener noreferrer">已核读入口 ${index + 2} ${arrow}</a><p>${e(url)}${url.startsWith('http:') ? ' · HTTP旧文献，连接未加密' : ''}</p></li>`).join('')}</ul></section>` : ''}
     ${source.bibliographicUrl && source.bibliographicUrl !== source.url ? `<p class="source-origin"><a href="${external(source.bibliographicUrl)}" target="_blank" rel="noopener noreferrer">书目或机构主入口 ${arrow}</a> · 主入口和实际核读副本不是两份独立证据。</p>` : ''}
     ${relatedChapters.length || relatedBooks.length ? `<section><h2>在这部作品里，沿哪里继续</h2>${relatedChapters.map(chapter => `<a class="related-theme" href="#chapter/${e(chapter.id)}"><span>主题</span><strong>${e(chapter.title)}</strong>${arrow}</a>`).join('')}${relatedBooks.map(book => `<a class="related-theme" href="#book/${e(book.id)}"><span>原典</span><strong>${e(book.title)}</strong>${arrow}</a>`).join('')}</section>` : ''}
     <a class="text-link" href="#sources">← 回到全部出处</a></article></div>`;

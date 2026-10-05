@@ -4,6 +4,7 @@ export const arrow = '<span aria-hidden="true">↗</span>';
 export const short = (value, length = 110) => String(value || '').length > length ? String(value).slice(0, length) + '…' : String(value || '');
 export const paragraphs = value => String(value || '').split(/\n\s*\n/).filter(Boolean).map(p => `<p>${e(p)}</p>`).join('');
 export const external = url => /^https:\/\//.test(String(url || '')) ? e(url) : '#sources';
+export const sourceHref = url => /^https?:\/\//.test(String(url || '')) ? e(url) : '#sources';
 export const formatYear = year => Number(year) < 0 ? `公元前 ${Math.abs(Number(year))} 年` : `${e(year)} 年`;
 export const byId = (items, id) => (items || []).find(item => item.id === id);
 export const getBook = (ctx, id) => byId(ctx.books, id);
