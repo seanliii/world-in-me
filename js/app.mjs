@@ -185,6 +185,14 @@ document.addEventListener('click', event => {
     return;
   }
   if (target.dataset.mapZoom) return zoomMap(target.dataset.mapZoom);
+  if (target.dataset.bookPair) {
+    const [first, second] = target.dataset.bookPair.split('|');
+    if (!byId(ctx.books, first) || !byId(ctx.books, second)) return;
+    document.getElementById('book-a').value = first;
+    document.getElementById('book-b').value = second;
+    document.getElementById('book-comparison').innerHTML = renderComparison(ctx, first, second);
+    return;
+  }
   if (target.id === 'clear-question-filters') {
     document.getElementById('question-search').value = '';
     document.getElementById('question-theme').value = 'all';

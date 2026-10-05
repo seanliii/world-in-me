@@ -70,6 +70,7 @@ export function readingSections(ctx, sections) {
     <h2>${e(section.title)}</h2>${section.kind ? `<span class="evidence-label">${e(section.kind)}</span>` : ''}
     ${paragraphs(section.body)}
     ${section.quote ? `<blockquote lang="${e(section.quote.language || 'en')}"><p>${e(section.quote.original)}</p><p class="quote-translation">${e(section.quote.translation)}</p><footer>${e(section.quote.context || '原文短引；中文为本网站自译。')}</footer></blockquote>` : ''}
+    ${section.limits ? `<p class="section-limits"><strong>这一段的材料边界：</strong>${e(section.limits)}</p>` : ''}
     ${citations(ctx, section.refs || [])}
   </section>`).join('');
 }

@@ -35,6 +35,7 @@ export function renderAnswer(ctx, id) {
   const theme = getTheme(ctx, answer.theme);
   return `<div class="page-shell"><header class="article-heading"><div class="article-kicker">关键回答 <span>· ${e(answer.origin)}</span></div><h1>${e(answer.title)}</h1><p class="article-deck">${e(answer.summary)}</p><div class="article-meta"><span>答案可以修改，来源可以追查</span>${saveButton(ctx, id)}<a href="#answers" class="text-link">全部关键问题 ${arrow}</a></div></header>
     <div class="reading-layout">${tableOfContents(answer.sections)}<article class="reading-body">
+    ${id === 'myself' ? '<div class="boundary-note"><strong>具体个人分析不放进公开页面</strong><p>结合实际项目与协作事件的阶段研究，保存在本地私人研究包中。到“自己”页选择文件即可阅读；它不会随公共网页上传，也不冒充六封邮件已全部分析完成。</p><a href="#personal">打开个人研究室 →</a></div>' : ''}
     ${readingSections(ctx, answer.sections)}
     <section class="counterpoint" id="article-boundary"><h2>答案到这里，仍然有边界</h2>${paragraphs(answer.boundary || '这是根据当前已取得的材料提出的解释，不是关于所有人、所有国家或所有时代的定律。应继续用具体证据和个人实际情况修订。')}</section>
     <section class="practice-prompt" id="article-practice"><h2>把这个回答带回今天</h2>${paragraphs(answer.exercise)}</section>

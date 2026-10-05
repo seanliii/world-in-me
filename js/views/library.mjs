@@ -1,9 +1,15 @@
 import { e, arrow, external, byId, bookCover, citations, sourceList, paragraphs, saveButton, notePanel, notFound, short } from '../render.mjs';
 import { renderEmailIntake } from '../intake.mjs';
 
+const readingPairs = [
+  { label: '征服：地理条件与地方行动者', first: 'book-original-01', second: 'book-af-03' },
+  { label: '制度：训练身体与共同治理', first: 'book-ag-01', second: 'book-commons' },
+  { label: '自我：能力与未来感受', first: 'book-personal-02', second: 'book-personal-03' }
+];
+
 export function renderComparison(ctx, firstId, secondId) {
-  const first = byId(ctx.books, firstId) || ctx.books[0];
-  const second = byId(ctx.books, secondId) || ctx.books[1];
+  const first = byId(ctx.books, firstId || readingPairs[0].first) || ctx.books[0];
+  const second = byId(ctx.books, secondId || readingPairs[0].second) || ctx.books[1];
   if (!first || !second) return '';
   return [first, second].map(book => `<div class="compare-column"><span class="small-label">${e(book.author)}</span><h3>${e(book.title)}</h3><dl><dt>它让你看见什么</dt><dd>${e(book.thesis)}</dd><dt>怎样读，而非怎样背</dt><dd>${e(book.reading)}</dd><dt>局限与不能回答的事</dt><dd>${e(book.limits)}</dd></dl><a class="text-link" href="#book/${e(book.id)}">进入原典卡 ${arrow}</a></div>`).join('');
 }
@@ -23,7 +29,7 @@ export function renderLibrary(ctx) {
   return `<div class="page-shell"><header class="page-heading"><span class="small-label">原典书架</span><h1>不要只借来结论，<br>去看看它怎样长出来。</h1><p>研究著作与十一国文学并置。短引保留原词，中文为自译；未取得原文的书，只提供可核查书目与有边界的读法。</p></header>
     <div class="library-note"><strong>“原味阅读”的承诺</strong><p>不编引句、不捏页码、不把出版社简介说成通读全书。书目卡是文字设计，不是原版封面。文学入口包含原来的十一国，也加入埃塞俄比亚的对照阅读。</p></div>
     ${ctx.bookRegister?.works?.length ? `<details class="original-book-register"><summary>旧稿里的 ${ctx.bookRegister.works.length} 部书，都去了哪里？<span>查看逐本处理与阅读范围 ＋</span></summary><div><p>${e(ctx.bookRegister.note)}</p>${ctx.bookRegister.works.map(work => `<a href="#book/${e(work.libraryId)}"><span>${String(work.originalNumber).padStart(2, '0')}</span><div><strong>${e(work.title)}</strong><small>${e(work.siteAccess)}</small></div>${arrow}</a>`).join('')}<a class="text-link" href="data/book-register.json" download>下载逐本登记 ${arrow}</a></div></details>` : ''}
-    <section class="comparison"><div class="comparison-heading"><div><span class="small-label">给一个观点，找一个对手</span><h2>把两本书，放在一起读。</h2></div><div class="compare-controls"><label for="book-a">第一本<select id="book-a">${ctx.books.map((book, index) => `<option value="${e(book.id)}"${index === 0 ? ' selected' : ''}>${e(book.title)}</option>`).join('')}</select></label><span aria-hidden="true">×</span><label for="book-b">第二本<select id="book-b">${ctx.books.map((book, index) => `<option value="${e(book.id)}"${index === 1 ? ' selected' : ''}>${e(book.title)}</option>`).join('')}</select></label></div></div><div id="book-comparison">${renderComparison(ctx)}</div></section>
+    <section class="comparison"><div class="comparison-heading"><div><span class="small-label">给一个问题，换一副眼光</span><h2>把两本书，放在一起读。</h2></div><div class="compare-controls"><label for="book-a">第一本<select id="book-a">${ctx.books.map(book => `<option value="${e(book.id)}"${book.id === readingPairs[0].first ? ' selected' : ''}>${e(book.title)}</option>`).join('')}</select></label><span aria-hidden="true">×</span><label for="book-b">第二本<select id="book-b">${ctx.books.map(book => `<option value="${e(book.id)}"${book.id === readingPairs[0].second ? ' selected' : ''}>${e(book.title)}</option>`).join('')}</select></label></div></div><div class="reading-pairs">${readingPairs.filter(pair => byId(ctx.books, pair.first) && byId(ctx.books, pair.second)).map(pair => `<button class="quiet-button" data-book-pair="${e(pair.first)}|${e(pair.second)}">${e(pair.label)}</button>`).join('')}</div><p class="comparison-note">对读不意味着两本书必然对立。先看它们在解释哪个问题、采用什么尺度，再判断哪些部分能够互相校正。</p><div id="book-comparison">${renderComparison(ctx)}</div></section>
     <div class="filter-bar"><label for="book-search">找到一本书<input id="book-search" type="search" placeholder="书名、作者、原文标题或国家"></label><label for="book-kind">书架<select id="book-kind"><option value="all">全部书架</option>${[...new Set(ctx.books.map(book => book.kind))].map(kind => `<option>${e(kind)}</option>`).join('')}</select></label></div>
     <div class="book-grid" id="book-results">${bookCards(ctx)}</div>
     ${renderVideos(ctx)}</div>`;
@@ -35,6 +41,7 @@ export function renderBook(ctx, id) {
   return `<div class="page-shell"><header class="book-detail-heading"><div class="book-detail-cover">${bookCover(book, ctx.books.indexOf(book))}<small>文字书目卡，非原版封面</small></div><div><span class="small-label">${e(book.kind)}${book.country ? ` · ${e(book.country)}` : ''}</span><h1>${e(book.title)}</h1><p class="book-original" lang="en">${e(book.originalTitle)}</p><p class="book-author">${e(book.author)} · ${e(book.year || '')}</p><p>${e(book.why || book.thesis)}</p><div class="article-meta"><span class="access-label">${e(book.access)}</span>${saveButton(ctx, id)}</div>${book.translationNote ? `<p class="muted">${e(book.translationNote)}</p>` : ''}</div></header>
     <article class="reading-body standalone"><section><h2>它真正要处理的问题</h2>${paragraphs(book.thesis)}${citations(ctx, book.refs)}</section>
     ${book.quote?.original ? `<section><h2>停在原词上，读慢一点</h2><blockquote lang="${e(book.quote.language || 'en')}"><p>${e(book.quote.original)}</p><p class="quote-translation">${e(book.quote.translation)}</p><footer>${e(book.quote.context || '极短原文引用；中文为本网站自译。')}</footer></blockquote>${book.quote.explanation ? paragraphs(book.quote.explanation) : ''}${citations(ctx, book.quote.refs || book.refs)}</section>` : `<div class="boundary-note"><strong>这里没有假引文</strong><p>本次未取得足以核对的原著短引，故不制作“名言”。下面是公开可读范围内的导读，不替代阅读原书。</p></div>`}
+    ${book.closeReading ? `<section class="close-reading"><span class="small-label">不是简介，而是实际读过的片段</span><h2>停下来，读这一段。</h2><p class="close-reading-scope">${e(book.closeReadingScope)}</p>${paragraphs(book.closeReading)}${citations(ctx, book.closeReadingRefs || book.refs)}</section>` : ''}
     <section><h2>怎样进入这本书</h2>${paragraphs(book.reading)}</section>
     ${book.concepts?.length ? `<section><h2>保留几个原词</h2><dl class="concept-list">${book.concepts.map(concept => `<dt>${e(concept.term)}</dt><dd>${e(concept.meaning)}</dd>`).join('')}</dl></section>` : ''}
     <section class="counterpoint"><h2>它的局限，以及该读的反方</h2>${paragraphs(book.limits)}</section>
@@ -54,7 +61,7 @@ function semanticCoverage(ctx) {
   return `<section class="semantic-coverage"><h2>编号齐全，不等于每一问都答到了。</h2><p>${e(ctx.coverage.boundary)}</p><div class="email-summary">${['已有实质答复', '部分实答', '尚未实答'].map(status => `<span>${e(status)} <strong>${count(ctx.coverage.questions, status)}</strong></span>`).join('')}</div><details class="original-book-register"><summary>逐问查看：已经回答什么，还缺什么<span>原六十六问的独立语义回查 ＋</span></summary><div>${ctx.coverage.questions.map(item => {
     const question = byId(ctx.questions, item.id);
     return `<a href="#question/${e(item.id)}"><span>${String(item.originalNumber).padStart(2, '0')}</span><div><strong>${e(question?.title || item.id)}</strong><small>${e(item.status)} · ${e(item.remaining)}</small></div>${arrow}</a>`;
-  }).join('')}</div></details><details class="original-book-register"><summary>旧稿最后的十一项重点问答<span>区别正面解释、概念纠正与仍需补充的历史过程 ＋</span></summary><div>${ctx.coverage.answers.map(item => `<a href="#answer/${e(item.id)}"><span>${item.originalNumber}</span><div><strong>${e(byId(ctx.answers, item.id)?.title || item.id)}</strong><small>${e(item.status)} · ${e(item.answered)}<br>仍待补充：${e(item.remaining)}</small></div>${arrow}</a>`).join('')}</div></details></section>`;
+  }).join('')}</div></details><details class="original-book-register"><summary>旧稿最后的十一项重点问答<span>区别正面解释、概念纠正与仍需补充的历史过程 ＋</span></summary><div>${ctx.coverage.answers.map(item => `<a href="#answer/${e(item.id)}"><span>${item.originalNumber}</span><div><strong>${e(byId(ctx.answers, item.id)?.title || item.id)}</strong><small>${e(item.status)} · ${e(item.answered)}<br>仍待补充：${e(item.remaining)}</small></div>${arrow}</a>`).join('')}</div></details>${ctx.coverage.structure?.length ? `<details class="original-book-register"><summary>不止问答：旧稿其他部分也逐项登记<span>叙事、主题、原文与反方、画像、研究路线、五问与地图 ＋</span></summary><div>${ctx.coverage.structure.map((item, index) => `<a href="${e(item.target)}"><span>${index + 1}</span><div><strong>${e(item.group)} · ${e(item.label)}</strong><small>${e(item.status)}<br>${e(item.note)}</small></div>${arrow}</a>`).join('')}</div></details>` : ''}</section>`;
 }
 
 export function renderSources(ctx) {
@@ -72,8 +79,8 @@ export function renderSource(ctx, id) {
   if (!source) return notFound();
   const relatedChapters = ctx.chapters.filter(chapter => chapter.refs.includes(id));
   const relatedBooks = ctx.books.filter(book => book.refs.includes(id));
-  return `<div class="page-shell"><header class="article-heading"><div class="article-kicker">参考资料 ${ctx.sources.indexOf(source) + 1} <span>· ${e(source.kind)}</span></div><h1>${e(source.title)}</h1><p class="article-deck">${e(source.author)} · ${e(source.year || '')} · ${e(source.language)}</p><div class="article-meta"><span class="access-label">${e(source.access)}</span>${saveButton(ctx, id)}</div></header><article class="reading-body standalone">
-    <section><h2>本次查阅范围</h2><p>${e(source.access)}</p>${source.locator ? `<p><strong>原文定位：</strong>${e(source.locator)}</p>` : ''}${source.checked ? `<p>核对日期：${e(source.checked)}</p>` : ''}</section>
+  return `<div class="page-shell"><header class="article-heading"><div class="article-kicker">参考资料 ${ctx.sources.indexOf(source) + 1} <span>· ${e(source.kind)}</span></div><h1>${e(source.title)}</h1>${source.originalTitle ? `<p class="book-original">${e(source.originalTitle)}</p>` : ''}<p class="article-deck">${e(source.author)} · ${e(source.year || '')} · ${e(source.language)}</p><div class="article-meta"><span class="access-label">${e(source.access)}</span>${saveButton(ctx, id)}</div></header><article class="reading-body standalone">
+    <section><h2>本次查阅范围</h2><p>${e(source.access)}</p>${source.yearNote ? `<p><strong>版本与年份：</strong>${e(source.yearNote)}</p>` : ''}${source.locator ? `<p><strong>原文定位：</strong>${e(source.locator)}</p>` : ''}${source.checked ? `<p>核对日期：${e(source.checked)}</p>` : ''}</section>
     <section><h2>它能支持什么</h2>${paragraphs(source.supports)}</section>
     <section class="counterpoint"><h2>它不能替我们证明什么</h2>${paragraphs(source.limits)}</section>
     <a class="button" href="${external(source.url)}" target="_blank" rel="noopener noreferrer">打开原始资料 ${arrow}</a>

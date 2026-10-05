@@ -73,7 +73,7 @@
     "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453",
     "language": "英语",
     "kind": "博物馆署名美术史概述",
-    "access": "原研究核读命名段；内容实施阶段另实际读取同页关于1204年占领、1261年恢复统治与1453年君士坦丁堡被攻取的段落。未作逐年政治史校勘。",
+    "access": "原研究核读命名段；内容实施阶段另实际读取同页关于1204年占领、1261年恢复统治与1453年君士坦丁堡被攻取的段落。未作逐年政治史校勘。 增补核读：本轮新请求429，不重试；读取已保留同页原文的330年及名称/认同开篇。",
     "supports": "“拜占庭”是现代历史命名；该帝国的中世纪居民以罗马人自称。\n\n东罗马的制度延续与语言、宗教、疆域变化需要同时表述。\n\n同页记述1204年十字军占领君士坦丁堡、1261年恢复拜占庭统治，以及1453年奥斯曼攻取君士坦丁堡。",
     "limits": "艺术史总览不是逐年政治史校勘本；仅使用已核的命名和事件段落。不采用该页涉及其他末期城市的未经交叉核对日期，也不由帝国标签推断居民单一认同。",
     "checked": "2026-10-05",
@@ -94,7 +94,7 @@
     "url": "https://www.britishmuseum.org/sites/default/files/2019-10/TROY_Teachersguide_v.1.docx",
     "language": "英语",
     "kind": "博物馆展览教师指南",
-    "access": "公开DOCX原件已读取并提取正文；具体范围：展览介绍、神话、考古与故事接受史小节。",
+    "access": "公开DOCX原件已读取并提取正文；具体范围：展览介绍、神话、考古与故事接受史小节。 增补核读：本轮重新读取官方DOCX的考古小节；使用1600—1200 BCE分期及Hisarlik定位。",
     "supports": "特洛伊城址、考古发现和特洛伊战争神话必须区分。\n\n指南将遗址定位于安纳托利亚西北部，并明确考古材料不能直接证明史诗战争。",
     "limits": "教学指南不是发掘报告全集；不能据其表述宣称遗址没有任何毁坏层。\n\n指南中的英雄故事属于神话介绍，不能转换成已证实的人物行程。",
     "checked": "2026-10-05",
@@ -352,7 +352,7 @@
     "url": "https://www.ashmolean.org/article/the-odyssey-the-story-of-odysseus-in-the-ancient-world",
     "language": "英语",
     "kind": "大学博物馆策展人署名文章",
-    "access": "文章正文已读；具体范围：史诗介绍、器物例证、Bronze Age roots与口述传承说明。",
+    "access": "文章正文已读；具体范围：史诗介绍、器物例证、Bronze Age roots与口述传承说明。 增补核读：本轮只重读已保留的策展人原文：8世纪BCE、伊塔卡归返、叙事顺序与后世器物。",
     "supports": "《奥德赛》是归于荷马的史诗；它有口述传承与不同时代的改写、图像接受。\n\n某些青铜时代物质记忆与后世叙事可以同时存在，不能把整首诗当旅行日记。",
     "limits": "文中讲述的神话情节不是已认证事件；馆藏年代不自动等于故事人物的年代。\n\n文章属于策展概述，不足以裁定所有荷马成书问题或确认英雄路线。",
     "checked": "2026-10-05",
@@ -416,7 +416,7 @@
     "kind": "财政部制度说明",
     "access": "公开全文；实际读取网页",
     "supports": "区分UEMOA八国、CEMAC六国，以及另有本币的科摩罗。\n\n西非不再有50%储备集中义务；中非与科摩罗另有安排；操作账户开在相应央行名下。\n\n西非保留欧元固定汇率与法国保证。",
-    "limits": "页面标注2021-05-25；其中称BCEAO自2020年1月不再有操作账户，与S02的实际关账时间冲突。实际关闭采用S02的2021年4月。文中旧利率不作为2026年现状；财政部对制度稳定性的评价是当事方立场。",
+    "limits": "页面标注2021-05-25；其中称BCEAO自2020年1月不再有操作账户，与AF-S02的实际关账时间冲突。实际关闭采用AF-S02的2021年4月。文中旧利率不作为2026年现状；财政部对制度稳定性的评价是当事方立场。",
     "checked": "2026-10-05",
     "bibliographicUrl": "https://www.tresor.economie.gouv.fr/tresor-international/la-zone-franc/les-principes-et-modalites-de-fonctionnement-de-la-cooperation-monetaire",
     "verifiedReadUrls": [
@@ -762,7 +762,7 @@
     "kind": "货币政治经济学研究书／出版社介绍",
     "access": "通过浏览器实际读取简介、目录、出版信息；未读全书",
     "supports": "从货币主权与殖民延续角度研究CFA，提供与官方稳定性叙述对读的批判视角。",
-    "limits": "该英译版出版于2021年2月，早于S02记录的4月实际关账；不能用本书概述替代后续政策事实。目录标题不是对法国逐笔审批或2023冻结特定金额的证据。",
+    "limits": "该英译版出版于2021年2月，早于AF-S02记录的4月实际关账；不能用本书概述替代后续政策事实。目录标题不是对法国逐笔审批或2023冻结特定金额的证据。",
     "checked": "2026-10-05",
     "bibliographicUrl": "https://www.plutobooks.com/product/africas-last-colonial-currency/",
     "verifiedReadUrls": [
@@ -2015,6 +2015,673 @@
     "access": "已读出版方公开前言；不是全书通读。核读范围：公开Foreword全文。",
     "supports": "已读Knopf／Random House公开前言，作者讨论人如何想象未来自我，并明确本书不是教人如何幸福的操作手册。适合与PS07的后续修正并读。",
     "limits": "只读公开前言，不是全书通读。正文证据由PS07承担；不能把2006年的通俗叙述当作其后研究都已一致确认的结论。没有评估中文译本。 只读前言，不等于整书通读；出版社标明2006版权及Knopf授权节选。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CU-01",
+    "title": "秘鲁亚马逊仪式传播的批判性民族史：歌唱、师承与地方差异",
+    "originalTitle": "Tracing Hallucinations: Contributing to a Critical Ethnohistory of Ayahuasca Usage in the Peruvian Amazon",
+    "author": "Bernd Brabec de Mori",
+    "year": 2011,
+    "url": "https://static.uni-graz.at/fileadmin/gewi-zentren/Sysmus/Dokumente/bbdm/2011_TraHa.pdf",
+    "language": "英语",
+    "kind": "民族音乐学者结合本人田野记录与历史文献的研究章节；大学公开存档",
+    "access": "已取得格拉茨大学存档 PDF，实际核读指定正文及录音实例说明；不是通读整部论文集。PDF 共十五页，其中部分页面为双页扫描。",
+    "supports": "把乌卡亚利地区 Shipibo-Konibo 的歌唱、师承、社会生活与具体实践者放在讨论中心。\n\nRoberto 的 Kukama 师承、Alfonso 的另一种演唱说明及各实践者对个人曲目的区分。\n\n当地歌唱与生活知识不应全部缩减成一种饮品；存在不同场景和不以该饮品为必要条件的歌唱实践。",
+    "limits": "作者关于传播年代的重建带有假说性质；本包不采纳其二〇一一年关于史前证据的判断作为今日考古学结论。\n\n不是 Shipibo-Konibo 全体成员的共同声明，也不能代表整个亚马逊。\n\n关于歌唱有效性的说法属于当地解释或作者的记录，不是本包验证的临床结果。",
+    "verifiedReadUrls": [
+      "https://static.uni-graz.at/fileadmin/gewi-zentren/Sysmus/Dokumente/bbdm/2011_TraHa.pdf"
+    ],
+    "locator": "印刷页25—27：非专门从业者与生活背景；35—36：歌唱类别及不同场景；40—41：图6、图8与实践者说明；42—43：个人差异、传播重建及其限度。图6记载2001年2月19日的 Roberto 录音，图8记载2004年8月15日的 Alfonso 示范。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CU-02",
+    "title": "从顾客到求助者：Shipibo 实践者怎样回应仪式旅游商品化",
+    "originalTitle": "« Ayahuasca sans ayahuasca » Du clientélisme chamanique à une patientèle en devenir",
+    "author": "José López Sánchez；Silvia Mesturini Cappo",
+    "year": 2025,
+    "url": "https://drogues-sante-societe.ca/ayahuasca-sans-ayahuasca-du-clientelisme-chamanique-a-une-patientele-en-devenir/",
+    "language": "法语正文；另有英、西语摘要",
+    "kind": "研究期刊 Drogues, santé et société 23(1) 的原始合作民族志论文；具名 Shipibo 实践者参与署名",
+    "access": "已读取期刊公开正文，重点是导论、共同写作说明、从业经历与游客期待、学习关系段和结论，不只使用摘要。文内称合作项目支持期为2019年9月至2023年2月；不是本报告自做田野。",
+    "supports": "José 在 Roaboya 的祖父及社群认可的实践者关系中学习，而不是通过一次体验自动获得资格。\n\n其从受雇到自行经营接待机构的经历，使收入与决定权可以具体区分。\n\n文章实际分析顾客期待、国际化服务形式、地方劳动分工、对长者认可的替代压力，以及实践者重设服务关系的尝试。\n\n收费本身不是判断传统存亡的充分标准；关键还包括谁有权定义工作、拒绝要求及承担持续责任。",
+    "limits": "共同作者本人也是文中接待机构的经营者；其立场重要，但不能当作独立经营审计或所有员工、邻村、女性实践者的意见。\n\n对更广泛外国经营者及劳动分工的概括部分来自文章引用的既有研究；本包没有独立重做这些田野。\n\n未提供可供本包计算的当地净收益分配或长期比较数据，不声称所有居民受益。\n\n文中对治疗的解释是实践者立场，不用它认证疗效或推荐任何机构。",
+    "verifiedReadUrls": [
+      "https://drogues-sante-societe.ca/ayahuasca-sans-ayahuasca-du-clientelisme-chamanique-a-une-patientele-en-devenir/"
+    ],
+    "locator": "2025年4月、23卷1期；导论中的 Roaboya 师承与受雇转自营段；接续的小节中回忆传统分工、外国客群及报酬的段落；学习关系与长期责任段；结论中的顾客期待和拒绝权讨论。公开 HTML 无稳定印刷页码，以这些段落定位，不编造页码。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CU-03",
+    "title": "萨宾娜的生活与仪式访谈：一份需要辨认转述层次的早期记录",
+    "originalTitle": "La santa de los hongos. Vida y misterio de María Sabina",
+    "author": "Fernando Benítez；受访者 María Sabina；文中说明经 Herlinda 翻译",
+    "year": 1963,
+    "url": "https://mia.revistadelauniversidad.mx/downloads/fb4b0595-aa37-4943-8073-7e83b087d258/rum-SEP.1963-art%C3%ADculos-la-santa-de-los-hongos-vida-y-misterios-de-maria-sabina.pdf",
+    "language": "西班牙语；包含由马萨特克语转述的访谈",
+    "kind": "采访者的一手现场记录，刊于墨西哥国立自治大学文化期刊",
+    "access": "已取得六页扫描件，核读印刷页15—17的访谈与语言讨论；另以页面图像复核第15页的标题、署名、翻译声明。不把后文的泛化解释当作萨宾娜本人的话。",
+    "supports": "在家计、寡居、家庭暴力、声誉和具体求助关系中理解这位女性实践者，而非把她塑造成脱离生活的神秘符号。\n\n访谈中基督教圣者、知识之书等叙述与当地仪式并存。\n\n作者明确承认语言中介限制；其标题和圣化语气本身也是外来传播框架。",
+    "limits": "不是未经编辑的马萨特克语逐字稿，也不是萨宾娜亲笔著作；采访者的评价与她的答话必须分开。\n\n其对翻译者能力的评价只是采访者立场，不能据此认定唯一正确的马萨特克语解释。\n\n异象、占卜和治病叙述只用于说明人物的意义世界，不证明秘术或疗效。\n\n不靠这份材料解决所有亲属姓名、生平日期或墨西哥仪式史。",
+    "verifiedReadUrls": [
+      "https://mia.revistadelauniversidad.mx/downloads/fb4b0595-aa37-4943-8073-7e83b087d258/rum-SEP.1963-art%C3%ADculos-la-santa-de-los-hongos-vida-y-misterios-de-maria-sabina.pdf"
+    ],
+    "locator": "《Revista de la Universidad de México》1963年9月，印刷页15—17：开篇三次访谈及翻译声明、女性生活叙述、知识之书、唱诵和翻译困难。PDF第1—3页。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CU-04",
+    "title": "《萨宾娜的生活》出版社样张：传播者自述与后来序言的不同声音",
+    "originalTitle": "Vida de María Sabina. La sabia de los hongos",
+    "author": "Álvaro Estrada（全书整理者）；本次所读序文作者为 Julio Glockner、R. Gordon Wasson",
+    "year": 1977,
+    "url": "https://sigloxxieditores.com.mx/wp-content/uploads/2024/02/9786070312380.pdf",
+    "language": "西班牙语",
+    "kind": "Siglo XXI Editores 合法公开样张：后人序言及事件参与者的序文；不是已读全书口述正文",
+    "access": "实际读取十四页样张中的目录、Glockner序言印刷页13—17、Wasson序文23—25。目录显示生活口述主文从41页开始，样张未提供该主文；不声称读了它。",
+    "supports": "Wasson本人对1955年访问、1957年出版传播，以及1958年录音至1974年出版工程的回顾。\n\nGlockner转引的萨宾娜对外来者目的与地方售卖变化的批评，必须保留转引身份。\n\n原有家庭仪式变成新闻、唱片和学术出版后，谁有权解释和代表它的问题。\n\n序言记述名声传播后出现的不实指控及生活压力；只按序言归属表述。",
+    "limits": "Glockner序言不是萨宾娜自述原稿；Wasson序文也包含参与者的自我辩护，不能当作中立裁决。\n\n本包不接受序言中关于全部萨满、精神世界或治疗效果的概括为已验证事实。\n\n没有取得录音授权合同、版税账册或社区同意程序，不能裁定全部知识的法律归属、收入分配或具体侵权。\n\n未将同书不同人的段落拼成萨宾娜的一段连续原话。",
+    "verifiedReadUrls": [
+      "https://sigloxxieditores.com.mx/wp-content/uploads/2024/02/9786070312380.pdf"
+    ],
+    "locator": "目录注明口述主文始于41页；Glockner署名序言13—17页，尤其16—17页的转引及解释；Wasson序文23—25页，尤其传播计划、出版工程和语言隔阂。十四页PDF中的正文页码为本定位依据。",
+    "yearNote": "1977为作品初版年；本次公开样张没有可核的完整版权页，不把网址中的2024当作该版本出版年。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CU-05",
+    "title": "萨宾娜录音的制作说明、转写与翻译限制",
+    "originalTitle": "Mushroom Ceremony of the Mazatec Indians of Mexico",
+    "author": "María Sabina（表演者）；V. P. 与 R. G. Wasson（录音、制作）；Eunice V. Pike、Sarah C. Gudschinsky（语言说明）；Smithsonian Folkways（现存档机构）",
+    "year": 1957,
+    "url": "https://folkways.si.edu/maria-sabina/mushroom-ceremony-of-the-mazatec-indians-of-mexico/american-indian-sacred/music/album/smithsonian",
+    "language": "英语说明；马萨特克语转写与英语对照",
+    "kind": "官方文化机构保存的原始录音出版物及参与者制作文献",
+    "access": "已读官方专辑页、八页公开说明册中的封面与印刷页2—4；复核1956年录音说明图像。没有试听全盘，未声称独立听辨或翻译马萨特克语。",
+    "supports": "录于1956年7月21日的材料与1957年发行信息；和CU-04提到的1958年另一场录音、1974年出版项目分开。\n\n录音者本人承认家庭紧张、外国在场者与设备会影响现场，反对把录音当无干预的透明窗口。\n\n语言说明明确讨论声调、上下文猜译和缺失；转写呈现基督教称谓与当地表达并存。\n\n表演者、录音者、译者与发行机构分处不同位置，可以讨论传播中的代表权。",
+    "limits": "制作说明中的成功或失败是录音者的评价，不是本报告对仪式真假的判定。\n\n已读英文说明及对照版式，不等于掌握马萨特克语，更不等于取得秘密知识。\n\n版权署名不能替代对同意范围或收益分配的调查；不据此宣称萨宾娜从未得到报酬。\n\n不摘录唱词，不提供重演仪式的说明。",
+    "verifiedReadUrls": [
+      "https://folkways.si.edu/maria-sabina/mushroom-ceremony-of-the-mazatec-indians-of-mexico/american-indian-sacred/music/album/smithsonian",
+      "https://folkways-media.si.edu/docs/folkways/artwork/FW08975.pdf"
+    ],
+    "locator": "官方专辑号FW08975／FR8975；网页的录音日期、发行年份、制作人员；说明册PDF第2页封面，第3页即印刷页2的Wasson说明，第4页即印刷页3的语言与翻译说明，第5页即印刷页4的对照转写。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CU-06",
+    "title": "《奥德赛》第九卷：食莲人、归乡愿望与强制带回",
+    "originalTitle": "Ὀδύσσεια, 9.82–104",
+    "author": "Homer（荷马）；本次文本为A. T. Murray所用希腊文版本，Perseus公开呈现",
+    "year": 1919,
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Hom.+Od.+9.94&fromdoc=Perseus%3Atext%3A1999.01.0135",
+    "language": "古希腊语",
+    "kind": "大学古典文献库公开原典",
+    "access": "实际读取希腊文9.82—104行；网页承载到115行，分析只取食莲人段。极短引文按希腊文自译，不冒充正式中译本。",
+    "supports": "食莲人并未被叙述成蓄意杀害同伴；核心危机是同伴不愿回报、返航并遗忘归乡。\n\n奥德修斯把哭泣同伴强行带回并绑在船上；归乡故事同时涉及谁有权决定继续旅程。\n\n可作记忆、欲望与共同目的的叙事比较，不能作实际物质的药理分类。",
+    "limits": "不鉴定莲果的现实植物种类，也不把忘忧果当作原文中已经确定的专有药物名称。\n\n这一段由奥德修斯回述，不能把他的行动说明视为每名同伴的独立证词。\n\n不是治疗、安全、依赖性或神经机制证据。",
+    "verifiedReadUrls": [
+      "https://www.perseus.tufts.edu/hopper/text?doc=Hom.+Od.+9.94&fromdoc=Perseus%3Atext%3A1999.01.0135"
+    ],
+    "locator": "9.91—93：食莲人的相待；9.94—97：不愿回报、返回与忘却归乡；9.98—99：哭泣、强制带回与绑住；9.100—104：催促其余船员离开。短引位于9.97。",
+    "yearNote": "1919是本次网页所列版本的出版年，不是古代史诗的创作年。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CU-07",
+    "title": "蒙古祭祀圣地的传统实践：长者、地方与传承",
+    "originalTitle": "Mongolian traditional practices of worshipping the sacred sites",
+    "author": "UNESCO非物质文化遗产项目；蒙古国申报材料的官方介绍",
+    "year": 2017,
+    "url": "https://ich.unesco.org/en/USL/mongolian-traditional-practices-of-worshipping-the-sacred-sites-00871",
+    "language": "英语",
+    "kind": "官方文化机构的具名遗产项目介绍",
+    "access": "通过只读浏览器读取申报名录00871的项目正文与2017年列入信息；未读取全部社区同意附件，也没有观看全部视频。",
+    "supports": "以特定的蒙古祭圣地实践，而非整个草原宗教，作为比较单位。\n\n长者教导年轻人参与和行为规范；地方神圣关系、共同体及环境联系是官方描述的重点。\n\n材料提到禁制历史、城市迁移、知识持有者减少及采矿压力，显示传承依赖现实社会条件。",
+    "limits": "官方遗产介绍不等于独立田野评估；其中和谐、团结的表述不能直接当作测量结果。\n\n不是蒙古全部萨满实践，也不是内亚全部宗教；本次不展开具体教派及佛教关系史。\n\n不能据该条目断言仪式的全部技术、有无某种物质，或与亚马逊存在传播谱系。",
+    "verifiedReadUrls": [
+      "https://ich.unesco.org/en/USL/mongolian-traditional-practices-of-worshipping-the-sacred-sites-00871"
+    ],
+    "locator": "项目00871，2017年列入急需保护名录；主文关于自然环境中的不可见存在、长者传授、禁制与复兴挑战的连续段落。未把网页后来的周期报告日期当作该传统起源年。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CU-08",
+    "title": "《耻》：教师邀学生到家中的连续节选",
+    "originalTitle": "Disgrace",
+    "author": "J. M. Coetzee",
+    "year": 2000,
+    "url": "https://www.penguinrandomhouse.ca/books/29253/disgrace-by-jm-coetzee/9781784879051/excerpt",
+    "language": "英语原作",
+    "kind": "Penguin Random House Canada出版社合法公开小说节选",
+    "access": "用只读浏览器实际读取完整公开节选：从失去周四约会后的空虚开始，经过花园相遇、晚餐、艺术谈话与挽留，到Melanie离开结束。不是简介，也不是全书。",
+    "supports": "第三人称贴近男性教师视野，其推测与学生实际回答之间的距离。\n\n荒漠、艺术仪式、文化权威与占有语言的结合。\n\n教师与学生的地位差别怎样进入看似私人的邀约。",
+    "limits": "节选没有印刷页码或章节编号，不编造章节定位。\n\n不涉及未读的后续事件、其他主要人物或全书结局。\n\n人物内心话不等于作者立场，更不代表南非民意。",
+    "verifiedReadUrls": [
+      "https://www.penguinrandomhouse.ca/books/29253/disgrace-by-jm-coetzee/9781784879051/excerpt"
+    ],
+    "locator": "出版社页面正文、版权行之前的连续节选；细读位置为开头的空虚比喻、葡萄酒和音乐后的师生身份提醒、文学喜好对话、要求留下至学生离开的末段。",
+    "yearNote": "年份按本次出版社节选末尾的版权行；不是用来改写作品初版年或现有书架版本年。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CU-09",
+    "title": "《影子国王》：1974年车站与照片盒的开篇",
+    "originalTitle": "The Shadow King",
+    "author": "Maaza Mengiste",
+    "year": 2019,
+    "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/4170/the-shadow-king",
+    "language": "英语原作；节选夹有意大利语和人物对词语的解释",
+    "kind": "W. W. Norton明确授权BookBrowse刊载的小说节选；另核Canongate出版社书页",
+    "access": "实际读取授权节选第1、2网页的全部正文；两页末尾均明确标注W. W. Norton许可。不是出版社域名上的正文，但不是来路不明的转载；Canongate页仅用于版本核对。",
+    "supports": "开篇以1974年Hirut在亚的斯亚贝巴车站等人、持有照片盒，连接被压下的过去。\n\n从贴近Hirut的第三人称转向要求被记住的复数声音。\n\n照片、标签与交换怎样呈现被拍摄者处境，以及人物不愿观看自身照片的抵抗。",
+    "limits": "只读开篇两网页，未通读小说，也未读到完整战争情节与结局。\n\n不能把小说里的照片或女性姓名名单当作独立历史档案。\n\n若后续发布规则只允许出版社自身域名，而不接受出版方明示授权转载，应保留此访问分类，不能改称出版社直载。\n\n不从人物经历推断本站用户的记忆、身份或心理状况。",
+    "verifiedReadUrls": [
+      "https://www.bookbrowse.com/excerpts/index.cfm/book_number/4170/the-shadow-king",
+      "https://www.bookbrowse.com/excerpts/index.cfm/book_number/4170/page_number/2/the-shadow-king",
+      "https://canongate.co.uk/books/3325-the-shadow-king/"
+    ],
+    "locator": "授权节选网页1的1974年标题至车站大门关闭；网页2的人物自我命名、来信、年轻士兵、开盒与最后照片段。这里只说网页1、2，不冒充纸本第1、2页。",
+    "yearNote": "Canongate出版社页列2019年电子版；本次BookBrowse节选标注2020版权。区分作品出版信息和所读节选版权行。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CG-S01",
+    "title": "上塞内加尔：贸易如何转向殖民征服",
+    "originalTitle": "De la traite à la conquête coloniale dans le Haut Sénégal : l'État soninke du Gajaaga de 1818 à 1858",
+    "author": "Monique Chastanet",
+    "year": 1987,
+    "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_5/b_fdi_31-32/34962.pdf",
+    "language": "fr",
+    "kind": "历史研究论文／IRD机构文献库扫描本",
+    "access": "公开23页PDF；实际读取导言、商业扩张、1850年代进攻和当地政治回应等正文选段，不是只读网页摘要。",
+    "supports": "法国以巴凯尔为内陆贸易支点，争取阿拉伯胶、黄金等贸易，并试图把商队从英属冈比亚引向塞内加尔河；1824年加拉姆公司获得季节性贸易垄断。\n\n商人要求更强的军事保护；费代尔布1854年底任总督，1855年发动进攻；1858年8月19日条约包含割地与保护关系。\n\n恩贾伊家族、巴西利贵族、穆斯林商人和支持或反对欧马尔·塔尔的人群各有利益，不能把当地人写成一个阵营。",
+    "limits": "这是加贾加／上塞内加尔的区域研究，不能代表全非洲。刊载论文由1976年学位研究缩写而来，不等于本轮通读该学位论文。导言将设站写为1818年，正文另写1820年建堡；本包不把两者硬并为同一事件，采用1824年公司与1855—1858年征服这些明确节点。",
+    "verifiedReadUrls": [
+      "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_5/b_fdi_31-32/34962.pdf"
+    ],
+    "locator": "PDF第2页导言；第13页商业资源、冈比亚竞争和Compagnie de Galam；第18页商人要求、1854任命及1855进攻；第21页不同当地群体对El Haaj Umar的反应。年份另核IRD书目fdi:34962。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CG-S02",
+    "title": "法属西非的行政、财政与公共投入",
+    "originalTitle": "History Matters: The Long-Term Impact of Colonial Public Investments in French West Africa",
+    "author": "Elise Huillery",
+    "year": 2009,
+    "url": "https://sciencespo.hal.science/hal-01052798/file/app.1.2.176.pdf",
+    "language": "en",
+    "kind": "同行评议经济史研究／American Economic Journal: Applied Economics／作者机构开放全文",
+    "access": "公开43页PDF；实际读取历史背景、行政财政、研究设计及结论相关正文；没有复算数据和统计表。",
+    "supports": "1895年建立法属西非联邦，1904年联邦政府有效运作；总督、殖民地长官、区官和非洲地方首领构成行政层次。\n\n区官规定税收和劳力、兵员征集要求，地方首领协助执行；正式集权并不消除区官的实际裁量。\n\n20世纪初的本土、联邦、殖民地地方预算有不同税源和职责；早期教育、医疗和基础设施投入与后来地方差异存在持续联系。",
+    "limits": "财政描述及税收统计主要对应1907—1930年的样本，不能覆盖全部殖民时期，尤其不能抹去二战后本土投入变化。文章把法国人“首次到来”压缩成1854年，早期贸易据点史不采用该句，改用CG-S01。公共投资效果不是对殖民统治整体收益的计算。",
+    "verifiedReadUrls": [
+      "https://sciencespo.hal.science/hal-01052798/file/app.1.2.176.pdf"
+    ],
+    "locator": "第I节A—B（PDF第6—8页），特别是第7页三层预算与地方首领职责；第IV—VI节相关论证和结论。PDF页序含HAL封面，勿与期刊印刷页混同。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CG-S03",
+    "title": "西非从帝国公民权走向自治与独立",
+    "originalTitle": "The Politics of Citizenship in Colonial and Postcolonial Africa",
+    "author": "Frederick Cooper",
+    "year": 2005,
+    "url": "https://citizenshiprightsafrica.org/wp-content/uploads/2021/04/Cooper_Politics-of-Citizenship-in-Colonial-and-Postcolonial-Africa_StudiaAfricana2005.pdf",
+    "language": "en",
+    "kind": "历史学者研究论文／Studia Africana扫描本",
+    "access": "公开10页扫描PDF；实际读取法属非洲公民权及自治、独立相关正文，不是此前AF-S17的书目简介。",
+    "supports": "1946年拉明·盖耶推动公民权立法；取消特殊臣民司法与强迫劳动的法律措施，不等于实际平等已完成。\n\n塞内加尔罢工、工会、青年团体和桑戈尔等政治人物，把公民权变成工资、福利和政治权利要求。\n\n1956年改革、1957年选举和领地预算权改变了政治竞争；法国对平等承诺的成本判断及非洲政治人物的选择共同推动独立，联邦方案并非一开始就注定失败。",
+    "limits": "采用作者关于公民权、社会运动和财政责任的解释，不把它当作唯一退出原因，也不外推成全非洲无战争的和平移交。未通读AF-S17所列整部专著。扫描文本有OCR错误，本包不用其铁路罢工年份或未核数字。",
+    "verifiedReadUrls": [
+      "https://citizenshiprightsafrica.org/wp-content/uploads/2021/04/Cooper_Politics-of-Citizenship-in-Colonial-and-Postcolonial-Africa_StudiaAfricana2005.pdf"
+    ],
+    "locator": "PDF第3—5页，Imperial Citizenship in French Africa：Lamine Gueye、1946年总罢工、1956年法律、1957年选举、Senghor及马里联邦失败段。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CG-S04",
+    "title": "法国为什么入侵阿尔及尔：1827—1830年的国内与国际条件",
+    "originalTitle": "The Congress System and the French Invasion of Algiers, 1827–1830",
+    "author": "Erik de Lange",
+    "year": 2021,
+    "url": "https://www.cambridge.org/core/journals/historical-journal/article/congress-system-and-the-french-invasion-of-algiers-18271830/8D8850D73C82096E86F5DF097B62F5CB",
+    "language": "en",
+    "kind": "同行评议历史论文／The Historical Journal／Cambridge University Press开放全文",
+    "access": "实际读取出版社23页完整PDF中的争端起因、法国政局、外交筹划及结论等正文；不是仅凭摘要。",
+    "supports": "1827年侯赛因迪伊与法国领事德瓦尔围绕债务、特许权益及海上冲突发生争执，双方对击打事件有不同叙述。\n\n波利尼亚克认为军事胜利有助于王朝声望；法国扩张愿望又受欧洲秩序限制，转向阿尔及尔。\n\n打击北非私掠等共同安全话语及列强协商，为法国远征提供国际条件；竞争不是全部机制。",
+    "limits": "作者强调国际协商，是对单一国内政治解释的补充，不表示列强意见完全一致，更不是对征服的正当化。作者使用外交档案；本任务读的是论文，未直接调阅其引用的档案原件。",
+    "verifiedReadUrls": [
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8D8850D73C82096E86F5DF097B62F5CB/S0018246X2000062Xa.pdf/congress_system_and_the_french_invasion_of_algiers_18271830.pdf"
+    ],
+    "locator": "PDF第4—5页领事争端与封锁；第9—10页军事胜利、Polignac与欧洲领土计划；后半部多边外交及结论。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CG-S05",
+    "title": "阿尔及利亚定居殖民的分期与退出",
+    "originalTitle": "Introduction: Settler Colonialism and French Algeria",
+    "author": "Fiona Barclay; Charlotte Chopin; Martin Evans",
+    "year": 2018,
+    "url": "https://storre.stir.ac.uk/handle/1893/25105",
+    "language": "en",
+    "kind": "同行评议论文的作者接收稿／Settler Colonial Studies／斯特灵大学仓储",
+    "access": "实际读取27页接收稿中的历史分期、地方权力、身份制度和1954—1962年战争退出正文；未把摘要当正文。",
+    "supports": "1830—1848年的军事占领与阿卜杜·卡迪尔的抵抗；1848年的行政整合不等于所有居民获得平等权利。\n\n土地占有、移民的公民权和当地多数人的特殊法律地位，以及定居者机构与巴黎之间的矛盾。\n\n1954年FLN起事、法国对继续控制的战略考虑、1961年前后的财政与外交压力，以及1962年7月独立和定居者离去。",
+    "limits": "仓储列期刊刊载年2018；采用的是接收稿，不能套用期刊排版页码。研究强调定居殖民的内部差异；本包不用文中伤亡估计，也不将FLN视为所有阿尔及利亚人的唯一声音。未单独核读埃维昂协议原件，因此不添加协议条款或精确签署日。",
+    "verifiedReadUrls": [
+      "https://storre.stir.ac.uk/handle/1893/25105",
+      "https://storre.stir.ac.uk/bitstream/1893/25105/1/BARCLAY%20CHOPIN%20EVANS%20INTRODUCTION%20%28002%29.pdf"
+    ],
+    "locator": "接收稿PDF第5—7页权力、土地与身份；第9—12页1830—1900年分期；第13—18页民族主义、1954年战争及1961—1962年退出。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CG-S06",
+    "title": "英属印度的直接辖区与土邦：政治和财政边界",
+    "originalTitle": "Direct versus Indirect Colonial Rule in India: Long-term Consequences",
+    "author": "Lakshmi Iyer",
+    "year": 2008,
+    "url": "https://www.hbs.edu/ris/Publication%20Files/05-041_1feff996-f50e-4e5a-b057-e0119cd19a62.pdf",
+    "language": "en",
+    "kind": "研究工作论文／Harvard Business School 05-041，2008年10月修订稿",
+    "access": "公开59页PDF；实际读取第2节殖民制度史、第3节土地税及相关制度讨论；未复算作者长期结果估计。",
+    "supports": "公司统治、兼并政策、1857年起义、1858年转归王冠及此后保留干预权但不继续普遍兼并的政策。\n\n直接统治的British India与土邦不同：土邦保留不同程度的内部行政、税收与司法制度，防务和对外关系受英国控制。\n\n土邦贡赋义务随条约和政体而异；土地税在直接辖区和土邦都重要；土地税通过地主征收与领土由土邦统治不是同一分类。",
+    "limits": "明确采用2008年工作稿，不能标成已经阅读2010年发表版。文中的长期比较不能回答完全没有殖民统治的反事实，也不能推出所有土邦优于所有直接辖区。不使用其税负或发展效果数值。本包把文中的殖民术语“兵变”写成起义，保留参与者差异。",
+    "verifiedReadUrls": [
+      "https://www.hbs.edu/ris/Publication%20Files/05-041_1feff996-f50e-4e5a-b057-e0119cd19a62.pdf"
+    ],
+    "locator": "PDF第7—11页，第2.1—2.3节；第13—14页土地税与贡赋讨论。重点为第9页条约义务、第10—11页1857—1858年转变。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CG-S07",
+    "title": "东印度公司怎样把孟加拉土地税变成国家财源",
+    "originalTitle": "The Permanent Settlement and the Emergence of a British State in Late-eighteenth-century India",
+    "author": "Tirthankar Roy",
+    "year": 2023,
+    "url": "https://www.lse.ac.uk/Economic-History/Assets/Documents/WorkingPapers/Economic-History/2023/WP355.pdf",
+    "language": "en",
+    "kind": "经济史研究工作论文／London School of Economics，No.355",
+    "access": "公开32页PDF；实际读取公司财政形成、1793年制度内容、不同方案争论及相关解释正文。",
+    "supports": "公司军事优势、土地税和常备军经费相互连接；1757年后、尤其1765年以后，公司利用孟加拉税款支持商业投资。\n\n1793年永久地税制度把柴明达尔产权与固定对政府纳税义务联系起来，产权可继承、转让和抵押。\n\n制度是公司与当地有势力者之间长期试验、冲突和妥协的结果，不是照搬一个现代企业组织图。",
+    "limits": "主要解释18世纪后期孟加拉，不能把永久地税制扩展为全印度统一制度，也不能用此文单独描述1858年后的全部王冠财政。本包不据其“取得税权”压缩叙述另造1764年正式授予迪瓦尼权的说法。",
+    "verifiedReadUrls": [
+      "https://www.lse.ac.uk/Economic-History/Assets/Documents/WorkingPapers/Economic-History/2023/WP355.pdf"
+    ],
+    "locator": "PDF第3—5页公司财政与永久地税制度；第12页1757／1765年税款用于贸易；有关Hastings、Francis和zamindar争论的正文。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CG-S08",
+    "title": "腓力二世的战争、税收、白银与债务重组",
+    "originalTitle": "Lending to the Borrower from Hell: Debt and Default in the Age of Philip II, 1556–1598",
+    "author": "Mauricio Drelichman; Hans-Joachim Voth",
+    "year": 2008,
+    "url": "https://eml.berkeley.edu/~webfac/cromer/e211_f08/mauricio.pdf",
+    "language": "en",
+    "kind": "作者研究工作稿／伯克利大学课程服务器公开副本，2008年10月版",
+    "access": "公开37页PDF；实际读取历史财政背景、债务工具、1575与1596年停付、债权人协调及史料限制。",
+    "supports": "王室收入除美洲款项外，还有国内税收和教会相关收入；军费连续而白银到款波动，形成借款需要。\n\nasientos短期合同与juros长期债务不同，长期债务与获授权的经常税源相连；王室、城市议会与银行家需要协商。\n\n1575年停付后1577年重组、1596年停付后1597年重组，原有银行家仍可继续提供贷款；停付不等于国家财富瞬间消失。",
+    "limits": "本次读的是2008年工作稿，不是同名后出专著或其全部档案。作者从西曼卡斯档案重建合同，本任务未亲自核阅原合同。主要时期1556—1598；不把卡斯蒂利亚财源当成全部西班牙王朝领地的统一国库，也不采用未复核的金额、比例。",
+    "verifiedReadUrls": [
+      "https://eml.berkeley.edu/~webfac/cromer/e211_f08/mauricio.pdf"
+    ],
+    "locator": "PDF第5—9页第II节；第20页汇款与贷款之别；第29页王室替代融资约束和战争压力。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CG-S09",
+    "title": "美洲白银与西班牙竞争力：一种相对价格解释",
+    "originalTitle": "The Curse of Moctezuma: American Silver and the Dutch Disease, 1501–1650",
+    "author": "Mauricio Drelichman",
+    "year": 2003,
+    "url": "https://www.kellogg.northwestern.edu/faculty/rebelo/cied/drelichman.pdf",
+    "language": "en",
+    "kind": "经济史研究工作稿／Northwestern University公开副本，2003年1月版",
+    "access": "公开44页PDF；实际读取问题提出、相对价格机制、价格序列重建及估计局限相关正文，未复算模型。",
+    "supports": "检验白银收入冲击是否使非贸易品相对价格上升，从而改变贸易部门的相对竞争条件。\n\n白银可同时支持购买与战争，也可能改变国内消费、工资和资源配置；这一机制不同于“西班牙人只会抢”。",
+    "limits": "使用的是2003年工作稿，不标作2005年发表版。相对价格证据和模型解释不是全国产业产出直接测量，也不能单独解释17世纪全部领土或经济变化。原稿承认安达卢西亚早期价格资料不足；本包不采用其导言对1588年后海军或全部帝国衰落的概括。",
+    "verifiedReadUrls": [
+      "https://www.kellogg.northwestern.edu/faculty/rebelo/cied/drelichman.pdf"
+    ],
+    "locator": "第I节问题；第III节机制；第IV—V节价格重建与估计，特别是PDF第18页关于安达卢西亚资料不足和识别范围的讨论。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CG-S10",
+    "title": "VOC：股份能转手，资本为何仍会缺现金",
+    "originalTitle": "The Formative Years of the Modern Corporation: The Dutch East India Company VOC, 1602–1623",
+    "author": "Oscar Gelderblom; Abe de Jong; Joost Jonker",
+    "year": 2013,
+    "url": "https://pure.rug.nl/ws/portalfiles/portal/632748164/the_formative_years_of_the_modern_corporation_the_dutch_east_india_company_voc_1602_1623.pdf",
+    "language": "en",
+    "kind": "同行评议经济史论文／Journal of Economic History／格罗宁根大学提供出版社正式PDF",
+    "access": "公开28页PDF；实际读取早期航次、章程、资本留存、借款、实物分红和责任安排正文；不声称复算作者重建的账目。",
+    "supports": "1602年VOC已有可转让股份，但初始设计仍规定十年清算；1612年获准不清算，资本转为长期留在公司。\n\n投资者转卖股份取得个人流动性，不等于公司得到新增资金；公司仍需货物销售与借款弥补长航程造成的现金缺口。\n\n军事和贸易开支相互争夺资源；1610年代实物分红和延后现金支付引发不满，董事的有限责任是更晚的变化。\n\n引言另明确区分英国东印度公司EIC于1600年成立与荷兰VOC于1602年成立；第6页谈1600年伦敦商人赴亚洲取得香料的投资。仅据此支持印度段开头，不用该文承担印度18—20世纪治理史。",
+    "limits": "不是此前AF-S14的2004年摘要；这是另一篇2013年全文研究。“固定资本”在本包指资本不随股东退出而抽走，不等于会计上的固定资产。研究止于1623年，不能推出荷兰此后所有兴衰；没有把殖民军事贸易的融资效率等同于社会正义。",
+    "verifiedReadUrls": [
+      "https://pure.rug.nl/ws/portalfiles/portal/632748164/the_formative_years_of_the_modern_corporation_the_dutch_east_india_company_voc_1602_1623.pdf"
+    ],
+    "locator": "PDF第2页（含格罗宁根仓储封面）引言：EIC 1600／VOC 1602；第6页：伦敦商人的亚洲贸易。 PDF第5—6页Continuing as Before；第8页战争成本分歧；第11—16页Paying for Permanence与1612年停止清算；第22—23页董事责任变化。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CG-S11",
+    "title": "官方储备的归属、可用性与对外资产边界",
+    "originalTitle": "International Reserves and Foreign Currency Liquidity: Guidelines for a Data Template",
+    "author": "International Monetary Fund, Statistics Department",
+    "year": 2013,
+    "url": "https://www.imf.org/external/np/sta/ir/IRProcessWeb/pdf/guide2013.pdf",
+    "language": "en",
+    "kind": "国际货币基金组织统计指南",
+    "access": "公开94页PDF；实际读取储备定义、居民／非居民、货币当局控制及对居民银行债权相关条款；没有通读所有衍生品附录。",
+    "supports": "储备资产须属于货币当局可用并控制的对外资产；官方储备还可包括货币黄金、特别提款权等。\n\n出口商或一般商业银行的外币收入，不因使用外币就自动变成官方储备。\n\n货币当局在居民银行的外币存款本身通常不是对非居民的资产；资产归属和机构所在地不能混为一谈。",
+    "limits": "这是2013年统计指南，不宣称为2026年最新手册或任何国家的逐笔结汇规则。本包的银行—央行记账箭头是自拟教学示意，指南支持储备分类边界，不是指南给出的一国办事流程。",
+    "verifiedReadUrls": [
+      "https://www.imf.org/external/np/sta/ir/IRProcessWeb/pdf/guide2013.pdf"
+    ],
+    "locator": "第1章第9—12段（PDF第10页）；第2章第107—108段及附近关于居民银行与非居民债权的规定（PDF第28页）。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "GAP-IBERIA",
+    "title": "前4世纪的巴斯蒂达：城址、铁农具与伊比利亚文铅片",
+    "originalTitle": "La Bastida de les Alcusses",
+    "author": "Ajuntament de Moixent / Turisme Moixent",
+    "year": "网页未标独立发布日期",
+    "url": "https://turismemoixent.com/la-bastida-de-les-alcusses/",
+    "language": "西班牙语",
+    "kind": "地方政府遗址介绍；基于考古成果的科普，不是发掘报告原件",
+    "access": "实际读取遗址年代、城墙与街区、农业/交换及出土物各节；另核网站归属为市政府。原博物馆目录未成功取得，不称其已读。",
+    "supports": "巴斯蒂达为前4世纪伊比利亚城址；街道、住宅、城防、铁农具、衡器及带伊比利亚文字的铅片，支持定居生产、交换和有限书写实践的描述。",
+    "limits": "只用作半岛东部个案。铅片账目用途被网站限定为可能；不公布未核释读，不推出全民识字、统一国家或全部伊比利亚人的生活。",
+    "locator": "Ciudad íbera fortificada；Urbanismo del poblado íbero；Agricultura, comercio y sociedad",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "GAP-LATTARA",
+    "title": "前4世纪拉塔拉：城防、马赛贸易与分期的文字证据",
+    "originalTitle": "Lattes en Languedoc, les Gaulois du sud — selected sections",
+    "author": "法国文化部考古专题团队",
+    "year": "专题网页未标独立发布日期",
+    "url": "https://archeologie.culture.gouv.fr/lattara/en/monopoly-marseille",
+    "language": "英语正文；部分法语导览",
+    "kind": "官方考古研究专题的三个相关小节",
+    "access": "实际读“前4—2世纪城墙”“马赛贸易（400/225 BCE）”“文字”正文；仅取与本题时段相符的部分。三个小节属于同一专题，不当三项独立验证。",
+    "supports": "前4世纪港口进口贸易与马赛陶器、酒罐和阿提卡器物；城市布局延续进入该时期。文字证据中，希腊涂刻早于所选窗口，而本地高卢语借希腊字母的记录要到前3世纪末。",
+    "limits": "南部港口不是今法国全境样本。不得把前3—2世纪方塔、字母习写板或约前250年意大利酒进口放进前4世纪。",
+    "verifiedReadUrls": [
+      "https://archeologie.culture.gouv.fr/lattara/en/4th-3rd-and-2nd-centuries-bce",
+      "https://archeologie.culture.gouv.fr/lattara/en/monopoly-marseille",
+      "https://archeologie.culture.gouv.fr/lattara/en/writing"
+    ],
+    "locator": "The rampart ca.350 BCE；400/225 BCE；Writing首段与Alphabet primers",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "GAP-BRITAIN",
+    "title": "梅登堡：前4世纪前后的山堡扩建与农牧生活",
+    "originalTitle": "History of Maiden Castle",
+    "author": "English Heritage",
+    "year": "网页未标独立发布日期",
+    "url": "https://www.english-heritage.org.uk/visit/places/maiden-castle/history/",
+    "language": "英语",
+    "kind": "遗产机构根据发掘成果撰写的遗址历史",
+    "access": "实际读取早期铁器山堡、中期铁器时代和日常生活三节及相关图注；不用罗马进攻或晚期钱币作前4世纪证据。",
+    "supports": "早期山堡之后，中期铁器时代约400—120 BCE开始扩建；圆屋、储藏、纺织/金属工作与农牧业，显示有组织的定居生活。",
+    "limits": "此处选南不列颠多塞特个案。中期材料跨越数世纪，不能把所有高峰建筑单独定到前4世纪；没有用它证明同期本地文字、统一不列颠国家或特定政体。",
+    "locator": "Early Iron Age: the first hillfort；Middle Iron Age: the peak of occupation；Everyday life in the Iron Age",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "GAP-LSJ",
+    "title": "LSJ词条：古希腊“非希腊人”与后出的贬义",
+    "originalTitle": "A Greek-English Lexicon (LSJ), s.v. βάρβαρος",
+    "author": "Liddell–Scott–Jones；Logeion数字版",
+    "year": "在线LSJ条目；本次不指定未核纸本页码",
+    "url": "https://logeion.uchicago.edu/%CE%B2%CE%AC%CF%81%CE%B2%CE%B1%CF%81%CE%BF%CF%82",
+    "language": "古希腊词目、英语释义",
+    "kind": "真实古希腊语词典条目",
+    "access": "先取得Logeion网页，确认其为界面壳；随后按该站公开客户端接口取得detail.dicos中LSJ正文，读第I义、第II义及词源注。没有把界面壳或搜索摘要当词条。",
+    "supports": "核心释义是非希腊/外来的，名词复数可指非希腊语人群并用于米底/波斯人；词典另列希波战争后的粗暴、粗野用法。拟声解释的注记指向Strabo 14.2.28。",
+    "limits": "说明词的历史用法，不是被称呼人群的客观文化等级；本次未独立重审全部引例或斯特拉波原文，不把古代拟声解释说成词源已无争议。",
+    "verifiedReadUrls": [
+      "https://anastrophe.uchicago.edu/logeion-api/detail?w=%CE%B2%CE%AC%CF%81%CE%B2%CE%B1%CF%81%CE%BF%CF%82"
+    ],
+    "locator": "LSJ释义I（含名词复数）、II及条末词源注",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "GAP-HDT2",
+    "title": "希罗多德《历史》第二卷：赞赏、差异叙述与自我限定",
+    "originalTitle": "Ἱστορίαι / Histories, Book II",
+    "author": "Herodotus；本次希腊底本编者 A. D. Godley",
+    "year": "古典文本属前5世纪；所核Loeb底本1920—1925",
+    "url": "https://cts.perseids.org/read/greekLit/tlg0016/tlg001/perseus-grc2/2.37",
+    "language": "古希腊语；答复中的中文为本网站自译/概述",
+    "kind": "古代作者原文的数字校订本",
+    "access": "实读Greek TEI元数据及II.4、II.35、II.37、II.50、II.99，并对照CTS呈现的II.37。未通读全书，未检验手稿异文。",
+    "supports": "能直接回答这位前5世纪作者如何描述埃及：历法赞许、奇观和差异、敬神评价、神名来源推断以及其资料口径。",
+    "limits": "只证明作者怎样写，不使其风俗概括或神名源流成为现代已证事实，也不能代表所有古希腊人。",
+    "verifiedReadUrls": [
+      "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0016/tlg001/tlg0016.tlg001.perseus-grc2.xml",
+      "https://cts.perseids.org/read/greekLit/tlg0016/tlg001/perseus-grc2/2.37"
+    ],
+    "locator": "Book II, chapters 4, 35, 37.1, 50, 99；CTS urn:cts:greekLit:tlg0016.tlg001.perseus-grc2",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "GAP-LORD",
+    "title": "洛德《故事的歌手》：现场创作、程式、场景及同歌异文",
+    "originalTitle": "The Singer of Tales",
+    "author": "Albert B. Lord；所核第二版由Stephen Mitchell、Gregory Nagy编辑并作导言",
+    "year": "2000（所核第二版；不是EPUB打包年份）",
+    "url": "https://chs.harvard.edu/book/lord-albert-bates-the-singer-of-tales/",
+    "language": "英语；南斯拉夫歌辞示例",
+    "kind": "口头诗学研究原著的哈佛授权电子版",
+    "access": "实际取得CHS读书页公开指向的EPUB；读取第2章开头与学习阶段、第3章开头定义、第4/5章开头论证及附录II四版本对照。未通读全书，也未声称听完录音。",
+    "supports": "格律中的惯用词组、可展开的传统场景与现场表演相互配合；同一歌手的同一故事可有结构联系而措辞/细节不同。",
+    "limits": "南斯拉夫田野材料是比较证据，不是古希腊现场录音；不据程式理论独断荷马作者人数、精确成书日或所有口头传统的形式。",
+    "verifiedReadUrls": [
+      "https://chs.harvard.edu/read/lord-albert-bates-the-singer-of-tales/",
+      "https://chs.harvard.edu/wp-content/uploads/2021/02/lord-albert-bates-the-singer-of-tales.epub"
+    ],
+    "locator": "第2、3、4、5章及附录II（Petar Vidić的Marko and Nina四种记录）",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "RG-01",
+    "title": "从唐代突厥到喀喇汗、塞尔柱：UNESCO《中亚文明史》分卷选读",
+    "originalTitle": "History of Civilizations of Central Asia, Volume III: The Crossroads of Civilizations, A.D. 250 to 750; Volume IV, Part One: The Age of Achievement, A.D. 750 to the End of the Fifteenth Century — The Historical, Social and Economic Setting",
+    "author": "卷III主编 B. A. Litvinsky；卷IV主编 M. S. Asimov、C. E. Bosworth；本次重点章作者 D. Sinor、S. G. Klyashtorny、E. A. Davidovich、A. Sevim、C. E. Bosworth",
+    "year": "卷III为1996年，卷IV/1为1998年；两个出版年分别核对，不给合并条目虚设单一出版年。",
+    "url": "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-4/history-of-civilizations-of-central-asia-vol-4.pdf",
+    "language": "英语",
+    "kind": "同一机构通史系列的两个分卷；署名学术研究，不等于古代原始档案",
+    "access": "卷III复核现有研究包保存的原书扫描与文本；卷IV/1取得公开原书PDF并读相关段落。UNESCO目录用于识别版本，正文来自原书公开镜像；未通读两卷。",
+    "supports": "630、657、682是东部战败、西部贺鲁被俘、东部重建的不同事件；8世纪中叶与840年还有新的政权重组。\n\n喀什—七河的喀喇汗联盟与咸海、锡尔河一带的乌古斯—塞尔柱不是一个政权的简单改名；萨曼、伽色尼参与其中。\n\n喀喇汗中叶10世纪的伊斯兰归属、999年布哈拉易主；塞尔柱在毡的接近伊斯兰边区、受雇、联姻及换盟。\n\n1040年丹丹坎是塞尔柱对伽色尼的胜利；1071年曼齐刻尔特是阿尔普·阿尔斯兰对拜占庭军队的胜利。\n\n伊斯菲贾布商站、893年怛罗斯教堂改为清真寺，以及撒马尔罕学校、医院和捐产经费，展示不同于一次全民改宗的具体机制。",
+    "limits": "分卷、章节及作者不能互相替代；此条合并的是一个出版系列，不算多份独立重复印证。\n\n喀喇汗章开篇明说后出记载可能矛盾，钱币归属也有困难；不补造无缝王族谱系、逐户改宗数字或私人信仰动机。\n\n第14章和其他章节对第二突厥汗国终点有744/745等分年差，本文使用8世纪中叶或744—745年前后，不假装各作者分期完全一致。\n\n只采用可核政权、机构和交往事实，不沿用书中关于文明高低或征服者视角的价值概括。",
+    "verifiedReadUrls": [
+      "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-3/history-of-civilizations-of-central-asia-vol-3.pdf",
+      "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-4/history-of-civilizations-of-central-asia-vol-4.pdf"
+    ],
+    "locator": "定点正文 · 卷III第14章 Political history、Resurgence of the Türk Empire；第15章 The Western Regions under the Early T’ang、Administrative System；630/657/682对应段\n\n定点正文及版权页 · 卷IV/1版权页；第3章Kimek的840年迁移段；第6章 Sources for Karakhanid history、The conquest of Transoxania、The two Karakhanid Khanates、Karakhanids, Seljuqs and Kara Khitay、Towns and trade；第7章Part One及Part Two的1040/1055/1071段",
+    "yearNote": "卷III为1996年，卷IV/1为1998年；两个出版年分别核对，不给合并条目虚设单一出版年。",
+    "checked": "2026-10-05",
+    "bibliographicUrl": "https://unesdoc.unesco.org/ark:/48223/pf0000111664"
+  },
+  {
+    "id": "RG-02",
+    "title": "奥斯曼形成及1453年的机构史、艺术史入口",
+    "originalTitle": "The Art of the Ottomans before 1600",
+    "author": "Suzan Yalman，基于 Linda Komaroff 的原有工作；The Metropolitan Museum of Art",
+    "year": 2002,
+    "url": "https://www.metmuseum.org/essays/the-art-of-the-ottomans-before-1600",
+    "language": "英语（网页导航自动显示中文）",
+    "kind": "博物馆署名研究文章",
+    "access": "读取署名、2002年10月1日日期、历史导言及建筑机构段落；不宣称逐件核验馆藏或读完所列参考书。",
+    "supports": "14世纪初奥斯曼是安纳托利亚塞尔柱苏丹国瓦解、蒙古统治造成不稳定后出现的多个小公国之一。\n\n奥斯曼后来在安纳托利亚、巴尔干扩展，1453年攻取君士坦丁堡；不能把它投射成1071年的同一国家。\n\n征服后的建筑复合体可兼有宗教、教育、社会服务和商业用途；奥斯曼文化采用多种既有传统。",
+    "limits": "艺术史总览不是战役专史，不据此补兵力、战术、伤亡、人物对话或精确迁徙族谱。\n\n没有采用该文关于最强国家、黄金时代等评价来代替具体历史证据。",
+    "verifiedReadUrls": [
+      "https://www.metmuseum.org/essays/the-art-of-the-ottomans-before-1600"
+    ],
+    "locator": "网页正文 · 第一段的 early fourteenth century、Seljuq disintegration、Mongol rule、1453；第二段Mehmet II建筑复合体；Contributors与Citation",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "RG-03",
+    "title": "印度洋北缘的实证个案：吉大港港口、清真寺与土地给付",
+    "originalTitle": "The Rise of Islam and the Bengal Frontier, 1204–1760",
+    "author": "Richard M. Eaton",
+    "year": 1993,
+    "url": "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html",
+    "language": "英语",
+    "kind": "作者学术专著的大学出版社／加州数字图书馆开放全文",
+    "access": "复用并定点重读现有研究包保存的开放原文，重点转到吉大港1666—1760年文书与机构段；web.run另核到对应章节入口。读到的是Eaton的引录、英译与分析，没有亲见波斯文档案原件。",
+    "supports": "吉大港是印度洋港口，曾由佛教背景的阿拉干王国统治，1666年被莫卧儿征服；港口、政权、腹地信仰不能混作同一变化。\n\n1666年10月2日契约给已建清真寺的Shah Zain al-‘Abidin拨付林地，开垦收益用于寺院、本人和依附者，并要求为国家祈祷。\n\n1721年Kadhurkhil清真寺文书列出宣讲、领拜、唤礼、清扫及灯毯等经费；经济、宗教与统治目的可以并存。\n\n作者记录统治精英与当地女性通婚，也分析沙贾拉勒后出圣传里的成家叙事；两者不是吉大港普通人改宗的户籍统计。\n\n孟加拉边疆的地方组织、农业开垦与信仰生活有联系，但不是整个伊斯兰世界的统一公式。",
+    "limits": "本包的印度洋个案明确是孟加拉湾港口吉大港及其腹地，不把整个孟加拉改名为海商传播的普遍模型。\n\n土地契约证明资源与机构安排，不直接证明每个耕作者何时或为何皈依；慈善、免税和虔诚不能强制二选一。\n\n关于沙贾拉勒及婚姻的圣传形成较晚；不能作为1303年前后每场婚姻的现场记录。贸易与婚姻的具体改宗贡献无法据本轮材料量化。\n\n部分转引的莫卧儿、欧洲见闻带征服者偏见；不把林地写成无人区，不采用肤色或亲属习俗的贬抑描述。\n\n未通读全书；旧包的章节阅读声明不自动扩大成本轮的全文阅读。",
+    "verifiedReadUrls": [
+      "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html"
+    ],
+    "locator": "开放原文定点复读 · Four Conventional Theories of Islamization in India；Islam and the Agrarian Order in the East；The Growth of Mosques and Shrines in Rural Chittagong, 1666–1760；1666-10-02契约、1721年Kadhurkhil文书；The Rise of Chittagong’s Religious Gentry；Shah Jalal婚姻圣传及作者的史料区分",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "RG-04",
+    "title": "代顿附件四的机构条文与2009年布尔奇科修正",
+    "originalTitle": "Constitution of Bosnia and Herzegovina; Amendment I to the Constitution of Bosnia and Herzegovina",
+    "author": "《代顿和平协定》相关签署方；2009年修正案由波黑议会通过；波黑宪法法院公布",
+    "year": 1995,
+    "url": "https://www.ustavnisud.ba/uploads/documents/constitution-of-bih_1625734692.pdf",
+    "language": "英语",
+    "kind": "宪法文本及修正案的本国法院官方刊本",
+    "access": "官方PDF可得；实读第I、III—VIII条及所附Amendment I。不是对所有后续普通法、选举法、法院判例和实体宪法的全集核读。",
+    "supports": "国家延续、两实体组成及国家／实体职责；额外国家职责的承接机制。\n\n人民院15席、众议院42席，两院分别批准立法，定足数、实体投票与重大民族利益程序。\n\n三人主席团的组成、共识／两票及实体利益复核；部长会议的提名、批准、执行与议会问责。\n\n宪法法院9席的法定组成、权限和终局拘束力；中央银行与预算条文。\n\n2009年修正案规定布尔奇科为国家主权下、土地由两实体共同拥有的自治单位，并规定相关争议管辖。",
+    "limits": "席位是法定配置，不是某一天在任人数；全文不列现任人员。\n\n不能把1995年的起步安排或最初六年条款照抄成2026年所有机构细节。\n\n第VI.4的终局拘束力条款在2009年增条后改为VI.5；不能把原条号与修正后条号混用。\n\n仅作制度研究，不判定具体个人的选举、身份、出行或其他法律资格。",
+    "verifiedReadUrls": [
+      "https://www.ustavnisud.ba/uploads/documents/constitution-of-bih_1625734692.pdf"
+    ],
+    "locator": "条文正文 · I.1、I.3；III.1—5；IV.1—4；V.1—4；VI.1—4；VII；VIII；文末Amendment I（议会2009-03-26、Official Gazette 25/09）",
+    "yearNote": "宪法为1995年；附列修正案通过于2009年3月26日。URL中的数字和PDF上传时间不是立法日期。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "RG-05",
+    "title": "代顿的运行实践：OHR第69号报告与职能说明的可读部分",
+    "originalTitle": "Sixty-ninth report of the High Representative for the Implementation of the Peace Agreement on Bosnia and Herzegovina to the Secretary-General; Mandate",
+    "author": "Office of the High Representative（OHR）；联合国秘书长转呈报告",
+    "year": 2026,
+    "url": "https://documents.un.org/doc/undoc/gen/n26/113/87/pdf/n2611387.pdf",
+    "language": "英语",
+    "kind": "执行机构官方报告；联合国原件转呈；附机构职能自述的可读段落",
+    "access": "截至2026-10-05，检索到并取得最近的半年报告为第69号：以联合国S/2026/405的34页PDF核读。OHR网页直连未取得全文，不能据此声称官网全页已读；Mandate只采用web.run可读的机构职能段落。",
+    "supports": "报告期是2025-10-16至2026-04-15；联合国文件发布日期2026-05-13，不是把10月研究日当成报告观察日。\n\n总评和第94段具体说明退席、定足数及议程安排如何阻滞人民院审议和下院已通过的法案。\n\n总评记载国家机构预算的临时融资与经费不足，显示法定机构存在不等于正常运转。\n\nOHR的民事执行监督与附件十有关；其职能说明把施加有约束力决定、罢免官员等实践联系到1997年波恩会议，不能从附件四直接推得。",
+    "limits": "这是执行机构对实践的报告和自我说明，不是各方一致的独立裁判，也不是新宪法条文。\n\n联合国转呈文件封面明确说并非所有安理会成员都承认高级代表；不把转呈当成一致认可。\n\n报告截止2026-04-15，不能把其中每一堵点写成2026年10月仍逐日存在。\n\n未单独审计波恩权力全部法源争论，也未逐一复核报告转述的所有案件；不写任职人物时效信息。",
+    "verifiedReadUrls": [
+      "https://documents.un.org/doc/undoc/gen/n26/113/87/pdf/n2611387.pdf",
+      "https://www.ohr.int/about-ohr/mandate/"
+    ],
+    "locator": "官方PDF定点正文 · S/2026/405封面及转呈函；General Assessment/Executive Summary的人民院与预算段；III.C. Parliamentary Assembly，尤其第94段\n\n仅web.run可读段落 · 1997 Bonn Conference及binding decisions/removal of public officials的机构说明；未取得全页正文",
+    "checked": "2026-10-05",
+    "bibliographicUrl": "https://www.ohr.int/69th-report-of-the-high-representative-for-implementation-of-the-peace-agreement-on-bosnia-and-herzegovina-to-the-secretary-general-of-the-united-nations/"
+  },
+  {
+    "id": "RG-06",
+    "title": "哈佛宗教素养材料：乌玛、权威类型与美洲社群",
+    "originalTitle": "Islam: Introductory materials; The Roman Catholic Church and the Catholic Communion; The Sangha: The Buddhist Community",
+    "author": "The Pluralism Project、Harvard University／Harvard Divinity School课程材料团队",
+    "year": "伊斯兰PDF明确为2016；另两网页未核到独立发表年，不能拿2026页脚版权年替代。",
+    "url": "https://d37djvu3ytnwxt.cloudfront.net/asset-v1%3AHarvardX%2BHDS3221.4x%2B2T2016%2Btype%40asset%2Bblock/Introduction_to_Islam_6_8_16.pdf",
+    "language": "英语",
+    "kind": "同一大学项目的教学材料选读；不同专题的可读程度分别标注",
+    "access": "伊斯兰课程PDF为2016年版，定点重读；天主教文章正文可读。佛教部分仅机构页面被检索到的摘要可读，直接页面和PDF读取均受阻，因此只用其僧团狭义/广义定义，不写成佛教制度史全文已核。",
+    "supports": "乌玛、共同实践与解释分歧可以并存；逊尼法学传统、什叶学术训练、苏菲师承不能当三个互斥宗派。\n\n逊尼四个法学派，什叶学术中心Qom/Najaf，以及苏菲修行团体的师徒和住处，提供具体的跨地方组织机制。\n\n天主教既有罗马主教的首位权，也有主教会议、地方堂区和修会；不能用一个人的头衔代替全部组织。\n\n僧团狭义指僧尼共同体，广义可包括在家众；它不是与教皇同一层次的单一职位。\n\n美国穆斯林包括移民、第二/三代、改宗者及有奴隶贸易历史背景的非裔社群；不使用2016年的现任领袖与人口数字。",
+    "limits": "教学习作不是各宗派的统一教义声明；概览不能代替地方任命、财务或教法制度原件。\n\n伊斯兰课件中压缩叙述1923建国和后续土耳其改革的段落，不用于核定改革年代；以RG-07、RG-08的具体材料为准。\n\n不采用旧课件的当下人物、沙特驾驶限制或2016人口等时效内容。\n\n佛教仅到机构摘要所支持的定义层次；未补齐泰国、藏传、日本等不同僧政安排。",
+    "verifiedReadUrls": [
+      "https://d37djvu3ytnwxt.cloudfront.net/asset-v1%3AHarvardX%2BHDS3221.4x%2B2T2016%2Btype%40asset%2Bblock/Introduction_to_Islam_6_8_16.pdf",
+      "https://pluralism.org/the-roman-catholic-church-and-the-catholic-communion",
+      "https://pluralism.org/the-sangha-the-buddhist-community"
+    ],
+    "locator": "2016 PDF定点正文复读 · Beliefs and Practices；One Ummah with Many Views；Shi‘a and Sunni Interpretations；Sufism: Seeking God；Sharī‘ah: Following the Straight Path；Resurgence and Migration末尾美国社群段\n\n网页正文 · 开篇bishop of Rome/pope；修会段；末尾synods、councils of bishops、local parishes\n\n仅机构检索摘要 · Summary中狭义僧尼及广义包含在家众的定义；正文及PDF未取得",
+    "yearNote": "伊斯兰PDF明确为2016；另两网页未核到独立发表年，不能拿2026页脚版权年替代。",
+    "checked": "2026-10-05",
+    "bibliographicUrl": "https://pluralism.org/"
+  },
+  {
+    "id": "RG-07",
+    "title": "凯末尔改革的具体日期与政策对象",
+    "originalTitle": "ATATÜRK İnkılapları",
+    "author": "Türkiye Cumhuriyeti Millî Savunma Bakanlığı（土耳其国防部）",
+    "year": "页面未明确独立发表年；1924—1928是所述事件年份，不用来冒充网页发表年。",
+    "url": "https://ata.msb.gov.tr/Sayfa/SayfaGoster/ataturk-inkilaplari",
+    "language": "土耳其语",
+    "kind": "本国官方历史教育资料；不是所列每一法令的原件汇编",
+    "access": "网页正文可读；核读废除哈里发、统一教育、文字改革、民法、关闭苏菲机构等小节。没有把对改革效果的赞扬当成社会普遍接受的调查。",
+    "supports": "1924-03-03废除哈里发的第431号法与统一教育安排；这些不等于所有私人信仰同时改变。\n\n1928-11-01第1353号法采用新土耳其字母；它是拉丁字母基础的文字改革，不是把土耳其语变成拉丁语。\n\n1925-11-30关闭tekke、zaviye等机构；1926-02-17通过以瑞士民法为基础的新民法。",
+    "limits": "官方改革叙事有鲜明立场；只取可定位的日期、制度对象，不照抄落后/进步、彻底平等或全民受益等评价。\n\n本轮没有逐件读取430、431、1353等法律的全部原件；这些日期依据此官方史料页，429号法则另有RG-08原始文本依据。\n\n不据此编写1928、1937所有宪法修正的完整沿革，亦不推演后世政治的自动反弹。",
+    "verifiedReadUrls": [
+      "https://ata.msb.gov.tr/Sayfa/SayfaGoster/ataturk-inkilaplari"
+    ],
+    "locator": "网页相关小节正文 · Halifeliğin Kaldırılması；Tevhid-i Tedrisat Kanunu；Yeni Türk Harflerinin Kabulü；Türk Medeni Kanunu；女性权利段的17 Şubat 1926；Tekke ve Zaviyelerin Kapatılması",
+    "yearNote": "页面未明确独立发表年；1924—1928是所述事件年份，不用来冒充网页发表年。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "RG-08",
+    "title": "1924年第429号法：新共和国仍管理宗教事务",
+    "originalTitle": "Şeriye ve Evkaf ve Erkânı Harbiyei Umumiye Vekâletlerinin İlgasına Dair Kanun (No. 429)",
+    "author": "Türkiye Büyük Millet Meclisi（土耳其大国民议会）",
+    "year": 1924,
+    "url": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc002/kanuntbmmc002/kanuntbmmc00200429.pdf",
+    "language": "土耳其语",
+    "kind": "议会官方法令汇编所载法律文本",
+    "access": "已读官方一页PDF，重点第1—7条及日期。该PDF是议会提供的刊本文本，不冒称看过签署手稿。",
+    "supports": "第1条把民事公共事务的立法、执行归议会及政府，同时设Diyanet处理伊斯兰信仰、礼拜及宗教机构事务。\n\n第3—4条规定由总理提请总统任命、隶属总理府及预算附于总理府预算。\n\n第5—6条规定宗教职员任免与清真寺等机构管理，并把mufti的上级机构指向Diyanet。\n\n第7条另置宗教捐产事务的行政安排，不能把旧部撤销说成宗教资源全部凭空消失。",
+    "limits": "只说明1924年制度设计；不把历史总理府隶属关系当作2026年行政组织图。\n\n1924年第5条列到苏菲场所，不等于这些场所随后一直获准开放；1925年的关闭措施另见RG-07。\n\n原刊用旧历纪年；公历1924-03-03与RG-07所列同日立法交叉核对。不会把1340误作公历年份。\n\n法律能证明职权和资源分配，不能证明每名信众的宗教体验或国家措施的社会效果。",
+    "verifiedReadUrls": [
+      "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc002/kanuntbmmc002/kanuntbmmc00200429.pdf"
+    ],
+    "locator": "法律正文 · BİRİNCİ—YEDİNCİ MADDE（第1—7条）及末尾通过日期；整页为议会汇编刊本",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "RG-09",
+    "title": "美洲与全球宗教分布：Pew的2020年估计，而非2026实时人口",
+    "originalTitle": "How the Global Religious Landscape Changed From 2010 to 2020 — Muslim population change",
+    "author": "Pew Research Center",
+    "year": 2025,
+    "url": "https://www.pewresearch.org/religion/2025/06/09/muslim-population-change/",
+    "language": "英语",
+    "kind": "研究机构自行发布的全球宗教人口估计与研究报告",
+    "access": "web.run可读该机构正文抽取，已读全球及各地区穆斯林人口变化段。直接网页与整份PDF下载超时；未读完整附表，不伪称逐国统计已全部核完。",
+    "supports": "报告发布于2025-06-09，估计期为2010—2020；2020年全球穆斯林约20亿。\n\n北美2020年约590万穆斯林，较2010年增长52%；此为Pew地区口径，不等于美国单国人数。\n\n拉丁美洲和加勒比的穆斯林人数在2010—2020年约增长6%；这个6%是人数增幅，不是该地区穆斯林占比。",
+    "limits": "报告日期、统计年份和本包核查日是三件事，不把2020估计写成2026现值或未来预测。\n\n地区汇总不能替代每个国家或城市的历史，不根据人口占比推定移民来源、族裔或信仰深浅。\n\n宗教人口分类不是法律资格或宗教仪式资格认证；不泛化为任何个人的资格判断。",
+    "verifiedReadUrls": [
+      "https://www.pewresearch.org/religion/2025/06/09/muslim-population-change/"
+    ],
+    "locator": "web.run可读正文摘取，非全报告 · Global Muslim population change；Regional change among Muslims中North America与Latin America-Caribbean段",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "RG-10",
+    "title": "Halliday的2002年准确题录，以及没有取得原摘要的边界",
+    "originalTitle": "The Politics of the Umma: States and Community in Islamic Movements",
+    "author": "Fred Halliday",
+    "year": 2002,
+    "url": "https://www.tandfonline.com/doi/abs/10.1080/13629390207030004",
+    "language": "英语",
+    "kind": "作者机构题录、出版社原记录与Crossref出版元数据",
+    "access": "LSE题录与出版社文章页面已读，Crossref元数据已核。LSE明示不提供全文；本轮取得的出版社/abs页面没有呈现原摘要，Crossref亦无abstract字段。没有取得原摘要或正文。",
+    "supports": "准确引文：Halliday, Fred. 2002. The Politics of the Umma: States and Community in Islamic Movements. Mediterranean Politics 7(3): 20–41. DOI: 10.1080/13629390207030004。\n\n出版社页面的Published online为2007-09-26，不改变所属期刊卷期的2002出版年；LSE的2008入库日期也不是出版年。\n\n只支持书目和本次可读范围，不支持替作者概括未读的具体论证。",
+    "limits": "没有原摘要可引用，因此不造Halliday原句，也不把其他书章、评论或相似题名的摘要拼给它。\n\n20—41是已核题录中的发表页码范围，不是本次读过这些页的声明。\n\n无法取得摘要不等于断言原作从来没有摘要；缺口是本轮访问与阅读的边界。\n\n不得把题名当成乌玛必然超越国家、没有权威或统一政治行动的证据。",
+    "verifiedReadUrls": [
+      "https://researchonline.lse.ac.uk/id/eprint/16999/",
+      "https://www.tandfonline.com/doi/abs/10.1080/13629390207030004",
+      "https://api.crossref.org/works/10.1080/13629390207030004"
+    ],
+    "locator": "原机构题录 · 标题、作者、2002、Mediterranean Politics 7(3), 20–41、DOI；Full text not available from this repository\n\n出版社公开页面，未见摘要正文 · Volume 7, 2002, Issue 3；Pages 20–41；Published online: 26 Sep 2007；未取得文章正文\n\n出版元数据 · title、author、published=[2002,9]、volume=7、issue=3、page=20-41；abstract字段缺失",
     "checked": "2026-10-05"
   }
 ]

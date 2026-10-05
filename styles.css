@@ -572,6 +572,23 @@ html[data-large-text=true] .reading-body p{line-height:2.1}
 .semantic-coverage{padding:15px 0 45px}
 .semantic-coverage>h2{font-size:28px;line-height:1.7;margin-bottom:18px}
 .semantic-coverage>p{font-size:13px;line-height:2;color:var(--muted);max-width:950px}
+.reading-pairs{display:flex;gap:10px;flex-wrap:wrap;margin-top:25px}
+.reading-pairs .quiet-button{font-size:11px;background:#f4f5eb}
+.comparison-note{font-size:11px!important;line-height:1.9;color:var(--muted);margin-top:15px}
+.personal-section-nav{display:flex;gap:10px;flex-wrap:wrap;margin:25px 0}
+.personal-section-nav button{border:1px solid var(--line);background:transparent;padding:8px 13px;border-radius:3px;font-size:12px}
+.personal-index{border:1px solid var(--line);padding:20px 23px;margin-bottom:42px}
+.personal-index>summary{font-size:14px;color:var(--ink);cursor:pointer}
+.personal-index>div{display:grid;grid-template-columns:1fr 1fr;gap:0 27px;margin-top:18px}
+.personal-index button{display:flex;align-items:center;justify-content:space-between;gap:15px;border-top:1px solid var(--line);background:transparent;text-align:left;padding:14px 0;font-size:12px;line-height:1.8}
+.personal-index button small{color:var(--rust);font-size:10px;white-space:nowrap}
+.personal-page section[id],.personal-dimension{scroll-margin-top:135px}
+.close-reading{border-top:1px solid var(--line);margin-top:35px;padding-top:27px}
+.close-reading h2{margin-top:10px}
+.close-reading-scope{font-family:var(--sans);font-size:12px!important;line-height:1.9!important;color:var(--muted);border-left:2px solid var(--sand);padding-left:18px;margin-bottom:27px!important}
+.reading-body .section-limits{font-family:var(--sans);font-size:12px;line-height:1.95;color:var(--muted);border-left:2px solid var(--line);padding-left:16px}
+.section-limits strong{font-weight:500;color:var(--ink)}
+@media(max-width:760px){.personal-index{padding:18px}.personal-index>div{grid-template-columns:1fr}.personal-index button{font-size:11px}.personal-index button small{font-size:9px}.personal-section-nav button{font-size:11px;padding:7px 11px}}
 @keyframes route-flow{to{stroke-dashoffset:-70}}
 @media(min-width:1500px){.hero{gap:85px}.hero-art{height:605px}.hero h1{font-size:72px}}
 @media(max-width:1100px){

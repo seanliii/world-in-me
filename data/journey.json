@@ -489,6 +489,30 @@
   ],
   "events": [
     {
+      "id": "ancient-homer",
+      "year": -750,
+      "date": null,
+      "title": "约前8世纪：《奥德赛》的成诗层",
+      "body": "约略放在前8世纪，而非一个无争议的成书日；更早物质记忆与后来口述、文字传承叠加。",
+      "theme": "literature",
+      "refs": [
+        "H-S17"
+      ]
+    },
+    {
+      "id": "ancient-regions",
+      "year": -400,
+      "date": null,
+      "title": "前4世纪：城址、港口与山堡",
+      "body": "约前400—301年，用巴斯蒂达、拉塔拉和梅登堡的有限切片观察生产、交换和定居组织；不是全欧洲同时代普查。",
+      "theme": "civilizations",
+      "refs": [
+        "GAP-IBERIA",
+        "GAP-LATTARA",
+        "GAP-BRITAIN"
+      ]
+    },
+    {
       "id": "event-330-1",
       "year": 330,
       "date": null,
@@ -530,6 +554,39 @@
       "theme": "steppe",
       "refs": [
         "H-S01"
+      ]
+    },
+    {
+      "id": "religion-bukhara",
+      "year": 999,
+      "date": null,
+      "title": "喀喇汗取得布哈拉",
+      "body": "新的统治集团接入已有的萨曼城市与学术环境；不是所有人同时换一种信仰或国家身份。",
+      "theme": "steppe",
+      "refs": [
+        "RG-01"
+      ]
+    },
+    {
+      "id": "religion-dandanqan",
+      "year": 1040,
+      "date": null,
+      "title": "丹丹坎：塞尔柱击败伽色尼",
+      "body": "具有突厥军事背景的穆斯林政权彼此交战，提醒我们语言和信仰不是永远一致的政治阵营。",
+      "theme": "steppe",
+      "refs": [
+        "RG-01"
+      ]
+    },
+    {
+      "id": "religion-baghdad",
+      "year": 1055,
+      "date": null,
+      "title": "塞尔柱进入巴格达",
+      "body": "军事实力与阿拔斯哈里发的权威形成新关系；不等于一个旧汗国换名续命。",
+      "theme": "steppe",
+      "refs": [
+        "RG-01"
       ]
     },
     {
@@ -589,6 +646,94 @@
       ]
     },
     {
+      "id": "colonial-crown-debt",
+      "year": 1575,
+      "date": null,
+      "title": "西班牙王室停付：战争、税源与信用",
+      "body": "腓力二世时期的停付与之后债务重组并存；不等于全国财富清零，更不能据此给国家贴一种性格。",
+      "theme": "empires",
+      "refs": [
+        "CG-S08"
+      ]
+    },
+    {
+      "id": "colonial-voc",
+      "year": 1602,
+      "date": null,
+      "title": "VOC成立：可转让股份与远洋贸易",
+      "body": "股份可转手不代表公司立即得到更多现金；早期章程仍包含十年后的清算安排。",
+      "theme": "empires",
+      "refs": [
+        "CG-S10"
+      ]
+    },
+    {
+      "id": "colonial-voc-capital",
+      "year": 1612,
+      "date": null,
+      "title": "VOC资本留存：投资者退出与公司融资分开",
+      "body": "政府允许不按原定安排清算，公司得以留住资本；股东却不能再依原计划取回出资。",
+      "theme": "empires",
+      "refs": [
+        "CG-S10"
+      ]
+    },
+    {
+      "id": "religion-chittagong",
+      "year": 1666,
+      "date": null,
+      "title": "吉大港契约：土地、寺院与地方共同体",
+      "body": "10月2日的土地给付将宗教活动、家庭与依附者生计、国家祈祷要求连接；契约不是全体居民改宗名册。",
+      "theme": "belief",
+      "refs": [
+        "RG-03"
+      ]
+    },
+    {
+      "id": "colonial-bengal",
+      "year": 1765,
+      "date": null,
+      "title": "公司财政与孟加拉收入",
+      "body": "公司取得税收权力的过程把贸易、军队和土地收入联系起来；这不是全印度同时归于同一种制度。",
+      "theme": "empires",
+      "refs": [
+        "CG-S07"
+      ]
+    },
+    {
+      "id": "colonial-algiers",
+      "year": 1830,
+      "date": null,
+      "title": "法军入侵阿尔及尔",
+      "body": "债务和领事争端、法国王朝声望、国际外交及军事选择共同构成背景；不能只用一次受辱解释。",
+      "theme": "empires",
+      "refs": [
+        "CG-S04"
+      ]
+    },
+    {
+      "id": "colonial-india-crown",
+      "year": 1858,
+      "date": null,
+      "title": "印度治理权由公司转至英国王冠",
+      "body": "公司转王冠不是独立。直接辖区和土邦仍具有不同的内部行政与财政安排。",
+      "theme": "empires",
+      "refs": [
+        "CG-S06"
+      ]
+    },
+    {
+      "id": "colonial-aof",
+      "year": 1895,
+      "date": null,
+      "title": "法属西非联邦建立",
+      "body": "区官、殖民地和联邦预算形成不同层级，本地首领作为中介仍参与征收等活动。",
+      "theme": "empires",
+      "refs": [
+        "CG-S02"
+      ]
+    },
+    {
       "id": "event-1896-10",
       "year": 1896,
       "date": null,
@@ -597,6 +742,29 @@
       "theme": "empires",
       "refs": [
         "AF-S11"
+      ]
+    },
+    {
+      "id": "religion-caliphate",
+      "year": 1924,
+      "date": null,
+      "title": "废除哈里发与设立宗教事务机关",
+      "body": "土耳其一面废除职位，一面以任命和预算重新管理宗教事务；政教关系重组不等于私人信仰消失。",
+      "theme": "belief",
+      "refs": [
+        "RG-07",
+        "RG-08"
+      ]
+    },
+    {
+      "id": "religion-alphabet",
+      "year": 1928,
+      "date": null,
+      "title": "土耳其文字改革",
+      "body": "11月1日采用以拉丁字母为基础的新土耳其字母；不是把土耳其语变成拉丁语。",
+      "theme": "belief",
+      "refs": [
+        "RG-07"
       ]
     },
     {
@@ -619,6 +787,39 @@
       "theme": "empires",
       "refs": [
         "AF-S11"
+      ]
+    },
+    {
+      "id": "colonial-westafrica-rights",
+      "year": 1946,
+      "date": null,
+      "title": "公民权与劳动诉求改变帝国关系",
+      "body": "塞内加尔政治人物和工会争取权利；法律改变重要，但不自动消除代表和待遇的不平等。",
+      "theme": "empires",
+      "refs": [
+        "CG-S03"
+      ]
+    },
+    {
+      "id": "colonial-westafrica-independence",
+      "year": 1960,
+      "date": null,
+      "title": "西非独立与联邦选择的分歧",
+      "body": "独立是法国与非洲行动者、财政压力与自治选择交织的结果；不把后续所有经济联系说成政治变化无意义。",
+      "theme": "empires",
+      "refs": [
+        "CG-S03"
+      ]
+    },
+    {
+      "id": "colonial-algeria-independence",
+      "year": 1962,
+      "date": null,
+      "title": "阿尔及利亚独立",
+      "body": "战争、定居殖民和退出中的暴力，使这条历史不能被当成西非独立过程的复制品。",
+      "theme": "empires",
+      "refs": [
+        "CG-S05"
       ]
     },
     {
