@@ -4098,5 +4098,21 @@
     "limits": "只核书目；不是出版社简介或小说正文，不从中补写具体情节，不借奖项页面进行作者高低排名。",
     "locator": "Nadine Gordimer、Works in English中的July’s People一行",
     "checked": "2026-10-05"
+  },
+  {
+    "id": "EM6-OTHER06",
+    "title": "《独立的太阳》开篇：第七日的葬礼",
+    "originalTitle": "Les funérailles du septième jour",
+    "author": "Ahmadou Kourouma",
+    "year": 1968,
+    "url": "https://www.erudit.org/fr/revues/etudfr/1968-v4-n2-etudfr1742/036320ar.pdf",
+    "language": "法语原文",
+    "kind": "作者小说首章在正式期刊刊出的原文",
+    "access": "实读1968年Études françaises期刊PDF物理第1页书目及第2—5页四页小说正文；主任务再次核读并对照第2、5页图。未读物理第6—10页，未通读全章或全书。",
+    "supports": "支持对讲述者向听者说话、仪式分配、法马身份与公开羞辱的局部原文分析；不替国家作统一判断。",
+    "limits": "原书既有Seuil1970年题录与本次1968期刊片段不是同一版本，未校勘两版；公开档案不等于无限转载许可。叙述者、人物、吟唱者与作者的声音必须区分。",
+    "bibliographicUrl": "https://doi.org/10.7202/036320ar",
+    "locator": "开篇介绍伊布拉希马之死、影子远行，到印刷页222末吟唱者并列Doumbouya与Keita；题头正文页没有印页码，以PDF物理页定位。",
+    "checked": "2026-10-05"
   }
 ]
