@@ -3124,5 +3124,188 @@
     ],
     "locator": "印刷287—290页：两种编年史与依赖问题；291—298页：具体文本、名单比较；299—300页：结论与使用限度。对应公开PDF第1—14页。",
     "checked": "2026-10-05"
+  },
+  {
+    "id": "PC-01",
+    "title": "与 Julia Galef 对谈：士兵式辩护与侦察式求真：官方播客文字稿",
+    "originalTitle": "Soldiers and Scouts with Julia Galef",
+    "author": "Julia Galef（嘉宾）；Dr. Brooke Struck（主持）",
+    "year": 2022,
+    "url": "https://thedecisionlab.com/podcasts/soldiers-and-scouts-with-julia-galef",
+    "language": "英语",
+    "kind": "官方播客访谈文字稿",
+    "access": "官方公开文字稿，完整公开对话已核读；未听校完整音频，未通读节目提到的书。",
+    "supports": "可核对本期参与者实际如何提出并回应问题；不是本网站练习的效果证据。",
+    "limits": "这是节目中的观点、回忆和建议，不是对其全部主张的独立实证检验。不能证明这种访谈建议能提高通用元认知或人生决策准确率。 不能据一场争论判定谁属于哪种人格，更不能把不同意见自动当作对方在防御身份。 不能用公允复述替代核实事实，也不能据节目中的用人故事直接作现实人事决定。",
+    "locator": "官网 Transcript 标题下的访谈正文，P001—P165；段号为本网站按非空段落自编，不是官网锚点或音视频时间戳。短引可在原页搜索，位于P075附近。",
+    "yearNote": "节目页发布日期为2022-06-27；不据此推断录音日期。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "PC-02",
+    "title": "与 Annie Duke 对谈：什么时候该退出：官方播客文字稿",
+    "originalTitle": "Knowing when to quit with world poker champion Annie Duke",
+    "author": "Annie Duke（嘉宾）；Adam Grant（主持）",
+    "year": 2023,
+    "url": "https://www.ted.com/podcasts/knowing-when-to-quit-with-world-poker-champion-annie-duke-transcript",
+    "language": "英语",
+    "kind": "官方播客访谈文字稿",
+    "access": "官方公开文字稿，开场、现场对话、问答和收尾均已核读；未听校完整音频，未通读节目提到的书。",
+    "supports": "可核对本期参与者实际如何提出并回应问题；不是本网站练习的效果证据。",
+    "limits": "这是节目中的观点、回忆和建议，不是对其全部主张的独立实证检验。不能给具体个人的辞职、关系结束或资金投入提供自动判决。 不能把坚持都归为沉没成本，也不能保证退出后会更幸福。 不能把朋友或导师的旁观当作天然客观，更不能让他替当事人承担不了的后果作主。",
+    "locator": "TED 本期完整文字稿，P001—P186；段号为本网站按非空段落自编，不是官网锚点或音视频时间戳。短引可在原页搜索，位于P007附近。",
+    "yearNote": "节目页发布日期为2023-01-03；不据此推断录音日期。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "PC-03",
+    "title": "与 Oliver Burkeman 对谈：怎样过有限的人生：官方播客文字稿",
+    "originalTitle": "How to make the most of a finite life (w/ Oliver Burkeman)",
+    "author": "Oliver Burkeman（嘉宾）；Chris Duffy（主持）",
+    "year": 2025,
+    "url": "https://www.ted.com/podcasts/how-to-make-the-most-of-a-finite-life-oliver-burkeman-transcript",
+    "language": "英语",
+    "kind": "官方播客访谈文字稿",
+    "access": "官方公开文字稿，已从开场读至片尾；未听校完整音频，未通读节目提到的书。",
+    "supports": "可核对本期参与者实际如何提出并回应问题；不是本网站练习的效果证据。",
+    "limits": "这是节目中的观点、回忆和建议，不是对其全部主张的独立实证检验。不能证明接受有限性必然增加幸福、生产力或健康。 不能用“接纳不完美”代替对工时、照护负担、收入或决定权的现实改善。 不能规定人人应该慢下来，也不能用苦难回忆要求别人感恩困境。 不能用创作人士的自主时间经验替代没有这些条件者的生活安排。",
+    "locator": "TED 本期官方公开文字稿，P001—P138；段号为本网站按非空段落自编，不是官网锚点或音视频时间戳。短引可在原页搜索，位于P103附近。",
+    "yearNote": "节目页发布日期为2025-02-03；不据此推断录音日期。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CC-01",
+    "title": "新西班牙村地、授地与庄园：贡赋权不是土地所有权",
+    "originalTitle": "La formación de la hacienda en la época colonial. El uso de la tierra y el agua",
+    "author": "Gisela von Wobeser",
+    "year": 1989,
+    "url": "https://historicas.unam.mx/publicaciones/publicadigital/libros/formacion_hacienda/epoca_colonial.html",
+    "language": "西班牙语",
+    "kind": "历史学术专著／UNAM历史研究所开放选章",
+    "access": "实际取得第I、III、IV章独立PDF并提取阅读指定正文；分别17、21、21页，含电子版说明页。未通读222页全书，未逐幅核图。",
+    "supports": "分别考察贡赋权、地权及村地与庄园的相互作用，并提供糖业劳动的身份差异。",
+    "limits": "读的是作者综合研究，未亲阅其引用档案。不采用土地面积、奴隶价格、人口或税负总量估算，不据此概括整个西属美洲。第IV章债务雇工一处注释援引19世纪研究，本包不拿它证明殖民期所有雇工都被债务锁死；也不采用书中村地尺度及扩地年份作精确法令史。",
+    "verifiedReadUrls": [
+      "https://historicas.unam.mx/publicaciones/publicadigital/libros/formacion_hacienda/epoca_colonial.html",
+      "https://historicas.unam.mx/publicaciones/publicadigital/libros/formacion_hacienda/04_fhec02_cap1.pdf",
+      "https://historicas.unam.mx/publicaciones/publicadigital/libros/formacion_hacienda/04_fhec04_cap3.pdf",
+      "https://historicas.unam.mx/publicaciones/publicadigital/libros/formacion_hacienda/04_fhec05_cap4.pdf"
+    ],
+    "locator": "第I章印刷页13—14、16—19（独立PDF第4—5、7—10页）；第III章页57—60、63、66—67（PDF第10—13、16、19—20页）；第IV章页69—72（PDF第2—5页）。",
+    "yearNote": "采用第二版；UNAM第一电子版2016年上线，不把上线年当研究出版年。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CC-02",
+    "title": "墨西哥谷地轮派劳役的工资、替工与贡赋压力",
+    "originalTitle": "Los salarios dentro del sistema del repartimiento forzoso en el Valle de México, 1549-1632",
+    "author": "Sander Spanoghe",
+    "year": 1997,
+    "url": "https://estudiosamericanos.revistas.csic.es/index.php/estudiosamericanos/article/view/398",
+    "language": "西班牙语",
+    "kind": "历史学术论文／Anuario de Estudios Americanos 54(1)，43—64",
+    "access": "实际读取22页PDF中的导论、工资支付、替工和贡赋讨论。先取得公开副本，后又从CSIC期刊原站取得同文PDF；不是只读摘要。",
+    "supports": "说明有规定工资的强制轮派劳动、部分应对办法及贡赋义务之间的联系。",
+    "limits": "地域为墨西哥谷地，主期1549—1632。作者承认工资资料稀疏，计算还假定劳役次数和其他收入；本包不复算、不引用百分比，不把“工资几乎无实际价值”的强结论当作普遍测量。1632不能据此成为全美洲强制劳动同时终止之年。",
+    "verifiedReadUrls": [
+      "https://estudiosamericanos.revistas.csic.es/index.php/estudiosamericanos/article/download/398/404",
+      "https://www.acuedi.org/ddata/9491.pdf"
+    ],
+    "locator": "印刷页43—44、47—48、59—64，对应PDF第1—2、5—6、17—22页；页47替工、页48要求付银币的命令、页59—60贡赋改革、页61估算假设。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CC-03",
+    "title": "原住民如何用王室法律争土地、劳动与地方权力",
+    "originalTitle": "Pacto entre rey lejano y súbditos indígenas. Justicia, legalidad y política en Nueva España, siglo XVII",
+    "author": "Brian P. Owensby",
+    "year": 2011,
+    "url": "https://www.redalyc.org/pdf/600/60022589002.pdf",
+    "language": "西班牙语",
+    "kind": "历史学术论文／Historia Mexicana 61(1)，59—106／El Colegio de México",
+    "access": "实际读取Redalyc所载49页PDF中的指定正文；含1页平台封面。不声称通读作者2008年专著，也未直接调阅其引录的AGN、AGI档案。",
+    "supports": "以具名案例呈现原住民诉讼、地方政治及王室保护和惩罚并存的关系。",
+    "limits": "作者以档案为基础的解释，不等于本任务亲阅档案。申诉、下令、执行分开：1714年支持下达还地命令，不证明已现场交还；1633年不证明所有雇主随后服从。1661年被处刑者临终话语仅由西班牙见证者传下，本稿不逐字引用或认定其内心动机。",
+    "verifiedReadUrls": [
+      "https://www.redalyc.org/pdf/600/60022589002.pdf"
+    ],
+    "locator": "印刷页67—75、82—94（PDF第10—18、25—37页）；页68普通村民与首领诉讼，74—75总法庭，85—86的1633年劳役新令，90—93贡赋与1714年还地命令，93—94的1661年处刑及证词限制。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CC-04",
+    "title": "1935年法属西非土地法令：空地认定与集体用地限制",
+    "originalTitle": "Décret du 15 novembre 1935 portant réglementation des terres domaniales en Afrique-occidentale française",
+    "author": "法国总统Albert Lebrun颁布；第15条交殖民部长执行",
+    "year": 1935,
+    "url": "https://www.alertefoncier.org/sites/default/files/bibliotheque/livre/decret_du_15_novembre_1935_portant_reglementation_des_terres_domaniales_en_afrique_francaise.pdf",
+    "language": "法语",
+    "kind": "一手法令文字的后出转录／非当年公报原影",
+    "access": "实际读取公开4页PDF全部15条及后加注释。正文载日期和Lebrun署名；本轮未取得1935年公报影像逐字校勘，不把转载网站冒称官方档案馆。",
+    "supports": "提供1935年国家土地、集体用地、居民保留地及让与争议的规范条文。",
+    "limits": "规范不等于执行事实。本轮没有以同一地点的地籍、让与案及村民诉讼验证落实率。长期休耕或季节性利用者可能面临举证风险，是条文推论，不是假称找到征地个案。不将此法回投到1895年，也不作为现行土地法说明。",
+    "verifiedReadUrls": [
+      "https://www.alertefoncier.org/sites/default/files/bibliotheque/livre/decret_du_15_novembre_1935_portant_reglementation_des_terres_domaniales_en_afrique_francaise.pdf"
+    ],
+    "locator": "PDF第1页第1、3条；第2—3页第4—5条；第4页第9—15条。第1条第二款两个条件须合读；第5条为居民保留地要求；第12条为让与争议的行政司法管辖。",
+    "yearNote": "采用后出转录本；1955年废止注释不是1935年正文。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CC-05",
+    "title": "塞内加尔的征工、税册、首领与当地人的应对",
+    "originalTitle": "Travail forcé et mobilisation de la main-d’œuvre au Sénégal. Années 1920-1960",
+    "author": "Romain Tiquet",
+    "year": 2019,
+    "url": "https://hal.science/hal-03154890/file/Travail_Force_mobilisationPUR.pdf",
+    "language": "法语",
+    "kind": "历史学术专著／大学出版社／HAL开放全文副本",
+    "access": "取得284页PDF，定点读取导论及第I、III、IV章相关正文，不是逐页通读。本包只采用截至1946年的材料。另取得作者学位论文文件但未用其正文，不另计或冒称已读。",
+    "supports": "提供塞内加尔征税征工、首领角色与当地应对的具体历史材料。",
+    "limits": "地方执行以塞内加尔为主，不代表全部AOF。档案、访谈为作者工作，本任务未亲访、未亲阅。四市例外须以CC-06法条限定对象，不沿用“所有居民”简写。导论压缩1946年多项改革，本包不把废除全部特殊惩戒都归给5月7日公民权法，也不采用此前法国完全没有财政投入的概括。Lambaye明确到1946年10月调查及撤职建议，未单独核到最终撤职命令。",
+    "verifiedReadUrls": [
+      "https://hal.science/hal-03154890/file/Travail_Force_mobilisationPUR.pdf"
+    ],
+    "locator": "印刷页21—32、45—52、61—62、110—119、137—140、145—148；这些页的PDF页序与印刷页码相同。页26惩戒与征收，48—51赎役及家庭代价，114—115税册流程，137—140为1946年Lambaye案；页148的1947年信件不采用。",
+    "yearNote": "Presses universitaires de Rennes出版；HAL副本2021年存入，不改写研究年份。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CC-06",
+    "title": "1916年四市出生者及后裔的公民身份与兵役义务",
+    "originalTitle": "Loi étendant aux descendants des originaires des communes de plein exercice du Sénégal les dispositions de la loi militaire du 19 octobre 1915",
+    "author": "法国参议院、众议院通过；总统Raymond Poincaré颁布",
+    "year": 1916,
+    "url": "https://bhpt.org/vendors/richfilemanager/connectors/php/filemanager.php?mode=readfile&path=%2FBHPT_Documents%2FPremiere_Guerre_mondiale%2F1916%2F1916-T3%2Fdiagne.pdf&time=1709283416321",
+    "language": "法语",
+    "kind": "一手Bulletin des lois法令影像／邮政电信历史图书馆BHPT展示资料",
+    "access": "取得3页资料。第1页法令影像不在PDF文字层，另在内存抽取影像，以英、法语OCR两次读取题名、日期、唯一条与署名。未读整期公报；第2—3页介绍不当法条。",
+    "supports": "限定1916年四市公民身份规定的对象，并保留兵役义务。",
+    "limits": "以法条界定对象，不采用介绍页“所有居民”的扩大说法；迁入四市不能仅凭住址推出资格。法条不自动证明实际政治、工资或司法待遇全面相等；不计算有权人数，不采用介绍材料的AOF成员简表。",
+    "verifiedReadUrls": [
+      "https://bhpt.org/vendors/richfilemanager/connectors/php/filemanager.php?mode=readfile&path=%2FBHPT_Documents%2FPremiere_Guerre_mondiale%2F1916%2F1916-T3%2Fdiagne.pdf&time=1709283416321"
+    ],
+    "locator": "BHPT PDF第1页中央公报影像，编号10286；Du 29 Septembre 1916、Article unique。四市名称另以CC-05页23核对。",
+    "yearNote": "法日期1916-09-29；影像注明1916-10-01刊于Journal officiel。2016是BHPT资料编制年。",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "CC-07",
+    "title": "1946年公民权法：法定身份与权利实施分开",
+    "originalTitle": "Loi n° 46-940 du 7 mai 1946, tendant à proclamer citoyens tous les ressortissants des territoires d’outre-mer",
+    "author": "法国国民制宪议会通过；Félix Gouin颁布（通称Lamine Guèye法）",
+    "year": 1946,
+    "url": "https://mjp.univ-perp.fr/france/loi1946-940.htm",
+    "language": "法语",
+    "kind": "一手法令全文转录／佩皮尼昂大学Digithèque MJP",
+    "access": "实读大学数字文库网页的唯一条、颁布日期及署名。web.run另核Legifrance官方书目，但官方正文直连受限；不标成已读官方正文。",
+    "supports": "区分1946年公民身份法的颁布、生效日期与另待规定的行使条件。",
+    "limits": "未把网页导读当全部选举法研究。唯一条不等于独立、不保证同等代表已经落实，也不单独证明强制劳动或所有特殊惩戒制度的废除；劳动改革另据CC-05。",
+    "bibliographicUrl": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000315837",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/france/loi1946-940.htm"
+    ],
+    "locator": "Article unique两句及Fait à Paris le 7 mai 1946；第一句生效时点1946-06-01，第二句将行使条件交特别法律。",
+    "checked": "2026-10-05"
   }
 ]

@@ -4,7 +4,7 @@
   "title": "世界照见我",
   "subtitle": "从旅途，到历史，到可以检查的一次行动",
   "date": "2026-10-05",
-  "contentVersion": "2026-10-05-public-foundation",
+  "contentVersion": "2026-10-05-world-and-life-reading",
   "heroImages": [
     "giza-pyramids",
     "sarajevo-latin-bridge",
@@ -98,19 +98,20 @@
   "note": "六封补充邮件目前完整读取0/6，独立回查0/6。具体项目与协作事件另在本地私人研究包中分析，不随公共网站发布；读取、回答和行为改变是三个不同的完成条件。",
   "counts": {
     "chapters": 13,
-    "chapterSections": 75,
+    "chapterSections": 77,
     "legacyQuestions": 66,
     "additionalQuestions": 9,
     "answers": 12,
     "books": 55,
     "originalWorks": 21,
-    "sources": 175,
+    "sources": 185,
     "plannedStops": 20,
     "mentionedCountries": 8,
     "events": 37,
     "photos": 20,
     "practices": 5,
     "videos": 3,
+    "podcasts": 3,
     "corrections": 24
   },
   "files": [
