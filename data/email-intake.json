@@ -1,14 +1,171 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "title": "用户告知已发送的六封补充邮件",
-  "boundary": "尚未取得任何邮件正文；不能把用户告知已发送等同于本次已读取。六封须逐封读取、辨认角色、整理问题、核查主要主张、融入网站并独立回查。",
+  "boundary": "六封原始邮件均已取得并读完其实际正文；第4、5封内容重复，部分原会话在邮件中不完整。读取、问题定位、主要主张核查、整合与独立回查分别登记，不把邮件6/6说成所有原对话无遗漏。",
   "entries": [
-    {"id":"email-1","label":"邮件 1","status":"等待邮箱身份验证","note":"用户告知主题为“1”；正文和实际消息身份尚未核对。","bodyReceived":false,"bodyFullyRead":false,"questionsMapped":false,"majorClaimsReviewed":false,"integrated":false,"independentlyChecked":false},
-    {"id":"email-2","label":"邮件 2","status":"等待按顺序读取","note":"先完成邮件1的读取与初步分析，再处理本封。","bodyReceived":false,"bodyFullyRead":false,"questionsMapped":false,"majorClaimsReviewed":false,"integrated":false,"independentlyChecked":false},
-    {"id":"email-3","label":"邮件 3","status":"等待按顺序读取","note":"原始问题、AI回复和引用须分别辨认，不预填内容。","bodyReceived":false,"bodyFullyRead":false,"questionsMapped":false,"majorClaimsReviewed":false,"integrated":false,"independentlyChecked":false},
-    {"id":"email-4","label":"邮件 4","status":"等待按顺序读取","note":"未取得正文，不根据旧稿猜测本封的问题。","bodyReceived":false,"bodyFullyRead":false,"questionsMapped":false,"majorClaimsReviewed":false,"integrated":false,"independentlyChecked":false},
-    {"id":"email-5","label":"邮件 5","status":"等待按顺序读取","note":"后续须将问题连接到已有主题，无法合并的独立保留。","bodyReceived":false,"bodyFullyRead":false,"questionsMapped":false,"majorClaimsReviewed":false,"integrated":false,"independentlyChecked":false},
-    {"id":"email-6","label":"邮件 6","status":"等待按顺序读取","note":"本封分析后仍需回查前五封及Kimi，不能只回答最后一封。","bodyReceived":false,"bodyFullyRead":false,"questionsMapped":false,"majorClaimsReviewed":false,"integrated":false,"independentlyChecked":false}
+    {
+      "id": "email-1",
+      "label": "邮件 1",
+      "status": "已提供正文已读、整合与回查",
+      "note": "34个子问题已定位并接入所有权、保障、实践、历史分期和私人综合稿；二十条书目逐项核对。第二主题的断点已由邮件2补上，不等于所有源对话无遗漏。",
+      "bodyReceived": true,
+      "bodyFullyRead": true,
+      "questionsMapped": true,
+      "majorClaimsReviewed": true,
+      "integrated": true,
+      "independentlyChecked": true,
+      "researchTargets": [
+        {
+          "href": "#answer/ownership-and-security",
+          "label": "所有权、保障与金钱"
+        },
+        {
+          "href": "#answer/practice-without-labels",
+          "label": "实践与人生方向"
+        },
+        {
+          "href": "#personal",
+          "label": "私人原话与事件"
+        },
+        {
+          "href": "#answer/balkan-time-and-revolution",
+          "label": "帝国、革命与历史分期"
+        },
+        {
+          "href": "#question/mail-montenegro",
+          "label": "黑山入盟状态与日期"
+        }
+      ],
+      "sourceTailMissing": false
+    },
+    {
+      "id": "email-2",
+      "label": "邮件 2",
+      "status": "已提供正文已读、整合与回查",
+      "note": "旅行研究委托、重复继续指令与AI代拟议程分开；方法性补充不计本人新问。文明、殖民、货币与研究方法已有处理位置。",
+      "bodyReceived": true,
+      "bodyFullyRead": true,
+      "questionsMapped": true,
+      "majorClaimsReviewed": true,
+      "integrated": true,
+      "independentlyChecked": true,
+      "researchTargets": [
+        {
+          "href": "#chapter/civilizations",
+          "label": "文明谱系与交流"
+        },
+        {
+          "href": "#answer/colonial-comparison",
+          "label": "地方制度比较"
+        },
+        {
+          "href": "#chapter/method",
+          "label": "观察与研究方法"
+        }
+      ],
+      "sourceTailMissing": false
+    },
+    {
+      "id": "email-3",
+      "label": "邮件 3",
+      "status": "已提供正文已读、整合与回查",
+      "note": "7个子问题与5条不完整题录分别处理；未核题录不作证据。服饰外观、个人工作感受与一般制度论述分开，原件UBI段的缺尾仍未收到。",
+      "bodyReceived": true,
+      "bodyFullyRead": true,
+      "questionsMapped": true,
+      "majorClaimsReviewed": true,
+      "integrated": true,
+      "independentlyChecked": true,
+      "researchTargets": [
+        {
+          "href": "#chapter/belief",
+          "label": "服饰、宗教与权威"
+        },
+        {
+          "href": "#chapter/labor",
+          "label": "工作、用途与异化"
+        },
+        {
+          "href": "#chapter/consciousness",
+          "label": "自然、意识与研究边界"
+        }
+      ],
+      "sourceTailMissing": true
+    },
+    {
+      "id": "email-4",
+      "label": "邮件 4",
+      "status": "已提供正文已读、整合与回查",
+      "note": "7个子问题对应归乡故事、年代、同期材料和文明祖谱；“他们怎么看希腊”的指代歧义保留，同期全部群体态度没有代填。后半由邮件2接续。",
+      "bodyReceived": true,
+      "bodyFullyRead": true,
+      "questionsMapped": true,
+      "majorClaimsReviewed": true,
+      "integrated": true,
+      "independentlyChecked": true,
+      "researchTargets": [
+        {
+          "href": "#answer/odyssey",
+          "label": "史诗、归乡与时间"
+        },
+        {
+          "href": "#answer/contemporary-world",
+          "label": "古代同期的具体材料"
+        },
+        {
+          "href": "#answer/civilization-ancestry",
+          "label": "文明祖谱与交流"
+        }
+      ],
+      "sourceTailMissing": false
+    },
+    {
+      "id": "email-5",
+      "label": "邮件 5",
+      "status": "已提供正文已读、整合与回查",
+      "note": "主题5原件已独立下载；正文5130字符逐字节等于邮件4，沿用同一研究结果，不算7个新增问题或第二次行为。",
+      "bodyReceived": true,
+      "bodyFullyRead": true,
+      "questionsMapped": true,
+      "majorClaimsReviewed": true,
+      "integrated": true,
+      "independentlyChecked": true,
+      "researchTargets": [
+        {
+          "href": "#answer/odyssey",
+          "label": "与邮件4共用回答"
+        },
+        {
+          "href": "#chapter/civilizations",
+          "label": "共同的文明研究位置"
+        }
+      ],
+      "sourceTailMissing": false,
+      "duplicateOf": "email-4"
+    },
+    {
+      "id": "email-6",
+      "label": "邮件 6",
+      "status": "题录与已有细读已核；更多国别原文精读仍待补",
+      "note": "十九个命名作品含备选逐项登记，误配和未核项不编剧情；十一国另荐明确分开。当前只有部分作品有实际片段细读，未读各国原书不能算全部深读完成；原件“萨达”之后的缺尾仍未收到。",
+      "bodyReceived": true,
+      "bodyFullyRead": true,
+      "questionsMapped": true,
+      "majorClaimsReviewed": true,
+      "integrated": true,
+      "independentlyChecked": false,
+      "researchTargets": [
+        {
+          "href": "#library",
+          "label": "逐本书目与原文入口"
+        },
+        {
+          "href": "#chapter/literature",
+          "label": "小说不是国家病历"
+        }
+      ],
+      "sourceTailMissing": true
+    }
   ]
 }

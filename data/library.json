@@ -1449,5 +1449,67 @@
     "closeReadingRefs": [
       "GAP-LORD"
     ]
+  },
+  {
+    "id": "book-mail-sen",
+    "title": "把发展理解为自由：森的讲座短文",
+    "originalTitle": "Amartya Sen Shares His Theory of Development As Freedom",
+    "author": "Amartya Sen",
+    "year": 2001,
+    "theme": "freedom",
+    "kind": "作者原文与思想",
+    "thesis": "以人实际能过怎样的生活评价发展，区分收入、商品与技术等手段和自由这一评价目标；同时讨论多种自由的相互支持。",
+    "why": "为“资产越多就越自由吗”提供不同的评价尺度。",
+    "reading": "本轮读的是作者本人依据2001年讲座写的短文，不是1999年同名主题书的全文。先看他如何区分目的与手段，再看公共教育、健康与市场等制度何时支持行动。",
+    "limits": "既包含价值判断也包含机制论述，不能把规范主张当个人实验结果；收入的实际重要性并未被否定。不能仅凭此文决定职业或财务安排。",
+    "access": "已读公开短文全文；未通读《Development as Freedom》全书。",
+    "translationNote": "中文标题为本网站说明性翻译；文章与书籍分开登记。",
+    "fullBookRead": false,
+    "exercise": "在一个你本来就考虑的改变上，分别写增加了什么资源和增加了哪项实际选择；两者可能不一样。",
+    "refs": [
+      "EM1-R01"
+    ],
+    "quote": {
+      "original": "lives that people can lead",
+      "translation": "人们实际上能够过的生活",
+      "language": "en",
+      "context": "短文第二段论评价发展：收入、工业化、技术等成果的价值，要看对生活和自由的作用；本网站自译。",
+      "explanation": "这几个词把评价对象从资源的拥有量，移到生活的可能性。它不要求否定金钱，而是追问金钱、技能和公共服务能否真的转成本人认可的生活。本站借它提出问题，不替作者补出一种人人适用的生活方式。",
+      "refs": [
+        "EM1-R01"
+      ]
+    }
+  },
+  {
+    "id": "book-mail-graeber-essay",
+    "title": "论无意义工作的现象：回到2013年原刊文章",
+    "originalTitle": "On the Phenomenon of Bullshit Jobs",
+    "author": "David Graeber",
+    "year": 2013,
+    "theme": "labor",
+    "kind": "作者原文与思想",
+    "thesis": "文章讨论忙碌、工作道德、组织层级与权力，但不把它们写成已查明的统一设计。它提出需要调查的问题，不是全书及全部后续证据。",
+    "why": "让一句流行的“为了维稳造岗”解释，回到作者实际的限定。",
+    "reading": "已读原刊从开篇到结尾。注意文章由工时预言转向岗位、道德评价和权力关系的过程，并保留其区分有意识设计与长期演化的末段。2018年书籍是另一件作品，本轮未通读。",
+    "limits": "文章的政治解释不等于因果证明；后续研究存在不同结果，主观无用感、客观用途和雇主意图必须分开。不能据职业名称判定任何人的价值。",
+    "access": "已读2013年原刊文章全文；没有将它冒充2018年全书。",
+    "translationNote": "中文为本网站说明性题名；正式中文书籍译名与本文章不同。",
+    "fullBookRead": false,
+    "exercise": "选一项具体工作，区分“我不喜欢”“没人使用”“分配不公”“过程无权参与”，分别找证据，不把四句合成一句。",
+    "refs": [
+      "EM1-S06",
+      "AG-S07",
+      "AG-S20"
+    ],
+    "quote": {
+      "original": "never consciously designed",
+      "translation": "从未被有意识地设计出来",
+      "language": "en",
+      "context": "原刊末段对系统形成的限定，主语为文中所说的system；本网站自译。",
+      "explanation": "这句限定防止把作者的批判改成他已经查获一份统一制造无用岗位的计划。否定合谋证明，不等于否定组织惯例能维护权力；后者仍要通过具体过程和后续研究讨论。",
+      "refs": [
+        "EM1-S06"
+      ]
+    }
   }
 ]

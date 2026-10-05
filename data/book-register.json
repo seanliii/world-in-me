@@ -426,5 +426,637 @@
       ],
       "limits": "读到的是2018年法文简介和目录，未读正文；旧制度描述不能直接当成今天各区域的现状。"
     }
+  ],
+  "supplementaryReviews": [
+    {
+      "id": "mail1-books",
+      "title": "补充材料里的二十条书目：先核题名，再谈理解",
+      "note": "原二十条逐项登记。第3条实际提到两本书；误配、版本冲突、只定位到原站索引与未核题录都保留，不用另荐书名偷换原书，也不宣称二十本通读。",
+      "entries": [
+        {
+          "number": 1,
+          "originalTitle": "债：第一个 5000 年",
+          "originalAuthor": "大卫・格雷伯",
+          "status": "书目配对已核；核到中文题录",
+          "originalPairVerified": true,
+          "note": "已核到：Debt: The First 5,000 Years；David Graeber。\n\n所核版本：Melville House；2011；英文初版题录；9781933633862。\n\n所核版本：CITIC／中信；2012；简体中文《债：第一个5000年》题录；9787508635545。\n\n只核作者遗产站的题名、版本及译本资料；不认定邮件对债务史的概括已经核实。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B01"
+          ]
+        },
+        {
+          "number": 2,
+          "originalTitle": "资本论 第一卷",
+          "originalAuthor": "马克思",
+          "status": "作品及所核英译本已核",
+          "originalPairVerified": true,
+          "note": "已核到：Das Kapital（第1卷）；所核英译题名 Capital, Volume I；Karl Marx。\n\n所核版本：Penguin Classics；2004；Ben Fowkes英译；Ernest Mandel导言；9780140445688。\n\n2004是本轮所核英译版的页面出版年，不是德文原作初版年；没有执行邮件所说的“只读第一篇”。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B02"
+          ]
+        },
+        {
+          "number": 3,
+          "originalTitle": "货币、权力与人 / 现代货币理论",
+          "originalAuthor": "蒋硕杰 / L. Randall Wray",
+          "status": "前一书作者配对不通过；斜线后Wray一书已核",
+          "originalPairVerified": false,
+          "note": "已核到：货币、权力与人；翟东升。\n\n所核版本：作者履历证实同名著作；具体印本待核。\n\n不能说《货币、权力与人》不存在：已在作者任职机构查到翟东升的同名书。未核到“蒋硕杰＋该题名”的原记录。本轮不以销售榜、零售条目补齐版本；Wray是邮件同一条本来就有的第二本，不能拿来顶替前一本。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。\n\n同条另一本已核：Modern Money Theory: A Primer on Macroeconomics for Sovereign Monetary Systems；L. Randall Wray；Palgrave Macmillan，2015年第2版，电子书ISBN 9781137539922。未读全书，也未核中文版权页。",
+          "refs": [
+            "EM1-B03",
+            "EM1-B03-W"
+          ]
+        },
+        {
+          "number": 4,
+          "originalTitle": "货币的非国家化",
+          "originalAuthor": "哈耶克",
+          "status": "出版方题录已定位；完整版本记录未核",
+          "originalPairVerified": false,
+          "note": "已核到：Denationalisation of Money；F. A. Hayek。\n\n所核版本：Institute of Economic Affairs；本轮未核定具体版次。\n\n原站直接读取403；只到原站索引。不能把修订本Denationalisation of Money—The Argument Refined的副题、年份或ISBN无差别套给所有版本。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B04"
+          ]
+        },
+        {
+          "number": 5,
+          "originalTitle": "反脆弱",
+          "originalAuthor": "纳西姆・塔勒布",
+          "status": "作品及所核版已核",
+          "originalPairVerified": true,
+          "note": "已核到：Antifragile: Things that Gain from Disorder；Nassim Nicholas Taleb。\n\n所核版本：Penguin；2013；平装；9780141038223。\n\n没有据出版简介把邮件中的“工资必然脆弱、项目天然反脆弱”等判断认证为原著结论。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B05"
+          ]
+        },
+        {
+          "number": 6,
+          "originalTitle": "有限与无限的游戏",
+          "originalAuthor": "詹姆斯・卡斯",
+          "status": "作者及初版说明已核",
+          "originalPairVerified": true,
+          "note": "已核到：Finite and Infinite Games；James P. Carse。\n\n所核版本：The Free Press；1986；作者本人说明的初版。\n\n作者官网明确写1986年由The Free Press初版；不将James Clear等不同作者混入。未以此认定任何项目方法的有效性。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B06"
+          ]
+        },
+        {
+          "number": 7,
+          "originalTitle": "黑天鹅",
+          "originalAuthor": "塔勒布",
+          "status": "作品及所核版已核",
+          "originalPairVerified": true,
+          "note": "已核到：The Black Swan: The Impact of the Highly Improbable；Nassim Nicholas Taleb。\n\n所核版本：Penguin；2011；出版页所列平装版；9780141034591。\n\n只填原站可见的所核版；不把2011写成作品初版年，也不凭记忆为它补印次。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B07"
+          ]
+        },
+        {
+          "number": 8,
+          "originalTitle": "精益创业",
+          "originalAuthor": "埃里克・莱斯",
+          "status": "作品及所核版已核",
+          "originalPairVerified": true,
+          "note": "已核到：The Lean Startup；Eric Ries。\n\n所核版本：Portfolio Penguin；2011；英文平装版；9780670921607。\n\n所核页面现用营销性副题，故以稳定主标题登记；未读正文，未验证邮件关于AI项目适用性的说法。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B08"
+          ]
+        },
+        {
+          "number": 9,
+          "originalTitle": "四步创业法",
+          "originalAuthor": "Steven Blank",
+          "status": "作品已核；出版署名为Steve Blank",
+          "originalPairVerified": true,
+          "note": "已核到：The Four Steps to the Epiphany: Successful Strategies for Products that Win；Steve Blank。\n\n所核版本：Wiley；2020；精装再发行；2020年3月；9781119690351。\n\n沿用作者出版署名Steve Blank。Wiley明确说明封面、设计与内容同此前K&S Ranch版本，不能把2020当作一次新修订。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B09"
+          ]
+        },
+        {
+          "number": 10,
+          "originalTitle": "创新者的窘境",
+          "originalAuthor": "克里斯坦森",
+          "status": "作品及2024附新序版已核",
+          "originalPairVerified": true,
+          "note": "已核到：The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail；Clayton M. Christensen。\n\n所核版本：Harvard Business Review Press；2024；with a New Foreword；Marc Benioff作新序；产品号10706。\n\n采用实际取得的2024附新序版本，未把它当作首版；不从书目推出“小个体一定能战胜大资本”。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B10"
+          ]
+        },
+        {
+          "number": 11,
+          "originalTitle": "狗屁工作",
+          "originalAuthor": "大卫・格雷伯",
+          "status": "作品已核；正式简体版题名需规范",
+          "originalPairVerified": true,
+          "note": "已核到：Bullshit Jobs；David Graeber。\n\n所核版本：2018；作者遗产站所列作品初版年。\n\n所核版本：CITIC／中信；2022；简体中文正式题名《毫无意义的工作》；9787521743883。\n\n“狗屁工作”保留为邮件原称；不能把它冒称2022中信本的正式书名。2013文章与2018书籍分开；未读全书。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B11"
+          ],
+          "libraryId": "book-ag-05"
+        },
+        {
+          "number": 12,
+          "originalTitle": "工作的终结",
+          "originalAuthor": "杰里米・里夫金",
+          "status": "作者机构书目已核",
+          "originalPairVerified": true,
+          "note": "已核到：The End of Work；Jeremy Rifkin。\n\n所核版本：Tarcher/Putnam；1995；作者办公室书目所列版。\n\n核到的是作者本人机构的书目行，不是对人工智能时代劳动预测的事实认证。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B12"
+          ]
+        },
+        {
+          "number": 13,
+          "originalTitle": "自由的未来",
+          "originalAuthor": "丹尼尔・艾伦",
+          "status": "邮件配对未核；同题英文著作存在作者错配风险",
+          "originalPairVerified": false,
+          "note": "Norton原记录的作者是Fareed Zakaria（法里德·扎卡里亚），不是邮件给出的“丹尼尔·艾伦”。不能确定邮件原意就是这本同题书，故只列为对照，不改成“原条目已核”。中文版本及邮件所说“产权、使用权和所有权”内容均未核。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B13"
+          ]
+        },
+        {
+          "number": 14,
+          "originalTitle": "合作社：一种可行的经济",
+          "originalAuthor": "杰西卡・戈登・内姆",
+          "status": "原题名＋作者配对未核",
+          "originalPairVerified": false,
+          "note": "有限检索未取得原题名的作者/出版社/图书馆完整记录。Jessica Gordon Nembhard有真实合作社著作，但不能据此认定邮件给出的中文书名成立。另荐R1完全分开；未核不等于证明不存在。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。\n\n另荐而非替换：Collective Courage: A History of African American Cooperative Economic Thought and Practice；Jessica Gordon Nembhard。同一位可核作者研究非裔美国人的合作社经济思想与实践史；是主题相关的真实书，不是原邮件书名的确认，也不是泛用的工人合作社操作手册。 本轮仍仅核书目。",
+          "refs": [
+            "EM1-B14"
+          ]
+        },
+        {
+          "number": 15,
+          "originalTitle": "瓦尔登湖",
+          "originalAuthor": "梭罗",
+          "status": "作者、原题及所核版已核",
+          "originalPairVerified": true,
+          "note": "已核到：Walden；Henry David Thoreau。\n\n所核版本：Princeton University Press；2016；John Updike导言版；9780691169347。\n\n1854原作年由出版社介绍确认，2016为此版；未读书籍，也不将“极简不是苦行”当作已核原文。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B15"
+          ]
+        },
+        {
+          "number": 16,
+          "originalTitle": "富足",
+          "originalAuthor": "彼得・戴曼迪斯",
+          "status": "作品已核；原条目漏合著者",
+          "originalPairVerified": false,
+          "note": "已核到：Abundance: The Future Is Better Than You Think；Peter H. Diamandis、Steven Kotler。\n\n所核版本：2012；作者官网确认出版日；具体印本ISBN未核。\n\n需补Steven Kotler，不能登记为Diamandis独著。作者官网足以核题名、二人署名和日期，不据此确认其预测或“资源不等于金钱”的邮件归纳。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B16"
+          ]
+        },
+        {
+          "number": 17,
+          "originalTitle": "你的钱，你的人生",
+          "originalAuthor": "Vicki Robin",
+          "status": "作品已核；漏合著者，版次日期有冲突",
+          "originalPairVerified": false,
+          "note": "已核到：Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence；Vicki Robin、Joe Dominguez。\n\n所核版本：Penguin Books；出版页描述“Fully Revised and Updated for 2018”，但On sale为2008-12-10；9780143115762。\n\n出版社明确列两位共同作者；Mr. Money Mustache为序作者，不是第三位共同作者。原条目漏Joe Dominguez；本轮不核FIRE起源或财务建议。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B17"
+          ]
+        },
+        {
+          "number": 18,
+          "originalTitle": "巴尔干两千年",
+          "originalAuthor": "罗伯特・卡普兰",
+          "status": "对应英文著作题录已定位；版次/中文版本未核",
+          "originalPairVerified": false,
+          "note": "已核到：Balkan Ghosts: A Journey Through History；Robert D. Kaplan。\n\n所核版本：Macmillan产品记录；产品页ISBN定位；具体年份/印次待核；9780312424930。\n\n只有出版方原站题录；直接读取403。保留邮件中文检索名，未据中文出版方核其版本，不用游记式题名为整段巴尔干史背书。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B18"
+          ]
+        },
+        {
+          "number": 19,
+          "originalTitle": "帝国的瓦解：奥匈帝国的最后岁月",
+          "originalAuthor": "艾伦・斯科尔",
+          "status": "原题名＋作者配对未核",
+          "originalPairVerified": false,
+          "note": "未取得原书题＋“艾伦·斯科尔”的可靠原记录。Alan Sked有可核的哈布斯堡帝国著作，但作者音译接近、主题相关都不等于同一本。仅列另荐R2，不将它偷换为原19条。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。\n\n另荐而非替换：The Decline and Fall of the Habsburg Empire 1815–1918；Alan Sked。有作者任职机构原始书目可核；时间范围1815–1918。未核到正式中文译名，不自行把它改名成《帝国的瓦解》。 本轮仍仅核书目。",
+          "refs": [
+            "EM1-B19",
+            "EM1-B19-ED"
+          ]
+        },
+        {
+          "number": 20,
+          "originalTitle": "奥斯曼帝国六百年",
+          "originalAuthor": "帕特里克・贝尔福",
+          "status": "对应英文著作题录已定位；完整版本记录未核",
+          "originalPairVerified": false,
+          "note": "已核到：The Ottoman Centuries: The Rise and Fall of the Turkish Empire；Lord Kinross（Patrick Balfour）。\n\n所核版本：Smithsonian馆藏原站题录；具体印本字段未核。\n\n以书面署名Lord Kinross作定位，同时保留邮件姓名形式。原站直取超时，不把搜索题录升格为已读馆藏完整记录；不填写未核的中文版年份、译者或ISBN。\n\n题录核实不等于原著已读；本条不以简介替代书中论证。",
+          "refs": [
+            "EM1-B20"
+          ],
+          "libraryId": "book-original-03"
+        }
+      ]
+    },
+    {
+      "id": "mail3-books",
+      "title": "服饰与规训的五条旧题录：哪些尚不能引用",
+      "note": "没有完整作者、刊期或唯一记录的论文题名不能充当证据；未取得记录不等于证明作品不存在。现有主题优先使用已经核读的宗教素养资料、福柯原文与明确书目。",
+      "entries": [
+        {
+          "number": 1,
+          "originalTitle": "Veil: Modesty, Gender, and the Body",
+          "originalAuthor": "Jennifer Heath",
+          "status": "原题录未核实",
+          "originalPairVerified": false,
+          "note": "已核Jennifer Heath相关真实出版物，但其正式题名与邮件不同，且她是编者；不能以另书替换原书后宣布核实。 实读出版社题录、简介和目录；未读书籍正文。不能由此证实邮件所说的奥斯曼—凯末尔—当代土耳其田野调查内容。 对照可核作品为The Veil: Women Writers on Its History, Lore, and Politics；Jennifer Heath为编者。这是另一本的准确题录，不是原给定书名已核实。",
+          "refs": [
+            "EM3-CHECK01"
+          ]
+        },
+        {
+          "number": 2,
+          "originalTitle": "The Body as a Site of Political Struggle",
+          "originalAuthor": "原条目未给出",
+          "status": "原题录未核实",
+          "originalPairVerified": false,
+          "note": "只有题名和“论文集”的泛称，无作者、编者、出版社、年份或唯一标识，不能唯一定位。 本轮只登记邮件提供的题录字段；没有取得出版方或图书馆完整原记录，不猜作者，不声称证明不存在。",
+          "refs": []
+        },
+        {
+          "number": 3,
+          "originalTitle": "面纱的多重意涵：伊斯兰女性服饰的历史演变与当代争议",
+          "originalAuthor": "原条目未给出",
+          "status": "原题录未核实",
+          "originalPairVerified": false,
+          "note": "邮件声称可在CNKI检索，但没有作者、年卷期页或可核唯一记录；所给刊名也未作为已验证字段。 按补充任务的有限范围，仅检查题录完整性；未进入CNKI账户、未下载论文、未执行穷尽检索。尚无完整可靠原记录，因此标未核实；不声称“知网没有此文”。",
+          "refs": []
+        },
+        {
+          "number": 4,
+          "originalTitle": "福柯规训理论视域下宗教仪式的身体实践",
+          "originalAuthor": "原条目未给出",
+          "status": "原题录未核实",
+          "originalPairVerified": false,
+          "note": "邮件声称可在CNKI检索，但没有作者、年卷期页或可核唯一记录；所给刊名也未作为已验证字段。 按补充任务的有限范围，仅检查题录完整性；未进入CNKI账户、未下载论文、未执行穷尽检索。尚无完整可靠原记录，因此标未核实；不声称“知网没有此文”。",
+          "refs": []
+        },
+        {
+          "number": 5,
+          "originalTitle": "世俗化与宗教回潮：土耳其头巾争议的百年变迁",
+          "originalAuthor": "原条目未给出",
+          "status": "原题录未核实",
+          "originalPairVerified": false,
+          "note": "邮件声称可在CNKI检索，但没有作者、年卷期页或可核唯一记录；所给刊名也未作为已验证字段。 按补充任务的有限范围，仅检查题录完整性；未进入CNKI账户、未下载论文、未执行穷尽检索。尚无完整可靠原记录，因此标未核实；不声称“知网没有此文”。",
+          "refs": []
+        }
+      ]
+    },
+    {
+      "id": "mail6-literature",
+      "title": "十一国文学旧书单：十九个命名作品逐条核对",
+      "note": "含正文、备选及旧答自行否定的题名。五项作品题录可核，三项作者误配，十一项未取得可靠对应；未核不等于证明不存在。错误书名不继续编情节，也不被同国另荐悄悄替换。",
+      "entries": [
+        {
+          "number": 1,
+          "originalTitle": "鸽子的项圈",
+          "originalAuthor": "原条目未署名",
+          "status": "未取得可靠题录",
+          "originalPairVerified": false,
+          "note": "邮件给出The Collar of the Dove但未给这项的作者。找到Raja Alem的The Dove’s Necklace，可用于辨认作者，但未核邮件中英文题名与该版的唯一对应关系；不把下一条的作者倒填回来。 保留“❌不是这本”的原意，不删除它，也不把“被否定”解释成“这本书不存在”。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": [
+            "EM6-N01"
+          ]
+        },
+        {
+          "number": 2,
+          "originalTitle": "利雅得女孩",
+          "originalAuthor": "拉贾・阿桑（Rajaa Alem）",
+          "status": "误配",
+          "originalPairVerified": false,
+          "note": "作品可核，但括号中的Rajaa Alem混入了另一位作家。现有Penguin页明确署Rajaa Alsanea；ABRAMS另一作品署Raja Alem。应纠正同一本书的作者，不另换书。 已核作品：Girls of Riyadh；Rajaa Alsanea。 原中文音译与括号英文不一致。页上早期背景和邮件所写封禁、劳工比例等均不升级为已核2026事实。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": [
+            "LIT-L11",
+            "EM6-N01"
+          ],
+          "libraryId": "book-lit-11"
+        },
+        {
+          "number": 3,
+          "originalTitle": "我的万夜之夜",
+          "originalAuthor": "原条目未署名",
+          "status": "未取得可靠题录",
+          "originalPairVerified": false,
+          "note": "原条目无作者、原文题名、出版社或版本；有限定向检索未取得可靠原记录。不能按“男性视角”替它猜作者、改标题或补情节。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": []
+        },
+        {
+          "number": 4,
+          "originalTitle": "沙迦的蓝房子",
+          "originalAuthor": "努拉・阿尔・卡比",
+          "status": "未取得可靠题录",
+          "originalPairVerified": false,
+          "note": "未核到该题名与所给作者的可靠原记录。不能据此复述“老贝都因人”的小说情节，更不能据此诊断阿联酋人的身份或文化。 现有《沙鱼》是Maha Gargash的另一部真实作品，不是把本书换个名字。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": []
+        },
+        {
+          "number": 5,
+          "originalTitle": "断掌的男人",
+          "originalAuthor": "霍达・巴拉卡特（Hoda Barakat）",
+          "status": "未取得可靠题录",
+          "originalPairVerified": false,
+          "note": "作者Hoda Barakat可由现有《笑之石》题录确认，但这不等于《断掌的男人》已核。有限检索未得到这组题名＋作者的可靠记录，不借别书补故事。 LIT-L10只用于同一国家的另荐，不是本题名存在的证明。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": []
+        },
+        {
+          "number": 6,
+          "originalTitle": "贝鲁特的忧郁",
+          "originalAuthor": "原条目未署名",
+          "status": "未取得可靠题录",
+          "originalPairVerified": false,
+          "note": "原条目未署作者或原文题名；有限检索未取得可唯一识别的可靠原记录。不能仅因“贝鲁特”相同就套用其他黎巴嫩小说。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": []
+        },
+        {
+          "number": 7,
+          "originalTitle": "太阳之花",
+          "originalAuthor": "法迪・阿兹姆",
+          "status": "未取得可靠题录",
+          "originalPairVerified": false,
+          "note": "未核到该题名＋作者的可靠原记录。不能把“太阳”相近的书或其他作者的难民小说强行对应，也不编造其人物与情节。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": []
+        },
+        {
+          "number": 8,
+          "originalTitle": "巴格达咖啡馆",
+          "originalAuthor": "原条目未署名",
+          "status": "未取得可靠题录",
+          "originalPairVerified": false,
+          "note": "这是原邮件自己排除的命名作品，也保留登记。本轮没有增加影视来源来核它的导演、年份或媒介，不把它重新列为突尼斯文学。 “电影”在这里仅记录邮件的说法，不是本轮完成的电影题录核验。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": []
+        },
+        {
+          "number": 9,
+          "originalTitle": "阿拉伯之春的女儿",
+          "originalAuthor": "萨菲娜兹・凯查",
+          "status": "未取得可靠题录",
+          "originalPairVerified": false,
+          "note": "未核到所给题名与作者的可靠记录。不能把主题相近的真实作品改名来补位；原邮件的革命前后人物、情节和“知识分子都在讨论”不作为已核事实。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": []
+        },
+        {
+          "number": 10,
+          "originalTitle": "神圣的夜晚",
+          "originalAuthor": "塔哈尔・本・杰伦（Taher Ben Jelloun）",
+          "status": "原条目已核",
+          "originalPairVerified": true,
+          "note": "Seuil原记录可核La Nuit sacrée及Tahar Ben Jelloun。邮件英文名中的Taher应按出版署名规范为Tahar；这是姓名拼写修正，不是换作者。 已核作品：La Nuit sacrée；Tahar Ben Jelloun。 只核作品与版本；“诺奖提名”“北非天花板”、全国城乡对立等原文说法未核，不因作者页或简介而照抄。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": [
+            "EM6-N04"
+          ]
+        },
+        {
+          "number": 11,
+          "originalTitle": "平民的史诗",
+          "originalAuthor": "同段关联纳吉布・马哈福兹，未为本题单独署名",
+          "status": "未取得可靠题录",
+          "originalPairVerified": false,
+          "note": "同一既有LIT-L01出版页确实另列Naguib Mahfouz的The Harafish；但本轮未核正式中文版本，不能仅凭“平民史诗”的描述就确认与邮件中文题名完全对应。保留为候选对照，不自动改名。 The Harafish和The Cairo Trilogy在同一出版页分别列为不同书；不能把前者当三部曲别名，也不扩写它的故事。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": [
+            "LIT-L01"
+          ]
+        },
+        {
+          "number": 12,
+          "originalTitle": "开罗三部曲",
+          "originalAuthor": "纳吉布・马哈福兹",
+          "status": "原条目已核",
+          "originalPairVerified": true,
+          "note": "既有LIT-L01同页的Author介绍与其他作品列表明确列The Cairo Trilogy及作者Naguib Mahfouz；三卷是一个组合题名，不是《米达克巷》的改名。 已核作品：The Cairo Trilogy；Naguib Mahfouz。 2001是所核合订本年份；同页作者介绍另记三个原作于1956/1957年出版。不得把合订本新日期当作故事年代或当代埃及调查。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": [
+            "LIT-L01"
+          ]
+        },
+        {
+          "number": 13,
+          "originalTitle": "雅库布扬大厦",
+          "originalAuthor": "原条目未署名",
+          "status": "原条目已核",
+          "originalPairVerified": true,
+          "note": "现有library与OR-12-1可核The Yacoubian Building，作者Alaa Al Aswany。原邮件这一处未再署作者，不能因上段是Mahfouz就把本书也归给他。 已核作品：The Yacoubian Building；Alaa Al Aswany。 复用已可靠题录；出版日/ISBN未核，不编填。原邮件的封禁说法不因小说书目而获得验证。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": [
+            "OR-12-1"
+          ],
+          "libraryId": "book-original-12"
+        },
+        {
+          "number": 14,
+          "originalTitle": "黑孩子",
+          "originalAuthor": "桑戈尔（塞内加尔开国总统）",
+          "status": "误配",
+          "originalPairVerified": false,
+          "note": "对应L’Enfant noir的原作作者是Camara Laye，不是Léopold Sédar Senghor。不能沿错误署名把作品当作桑戈尔著作，再据此给塞内加尔贴标签。 已核作品：L’Enfant noir；Camara Laye。 本轮只取得出版社原站题录；详细版本和正文没有取得。现有塞内加尔《如此长的一封信》是另荐，不是本书新译名。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": [
+            "EM6-N02"
+          ]
+        },
+        {
+          "number": 15,
+          "originalTitle": "最后的帝国",
+          "originalAuthor": "阿马杜・库鲁马；后文再次写“库鲁马的”",
+          "status": "误配",
+          "originalPairVerified": false,
+          "note": "Le Dernier de l’empire的馆藏责任者为Sembene Ousmane／Ousmane Sembène，而不是Ahmadou Kourouma。两次原文归属都需纠正，不能只修第一次。 已核作品：Le Dernier de l’empire；Ousmane Sembène。 图书馆原站索引可核题名与作者，完整记录未取得；不补未核版次、ISBN、情节或国家比较。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": [
+            "EM6-N03"
+          ]
+        },
+        {
+          "number": 16,
+          "originalTitle": "巴图拉",
+          "originalAuthor": "阿马杜・库鲁马",
+          "status": "未取得可靠题录",
+          "originalPairVerified": false,
+          "note": "原题名＋Kourouma配对未核。Albin Michel可核近名作品Batouala，作者René Maran；如果原文指它，作者和所接“科特迪瓦童兵”梗概都不能沿用。但本轮未核中文题名对应，故不直接宣布两者就是同一书。 保留原坏配对，不自动换成Batouala，也不自动换成库鲁马其他战争小说。网站《独立的太阳》仅是另荐。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": [
+            "EM6-N05"
+          ]
+        },
+        {
+          "number": 17,
+          "originalTitle": "非洲的一个孩子",
+          "originalAuthor": "弗洛伦斯・阿雅伊",
+          "status": "未取得可靠题录",
+          "originalPairVerified": false,
+          "note": "有限检索未取得该题名＋作者的可靠原记录；不能把别处的“非洲孩子”相似书名搬来，更不能把未核故事当成贝宁女性或伏都文化的普遍处境。 《无尽的陷阱》是网站已有的独立推荐，不是给本题目补出的原名。中文版本稀少、主要只有英文等原邮件说法也未核。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": []
+        },
+        {
+          "number": 18,
+          "originalTitle": "耻",
+          "originalAuthor": "库切",
+          "status": "原条目已核",
+          "originalPairVerified": true,
+          "note": "现有LIT-L02可核Disgrace与J. M. Coetzee。题录没错，但原邮件只写白人失去特权的解释过窄；需补回男性教师对学生施压、越界与自我辩护的伦理问题。 已核作品：Disgrace；J. M. Coetzee。 题录/简介与既有节选细读分开；见单独的《耻》纠偏段落。未声称通读或补出节选之后的具体情节。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": [
+            "LIT-L02",
+            "CU-08"
+          ],
+          "libraryId": "book-lit-02"
+        },
+        {
+          "number": 19,
+          "originalTitle": "七月的人民",
+          "originalAuthor": "原条目未署名",
+          "status": "原条目已核",
+          "originalPairVerified": true,
+          "note": "NobelPrize.org的Gordimer官方书目明确列July’s People，New York: Viking, 1981；作者是Nadine Gordimer，不应因为上一段谈Coetzee而承接给库切。 已核作品：July’s People；Nadine Gordimer。 这次只核书目和年版；不依据该书目页复述剧情，也不把原文的时代概括扩充成历史事实。 本轮题录核对不等于通读或已核全部剧情。",
+          "refs": [
+            "EM6-N06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mail6-reading",
+      "title": "十一国怎样继续读：不拿别书替原书",
+      "note": "以下是既有网站的真实阅读入口，不是为了修补旧题名而改名。沙特《利雅得女孩》等同书关系单独说明；作者、作品年代、国家归属和叙述范围分别看。",
+      "entries": [
+        {
+          "number": 1,
+          "originalTitle": "沙特｜利雅得女孩",
+          "originalAuthor": "Rajaa Alsanea／رجاء الصانع",
+          "status": "独立阅读入口；与旧条目的关系见说明",
+          "originalPairVerified": false,
+          "note": "与原《利雅得女孩》是同一作品；应纠正作者为Rajaa Alsanea，不发生换书或改名。\n\n出版社保留早期社会背景介绍，其中“没有电影院”等表述不能当成2026事实。本包不附封禁结论，不代表今日全体沙特女性。",
+          "refs": [
+            "LIT-L11"
+          ],
+          "libraryId": "book-lit-11"
+        },
+        {
+          "number": 2,
+          "originalTitle": "阿联酋｜沙鱼",
+          "originalAuthor": "Maha Gargash",
+          "status": "独立阅读入口；与旧条目的关系见说明",
+          "originalPairVerified": false,
+          "note": "与未核《沙迦的蓝房子》不同；另荐，不是原书改名。历史设定不证明今日全国人的身份焦虑。\n\n作者官网说明其为迪拜本地作者，作品写的是1950年代的当地社会；这是阿联酋文学入口，不以阿曼作品替代。历史小说不是当代阿联酋的社会实录，也不代表国家民意。本次只核读书目、简介和语言说明，没有通读小说，未核实中文译本，不附封禁结论。",
+          "refs": [
+            "LIT-L12"
+          ],
+          "libraryId": "book-lit-12"
+        },
+        {
+          "number": 3,
+          "originalTitle": "黎巴嫩｜笑之石",
+          "originalAuthor": "Hoda Barakat／هدى بركات",
+          "status": "独立阅读入口；与旧条目的关系见说明",
+          "originalPairVerified": false,
+          "note": "与未核《断掌的男人》《贝鲁特的忧郁》不同；另荐，不是原书改名。同作者的真书不能为未核书名背书。\n\n书目核验不等于作品可代表黎巴嫩各宗派及全体民众；本次未以二手剧情复述代替通读。",
+          "refs": [
+            "LIT-L10"
+          ],
+          "libraryId": "book-lit-10"
+        },
+        {
+          "number": 4,
+          "originalTitle": "约旦｜盐柱",
+          "originalAuthor": "Fadia Faqir",
+          "status": "独立阅读入口；与旧条目的关系见说明",
+          "originalPairVerified": false,
+          "note": "与未核《太阳之花》不同；另荐，不是原书改名。英国托管时期的设定不等于今天约旦人口和难民状况。\n\n作者生于安曼、以英语写作；不能把英国托管时期的设定直接复制到当代约旦，也不能代表所有阶层。",
+          "refs": [
+            "LIT-L09"
+          ],
+          "libraryId": "book-lit-09"
+        },
+        {
+          "number": 5,
+          "originalTitle": "突尼斯｜意大利人",
+          "originalAuthor": "Shukri Mabkhout／شكري المبخوت",
+          "status": "独立阅读入口；与旧条目的关系见说明",
+          "originalPairVerified": false,
+          "note": "与被排除的电影名及未核《阿拉伯之春的女儿》不同；另荐，不是原书改名。不能把《意大利人》当2011现场实录。\n\n主要叙事背景是1980—1990年代之交，不能因为出版社提及阿拉伯之春就当作2011年的现场记录。",
+          "refs": [
+            "LIT-L08"
+          ],
+          "libraryId": "book-lit-08"
+        },
+        {
+          "number": 6,
+          "originalTitle": "摩洛哥｜简单过去时",
+          "originalAuthor": "Driss Chraïbi",
+          "status": "独立阅读入口；与旧条目的关系见说明",
+          "originalPairVerified": false,
+          "note": "与已核Tahar Ben Jelloun的《神圣的夜晚》是不同作者、不同书；另荐，不是原书改名。\n\n个人家庭故事不是全体摩洛哥人或穆斯林的肖像；虽作者页含历史禁令说法，本包不转述未经另核的封禁结论。",
+          "refs": [
+            "LIT-L07"
+          ],
+          "libraryId": "book-lit-07"
+        },
+        {
+          "number": 7,
+          "originalTitle": "埃及｜米达克巷",
+          "originalAuthor": "Naguib Mahfouz／نجيب محفوظ",
+          "status": "独立阅读入口；与旧条目的关系见说明",
+          "originalPairVerified": false,
+          "note": "《米达克巷》与三部曲、The Harafish、Al Aswany的大厦小说均不同；另荐，不是原书改名。\n\n作品1947年的社会视角不是今日埃及全民意见。出版社页面关于诺奖的营销措辞不作为作品获奖事实引用。",
+          "refs": [
+            "LIT-L01"
+          ],
+          "libraryId": "book-lit-01"
+        },
+        {
+          "number": 8,
+          "originalTitle": "塞内加尔｜如此长的一封信",
+          "originalAuthor": "Mariama Bâ",
+          "status": "独立阅读入口；与旧条目的关系见说明",
+          "originalPairVerified": false,
+          "note": "与Camara Laye的L’Enfant noir、Sembène的Le Dernier de l’empire不同；另荐，不是原书改名。\n\n主人公是一位特定背景的受教育女性；不能说她代表全体穆斯林、全体女性或塞内加尔民意。",
+          "refs": [
+            "LIT-L06"
+          ],
+          "libraryId": "book-lit-06"
+        },
+        {
+          "number": 9,
+          "originalTitle": "科特迪瓦｜独立的太阳",
+          "originalAuthor": "Ahmadou Kourouma",
+          "status": "独立阅读入口；与旧条目的关系见说明",
+          "originalPairVerified": false,
+          "note": "只推荐已核Kourouma著作《独立的太阳》；另荐，不是把《巴图拉》改名，也不是把Batouala改归Kourouma。\n\n此链接核对作者与作品存在；不是本轮已通读小说的证明。作者经历跨国流亡，不能当作全国统一意见。Seuil页列1970，不将它冒充已核清的最初版本年。",
+          "refs": [
+            "LIT-L05"
+          ],
+          "libraryId": "book-lit-05"
+        },
+        {
+          "number": 10,
+          "originalTitle": "贝宁｜无尽的陷阱",
+          "originalAuthor": "Olympe Bhêly-Quenum",
+          "status": "独立阅读入口；与旧条目的关系见说明",
+          "originalPairVerified": false,
+          "note": "与未核《非洲的一个孩子》不同；另荐，不是原书改名。不用虚构人物概括整个贝宁或其宗教。\n\n出版社确认作者生于乌伊达；虚构个人命运不能推广为贝宁人的共同性格。网页未显示该版出版年，不硬填。",
+          "refs": [
+            "LIT-L04"
+          ],
+          "libraryId": "book-lit-04"
+        },
+        {
+          "number": 11,
+          "originalTitle": "南非｜耻",
+          "originalAuthor": "J. M. Coetzee",
+          "status": "独立阅读入口；与旧条目的关系见说明",
+          "originalPairVerified": false,
+          "note": "与原《耻》为同一作品，不需改书名；需要修正阅读视角。Gordimer的备选书是另一本。\n\n不是南非不同种族、阶级或性别的民意调查；不要把叙述者与作者立场简单相等。",
+          "refs": [
+            "LIT-L02",
+            "CU-08"
+          ],
+          "libraryId": "book-lit-02"
+        }
+      ]
+    }
   ]
 }

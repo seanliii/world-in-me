@@ -3,6 +3,7 @@ import { e, paragraphs, citations, arrow } from './render.mjs';
 export const PRIVATE_REPORT_LIMIT = 6_000_000;
 const STATUSES = ['有直接证据', '暂定假说', '证据不足', '待补材料', '需本人确认'];
 const object = value => value !== null && typeof value === 'object' && !Array.isArray(value);
+const internalTarget = value => /^#(?:chapter|answer|question|book|source)\/[A-Za-z0-9-]+$|^#(?:library|personal|sources|atlas)$/.test(value || '') ? value : '';
 
 function string(value, name, limit = 60000) {
   if (value === undefined || value === null) return '';
@@ -108,10 +109,22 @@ export function normalizePrivateReport(value) {
       const entry = item(raw, label);
       return { label: string(entry.label, `${label}名称`, 500), status: string(entry.status, `${label}状态`, 5000) };
     }, 80),
+    researchQuestions: list(value.researchQuestions, '逐封问题', (raw, label) => {
+      const entry = item(raw, label);
+      return {
+        id: id(entry.id, label),
+        label: string(entry.label, `${label}编号`, 400),
+        question: string(entry.question, `${label}问题`, 5000),
+        source: string(entry.source, `${label}来源`, 3000),
+        status: string(entry.status, `${label}处理说明`, 10000),
+        target: internalTarget(string(entry.target, `${label}目标`, 500)),
+        refs: strings(entry.refs, `${label}参考资料`, 80)
+      };
+    }, 300),
     unknowns: strings(value.unknowns, '未知范围', 80),
     nextQuestions: strings(value.nextQuestions, '待本人确认的问题', 40)
   };
-  for (const name of ['dimensions', 'cases', 'plans']) {
+  for (const name of ['dimensions', 'cases', 'plans', 'researchQuestions']) {
     if (new Set(report[name].map(entry => entry.id)).size !== report[name].length) throw new Error(`${name}编号重复，未导入。`);
   }
   return report;
@@ -131,9 +144,10 @@ export function renderPersonal(ctx, report = null) {
     <a class="text-link personal-bottom-link" href="#practice">记录你自己的观察与行动 ${arrow}</a></div>`;
   return `<div class="page-shell personal-page">${intro}
     <section class="private-report-heading"><span class="small-label">${e(report.createdAt)} · 本地文件中的评估，不是在线诊断</span><h2>${e(report.title)}</h2>${paragraphs(report.summary)}<ul>${report.scope.map(line => `<li>${e(line)}</li>`).join('')}</ul></section>
-    <nav class="personal-section-nav" aria-label="个人研究内容导航"><button data-jump="personal-coverage">材料覆盖</button><button data-jump="personal-dimensions">逐块分析</button>${report.cases.length ? '<button data-jump="personal-cases">具体事件</button>' : ''}<button data-jump="personal-plans">候选行动</button>${report.futures.length ? '<button data-jump="personal-futures">未来情景</button>' : ''}<button data-jump="personal-unknowns">仍然未知</button></nav>
+    <nav class="personal-section-nav" aria-label="个人研究内容导航"><button data-jump="personal-coverage">材料覆盖</button>${report.researchQuestions?.length ? '<button data-jump="personal-questions">逐封问题</button>' : ''}<button data-jump="personal-dimensions">逐块分析</button>${report.cases.length ? '<button data-jump="personal-cases">具体事件</button>' : ''}<button data-jump="personal-plans">候选行动</button>${report.futures.length ? '<button data-jump="personal-futures">未来情景</button>' : ''}<button data-jump="personal-unknowns">仍然未知</button></nav>
     <details class="personal-index"><summary>${report.dimensions.length} 个维度：直接找到想看的部分</summary><div>${report.dimensions.map(dimension => `<button data-jump="personal-${e(dimension.id)}"><span>${e(dimension.title)}</span><small>${e(dimension.status)}</small></button>`).join('')}</div></details>
     <section class="personal-coverage" id="personal-coverage"><h2>作者登记的材料覆盖</h2><p>这是研究包记录的覆盖范围；导入动作本身不重新认证原始邮件和日志。</p><div>${report.coverage.map(entry => `<article><strong>${e(entry.label)}</strong><p>${e(entry.status)}</p></article>`).join('')}</div></section>
+    ${report.researchQuestions?.length ? `<section class="personal-cases personal-questions" id="personal-questions"><h2>逐封问题与处理位置</h2><p>每项保留原话定位或方法项说明。重复邮件共用证据；有处理位置不等于已经得到终局答案。</p>${report.researchQuestions.map(question => `<details class="personal-case"><summary><span>${e(question.label)}</span>${e(question.question)}</summary><div>${paragraphs(question.source)}${paragraphs(question.status)}${question.target ? `<a class="text-link" href="${e(question.target)}">查看对应研究位置 ${arrow}</a>` : ''}${citations(ctx, question.refs)}</div></details>`).join('')}</section>` : ''}
     <section class="personal-dimensions" id="personal-dimensions"><div class="section-heading"><div><h2>逐块看，也逐块保留怀疑。</h2><p>${report.dimensions.length} 个研究维度；“证据不足”是允许且必要的结果。</p></div></div>${report.dimensions.map((dimension, index) => `<article id="personal-${e(dimension.id)}" class="personal-dimension"><header><span>${String(index + 1).padStart(2, '0')}</span><h3>${e(dimension.title)}</h3><small>${e(dimension.status)}</small></header><dl><dt>观察到了什么</dt><dd>${paragraphs(dimension.observation)}</dd><dt>暂时怎样解释</dt><dd>${paragraphs(dimension.hypothesis)}</dd><dt>其他解释与反例</dt><dd>${paragraphs(dimension.alternative)}</dd><dt>怎样检验，不靠猜</dt><dd>${paragraphs(dimension.test)}</dd>${dimension.wouldChange ? `<dt>什么会让我改变这个判断</dt><dd>${paragraphs(dimension.wouldChange)}</dd>` : ''}</dl>${evidenceBlock(dimension.evidence)}${citations(ctx, dimension.refs)}</article>`).join('')}</section>
     ${report.cases.length ? `<section class="personal-cases" id="personal-cases"><h2>把判断放回具体事件</h2>${report.cases.map(entry => `<details class="personal-case"><summary><span>${e(entry.date)}</span>${e(entry.title)}</summary><div><h3>发生了什么</h3>${paragraphs(entry.event)}<h3>它可能说明什么</h3>${paragraphs(entry.meaning)}<h3>为什么还不能下定论</h3>${paragraphs(entry.alternative)}${evidenceBlock(entry.evidence)}</div></details>`).join('')}</section>` : ''}
     <section class="personal-plans" id="personal-plans">${report.nextQuestions.length ? `<h2>先选想改变的生活，再选一种办法。</h2><p>可以是工作，也可以不是。下面的问题由你选择或确认，研究者不能替你宣布人生使命。</p><ol>${report.nextQuestions.map(line => `<li>${e(line)}</li>`).join('')}</ol>` : ''}<h2>人生规划，先缩成可实行的一步。</h2><p>以下是候选方案，不是同时要完成的作业，也不是已经执行的成果。只选适合当前目标的一项；没有观察结果，不把计划宣称为有效改变。</p>${report.plans.map(plan => `<article class="personal-plan"><span class="small-label">${e(plan.horizon)}</span><h3>${e(plan.title)}</h3>${paragraphs(plan.why)}<ol>${plan.steps.map(step => `<li>${e(step)}</li>`).join('')}</ol><dl><dt>观察什么</dt><dd>${e(plan.measure)}</dd><dt>何时回顾</dt><dd>${e(plan.review)}</dd><dt>何时缩小或停止</dt><dd>${e(plan.stop)}</dd></dl>${citations(ctx, plan.refs)}</article>`).join('')}</section>

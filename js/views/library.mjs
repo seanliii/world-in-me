@@ -38,11 +38,23 @@ export function renderVideos(ctx) {
   return `<section class="video-section" id="video-library"><div class="section-heading"><div><h2>换一种方式，听作者说</h2><p>官方讲座、课程与播客。中文对读保留已核短引和异议，不冒充全片逐句翻译；不会自动播放或预加载影音。</p></div></div><div class="video-grid">${ctx.videos.map(video => `<article class="video-card" data-program="${e(video.id)}"><div class="video-top"><span class="video-symbol" aria-hidden="true">${video.mediaType === 'podcast' ? '◉' : '▶'}</span><span>${e(video.language)} · ${e(video.access || '官方视频入口')}</span></div><h3>${e(video.title)}</h3>${video.date || video.host ? `<p class="program-meta">${e(video.date || '')}${video.host ? ` · 主持人：${e(video.host)} · 嘉宾：${e(video.speaker)}` : ''}</p>` : ''}<p>${e(video.description)}</p>${video.questions?.length ? `<ul>${video.questions.map(q => `<li>${e(q)}</li>`).join('')}</ul>` : ''}${programGuide(ctx, video)}<div id="video-${e(video.id)}" class="video-target"></div><div class="video-actions">${video.embedUrl ? `<button class="button button-small" data-video="${e(video.id)}">在此加载视频</button>` : ''}<a href="${external(video.url)}" target="_blank" rel="noopener noreferrer">${video.mediaType === 'podcast' ? '到原站收听与读原文' : '到原站观看'} ${arrow}</a></div>${citations(ctx, video.refs || [])}</article>`).join('')}</div></section>`;
 }
 
+function supplementaryBookReviews(ctx) {
+  return (ctx.bookRegister?.supplementaryReviews || []).map(group => `<details class="original-book-register supplementary-review" id="${e(group.id)}">
+    <summary>${e(group.title)}<span>逐项核对作者、题名与实际读取范围 ＋</span></summary>
+    <div><p>${e(group.note)}</p>${group.entries.map(entry => `<article class="supplementary-book-entry">
+      <strong>${e(entry.number || '')} · ${e(entry.originalTitle)}</strong>
+      <p>${e(entry.originalAuthor || '原材料未给出作者')} · <span class="access-label">${e(entry.status)}</span></p>
+      ${paragraphs(entry.note)}${citations(ctx, entry.refs || [])}
+      ${entry.libraryId && byId(ctx.books, entry.libraryId) ? `<a class="text-link" href="#book/${e(entry.libraryId)}">对应的已核原典卡 ${arrow}</a>` : ''}
+    </article>`).join('')}</div></details>`).join('');
+}
+
 export function renderLibrary(ctx) {
   return `<div class="page-shell"><header class="page-heading"><span class="small-label">原典书架</span><h1>不要只借来结论，<br>去看看它怎样长出来。</h1><p>研究著作与十一国文学并置。短引保留原词，中文为自译；未取得原文的书，只提供可核查书目与有边界的读法。</p></header>
     <div class="library-note"><strong>“原味阅读”的承诺</strong><p>不编引句、不捏页码、不把出版社简介说成通读全书。书目卡是文字设计，不是原版封面。文学入口包含原来的十一国，也加入埃塞俄比亚的对照阅读。</p></div>
     ${ctx.videos?.length ? '<button class="quiet-button" data-jump="video-library">直接去讲座与播客对读 ↓</button>' : ''}
     ${ctx.bookRegister?.works?.length ? `<details class="original-book-register"><summary>旧稿里的 ${ctx.bookRegister.works.length} 部书，都去了哪里？<span>查看逐本处理与阅读范围 ＋</span></summary><div><p>${e(ctx.bookRegister.note)}</p>${ctx.bookRegister.works.map(work => `<a href="#book/${e(work.libraryId)}"><span>${String(work.originalNumber).padStart(2, '0')}</span><div><strong>${e(work.title)}</strong><small>${e(work.siteAccess)}</small></div>${arrow}</a>`).join('')}<a class="text-link" href="data/book-register.json" download>下载逐本登记 ${arrow}</a></div></details>` : ''}
+    ${supplementaryBookReviews(ctx)}
     <section class="comparison"><div class="comparison-heading"><div><span class="small-label">给一个问题，换一副眼光</span><h2>把两本书，放在一起读。</h2></div><div class="compare-controls"><label for="book-a">第一本<select id="book-a">${ctx.books.map(book => `<option value="${e(book.id)}"${book.id === readingPairs[0].first ? ' selected' : ''}>${e(book.title)}</option>`).join('')}</select></label><span aria-hidden="true">×</span><label for="book-b">第二本<select id="book-b">${ctx.books.map(book => `<option value="${e(book.id)}"${book.id === readingPairs[0].second ? ' selected' : ''}>${e(book.title)}</option>`).join('')}</select></label></div></div><div class="reading-pairs">${readingPairs.filter(pair => byId(ctx.books, pair.first) && byId(ctx.books, pair.second)).map(pair => `<button class="quiet-button" data-book-pair="${e(pair.first)}|${e(pair.second)}">${e(pair.label)}</button>`).join('')}</div><p class="comparison-note">对读不意味着两本书必然对立。先看它们在解释哪个问题、采用什么尺度，再判断哪些部分能够互相校正。</p><div id="book-comparison">${renderComparison(ctx)}</div></section>
     <div class="filter-bar"><label for="book-search">找到一本书<input id="book-search" type="search" placeholder="书名、作者、原文标题或国家"></label><label for="book-kind">书架<select id="book-kind"><option value="all">全部书架</option>${[...new Set(ctx.books.map(book => book.kind))].map(kind => `<option>${e(kind)}</option>`).join('')}</select></label></div>
     <div class="book-grid" id="book-results">${bookCards(ctx)}</div>

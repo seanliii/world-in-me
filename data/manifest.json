@@ -91,20 +91,20 @@
       "id": "forwarded-mail-status",
       "kind": "supplement-status",
       "title": "用户补充的六封Gmail长邮件",
-      "status": "完整读取0/6；独立回查0/6",
-      "note": "六封补充邮件目前完整读取0/6，独立回查0/6。具体项目与协作事件另在本地私人研究包中分析，不随公共网站发布；读取、回答和行为改变是三个不同的完成条件。"
+      "status": "完整读取6/6；独立回查5/6",
+      "note": "六封补充邮件目前完整读取6/6，独立回查5/6。具体项目与协作事件另在本地私人研究包中分析，不随公共网站发布；读取、回答和行为改变是三个不同的完成条件。部分原对话在邮件中有缺尾，另含重复正文；六封读取不等于全部源对话完整。"
     }
   ],
-  "note": "六封补充邮件目前完整读取0/6，独立回查0/6。具体项目与协作事件另在本地私人研究包中分析，不随公共网站发布；读取、回答和行为改变是三个不同的完成条件。",
+  "note": "六封补充邮件目前完整读取6/6，独立回查5/6。具体项目与协作事件另在本地私人研究包中分析，不随公共网站发布；读取、回答和行为改变是三个不同的完成条件。部分原对话在邮件中有缺尾，另含重复正文；六封读取不等于全部源对话完整。",
   "counts": {
     "chapters": 13,
-    "chapterSections": 77,
+    "chapterSections": 82,
     "legacyQuestions": 66,
-    "additionalQuestions": 9,
-    "answers": 12,
-    "books": 55,
+    "additionalQuestions": 31,
+    "answers": 15,
+    "books": 57,
     "originalWorks": 21,
-    "sources": 185,
+    "sources": 235,
     "plannedStops": 20,
     "mentionedCountries": 8,
     "events": 37,
@@ -112,7 +112,7 @@
     "practices": 5,
     "videos": 3,
     "podcasts": 3,
-    "corrections": 24
+    "corrections": 30
   },
   "files": [
     "manifest.json",
