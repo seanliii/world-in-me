@@ -7847,5 +7847,231 @@
     ],
     "locator": "P002—P006：概念与背景；P007—P010：1501与压迫、对外冲突；P013—P017：官职、塔赫玛斯普及学者引入；P037—P038：捐产、学术和实践；P048、P050：政策变化及王权—学者关系。",
     "checked": "2026-10-07"
+  },
+  {
+    "id": "BIO-S01",
+    "title": "《性史》第一卷第五部分：生命权力的两极及交会",
+    "originalTitle": "The History of Sexuality, Volume I: An Introduction — Part Five, Right of Death and Power over Life",
+    "author": "Michel Foucault；英译Robert Hurley",
+    "year": 1976,
+    "url": "https://warwick.ac.uk/fac/soc/philosophy/people/eqandwelfare/race-philreadinggroup/foucault_-_hs_part_v.pdf",
+    "language": "英语译本；法文原题Histoire de la sexualité I: La Volonté de savoir",
+    "kind": "福柯原著第五部分的大学公开教学节选；非二手释义",
+    "access": "正常公开GET取得27页PDF；首面直接标作者、Robert Hurley和Pantheon Books。核读PDF5—15（原书137—147），以及起始标题页与第五部分标题。原著1976与Hurley英译1978由本次1978讲课摘编PDF2的书目注复核；不把脚注当福柯本人新论断。",
+    "supports": "生命权力由身体规训与人口调节两极连接而成；性与生育使二者目的和手段相互衔接；家庭、军队、学校、医疗等多处运作；管理生命可以同杀戮、排除并存；法律不会因此消失。",
+    "limits": "只读所列第五部分选段，未通读全书或核法文。本节选没有版权页，指认的是Hurley译文及初版信息，未锁定重印年份。福柯的西方历史论述不是各国所有时期的法则，也不提供现代公共卫生有效性判断或医学操作建议。",
+    "verifiedReadUrls": [
+      "https://warwick.ac.uk/fac/soc/philosophy/people/eqandwelfare/race-philreadinggroup/foucault_-_hs_part_v.pdf"
+    ],
+    "locator": "PDF7/原书139：两种形式、两极和population biopolitics；PDF8—9/140—141：具体安排、多种机构；PDF12/144：不称法律和司法消失；PDF13—15/145—147：性与生育在身体与人口交会；PDF5—6/137—138：生命治理与死亡权。",
+    "yearNote": "法文原著1976；Robert Hurley英译初版1978。本次为大学课程公开节选，不把文件上传时间当原著或译本年份。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "BIO-S02",
+    "title": "《安全、领土、人口》1978年1月11日及25日讲课选段",
+    "originalTitle": "Security, Territory, Population: Lectures at the Collège de France, 1977–78 — 11 January 1978; 25 January 1978",
+    "author": "Michel Foucault；Michel Senellart编；英译Graham Burchell",
+    "year": 1978,
+    "url": "https://warwick.ac.uk/fac/soc/philosophy/intranets/undergraduate/modules/ph348/2013-14/foucault_-_security_territory_population_11_jan_1978__25_jan_1978.pdf",
+    "language": "英语译本；原讲课为法语",
+    "kind": "福柯本人讲课的英译文本，大学公开教学摘编；非编者导言或研究者转述",
+    "access": "公开链接虽含intranets字样，正常无认证GET实际返回200及52页PDF；未登录或绕过权限。题名页核译者。实读1月11日反对接替与盗窃/疾病例子、1月25日规范及分布比较。出版商入口只返回同一书目/订阅预览HTML，不记为下载全书。",
+    "supports": "法律、规训、安全机制不是相继消失的时代；安全机制可增加法律及规训环节。规训也组织众多人，不能按人数二分。安全考虑概率、成本、可接受区间；对比规训先定标准与安全从差异分布展开调节。",
+    "limits": "讲课转录/译文不是作者修订完成的统一概念字典；仅相关两讲的声明范围，不称全课程已读。教学PDF页内标记与正式出版页码不同，不挪用纸本页码。历史天花例子不用于医疗建议、不核其数字为今日事实。",
+    "bibliographicUrl": "https://link.springer.com/book/10.1057/9780230245075",
+    "verifiedReadUrls": [
+      "https://warwick.ac.uk/fac/soc/philosophy/intranets/undergraduate/modules/ph348/2013-14/foucault_-_security_territory_population_11_jan_1978__25_jan_1978.pdf"
+    ],
+    "locator": "PDF1题名译者；PDF2（页内16）11 JANUARY 1978开场；PDF5—12（页内19—26）盗窃、反接替、疾病与多人数例；PDF25—27（页内83—85）25 JANUARY 1978与disciplinary normation；PDF30—33（页内88—91）病例/风险/分布与normalization。",
+    "yearNote": "讲课日期1978-01-11及1978-01-25；Graham Burchell英译2007年出版。Springer同书目列首次出版2007-03-28，同时显示©2009，二者分开记录，不把2009当讲课年。教学摘编未附完整版权页，不锁重印批次。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "PIC-S01",
+    "title": "《想象的共同体》：导论、共同时间与印刷资本主义选段",
+    "originalTitle": "Imagined Communities: Reflections on the Origin and Spread of Nationalism",
+    "author": "Benedict Anderson；Verso导论发布页由Sarah Shin撰纪念导语，不是书中论证作者",
+    "year": 1983,
+    "url": "https://www.versobooks.com/blogs/news/2394-in-memory-of-benedict-anderson-an-extract-from-imagined-communities",
+    "language": "英语",
+    "kind": "实际原著选章；出版社发布导论与两份公开大学课程副本，同一作品的不同载体",
+    "access": "实际读到原著段落，非出版社营销简介。导论在出版社公开发布；第二章用可提取文字的cuni副本；第三章用hku扫描件OCR并目读结尾页。所有原件保存；不声明逐页通读全书或大学副本获作者逐一授权。",
+    "supports": "国族想象不等于虚假，横向同胞感不证明现实平等；小说和报纸的共同时间；资本、印刷与语言差异共同创造阅读范围；宗教改革及行政语言的不同作用；印刷语言稳定、等级化及语言／国家不一一对应。",
+    "limits": "这是作者的历史解释与文本分析，不是随机效果实验；安德森所引本雅明、Febvre/Martin等作品未独立通读，出版数量与传播速度未重算。两个大学副本版次未完整核定，页码分载体，不拼成一个版本；不将其特定区域概括当全球必然规律，也不据此认证平台效果或个人记录的心理收益。",
+    "verifiedReadUrls": [
+      "https://www.versobooks.com/blogs/news/2394-in-memory-of-benedict-anderson-an-extract-from-imagined-communities",
+      "https://dl1.cuni.cz/pluginfile.php/448580/mod_resource/content/1/Benedict_Anderson_Imagined_Communities_CH%201-2.pdf",
+      "https://english.hku.hk/staff/kjohnson/PDF/engl56_kj_anderson_communities.pdf"
+    ],
+    "locator": "publisher导论定义段；cuni PDF8—9＝印6—7、PDF14＝印12、PDF26—28＝印24—26、PDF35—38＝印33—36；hku PDF17—21＝印40—49，其中第三章印41—49，结尾两段印49。",
+    "yearNote": "1983为原著初版年，由Verso发布页核定；该导论发布于2015-12-14。cuni标Revised Edition但无完整版权页；hku排版与页码不同亦无完整版权页，具体印次不认证，不冒称旧卡2016版。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "OM-S01",
+    "title": "《东方学》：引言与第一章原文选段",
+    "originalTitle": "Orientalism",
+    "author": "Edward W. Said",
+    "year": 1978,
+    "url": "https://www.uwyo.edu/global/_files/images/palestine-israel-resource-collection/11b-edward-said.pdf",
+    "language": "英语",
+    "kind": "primary-author-monograph-excerpts",
+    "access": "取得两份公开大学扫描PDF：怀俄明大学章选段15页、CSUN大学读本8页。两者均无文字层，实际OCR后读取指定段，并保留原扫描本。不是Marchand、书评或首页编辑导语代替Said。",
+    "supports": "引言原书1—4页的三层定义：学术领域、东西区分的思维方式、历史形成的制度性安排；福柯话语概念及并非单方面决定的限定。\n\n第一章Knowing the Oriental以贝尔福发言分析知识、替他人发言与治理权威的连接。\n\n章内说明不以个人特别恶劣解释结构化观念；另一原文节选承认实证历史与地理知识的进展。\n\n章注1给出1910年议会记录1140—1146栏，可与OM-S03直接对读。",
+    "limits": "取得并读的是原著明确节选，不是全书；引言只核1—4页，不声称通读1—28页。\n\nCSUN PDF1主要为编辑导语，Said正文从On a visit to Beirut开始；读本414—421页不能当原著页码。\n\n扫描OCR有连字符、错字和跨栏误识，不用它复制长引文；贝尔福关键句另与Hansard原文核对，原件保留供人工复核。\n\n1978为Pantheon原著年；章扫描版权页列1979 Vintage版并有1994后记版权，不能据此确定扫描本的实际印次或把1979当首次出版年。\n\n没有从批评话语推出所有西方作者蓄意说谎、每项知识无效，或个别文本造成全部政策。",
+    "verifiedReadUrls": [
+      "https://www.uwyo.edu/global/_files/images/palestine-israel-resource-collection/11b-edward-said.pdf",
+      "https://www.csun.edu/~rdavids/150sp09/150readings/Said_Orientalism.pdf"
+    ],
+    "locator": "引言：CSUN PDF2—4／读本415—417页（选自原书1—4页）；实证知识段：同PDF5／读本418页（另选原书54—58页）。章：UWyo PDF3＝原书31，PDF4＝32—33，PDF5＝34—35，PDF6＝36—37；PDF14含原书354页注1。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "OM-S02",
+    "title": "《帝国时代的德国东方学：宗教、种族与学术》导论选段",
+    "originalTitle": "German Orientalism in the Age of Empire: Religion, Race, and Scholarship",
+    "author": "Suzanne L. Marchand",
+    "year": 2009,
+    "url": "https://epapers.bham.ac.uk/id/eprint/4188/1/media_152498_en.pdf",
+    "language": "英语",
+    "kind": "scholarly-monograph-introduction-excerpt",
+    "access": "伯明翰大学公开保存的剑桥大学出版社样章，HTTP200，11页。实际读PDF2—11＝印刷xvii—xxvi；PDF1是书目宣传页，只用于题名、作者与2009年，不冒充论证。",
+    "supports": "以1907年Brunnhofer对东方经典译本的评述，展示圣经兴趣、文献学与东方研究的联系。\n\n指出Said对德国的排除及其问题，要求考虑不同目的、原始材料解释质量、学科与大学制度。\n\n反对把异质文本随意拼接成所有欧洲人共享的单一东西对立；同时明确承认帝国资源、殖民主义与种族化的作用。\n\n研究知识实践，而不是预先认定所有知识只服务压迫；提出理解、对话和自我批评的可能性。",
+    "limits": "这里只读导论前十页，最后页仍有续文；不声称独立检验其全部德国档案或全书结论。\n\n她有自己的论证立场，不能因其批评便宣布Said失效；德国案例也不能证明没有帝国主义或偏见。\n\n不是Said原著，二者作者、年份、页码与论断分别登记。\n\n她引用的其他学者和著作未独立读取，不另列来源。",
+    "verifiedReadUrls": [
+      "https://epapers.bham.ac.uk/id/eprint/4188/1/media_152498_en.pdf",
+      "https://epapers.bham.ac.uk/4188/1/media_152498_en.pdf"
+    ],
+    "locator": "PDF2—3／xvii—xviii：Brunnhofer实例；PDF3—5／xviii—xx：Said范围与德国问题；PDF6／xxi：方法批评；PDF8—9／xxiii—xxiv：学术实践、大学与神学；PDF10—11／xxv—xxvi：帝国资源与非单一功能。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "OM-S03",
+    "title": "1910年6月13日英国下议院：埃及问题辩论",
+    "originalTitle": "CONSOLIDATED FUND (No. 2) BILL. — HC Deb 13 June 1910 vol 17 cc1103–63",
+    "author": "UK House of Commons, Hansard；Arthur James Balfour与J. M. Robertson等发言",
+    "year": 1910,
+    "url": "https://api.parliament.uk/historic-hansard/commons/1910/jun/13/consolidated-fund-no-2-bill",
+    "language": "英语",
+    "kind": "primary-parliamentary-debate-transcript",
+    "access": "英国议会公开历史记录HTML，HTTP200；已读贝尔福相关发言及罗伯逊回应上下文，保存整页原件，未声称通读所有1103—1163栏。",
+    "supports": "贝尔福将熟知埃及文明、东方自治判断与英国治理正当性相连，印证Said所引文本的核心内容。\n\n罗伯逊对殖民双重标准、优越语气与以反对交易推定政治无能提出异议；他仍主张渐进培养自治。\n\n同场议会有争议而非单一西方声音；发言立场与被描述群体的实际历史不是一回事。",
+    "limits": "政治发言是行为者主张，不等于议会集体结论，更不是对埃及历史、民意或社会能力的客观测量。\n\n数字化记录存在历史转写和拼字问题；未据其推断发言者的隐秘动机。\n\n没有独立取得埃及自身档案或口述材料，故不替埃及人概括愿望。\n\n用于1910年具体情境，不认证当前英国制度或政策。",
+    "verifiedReadUrls": [
+      "https://api.parliament.uk/historic-hansard/commons/1910/jun/13/consolidated-fund-no-2-bill"
+    ],
+    "locator": "栏目锚点#column_1141—#column_1144及1140—1146上下文：Balfour；#column_1114、#column_1119及1118前后：Robertson。HTML贡献ID S5CV0017P0-03868含熟知埃及段；S5CV0017P0-03850含monstrous proposition段。栏号不是PDF页。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "ALPH-S01",
+    "title": "希腊地方字母的发展：波动与标准化",
+    "originalTitle": "The development of Greek alphabets: Fluctuations and standardisations",
+    "author": "Philippa M. Steele",
+    "year": 2020,
+    "url": "https://www.repository.cam.ac.uk/bitstreams/8f15416f-0e94-4e5f-a75c-a31103f90a12/download",
+    "language": "英语",
+    "kind": "scholar-authored-research-paper-in-edited-proceedings",
+    "access": "大学官方存储库Published version入口取得完整PDF；仅采用并实读第8章列明页，不称整卷或该章全文通读。",
+    "supports": "字母地域变体的早期流动、较晚标准化及其与地方政治的联系\n\n承接辅音字母资源、元音记号/音值适配、字母表库存与实际用字的区别\n\n克里特法铭H形记长元音，字形相似不能单独断年代，行向/段落规范也是书写实践",
+    "limits": "作者不裁决唯一借用时间、地点、单次/多次转换；不把带元音字母必然归于希腊一地\n\n意大利字母表是比较材料，不是假称发现了希腊首次授课记录\n\n个别克里特年代为相对判断，不给每条法铭硬填精确年份 ALPH-S01与ALPH-S03是同卷不同作者的章节，共用一个PDF载体；不是两次独立出土或实物复验。",
+    "verifiedReadUrls": [
+      "https://www.repository.cam.ac.uk/bitstreams/8f15416f-0e94-4e5f-a75c-a31103f90a12/download"
+    ],
+    "locator": "印125—127：争论与地方标准；131—132（含注10）：字母库存/元音；135—138：克里特字形、H音值及书写方向。",
+    "yearNote": "所读原PDF版权页2020；官方存储库元数据为2019-11，二者保留，不认定其中一个就是首次发表日。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "ALPH-S02",
+    "title": "迪皮隆酒壶铭文：器物、校勘与诗语",
+    "originalTitle": "Oinochoe del Dipylon",
+    "author": "Marta Cardin",
+    "year": 2017,
+    "url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/axon/2017/1/oinochoe-del-dipylon/",
+    "language": "it; edited Greek text",
+    "kind": "critical-epigraphic-edition-and-original-commentary",
+    "access": "Ca’ Foscari官方出版页及其直接PDF均HTTP200；实读PDF1—7（印19—25）并看印20页图。",
+    "supports": "器物年代、1871非法发掘/1880购入记录、馆藏192号、烧成后刻字和逆行方向\n\n前35字母格律及残损尾部争议；诗文作者未必是刻字者\n\n所采用νῦν是时间副词；口头诗语与文字并存，复演只属解释",
+    "limits": "按此2017校勘版呈现，不声称本人检视实物、测年或重校全部字形\n\n酒壶制作年代不等于刻字的精确日期；一般认为相近或略后，文中也列异议\n\n不补墓主、比赛场景或残损尾文；不把所有同书所引荷马段落当本轮独立通读",
+    "verifiedReadUrls": [
+      "https://edizionicafoscari.unive.it/en/edizioni4/riviste/axon/2017/1/oinochoe-del-dipylon/"
+    ],
+    "locator": "印19—21：器物记录/Testo/异读；22：文字实践及诗语；23：νῦν时间副词与异读；24—25：语境与残文问题。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "ALPH-S03",
+    "title": "爱琴海早期刻文中的文字、语言与使用场景",
+    "originalTitle": "Between scripts and languages: Inscribed intricacies from geometric and archaic Greek contexts",
+    "author": "Giorgos Bourogiannis",
+    "year": 2020,
+    "url": "https://www.repository.cam.ac.uk/bitstreams/8f15416f-0e94-4e5f-a75c-a31103f90a12/download",
+    "language": "en; Phoenician transliterations",
+    "kind": "scholar-authored-archaeological-epigraphic-research-paper",
+    "access": "与ALPH-S01共用官方整卷PDF载体，但这是另一篇具名论文。仅读列明页，不把整卷或发掘报告均算通读。",
+    "supports": "名称、次序、字形和书写方向构成借用关系线索，但不确定首次传播现场\n\nTekke墓J铜碗的语境约前900年；刻字断代与姓名有争论，所有权/献器读法有分歧\n\nStageira前6世纪陶像背部两行腓尼基文字被释作献物说明，是非账务用途的具体对照\n\n材料保存偏差、语言/字母与人群身份不能直接等号",
+    "limits": "Stageira释文在该文转引Vaistub，发现信息转引Sismanidis；本轮未读这两份底层原报告\n\nTekke组合年代不等于铭文刻成日；不补商旅姓名、路线或墓主国籍\n\nVroulia小像在印164正文编号11328与印165图注11323不一，本稿不采用该编号、照片或残文复原；不能把它的图当Stageira图\n\n不照搬该文“书写民主化”等为已测出的识字比例，也不由某种字母推出全部使用者身份 ALPH-S01与ALPH-S03是同卷不同作者的章节，共用一个PDF载体；不是两次独立出土或实物复验。",
+    "verifiedReadUrls": [
+      "https://www.repository.cam.ac.uk/bitstreams/8f15416f-0e94-4e5f-a75c-a31103f90a12/download"
+    ],
+    "locator": "印151—153：认识范围和借用线索；154—155：Tekke铜碗；164中段及脚注11：Stageira奉献铭文；其余只读相关对照/图注。",
+    "yearNote": "所读原PDF版权页2020；官方存储库元数据为2019-11，二者保留，不认定其中一个就是首次发表日。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "BEN-TR01",
+    "title": "非洲文学在中国的译介与研究：原作者的历史综述",
+    "originalTitle": "The Translation and Scholarship of African Literature in China",
+    "author": "Jingyuan Yu",
+    "year": 2025,
+    "url": "https://www.degruyterbrill.com/document/doi/10.1515/jtc-2024-0016/html",
+    "language": "英语",
+    "kind": "作者具名研究综述与倡议，非贝宁中文译本普查",
+    "access": "实际用正常浏览器读取OA论文：题名/作者/2025年4月16日日期、摘要、导言、第2节部分译介史、第3节和第5节全部可见正文。未读第4节，未逐条核全部参考书目。HTTP请求返回202空，浏览器导出不支持，没有伪造原HTML/PDF哈希。",
+    "supports": "作者把译介放在文学交流、出版选择、学术研究与国别关系中解释，讨论对少数获奖名家的集中和当地视角不足；支持识别传播选择的多层问题。",
+    "limits": "这不是针对贝宁的计量研究；出版数量和历史个例多据转引，本次不复算也不采用为确定的完整总数。作者反西方中心的倡议是其立场，不是贝宁低传播的已识别唯一原因。DOI中2024不等于网页明确的2025发表日。 第3节作者综述与本网站据此提出的渠道/奖项解释假说分开；没有独立审核者复读本论文原文的记录，主任务实际浏览器读屏范围如access所列。",
+    "verifiedReadUrls": [
+      "https://www.degruyterbrill.com/document/doi/10.1515/jtc-2024-0016/html"
+    ],
+    "locator": "网页Section2部分译介分期与获奖作者集中讨论；Section3研究史及方法争论；Section5结论；页首Published/Copyright: April16,2025。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "BEN-TR02",
+    "title": "译者本人维护的非洲文学中文译目：先看列表的限制",
+    "originalTitle": "非洲文学：中文译本 African Writing in Chinese Translation",
+    "author": "Bruce Humes（徐穆实；页面署xumushi）",
+    "year": "文章路径2022-09-20；页首声明最后更新于2023年中",
+    "url": "https://bruce-humes.com/2022/09/20/%e9%9d%9e%e6%b4%b2%e6%96%87%e5%ad%a6%ef%bc%9a%e4%b8%ad%e6%96%87%e8%af%91%e6%9c%ac-african-writing-in-chinese-translation-2/",
+    "language": "中英双语",
+    "kind": "编制者本人发布的参考书目，明确非完整数据库",
+    "access": "正常浏览器读取编制说明并取得HTTP200完整文章原件；核页首更新边界、语言/国别/年份定义，并仅对全文检索贝宁、Benin、Dahomey、Olympe、Quenum五组词。未逐个核全表译本，不把搜索无命中当作国家总量。",
+    "supports": "编制者明确书目不完整、包含大陆港台版本，年为译本年；国字段不是统一的国籍或出生地定义。没有命中所查词只能说明该检索不能提供确定的贝宁数量。",
+    "limits": "已停止于2023年中，不代表2026全部出版；法语或英语等原名显示也不证明翻译直接使用该语言。遗漏、异名、选集和书目国别分类均影响检索；不可据此宣布零译本或近零传播。",
+    "verifiedReadUrls": [
+      "https://bruce-humes.com/2022/09/20/%e9%9d%9e%e6%b4%b2%e6%96%87%e5%ad%a6%ef%bc%9a%e4%b8%ad%e6%96%87%e8%af%91%e6%9c%ac-african-writing-in-chinese-translation-2/"
+    ],
+    "locator": "文章页首Last Update及No Further Updates；中英编制说明、国字段解释；全文五词检索，不是逐条国别归属鉴定。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "BEN-TR03",
+    "title": "社会科学文献出版社《贝宁》的文学章节：已有中文介绍，不等于译本",
+    "originalTitle": "《贝宁》第二节 文学（公开预览）",
+    "author": "社会科学文献出版社数据库；本预览未给章节作者",
+    "year": "2004年07月（页面所列来源出版日期）",
+    "url": "https://www.crggcn.com/skwx_crgg/initDatabaseDetail?contentId=7509158&contentType=literature&siteId=25",
+    "language": "中文",
+    "kind": "原出版社章节预览与书目字段",
+    "access": "实际读取公开预览和来源/出版日期字段；预览在未完句处结束，没有把在线阅读按钮当作已读章节全文。",
+    "supports": "可确认至少存在中文贝宁文学介绍这一类别；介绍、研究和作品翻译不能合为一个计数。",
+    "limits": "不能凭介绍篇幅测量传播量，更不能证明任何具体小说已有中译本。本次不认证其中民族文字、文学语言或政治文化概括，不将2004内容当2026现状。",
+    "verifiedReadUrls": [
+      "https://www.crggcn.com/skwx_crgg/initDatabaseDetail?contentId=7509158&contentType=literature&siteId=25"
+    ],
+    "locator": "页题“第二节 文学”，下方“来源：贝宁”“出版日期：2004年07月”及公开预览，未点读受限后文。",
+    "checked": "2026-10-07"
   }
 ]
