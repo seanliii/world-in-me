@@ -14,6 +14,14 @@ export function intakeSummary(data) {
   };
 }
 
+export function intakeStatusText(data) {
+  if (!Array.isArray(data?.entries)) {
+    return '未取得当前处理登记；不推定邮件已读或未读。源对话完整性与未取得的缺尾仍须另行核对。';
+  }
+  const summary = intakeSummary(data);
+  return `六封补充邮件的当前登记：完整读取${summary.read}/6，独立回查${summary.reviewed}/6。正文读取与研究验收分别记录；这些计数不证明原线程完整，也不表示未取得的缺尾已经恢复。`;
+}
+
 export function renderEmailIntake(data) {
   if (!data) return '';
   const summary = intakeSummary(data);

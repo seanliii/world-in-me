@@ -1,4 +1,5 @@
 import { e, arrow, byId, paragraphs, citations, saveButton, notePanel, readingSections, sourceList, notFound, getTheme } from '../render.mjs';
+import { intakeStatusText } from '../intake.mjs';
 
 function tableOfContents(sections) {
   return `<aside class="reading-aside"><a class="back-link" href="#themes">← 回到主题目录</a><strong>这一篇的路标</strong><ol>${sections.map((section, index) => `<li><button data-jump="part-${index + 1}">${e(section.title)}</button></li>`).join('')}<li><button data-jump="article-boundary">另一种解释与边界</button></li><li><button data-jump="article-practice">带回日常</button></li><li><button data-jump="article-sources">继续查证</button></li></ol><p class="aside-note">看到方括号就能点开出处。不要只记住结论，也记住它适用到哪里。</p></aside>`;
@@ -8,6 +9,7 @@ export function renderChapter(ctx, id) {
   const chapter = byId(ctx.chapters, id);
   if (!chapter) return notFound();
   const related = ctx.questions.filter(q => q.theme === id).slice(0, 5);
+  const answers = (ctx.answers || []).filter(answer => answer.theme === id);
   const books = ctx.books.filter(book => book.theme === id).slice(0, 3);
   const minutes = Math.max(3, Math.round(chapter.sections.reduce((total, section) => total + section.body.length, 0) / 350));
   const read = ctx.state.read.includes(id);
@@ -20,6 +22,7 @@ export function renderChapter(ctx, id) {
         <section class="counterpoint" id="article-boundary"><span class="small-label">请给反方一把椅子</span><h2>另一种解释，以及这篇的边界</h2>${paragraphs(chapter.counterpoint)}${citations(ctx, chapter.counterRefs || chapter.refs)}</section>
         <section class="practice-prompt" id="article-practice"><span class="small-label">带回日常</span><h2>不必同意我，试着做一次。</h2>${paragraphs(chapter.exercise)}<a class="text-link" href="#practice">把它写成一个小实验 ${arrow}</a></section>
         ${notePanel(ctx, id)}
+        ${answers.length ? `<section class="related-questions"><h2>沿这个主题继续深入</h2>${answers.map(answer => `<a href="#answer/${e(answer.id)}"><span>${e(answer.title)}</span>${arrow}</a>`).join('')}</section>` : ''}
         ${related.length ? `<section class="related-questions"><h2>你可能还会追问</h2>${related.map(q => `<a href="#question/${e(q.id)}"><span>${e(q.title)}</span>${arrow}</a>`).join('')}</section>` : ''}
         ${books.length ? `<section class="related-books"><h2>继续读原著</h2>${books.map(book => `<a href="#book/${e(book.id)}"><strong>${e(book.title)}</strong><span>${e(book.author)} · ${e(book.access)}</span>${arrow}</a>`).join('')}</section>` : ''}
         <section id="article-sources"><h2>这篇文章，从哪里来</h2>${sourceList(ctx, chapter.refs)}</section>
@@ -35,7 +38,7 @@ export function renderAnswer(ctx, id) {
   const theme = getTheme(ctx, answer.theme);
   return `<div class="page-shell"><header class="article-heading"><div class="article-kicker">关键回答 <span>· ${e(answer.origin)}</span></div><h1>${e(answer.title)}</h1><p class="article-deck">${e(answer.summary)}</p><div class="article-meta"><span>答案可以修改，来源可以追查</span>${saveButton(ctx, id)}<a href="#answers" class="text-link">全部关键问题 ${arrow}</a></div></header>
     <div class="reading-layout">${tableOfContents(answer.sections)}<article class="reading-body">
-    ${id === 'myself' ? '<div class="boundary-note"><strong>具体个人分析不放进公开页面</strong><p>结合实际项目与协作事件的阶段研究，保存在本地私人研究包中。到“自己”页选择文件即可阅读；它不会随公共网页上传，也不冒充六封邮件已全部分析完成。</p><a href="#personal">打开个人研究室 →</a></div>' : ''}
+    ${id === 'myself' ? `<div class="boundary-note"><strong>具体个人分析不放进公开页面</strong><p>结合邮件、实际项目与协作事件的研究保存在本地私人研究包中，到“自己”页主动选择文件即可阅读，不会随公共网页上传。</p><p>${e(intakeStatusText(ctx.emailIntake))}研究处理、对一个人的理解与实际行为改变是不同的事。</p><a href="#personal">打开个人研究室 →</a></div>` : ''}
     ${readingSections(ctx, answer.sections)}
     <section class="counterpoint" id="article-boundary"><h2>答案到这里，仍然有边界</h2>${paragraphs(answer.boundary || '这是根据当前已取得的材料提出的解释，不是关于所有人、所有国家或所有时代的定律。应继续用具体证据和个人实际情况修订。')}</section>
     <section class="practice-prompt" id="article-practice"><h2>把这个回答带回今天</h2>${paragraphs(answer.exercise)}</section>
@@ -56,10 +59,10 @@ export function questionRows(ctx, search = '', theme = 'all', status = 'all') {
 
 export function renderQuestions(ctx) {
   const statuses = [...new Set(ctx.questions.map(q => q.status))];
-  return `<div class="page-shell"><header class="page-heading"><span class="small-label">研究清单</span><h1>把每一次追问，<br>放回它的位置。</h1><p>旧稿六十六问逐条重述、合并到主题，并另列本轮要求。不沿用旧稿“已解”的自我认证；原始豆包缺失的部分不计作已恢复。</p></header>
+  return `<div class="page-shell"><header class="page-heading"><span class="small-label">研究清单</span><h1>把每一次追问，<br>放回它的位置。</h1><p>旧稿六十六问逐条重述、合并到主题，并纳入补充邮件及本轮要求中的公开研究问题。不沿用旧稿“已解”的自我认证，也不把邮件正文等同于源线程完整恢复。</p></header>
     <div class="filter-bar"><label for="question-search">寻找问题<input id="question-search" type="search" placeholder="例如：突厥、法郎、工作、自由"></label><label for="question-theme">主题<select id="question-theme"><option value="all">全部主题</option>${ctx.chapters.map(chapter => `<option value="${e(chapter.id)}">${e(chapter.title)}</option>`).join('')}</select></label><label for="question-status">研究状态<select id="question-status"><option value="all">全部状态</option>${statuses.map(status => `<option>${e(status)}</option>`).join('')}</select></label></div>
     <div id="question-results">${questionRows(ctx)}</div>
-    <div class="boundary-note"><strong>清单完整性 ≠ 原始对话完整性</strong><p>这里覆盖的是可读取旧稿中的全部编号问题。五段豆包若补入新问题，清单仍需重新核对和增补。</p><a href="#sources">看材料读取记录 →</a></div></div>`;
+    <div class="boundary-note"><strong>清单完整性 ≠ 原始对话完整性</strong><p>这里对应Kimi的全部编号问题及已脱敏的补充问题；涉及私人原话与项目事件的对应关系保留在本地研究包中，不强行塞进公开目录。</p><p>${e(intakeStatusText(ctx.emailIntake))}若以后取得源对话缺尾，仍需按新原文重新核对，而不是给旧清单自动盖章。</p><a href="#sources">看材料读取记录 →</a></div></div>`;
 }
 
 export function renderQuestion(ctx, id) {

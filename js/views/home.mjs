@@ -1,5 +1,5 @@
 import { e, arrow, photo, bookCover, saveButton, sectionHeader, short, byId, paragraphs, citations } from '../render.mjs';
-import { intakeSummary } from '../intake.mjs';
+import { intakeSummary, intakeStatusText } from '../intake.mjs';
 
 export function renderHome(ctx) {
   const images = ctx.manifest.heroImages || ctx.media.slice(0, 3).map(image => image.id);
@@ -70,7 +70,7 @@ export function renderSaved(ctx) {
 export function renderAbout(ctx) {
   return `<div class="page-shell"><header class="page-heading"><span class="small-label">阅读说明</span><h1>一部有厚度，<br>也知道自己边界的作品。</h1><p>不是百科全书，不是心理诊断，不是“读完就改变人生”的承诺。</p></header>
     <div class="reading-layout"><aside class="reading-aside"><strong>先看这四件事</strong><ol><li>从哪份材料来</li><li>事实与解释分开</li><li>怎么读原著</li><li>怎么留下改变</li></ol></aside><article class="reading-body">
-    <h2>从哪份材料来</h2><p>本次输入是六个分享入口和现有旅行规划。可完整读取的 Kimi 三卷网页含六十六条问题和十一篇重点问答，但它是 AI 整理作品，不是原始聊天。五段豆包的读取状态逐条公开；没有正文的部分不会被“补写”成用户原话。</p><p>地图主线按本地规划的二十站排列。旧稿中的科托尔与本地规划的波德戈里察分开看；美洲八国是旧稿明确提及，不能由此推断确切城市、路线顺序和到访日期。</p>
+    <h2>从哪份材料来</h2><p>材料不只有最初的五个豆包分享入口、Kimi三卷和旅行规划，也包括后来补充的六封邮件，以及获授权的项目协作记录。Kimi的六十六条问题和十一篇重点问答属于AI二次整理，不是逐字聊天；邮件内的本人提问、AI回答和重复转述也分别辨认。</p><p>${e(intakeStatusText(ctx.emailIntake))}逐封的实际研究位置和未完成项在资料页公开；具体私人原话、邮件原件与项目事件只在本机研究包中保留。</p><p>地图主线按本地规划的二十站排列。旧稿中的科托尔与本地规划的波德戈里察分开看；美洲八国是旧稿明确提及，不能由此推断确切城市、路线顺序和到访日期。</p>
     <h2>这里怎样使用证据</h2><p>正文旁的方括号可以点开，看来源、语言、查阅范围以及它不能支持什么。“核实书存在”不等于“核实了书里的所有论点”；“找到一篇论文”也不等于“结论已经没有争议”。</p><p>为了不把引用做成装饰，作品保留旧稿纠错清单。需要改变的结论在正文中重写，而不是只在末尾加一句免责声明。</p>
     <h2>所谓“原味”，不是伪装通读</h2><p>原典页面区分原语言短引、本网站自译、公开章节导读与书目信息。没有取得可靠原文的书，不制作假引文或假页码。视频的中文导读不是全片逐句翻译。译名若未核实正式中译本，会明确标注为暂译。</p>
     <h2>如何把阅读带回生活</h2><p>选一个你真正关心的问题，先写现在的判断，再找最有力的反例。最后只改一个可执行动作，过几天回来观察。记录是为了检查想法，不是为了维持连续打卡。</p><p>收藏、笔记、完成记录保存在当前网址、当前浏览器。不同设备不会自动同步；隐私模式、清理网站数据或浏览器存储失败可能导致记录丢失。请定期导出 JSON 备份，勿把私人备份上传到公开仓库。</p>

@@ -7484,5 +7484,188 @@
     ],
     "locator": "Book 9: The Merchants；Copyright 1959；目录第7—9章等相关行。",
     "checked": "2026-10-06"
+  },
+  {
+    "id": "USD-S01",
+    "title": "美元的国际角色：Fed署名研究（2021版）",
+    "originalTitle": "The International Role of the U.S. Dollar",
+    "author": "Carol C. Bertaut；Bastian von Beschwitz；Stephanie E. Curcuru",
+    "year": 2021,
+    "url": "https://www.federalreserve.gov/econres/notes/feds-notes/the-international-role-of-the-u-s-dollar-20211006.html",
+    "language": "英语",
+    "kind": "FEDS Notes署名研究",
+    "access": "普通HTTP由旧.htm地址跳转至.html；完整主文、图1—10标题与说明、参考文献和免责声明均已读取。没有打开“更新版”及被引文献冒充已读。",
+    "supports": "图5：1999—2019年可得样本、按年度平均的出口计价币种构成，亚太美元占74%；同图讨论欧洲以欧元计价为主。正文分别讨论储备、交易与融资角色。",
+    "limits": "作者分析不等于美联储政策承诺；图5并非所有交易的全球无缺口普查。未复算底层数据，未独立通读Boz等被引论文；历史比例不当2026现状、损失比例或净剥削因果证据。",
+    "verifiedReadUrls": [
+      "https://www.federalreserve.gov/econres/notes/feds-notes/the-international-role-of-the-u-s-dollar-20211006.html"
+    ],
+    "locator": "2021-10-06署名与页尾引用；“The U.S. dollar is dominant in international transactions and financial markets”节首段；Figure 5 “Share of export invoicing”及Note。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "USD-S02",
+    "title": "美元融资：国际视角",
+    "originalTitle": "US dollar funding: an international perspective",
+    "author": "Committee on the Global Financial System；工作组联合主席Sally Davies、Christopher Kent",
+    "year": 2020,
+    "url": "https://www.bis.org/publications/cgfs-paper-65-us-dollar-funding-international-perspective.pdf",
+    "language": "英语",
+    "kind": "BIS／CGFS Papers No 65工作组研究报告",
+    "access": "公开题录和完整PDF均已取得；实读导论、融资结构与动因、风险和央行支持选段及图表说明。旧/publ/cgfs65.pdf返回HTML，已另存诊断件；沿题录公开PDF链接取得原件。",
+    "supports": "大量美元融资发生于非美国主体之间；市场深度、计价和融资相互促进；存在成本便利，也有币种、利率和续借风险。部分央行互换主要用于短期流动性支持，不是全部美元使用者的汇率保证。 印刷第10页讨论美债便利收益；发行人可能获得融资优势是本文据价格溢价作出的有限推断，不是净剥削估计。",
+    "limits": "主要工作在疫情前完成，后附2020年早期疫情观察；非银行等数据缺口限制风险判断。本报告不是CFA与美元净福利比较试验，不提供当前互换资格、法律或投资建议。 非美国主体按相关所在地和对手统计，离岸机构可能有美国母公司；不据此认定最终所有权，也不推出每笔支付与美国法域无关。",
+    "verifiedReadUrls": [
+      "https://www.bis.org/publications/cgfs-paper-65-us-dollar-funding-international-perspective.pdf"
+    ],
+    "locator": "PDF7—11＝印刷1—5页；PDF14—17＝印刷8—11页（2.2、2.3）；PDF42＝印刷36；PDF45＝印刷39（4.5）；PDF51—52＝印刷45—46（5.3）。图1说明在PDF9，图4说明在PDF15，正文未取其中混合时点百分比。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "USD-S03",
+    "title": "代理行银行业务：支付关系与报文（最终报告）",
+    "originalTitle": "Correspondent banking",
+    "author": "Committee on Payments and Market Infrastructures（CPMI）",
+    "year": 2016,
+    "url": "https://www.bis.org/publications/correspondent-banking-final-report.pdf",
+    "language": "英语",
+    "kind": "BIS／CPMI Papers No 147官方技术研究报告",
+    "access": "公开题录和完整PDF已取得；实读代理行定义、服务收缩与差异、支付报文及账户结算选段；另实际查看PDF第14页图1渲染图。",
+    "supports": "代理行关系涉及银行双边协议、账户和支付服务；付款报文与账户结算是可区分的环节。支付系统可能参与其中；关系收缩、费用和准入影响不均，不能等同国家间财政义务。",
+    "limits": "多币种代理行机制报告，不是美元专属份额统计；2016年报文示例不作2026操作标准。图1经报告改编自早期材料，未独立读取被引原作；不证明每笔美元交易都经美国，不核现行制裁权限。",
+    "verifiedReadUrls": [
+      "https://www.bis.org/publications/correspondent-banking-final-report.pdf"
+    ],
+    "locator": "PDF13—14＝印刷9—10页（2.1及Figure 1）；PDF15、17＝印刷11、13页；PDF36—41＝印刷32—37页（3.5，Figures 2—4）。PDF14已渲染查看。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "FBR-S01",
+    "title": "《礼记·玉藻》相关条文",
+    "originalTitle": "禮記／玉藻",
+    "author": "《礼记》传世篇章；本页未标篇章作者；维基文库提供转录",
+    "year": "不详（所读页面未标篇章成文年）",
+    "url": "https://zh.wikisource.org/wiki/禮記/玉藻",
+    "language": "中文（文言，繁体）",
+    "kind": "公有领域古典原文的公开转录；不是实况调查或现代研究",
+    "access": "requests取得HTTP 200的真实经文HTML；核读开篇天子、诸侯朝祭与居处装束及年不顺成条文。开篇另与京都大学藏本影像FBR-S04目读对照。web.run返回为空，不记为成功读取。",
+    "supports": "衣冠按身份及朝祭、居处等场合分类；歉收时对天子衣食的要求。支持分析规范中的角色义务，不证明历朝实际执行。",
+    "limits": "网络转录而非本次完成的学术校勘。页面包含异文标注，不以有争议的后段服饰尺寸等立论。没有凭页面确定成文年代或编者，亦未把规范等同全民日常实践。",
+    "verifiedReadUrls": [
+      "https://zh.wikisource.org/wiki/禮記/玉藻"
+    ],
+    "locator": "开头自“天子玉藻”起的长段；重点“皮弁以日視朝”“卒食，玄端而居”“年不順成，則天子素服”“諸侯玄端以祭”。所获页面固定修订标识oldid=11117412。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "FBR-S02",
+    "title": "《礼记·丧服小记》：宗统、性别与丧礼职责选节",
+    "originalTitle": "禮記／喪服小記",
+    "author": "《礼记》传世篇章；本页未标篇章作者；维基文库提供转录",
+    "year": "不详（所读页面未标篇章成文年）",
+    "url": "https://zh.wikisource.org/wiki/禮記/喪服小記",
+    "language": "中文（文言，繁体）",
+    "kind": "公有领域古典原文的公开转录",
+    "access": "requests取得HTTP 200的真实经文HTML；核读开篇男女头饰及庶子、长子服斩与承继祖祢的相关段和前后祭祀语境，不是只看题目或摘要。",
+    "supports": "丧礼位置及服制依性别、亲属、宗统和是否承继祭祀区分；经文本身用不继祖祢解释有关服制。",
+    "limits": "不把“庶子”脱离礼文语境一概等同现代日常所说的妾生子；未作各家注疏争论的通校，也不以服制直接测量私人悲痛。不证明所有阶层都依文实行。",
+    "verifiedReadUrls": [
+      "https://zh.wikisource.org/wiki/禮記/喪服小記"
+    ],
+    "locator": "开篇“男子冠而婦人笄，男子免而婦人髽”；随后“庶子不祭祖者，明其宗也。庶子不爲長子斬，不繼祖與禰故也”段。所获页面固定修订标识oldid=11117413。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "FBR-S03",
+    "title": "缠足的经济相关因素：重新认识中国女儿劳动的重要性（题名自译）",
+    "originalTitle": "Economic correlates of footbinding: Implications for the importance of Chinese daughters’ labor",
+    "author": "Melissa J. Brown；Damian Satterthwaite-Phillips",
+    "year": 2018,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201337",
+    "language": "英语",
+    "kind": "研究者署名的同行评审原始研究论文；口述调查资料的统计分析；PLOS ONE 13(9): e0201337，开放获取",
+    "access": "已取得并核读期刊HTML及官方33页PDF相关正文，不是出版社简介或二手书评。PDF第1—6、12、14—15、17—20、22—29页的作者、资料、结果、解释与局限被定点核读；未声称重算模型、逐图核验或通读全部参考文献。",
+    "supports": "1990年代初与2006—2011年采集的内地农村口述资料，多数受访者1905—1942年出生；缠足、婚前手工生产与地域、家产、教育、母亲经验的关联；躲罚暂时放足后复缠和母亲缺席等质性反例；身体变形、疼痛、感染及恢复差异；禁令指标与样本的具体限制。",
+    "limits": "不是全国随机样本；幸存者和持续居村选择及回忆偏差，不能代表沿海城市、上层或更早时代。商业手工关联在跨十一省BBG样本重复抽样后不再显著，四川样本较稳健。听说禁令只是间接指标，放足变量混合临时与永久，不能推出国家无效。未独立复核其转引婚配研究，不采用跨社会类比或未经另核的附录A禁令具体年份。",
+    "verifiedReadUrls": [
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201337"
+    ],
+    "locator": "PDF第1页署名与出版日2018-09-20；第2—4页Data（调查年代、出生队列）；第5—6页放足与复缠；第12、14—15页模型、地区差异和bootstrap限制；第17—20页禁令测量、母亲缺席和感染；第24—25页Sites and sampling及访谈限制；第27—29页Footbinding变量、身体差异和政策代理指标。PDF页序与页脚1/33—33/33一致。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "FBR-S04",
+    "title": "京都大学藏《礼记注疏》卷二十九《玉藻》开篇影像",
+    "originalTitle": "禮記註疏卷第二十九／玉藻第十三",
+    "author": "《礼记》经文；汉郑玄注，唐孔颖达疏；京都大学人文科学研究所所藏影像",
+    "year": "不详（底本刊刻年本次未核；标汉注、唐疏不等于经文成文年）",
+    "url": "http://kanji.zinbun.kyoto-u.ac.jp/db-machine/toho/ShiSanJingZhuShu/L/A0061016.jpg",
+    "language": "中文古籍影像；查看器为日语",
+    "kind": "大学机构公开的古籍原件影像；古典经文及古注疏局部核对",
+    "access": "取得大学目录和查看器HTTP 200后，沿实际脚本解析图像地址取得HTTP 200 JPEG，再用view_image目读左叶大字经文。查看器外壳本身没有经文，不冒充原文读取。HTTPS失败后用机构公布的HTTP地址；未关闭TLS验证。",
+    "supports": "开篇经文“天子玉藻十有二旒”及祭服文字；页上汉注、唐疏分层；与FBR-S01开篇交叉核对。",
+    "limits": "只目读这一图，不称通读32图或通校注疏；不据后人题记确定刻本年代。此页不能独立支持玉藻后文或丧服条文，也不是古代执行现场照片。",
+    "verifiedReadUrls": [
+      "http://kanji.zinbun.kyoto-u.ac.jp/db-machine/toho/ShiSanJingZhuShu/L/A0061016.jpg"
+    ],
+    "locator": "卷第二十九，《玉藻》第十三开篇；大学查看器第2图（不是现代排印第2页）；文件A0061016.jpg，左叶大字经文；目录对应A0060031.html?2。",
+    "checked": "2026-10-07",
+    "transportNotice": "这个实际核读的旧文献入口使用HTTP，连接未加密。仅作公开文献入口，不应在该站填写个人信息；没有把未经验证的HTTPS地址冒充可用副本。"
+  },
+  {
+    "id": "RI01",
+    "title": "《月亮引领》：Santo Daime的历史与社会关系，英文译稿选读",
+    "originalTitle": "Guided by the moon—shamanism and the ritual use of ayahuasca in the Santo Daime religion in Brazil",
+    "author": "Edward MacRae；英译由其母起草，作者致谢Michael Sommers等协助修订",
+    "year": "葡语原著1992；所读英文稿出版年未标",
+    "url": "https://maps.org/wp-content/uploads/2021/08/t_edw2-2.pdf",
+    "language": "英语",
+    "kind": "人类学专著的英文译稿；MAPS托管NEIP版本",
+    "access": "取得125页完整PDF并核验题名页；逐页实际阅读下列区间。页眉为NEIP，公开副本由MAPS托管。1992为第2页明确标注的葡语原著年份；英文稿未标出版年，不用上传路径2021/08或PDF元数据替代出版年。 PDF第4页致谢说明英译分工，不称作者独译；具体制度段主要讨论Sebastião一支。",
+    "supports": "1930年里约布朗库公开活动；1935—1940年教义和核心歌本逐渐成形；1940年代Alto Santo聚落与合作劳动。\n\nIrineu的黑人移民、采胶工与卫队背景；1971年后的继承分歧、1974年Sebastião一支分出、Peregrina和Alfredo所涉不同传承。\n\n《O Cruzeiro》及被认为接收而来的圣歌、官方与其他歌本的认可差异；制服、成员身份和性别分区。\n\n传统性别规范与部分成员质疑、女性主持中心并存；互助与家长式权威相连。\n\n仪式更改权限的旧章程描述；监督照护人员、行动约束及仪式强化既有秩序的讨论。\n\n作者将早期宗教表达的调整与外部打压、地方政治保护及向主流价值靠拢联系起来；作为历史解释而非普遍事实定律。",
+    "limits": "作者公开说明与社群关系密切，且有反污名化立场；不能当中立、代表所有教会的成员权利调查。\n\n早期历史含转述及创立叙事，作者自己指出相互矛盾处；不从中补出未核定的创立月日、1945或1963等精确节点。\n\n英文稿版本年份未明；描述中的现在、现任、规则不作2026年现状使用。\n\n未证明Shipibo或墨西哥传统向Santo Daime的原样传递；涉及较早学者时属于本书转述。\n\n原件其他部分有本题排除的药物和旧法律内容；不抽取、整理成操作或现行法律建议。",
+    "verifiedReadUrls": [
+      "https://maps.org/wp-content/uploads/2021/08/t_edw2-2.pdf"
+    ],
+    "locator": "PDF页2—7（版本、作者位置）；48—54（形成、聚落、歌本）；55—57、64（分支与继承）；60（性别规范及差异）；76—81（历史限度、重组、仪式与章程）；100—103（身份、监督、社会秩序）。页码以保存PDF为准，非目录标称章首页。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "RI02",
+    "title": "《Santo Daime 中的心理与环境背景》",
+    "originalTitle": "Set and Setting in the Santo Daime",
+    "author": "Ido Hartogsohn",
+    "year": 2021,
+    "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.651037/full",
+    "language": "英语",
+    "kind": "具名学者的宗教社会研究，结合文献与个人观察",
+    "access": "出版社公开HTML和17页PDF均以HTTP 200取得；实际读指定小节，不只读摘要。刊于Frontiers in Pharmacology（Ethnopharmacology），2021-05-04，DOI 10.3389/fphar.2021.651037。",
+    "supports": "明确把分析范围限定为Sebastião／ICEFLU一支，而非Santo Daime全部分支。\n\n纸面规范与各教会实际执行有差异，文中记CEFLURIS规范为1997年。\n\n制服、女性领唱、性别边界、固定社群关系以及不同规模教会的参与机会。\n\n作者以自身观察及非正式交谈讨论忍痛坚持、过度投入、羞耻与内疚的可能性；不提供发生率。\n\n共同体关系可以支持成员，也可能留下长期争端；规则本身不保证积极结果。",
+    "limits": "作者为科学技术与社会研究学者；此文结合前人文献与个人观察，不冒称有明确抽样框的长时段民族志或全宗派调查。\n\n第13页声明个人观察和持续非正式交谈；没有在该部分提供具名追踪个案、样本规模或退出率。\n\n多次引用RI01及Dawson等作品；重叠结论不能算独立重复验证，未读原作不另列来源。\n\n文中规范年份1997与组织网页导言1998不同；保留差异，不擅自裁定正确年份。\n\n不把文中有关效益或风险的解释转成临床保证、用药或合法性指导。 MacRae亦列于本论文审稿栏；与RI01重合的历史叙述不算两次独立重复验证。",
+    "verifiedReadUrls": [
+      "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.651037/full"
+    ],
+    "locator": "PDF 2—3页（Brief Introduction／范围）；4页（The Divine Origin／Norms of Rituals）；6—9页（Identity、空间、Visual Components、Musical Components）；11—12页（Skillset、Social Setting—Community、Integration）；13—14页（When Set and Setting Goes Wrong、Conclusion）。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "RI03",
+    "title": "ICEFLU《仪式规范》网页修订本：导言、前言与监督",
+    "originalTitle": "Normas do Ritual — Introdução; Prefácio; Fiscalização",
+    "author": "ICEFLU；Alex Polari de Alverga（前言署名及编订协调）",
+    "year": "所读网页无日期；自述1998首版，当前展示修订稿未定稿",
+    "url": "https://www.santodaime.org/ritual/2014-01-29-20-09-14/normas-intro",
+    "language": "巴西葡萄牙语",
+    "kind": "组织公布的规范性表述；网页自称未定稿，非执行实证",
+    "access": "同一组织文献的3个网页分节全部取得HTTP 200，逐段完整阅读文章正文并各存HTML；网页无可核定的出版或修订日期。导言自称1998首版、现行网页仍修订；不等于已取得1998原版。 导言第3块明确自称不是最终版，待Alfredo审阅及ICEFLU高级教义委员会批准，不能按发布日期或最终生效文件使用。",
+    "supports": "组织自述：既反对仪式僵化，也要求传承授权，不能凭阅读手册自封领袖。\n\n编订前言明确承认Rita、Julia、Cristina等女性对仪式传统记忆的审读贡献。\n\n负责人、男女分区主管、照护人员、门房、增援的职责与向上报告关系。\n\n门房留意离开者方向、必要时询问；监督人员应温和谨慎，严重事件上报。\n\n建议事件登记并在听取各方后由地方教义委员会考虑纪律处分，属内部程序而非落实结果。",
+    "limits": "该无日期网页自称未定稿、待审阅批准；本次不认证特定年份已经生效。 只证明该组织的规范性自我表述，不能证明执行情况、拒绝权、有效申诉或有无报复。\n\n适用对象为ICEFLU相关社群，不代表Alto Santo或一切Santo Daime。\n\n导言、前言带有不同修订层次，前言还提到第二版；没有可核日期，不拼成单一1997或1998定本。\n\n出入问询不能直接推定拘禁；内部听取各方也不能直接推定独立申诉有效。\n\n仅本题所需的导言、前言、监督3节；未扩读配制、服用或现行法律网页。",
+    "verifiedReadUrls": [
+      "https://www.santodaime.org/ritual/2014-01-29-20-09-14/normas-intro",
+      "https://www.santodaime.org/ritual/2014-01-29-20-09-14/normas-intro-4",
+      "https://www.santodaime.org/ritual/2014-01-29-20-09-14/fiscaizacao"
+    ],
+    "locator": "Introdução全文（4块，版本P[1, 3]）；Prefácio全文（12块，反僵化P[1]、授权P[4]、女性记忆P[9]）；Fiscalização全文（20块，门房P[11, 12]、温和谨慎／上报P[17, 18, 19]、听取各方及处分P[20]）。P为本地按HTML正文块生成的编号，非网站原段号；见同目录paragraphs.txt。",
+    "checked": "2026-10-07"
   }
 ]
