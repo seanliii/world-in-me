@@ -1,4 +1,4 @@
-import { e, arrow, external, sourceHref, byId, bookCover, citations, sourceList, paragraphs, saveButton, notePanel, notFound, short } from '../render.mjs';
+import { e, arrow, external, sourceHref, byId, bookCover, citations, sourceList, paragraphs, saveButton, notePanel, notFound, short, languageTag } from '../render.mjs';
 import { renderEmailIntake } from '../intake.mjs';
 
 const readingPairs = [
@@ -25,7 +25,7 @@ function programGuide(ctx, program) {
   if (!guide) return '';
   return `<details class="program-reading"><summary>展开中文对读：原词、论证、反方与行动</summary>
     <div><h4>这次实际读到了哪里</h4>${paragraphs(guide.scope)}
-    ${guide.quote?.original ? `<blockquote><p lang="${e(guide.quote.language || 'en')}">${e(guide.quote.original)}</p><p class="quote-translation">${e(guide.quote.translation)}</p><footer>${e(guide.quote.context)} · 中文为本网站自译。</footer></blockquote>${citations(ctx, guide.quote.refs || program.refs)} ` : ''}
+    ${guide.quote?.original ? `<blockquote><p lang="${e(languageTag(guide.quote.language))}">${e(guide.quote.original)}</p><p class="quote-translation">${e(guide.quote.translation)}</p><footer>${e(guide.quote.context)} · 中文为本网站自译。</footer></blockquote>${citations(ctx, guide.quote.refs || program.refs)} ` : ''}
     <h4>沿着讲者的论证走</h4>${paragraphs(guide.argument)}
     <h4>最值得保留的异议</h4>${paragraphs(guide.objection)}
     <h4>与论文交叉，而不是互相背书</h4>${paragraphs(guide.crossEvidence)}${citations(ctx, program.refs)}
@@ -67,7 +67,7 @@ export function renderBook(ctx, id) {
   return `<div class="page-shell"><header class="book-detail-heading"><div class="book-detail-cover">${bookCover(book, ctx.books.indexOf(book))}<small>文字书目卡，非原版封面</small></div><div><span class="small-label">${e(book.kind)}${book.country ? ` · ${e(book.country)}` : ''}</span><h1>${e(book.title)}</h1><p class="book-original" lang="en">${e(book.originalTitle)}</p><p class="book-author">${e(book.author)} · ${e(book.year || '')}</p><p>${e(book.why || book.thesis)}</p><div class="article-meta"><span class="access-label">${e(book.access)}</span>${saveButton(ctx, id)}</div>${book.translationNote ? `<p class="muted">${e(book.translationNote)}</p>` : ''}</div></header>
     <article class="reading-body standalone"><section><h2>它真正要处理的问题</h2>${paragraphs(book.thesis)}${citations(ctx, book.refs)}</section>
     ${book.editionNote ? `<section class="edition-note"><h2>本次所读的版本</h2>${paragraphs(book.editionNote)}</section>` : ''}
-    ${book.quote?.original ? `<section><h2>停在原词上，读慢一点</h2><blockquote lang="${e(book.quote.language || 'en')}"><p>${e(book.quote.original)}</p><p class="quote-translation">${e(book.quote.translation)}</p><footer>${e(book.quote.context || '极短原文引用；中文为本网站自译。')}</footer></blockquote>${book.quote.explanation ? paragraphs(book.quote.explanation) : ''}${citations(ctx, book.quote.refs || book.refs)}</section>` : `<div class="boundary-note"><strong>这里没有假引文</strong><p>本次未取得足以核对的原著短引，故不制作“名言”。下面是公开可读范围内的导读，不替代阅读原书。</p></div>`}
+    ${book.quote?.original ? `<section><h2>停在原词上，读慢一点</h2><blockquote><p lang="${e(languageTag(book.quote.language))}">${e(book.quote.original)}</p><p class="quote-translation">${e(book.quote.translation)}</p><footer>${e(book.quote.context || '极短原文引用；中文为本网站自译。')}</footer></blockquote>${book.quote.explanation ? paragraphs(book.quote.explanation) : ''}${citations(ctx, book.quote.refs || book.refs)}</section>` : `<div class="boundary-note"><strong>这里没有假引文</strong><p>本次未取得足以核对的原著短引，故不制作“名言”。下面是公开可读范围内的导读，不替代阅读原书。</p></div>`}
     ${book.closeReading ? `<section class="close-reading"><span class="small-label">不是简介，而是实际读过的片段</span><h2>停下来，读这一段。</h2><p class="close-reading-scope">${e(book.closeReadingScope)}</p>${paragraphs(book.closeReading)}${citations(ctx, book.closeReadingRefs || book.refs)}</section>` : ''}
     <section><h2>怎样进入这本书</h2>${paragraphs(book.reading)}</section>
     ${book.concepts?.length ? `<section><h2>保留几个原词</h2><dl class="concept-list">${book.concepts.map(concept => `<dt>${e(concept.term)}</dt><dd>${e(concept.meaning)}</dd>`).join('')}</dl></section>` : ''}

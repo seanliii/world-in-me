@@ -10,6 +10,20 @@ export const byId = (items, id) => (items || []).find(item => item.id === id);
 export const getBook = (ctx, id) => byId(ctx.books, id);
 export const getTheme = (ctx, id) => byId(ctx.chapters, id);
 
+export function languageTag(value) {
+  const label = String(value || '').trim();
+  const names = {
+    '英语译文': 'en', '所核英语译文': 'en', '英语原作': 'en', '英语': 'en',
+    '法语': 'fr', '德语': 'de', '古希腊语': 'grc', '拉丁语': 'la',
+    '西班牙语': 'es', '西班牙语译选中的小标题': 'es', '阿拉伯语': 'ar',
+    '中文': 'zh-CN',
+  };
+  if (Object.hasOwn(names, label)) return names[label];
+  if (Object.hasOwn(Object.prototype, label)) return 'und';
+  try { return Intl.getCanonicalLocales(label)[0] || 'und'; }
+  catch { return 'und'; }
+}
+
 export function citations(ctx, refs = []) {
   return `<span class="citations">${[...new Set(refs)].map(id => {
     const source = byId(ctx.sources, id);
@@ -70,7 +84,7 @@ export function readingSections(ctx, sections) {
   return (sections || []).map((section, index) => `<section class="essay-section" id="part-${index + 1}">
     <h2>${e(section.title)}</h2>${section.kind ? `<span class="evidence-label">${e(section.kind)}</span>` : ''}
     ${paragraphs(section.body)}
-    ${section.quote ? `<blockquote lang="${e(section.quote.language || 'en')}"><p>${e(section.quote.original)}</p><p class="quote-translation">${e(section.quote.translation)}</p><footer>${e(section.quote.context || '原文短引；中文为本网站自译。')}</footer></blockquote>` : ''}
+    ${section.quote ? `<blockquote><p lang="${e(languageTag(section.quote.language))}">${e(section.quote.original)}</p><p class="quote-translation">${e(section.quote.translation)}</p><footer>${e(section.quote.context || '原文短引；中文为本网站自译。')}</footer></blockquote>` : ''}
     ${section.limits ? `<p class="section-limits"><strong>这一段的材料边界：</strong>${e(section.limits)}</p>` : ''}
     ${citations(ctx, section.refs || [])}
   </section>`).join('');

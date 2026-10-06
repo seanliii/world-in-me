@@ -738,10 +738,12 @@
           "originalAuthor": "拉贾・阿桑（Rajaa Alem）",
           "status": "误配",
           "originalPairVerified": false,
-          "note": "作品可核，但括号中的Rajaa Alem混入了另一位作家。现有Penguin页明确署Rajaa Alsanea；ABRAMS另一作品署Raja Alem。应纠正同一本书的作者，不另换书。 已核作品：Girls of Riyadh；Rajaa Alsanea。 原中文音译与括号英文不一致。页上早期背景和邮件所写封禁、劳工比例等均不升级为已核2026事实。 本轮题录核对不等于通读或已核全部剧情。",
+          "note": "作品可核，但括号中的Rajaa Alem混入了另一位作家。现有Penguin页明确署Rajaa Alsanea；ABRAMS另一作品署Raja Alem。应纠正同一本书的作者，不另换书。 已核作品：Girls of Riyadh；Rajaa Alsanea。 原中文音译与括号英文不一致。页上早期背景和邮件所写封禁、劳工比例等均不升级为已核2026事实。 本轮题录核对不等于通读或已核全部剧情。 本次已实际读美国2008英译版的完整第一章与第二章13—14页，另核作者说明及Booth接受稿的翻译争议。题名页署名与贡献争议分开；未读阿语对应原页或全书。",
           "refs": [
             "LIT-L11",
-            "EM6-N01"
+            "EM6-N01",
+            "LC-RIYADH",
+            "LC-BOOTH"
           ],
           "libraryId": "book-lit-11"
         },
@@ -933,9 +935,11 @@
           "originalAuthor": "Rajaa Alsanea／رجاء الصانع",
           "status": "独立阅读入口；与旧条目的关系见说明",
           "originalPairVerified": false,
-          "note": "与原《利雅得女孩》是同一作品；应纠正作者为Rajaa Alsanea，不发生换书或改名。\n\n出版社保留早期社会背景介绍，其中“没有电影院”等表述不能当成2026事实。本包不附封禁结论，不代表今日全体沙特女性。",
+          "note": "与原《利雅得女孩》是同一作品；应纠正作者为Rajaa Alsanea，不发生换书或改名。\n\n出版社保留早期社会背景介绍，其中“没有电影院”等表述不能当成2026事实。本包不附封禁结论，不代表今日全体沙特女性。 本次已实际读美国2008英译版的完整第一章与第二章13—14页，另核作者说明及Booth接受稿的翻译争议。题名页署名与贡献争议分开；未读阿语对应原页或全书。",
           "refs": [
-            "LIT-L11"
+            "LIT-L11",
+            "LC-RIYADH",
+            "LC-BOOTH"
           ],
           "libraryId": "book-lit-11"
         },

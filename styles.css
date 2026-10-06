@@ -289,7 +289,7 @@ select{max-width:100%;padding-right:23px}
 .book-detail-heading>div:last-child>p:not(.book-original,.book-author,.muted){font-size:15px;line-height:2;max-width:730px;margin-top:23px}
 .book-original{font-family:Georgia,serif;font-size:20px;line-height:1.7;color:var(--rust);margin-bottom:20px;overflow-wrap:anywhere}
 .book-detail-cover>small{display:block;font-size:10px;color:var(--muted);text-align:center;margin-top:16px}
-.access-label{font-size:11px;color:var(--rust)}
+.access-label{font-size:11px;color:var(--rust);overflow-wrap:anywhere}
 .concept-list dt{font-family:Georgia,var(--serif);font-size:22px;color:var(--rust);margin-top:24px}
 .concept-list dd{margin:12px 0 25px;font-size:16px}
 .video-section{padding:45px 0 68px;border-top:1px solid var(--line)}
@@ -344,8 +344,8 @@ select{max-width:100%;padding-right:23px}
 .source-row{display:grid;grid-template-columns:43px minmax(0,1fr) 23px;gap:22px;padding:23px 0;border-top:1px solid var(--line);align-items:start}
 .source-number{font-family:var(--serif);font-size:17px;color:var(--rust)}
 .source-row h3{font-family:var(--sans);font-weight:400;font-size:16px;line-height:1.8;overflow-wrap:anywhere}
-.source-row p{font-size:11px;color:var(--muted);margin-top:8px}
-.source-row small{display:block;font-size:10px;color:var(--rust);margin-top:7px}
+.source-row p{font-size:11px;color:var(--muted);margin-top:8px;overflow-wrap:anywhere}
+.source-row small{display:block;font-size:10px;color:var(--rust);margin-top:7px;overflow-wrap:anywhere}
 .source-url{font-size:11px;line-height:1.8;color:var(--muted);word-break:break-all;margin-top:17px!important}
 .credits-section{padding-bottom:70px}
 .credits-section h2{font-size:28px;margin-bottom:20px}

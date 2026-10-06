@@ -646,6 +646,31 @@
       ]
     },
     {
+      "id": "mexico-defeat-1520",
+      "year": 1520,
+      "date": null,
+      "title": "墨西哥：入城后的联军败退",
+      "body": "大庙屠杀后的抵抗与封锁使西班牙人及地方盟友撤退，堤道和水路成为危险；武器优势不是自动胜利。",
+      "theme": "empires",
+      "refs": [
+        "CQ-S01",
+        "CQ-S04",
+        "CQ-S06"
+      ]
+    },
+    {
+      "id": "mexico-siege-1521",
+      "year": 1521,
+      "date": null,
+      "title": "特诺奇蒂特兰陷落：不是整个美洲的征服完成",
+      "body": "8月13日是此首都战役的终点；联盟、造船、填渠、供给破坏与守方抵抗共同构成过程，不折算运气百分比。",
+      "theme": "empires",
+      "refs": [
+        "CQ-S01",
+        "CQ-S02"
+      ]
+    },
+    {
       "id": "colonial-crown-debt",
       "year": 1575,
       "date": null,
@@ -665,6 +690,18 @@
       "theme": "empires",
       "refs": [
         "CG-S10"
+      ]
+    },
+    {
+      "id": "amsterdam-bank-1609",
+      "year": 1609,
+      "date": null,
+      "title": "阿姆斯特丹银行：建立共同结算的账簿",
+      "body": "市立银行及大额汇票结算要求形成，银行与流通货币的后续分化不能全部压在成立年。",
+      "theme": "money",
+      "refs": [
+        "AQ-S01",
+        "AQ-S03"
       ]
     },
     {
@@ -690,6 +727,40 @@
       ]
     },
     {
+      "id": "amsterdam-receipts-1683",
+      "year": 1683,
+      "date": null,
+      "title": "银行余额与金属收据分开",
+      "body": "新收据把有限期、附条件的取币权与可转账余额区分；不是每个持有余额的人都同时持有对应收据。",
+      "theme": "money",
+      "refs": [
+        "AQ-S02"
+      ]
+    },
+    {
+      "id": "amsterdam-network-1750",
+      "year": 1750,
+      "date": null,
+      "title": "约1750年：汇票报价网络的重要中心",
+      "body": "研究中54/64个可分析市场报价阿姆斯特丹汇票；报价广度不是全球支付或财富占比，其他中心仍重要。",
+      "theme": "money",
+      "refs": [
+        "AQ-S05"
+      ]
+    },
+    {
+      "id": "amsterdam-crisis-1763",
+      "year": 1763,
+      "date": null,
+      "title": "1763危机：私人融资与公共结算的不同风险",
+      "body": "跨城市承兑与续借链传递压力；银条安排有验色、期限与金额条件，不能当作任意债务的无限兜底。",
+      "theme": "money",
+      "refs": [
+        "AQ-S03",
+        "AQ-S06"
+      ]
+    },
+    {
       "id": "colonial-bengal",
       "year": 1765,
       "date": null,
@@ -698,6 +769,18 @@
       "theme": "empires",
       "refs": [
         "CG-S07"
+      ]
+    },
+    {
+      "id": "amsterdam-end-1820",
+      "year": 1820,
+      "date": null,
+      "title": "阿姆斯特丹银行关闭",
+      "body": "机构寿命的终点不同于1780—1790年代币值与信用变化，也不是国际金融中心转移的唯一日期。",
+      "theme": "money",
+      "refs": [
+        "AQ-S07",
+        "AQ-S09"
       ]
     },
     {
