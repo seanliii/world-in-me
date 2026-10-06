@@ -1,14 +1,14 @@
 {
   "format": "world-in-me-public-build-v1",
-  "artifactId": "5799759464906de195f9e21007d9483ba0f5d2e216f9c23961244aaeb937d3c5",
-  "builtAt": "2026-10-06T13:26:41.646218+00:00",
+  "artifactId": "c0a17efe4564523fa805afbc857cc90d7035cde30baa17a9c302006400f36c81",
+  "builtAt": "2026-10-06T13:47:59.647680+00:00",
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "README.md": "cbe93ba44ec68223c011e5c069ea4b19d7ab83a31d0363cd20475480766c49aa",
     "assets/NATURAL-EARTH.md": "9aa7edc6f09ff1e21b862e143527a8849b99d604e46123b76ed2eaff9892ebd2",
     "assets/icon.svg": "40c610aec1a276f28f629d4c19687bec50a26490232eaef76638218c40e5500c",
     "assets/world.geo.json": "912bfd4afee17c7f27561a5d4ca8867084ae9927bd849edac198b684f5a0deba",
-    "data/answers.json": "eb1651b2a75a7a545592d487e5f50de2b98606bcb806aa3a5fdbe5558970eedf",
+    "data/answers.json": "38bafeb3359311026ac8272f4cd80037efa7cd8f76d4b3a008356a3730d06499",
     "data/book-register.json": "5fd60a28e419f15d2ea4fc2e0ffcffade06d9c4f4057697a99f1d2a85b2107d1",
     "data/chapters.json": "ccbaa5e6ece0d7e58e34a54202bfb4435c0b4a591c010454656ea86e6a4c6c06",
     "data/corrections.json": "2c2967c8d8c6e478677f74603886d25b6076ba9170797331dcc106eb5f7e0284",
@@ -34,7 +34,7 @@
     "js/views/library.mjs": "c93562889a9d8c56a4101b81cb8b18c67460fc649d00eb7bf30975fce19cadb4",
     "js/views/practice.mjs": "242d75cab87ed5e93424c7c8d0e5af866151f915fd133045330199cc35f8d132",
     "js/views/reading.mjs": "333cf4d6dfb6d92e2744db7333227361059b58bef407a70072c990a07e38bc74",
-    "research/研究总稿.md": "d06457bbcb257fb9bc3592c296fb6c773e17a0ac7ca3b8930bd3e4853471a2f5",
+    "research/研究总稿.md": "b69342e2ccdc06528ce93fc13bf8a4ca06864c9e8fd77dbe5c549d73450a99ba",
     "styles.css": "84b5c2ec652bb1d244c7f42ce2dee53cac9913e92339346cc7ff2848bc3ed68a"
   },
   "privateMaterialIncluded": false,
