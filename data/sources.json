@@ -7667,5 +7667,185 @@
     ],
     "locator": "Introdução全文（4块，版本P[1, 3]）；Prefácio全文（12块，反僵化P[1]、授权P[4]、女性记忆P[9]）；Fiscalização全文（20块，门房P[11, 12]、温和谨慎／上报P[17, 18, 19]、听取各方及处分P[20]）。P为本地按HTML正文块生成的编号，非网站原段号；见同目录paragraphs.txt。",
     "checked": "2026-10-07"
+  },
+  {
+    "id": "WORK-S01",
+    "title": "时间的炫耀性消费：忙碌与缺少闲暇何时成为地位信号",
+    "originalTitle": "Conspicuous Consumption of Time: When Busyness and Lack of Leisure Time Become a Status Symbol",
+    "author": "Silvia Bellezza；Neeru Paharia；Anat Keinan",
+    "year": 2017,
+    "url": "https://business.columbia.edu/sites/default/files-efs/pubfiles/19293/Conspicuous%20Consumption%20of%20Time%20JCR.pdf",
+    "language": "英语",
+    "kind": "同行评审原始研究；作者院校公开的JCR发表版PDF",
+    "access": "取得21页发表版PDF，实读定义、理论、研究1A方法与结果、研究3方法结果及图3、讨论与数据收集说明；非只读摘要。PDF1记2016-12-27先行发表，卷期为2017；下载水印不是发表年。",
+    "supports": "有酬忙碌可影响部分样本对虚构人物地位的判断；研究3中美国与意大利样本的情境差异方向相反。测量地位、财富与收入的推断，不是实测收入或生产率。该文另讨论收入／替代效应，但未用这些地位实验识别实际劳动供给。",
+    "limits": "研究3为美国MTurk112人和意大利Qualtrics98人，随机分配的是情境，国家、平台与文化未随机分配；意大利不代表欧洲，跨国量表原始均值不宜直接比较。作者的中介模型不是排除所有替代路径的证明；社交媒体样本经自夸社区筛选，不是总体发生率。未重算原始数据、未读取网络附录或所有被引研究；不能据此断言某个人炫耀或全社会因此增加工时。",
+    "verifiedReadUrls": [
+      "https://business.columbia.edu/sites/default/files-efs/pubfiles/19293/Conspicuous%20Consumption%20of%20Time%20JCR.pdf"
+    ],
+    "locator": "PDF1＝印118：版次；PDF2—4＝印119—121：定义与理论；PDF5—8＝印122—125：社媒观测、研究1A；PDF13—14＝印130—131：研究3及图3；PDF17—19＝印134—136：边界、讨论、收集时间。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "WORK-S02",
+    "title": "OECD《2021就业展望》第五章：工时、制度与时间用途",
+    "originalTitle": "Working time and its regulation in OECD countries: How much do we work and how? — OECD Employment Outlook 2021",
+    "author": "OECD",
+    "year": 2021,
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/07/oecd-employment-outlook-2021_e81ed73a/5a700c4b-en.pdf",
+    "language": "英语",
+    "kind": "官方原创调查分析与历史数据说明；第5章，非全书通读",
+    "access": "取得404页官方完整PDF；定点实读第5章定义、制度问卷、历史工时、时间用途及分配解释，并核图5.12与相关图注、尾注；只对采用范围作阅读声明。",
+    "supports": "小时生产率＝实际GDP／总工时，年人均工时＝总工时／就业人数。报告对全期可得国家样本记1970—2019年年实际工时人均下降17.9%。区分通常周工时、年实际工时、兼职构成、休假与无酬劳动；工资、议价及收入差异是所讨论的可能解释。",
+    "limits": "仅采用2021出版版本：历史工时到2019，时间用途按年代分组，制度问卷主要为2020疫情前，不认证2026法律或当前工时。图5.12各图的样本与单位不同；时间用途“有酬工作或学习”包含求职与学习，排除同时发生的次要活动；尾注90明确其不能和就业工时直接比较。图5.17限所列国家15—64岁全职员工，墨西哥调查方法等存在可比性限制。未下载底层数据重算17.9%，未估计议价、消费或地位信号的独立因果份额。",
+    "verifiedReadUrls": [
+      "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/07/oecd-employment-outlook-2021_e81ed73a/5a700c4b-en.pdf"
+    ],
+    "locator": "PDF276—283＝印274—281：章范围、定义、2020问卷；PDF289＝印287 Box5.3；PDF294＝印292：收入与加班；PDF306、308＝印304、306：工时变化、图5.10；PDF309—313＝印307—311：图5.11/5.12与收入解释；PDF322—323＝印320—321：群体时间用途；PDF372＝印370尾注88—91。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "FSD-S01",
+    "title": "1989年法国最高行政法院关于学校宗教标志的咨询意见",
+    "originalTitle": "Avis n° 346.893, Assemblée générale, séance du 27 novembre 1989",
+    "author": "Conseil d’État（法国最高行政法院）；大会全体会议咨询意见",
+    "year": 1989,
+    "url": "https://conseil-etat.fr/jadefile/avisadm/346893.pdf",
+    "language": "法语",
+    "kind": "官方历史咨询意见原件；不是一件学籍争议的诉讼判决",
+    "access": "已正常下载官方7页PDF，核读第1—7页；其中第3、5—7页用于本稿。第5页另外转成图片目读，并与AP-HP公共机构转录交叉核对。web.run未返回可用正文，未把它记录为核读成功。",
+    "supports": "1989-11-27意见的性质；I.1回引1905-12-09政教分离法中的良心自由，以及1882/1886学校世俗化背景；I.2区分课程、教师的中立与学生的良心及宗教表达自由；宗教标志非当然不相容，限制须结合压力、安全、教学等条件；纪律与受教育保障。",
+    "limits": "1905整法没有独立下载或通读，本文只据1989原件中的相关回引，不讨论其财政、地域或后续修法例外。咨询意见不是全体学校实际执行调查，也不能充当2026现行规则。不同身份的比较仅限所读材料，不扩展成对所有公职岗位的合规清单。",
+    "verifiedReadUrls": [
+      "https://conseil-etat.fr/jadefile/avisadm/346893.pdf"
+    ],
+    "locator": "官方PDF第1页日期、案号与部长咨询问题；第3页I.1；第5页I.2；第6—7页II—III。PDF第5页影像可核“教师/课程中立”与“学生良心自由”及条件限制段。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "FSD-S02",
+    "title": "2004年学校宗教标志法的最终通过原文及同案颁布记录",
+    "originalTitle": "Projet de loi encadrant, en application du principe de laïcité, le port de signes ou de tenues manifestant une appartenance religieuse dans les écoles, collèges et lycées publics — Texte définitif, Sénat n° 66 (2003-2004)",
+    "author": "Sénat français（法国参议院）；最终原文署名Christian Poncelet",
+    "year": 2004,
+    "url": "https://www.senat.fr/leg/tas03-066.html",
+    "language": "法语",
+    "kind": "议会最终通过的历史立法原文；以同一法案官方卷宗补充颁布及公报日期",
+    "access": "已取得并核读2004-03-03参议院最终通过原文的全部四条；同案官方卷宗确认后于2004-03-15以第2004-228号法颁布，2004-03-17刊载公报。Légifrance原始公报页面在requests与正常浏览器访问中均遇403检查，故不声称读到公报原件。",
+    "supports": "第1条对象为公立小学、初中、高中的学生；限制明显表现宗教归属的符号或衣着，条文本身不只点名伊斯兰；纪律程序前与学生对话。第3条规定公布后下一学年开学起实施。支持最终通过日与颁布日的区分。",
+    "limits": "最终通过文本与颁布日期核验路径分开保留，不能把参议院页面伪称Légifrance公报。本文不读合并后的2026条文，不梳理后来判例、校规、实施通告或全部海外地域适用细节，不由此提供现实着装建议。页面导航或更新日期不当作立法日期。",
+    "verifiedReadUrls": [
+      "https://www.senat.fr/leg/tas03-066.html"
+    ],
+    "locator": "原文标题“Texte n° 66 (2003-2004) adopté définitivement ... le 3 mars 2004”；Article 1er（插入L.141-5-1）、Article 3；同案卷宗“Loi - Promulgation / 15 mars 2004”及“JO n°65 du 17 mars 2004”。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "FSD-S03",
+    "title": "S.A.S.诉法国：2014年大审判庭判决与共同部分异议",
+    "originalTitle": "CASE OF S.A.S. v. FRANCE (Application no. 43835/11), Grand Chamber, Judgment, 1 July 2014; Joint Partly Dissenting Opinion of Judges Nussberger and Jäderblom",
+    "author": "European Court of Human Rights, Grand Chamber（欧洲人权法院大审判庭）；共同部分异议：Angelika Nußberger、Helena Jäderblom",
+    "year": 2014,
+    "url": "https://hudoc.echr.coe.int/eng?i=001-145466",
+    "language": "英语（法院官方英文判决）",
+    "kind": "官方判决原件及同件附载异议；另引述2010法历史条文",
+    "access": "直接PDF请求受403检查；新建本题专用浏览器页正常加载HUDOC后，沿页面实际加载的官方正文地址取得HTTP 200 HTML并保存。已核读当事人陈述、2010法条、相关多数理由、裁判主文及全部共同部分异议，不仅是摘要；未登录、未解验证码、未更换代理或导入个人cookies。",
+    "supports": "2010-10-11法与2011-04-11遮脸条款生效；公共场所定义、法定例外及不遮脸服饰区别；当事人的自述而非对全部穆斯林女性的断言；2014-07-01多数以15比2认定第8、9条未被违反，基于共同生活及判断空间而不是单靠性别平等或一般安全理由；异议对抽象原则、比例性和少数群体排斥的批评。",
+    "limits": "法院允许国家在本案采取某项措施，不等于伦理唯一正确，也不等于判决证明实际政策效果。2010法仅核本判决引载，未独立通读其后修订。申请人表示无家庭强迫属于诉讼中本人陈述，不推断全体女性自由选择或都被强迫。判断空间与欧洲共识等只陈述2014案内判断，不更新后来欧洲法律。 本判决§30记载法国宪法委员会对公开礼拜场所中宗教自由的保留，§151再次注明礼拜场所排除；不能省略为所有公开场所毫无区别。",
+    "verifiedReadUrls": [
+      "https://hudoc.echr.coe.int/eng?i=001-145466"
+    ],
+    "locator": "§§10—14（本人陈述与生效日）；§§27—29（颁布、遮脸法第1—4条）；§§114—122（主张目的与性别平等/尊严/共同生活）；§139（安全必要性）；§§142—159（比例性、负担、§151不遮脸服饰及判断空间）；裁判主文第3、4项；共同部分异议§§2、5—10、14、20—26。 另核§30所引2010-10-07法国宪法委员会决定第5点，以及§151首句。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "FSD-S04",
+    "title": "女性自主、教育与头巾（论文题名自译）",
+    "originalTitle": "Female Autonomy, Education and the Hijab",
+    "author": "Cécile Laborde",
+    "year": 2006,
+    "url": "https://www.ias.edu/sites/default/files/sss/pdfs/Laborde-Female-Autonomy.pdf",
+    "language": "英语",
+    "kind": "具名研究者的同行评审政治哲学论文；学术机构公开的期刊排印稿，不是书评或出版社简介",
+    "access": "从Institute for Advanced Study公开站点取得28页PDF；核读刊页351—375的论证、结论及脚注1—2（PDF第1—25页），并核对首面署名、2006年9月期次和DOI。期刊全文页码351—377，所获PDF末页为空白；未逐一核读参考文献对应作品。",
+    "supports": "作者重建学校禁戴的共和主义、女性解放论证及对立批评；国家教育与个人自主的联系；反强迫与宗教选择并非二选一；本人反对以自主理由禁戴，同时强调防止家庭及国家造成的支配；少数群体的发言位置。脚注1将本文hijab界定为遮头发和颈部的头巾，可与遮脸面纱区分。",
+    "limits": "规范性论证及对立立场的重建，不是全国民意调查，不证明各种动机在人群中的比例；第一节支持禁戴的论证不是作者最终赞成意见。文章主要讨论自主/女性解放理由，不能替代完整1905制度史、移民史或政策效果评估。本稿不采用其中未经独立查核的殖民事件细节或委员会受访人数。",
+    "verifiedReadUrls": [
+      "https://www.ias.edu/sites/default/files/sss/pdfs/Laborde-Female-Autonomy.pdf"
+    ],
+    "locator": "Critical Review of International Social and Political Philosophy 9(3), September 2006, pp.351—377；刊页352—354历史解释，357—359学校与自主的支持论证，360—367批评和能动性，367—375作者的批判共和主义主张；刊页375脚注1—2。PDF页序=刊页减350。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "IS-S01",
+    "title": "伊朗人改宗伊斯兰：过程、史料与动因",
+    "originalTitle": "CONVERSION ii. Of Iranians to Islam",
+    "author": "Elton L. Daniel",
+    "year": 1993,
+    "url": "https://www.iranicaonline.org/articles/conversion-ii/",
+    "language": "英语",
+    "kind": "signed-expert-encyclopedia-article",
+    "access": "Encyclopaedia Iranica公开HTML，HTTP200；实际读完P001—P010主文，未仅据搜索摘要。页面标1993-12-15发表、2013-08-08更新，卷VI册3，229—232页。",
+    "supports": "军事征服与改宗不是同一进程，改宗在地区、社会层次与动因上不同。\n\n士兵和精英较早改宗的动因、社会参与条件、税收与暴力的复杂作用。\n\nBulliet传记家谱研究指向750后加快的改宗进程，同时受城市、正式改宗样本限制。\n\n库姆什叶传播涉及阿拉伯定居社群；族群并不与教派简单对应。 改宗传记家谱模型在此为Daniel转述Bulliet，不是本次独立人口估算。",
+    "limits": "旧版专家综合研究，不是全国人口普查；不将转述的约950年80%或开头现代98%写入正文。\n\n作者对强制改宗的总体判断需要与同文战争、俘虏及社会排斥段一并阅读；本稿不推导普遍自愿或完全靠暴力。\n\n作者明说“Iranian”分类困难，不能拿地名、姓名或语言直接认定现代国籍。\n\n古代史料在本篇中为转述，未冒称独立通读塔巴里等原作。 两篇Iranica条目所读网页均署Elton L. Daniel，不算两位作者的独立复验；所读段还转引Daftary的早期研究，未据此宣称已独立读过那些全部原作。",
+    "verifiedReadUrls": [
+      "https://www.iranicaonline.org/articles/conversion-ii/"
+    ],
+    "locator": "本地P003—P006：对象、史料、城市家谱样本；P007：早期改宗；P008：传教与库姆阿拉伯社群；P009—P010：动因与地区差异。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "IS-S02",
+    "title": "什么是什叶伊斯兰？——专家历史综述",
+    "originalTitle": "What is Shi'a Islam?",
+    "author": "Farhad Daftary; Azim Nanji",
+    "year": 2006,
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf",
+    "language": "英语",
+    "kind": "expert-essay-open-institutional-reprint",
+    "access": "IIS公开具名PDF，HTTP200，共36页。实读PDF1—12及36页出处；文件第36页标原载Voices of Islam Vol.1: Voices of Tradition，Vincent J. Cornell编，Praeger，2006，217—244页。不是只读书目。",
+    "supports": "632年领导与继承之争、后来的逊尼汇聚，以及什叶对阿里指定的解释。\n\n656年奥斯曼遇害后的内战、661年阿里遇害及哈桑和约、680年卡尔巴拉和后来的纪念。\n\n8世纪学术与教义发展、765年后的什叶内部继承分化；874／941隐遁传统和10世纪制度化。\n\n萨法维从苏菲网络成长，1501年将十二伊玛目派立为国家宗教，此后引入学者并建设教学与仪式机构。",
+    "limits": "IIS为伊斯玛仪研究机构，此文有明显的教内解释与反“异端化”立场；不据此替任何派别判定正统或政治动机。\n\n先知指定阿里、末位伊玛目隐遁、毒杀等叙事须以传统所信表述；正文不把它们写成各方共识或可验证超自然事实。\n\n不是穷尽所有早期政治阵营的史料批判；不把第一场内战全体参与者直接分为成熟逊尼／什叶两派。\n\nPDF后半现代机构及现任人物资料不用于形成史，更不认证2026现状。\n\n2006为原作年，2022-01-01是落地页日期，2024/10只是上传路径；不混为作品首次发表年。",
+    "verifiedReadUrls": [
+      "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+    ],
+    "locator": "PDF1—4：论文目标、指定的信仰归属与632；PDF5—6：656／661／680及早期多样性；PDF7—9：法学教学与765后分化；PDF9—11：隐遁与经典；PDF11—12：萨法维和建制；PDF36：原刊出处。PDF页不机械换算为原书217—244页。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "IS-S03",
+    "title": "塔希尔与萨曼时期的呼罗珊：波斯文与逊尼学术",
+    "originalTitle": "KHORASAN vi. History in the Taherid and Samanid Periods",
+    "author": "Elton L. Daniel",
+    "year": "所读页面未列明确发表年份，不采用网页迁移时间作出版年",
+    "url": "https://www.iranicaonline.org/articles/khorasan-vi-history-in-the-taherid-and-samanid-periods/",
+    "language": "英语",
+    "kind": "signed-expert-encyclopedia-article",
+    "access": "Encyclopaedia Iranica公开HTML，HTTP200；重点实读下列段落。页面署Elton L. Daniel及Volume XVI, pp.631—641，未见明确正文出版日期；机器datePublished=2025-10-31、dateModified=2025-12-17只作站点元数据。",
+    "supports": "大呼罗珊涉及伊朗东北与中亚，不能收缩成现代伊朗国境。\n\n塔希尔与萨曼政权、逊尼学术和当地什叶及苏菲传统并存。\n\nP042直接说明逊尼法学、《古兰经》及圣训学的繁荣，多以阿拉伯文写作。\n\nP043直接说明新波斯语文学、鲁达基等诗人赞助及阿拉伯文著作编译，非“改宗即阿拉伯化”。",
+    "limits": "只有一个时期和区域的案例，不代表全部波斯语社会都属逊尼；同文记有宗教竞争和暴力。\n\n与IS-S01同一署名作者，不能算两次相互独立的实证验证。\n\n不把学者的地域联系换成现代民族／国籍，也不按家谱猜归属。\n\nP043的346／947纪年配对疑有误，本稿不采用该精确日期；未将网站机器日期当原作出版年。 两篇Iranica条目所读网页均署Elton L. Daniel，不算两位作者的独立复验；所读段还转引Daftary的早期研究，未据此宣称已独立读过那些全部原作。",
+    "verifiedReadUrls": [
+      "https://www.iranicaonline.org/articles/khorasan-vi-history-in-the-taherid-and-samanid-periods/"
+    ],
+    "locator": "P001：范围；P009—P010：塔希尔逊尼支持；P020、P027、P036：教派竞争及其复杂性；P041：王朝晚期；P042—P043：逊尼学术、阿拉伯文写作与新波斯文发展。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "IS-S04",
+    "title": "萨法维王朝：1501年及宗教制度建设",
+    "originalTitle": "SAFAVID DYNASTY",
+    "author": "Rudi Matthee",
+    "year": 2008,
+    "url": "https://www.iranicaonline.org/articles/safavids/",
+    "language": "英语",
+    "kind": "signed-expert-encyclopedia-article",
+    "access": "Encyclopaedia Iranica公开HTML，HTTP200；页面标2008-07-28发表、2017-06-13更新。实读早期、塔赫玛斯普及选定宗教政策段，未穷尽1501—1722王朝史。",
+    "supports": "早期苏菲网络、奇兹尔巴什突厥部族武装的角色及内部竞争。\n\n1501年大不里士称王、宣布官方教派；其后扩张伴随对逊尼居民的压迫。\n\n王朝通过学者任用、资源、捐产及实践规范化推进建制，不是一日全国改宗。\n\n阿拉伯什叶学者参与；16世纪中叶仍有逊尼中心；王权与宗教学者存在分工及张力。",
+    "limits": "早期信仰性质及阿拉伯学者迁移规模与影响仍有争论，不把作者所列解释变成无争议普查。\n\n不采用1720年旅行观察的一比例作全国人口统计；不以族源猜全部追随者身份。\n\n作者明确警告现代民族国家概念的时代错置；本稿也不拿2026伊朗机构解释16世纪。\n\n宗教政策有迫害也有制度合作，不能只保留宣传或只归因于民族仇恨。",
+    "verifiedReadUrls": [
+      "https://www.iranicaonline.org/articles/safavids/"
+    ],
+    "locator": "P002—P006：概念与背景；P007—P010：1501与压迫、对外冲突；P013—P017：官职、塔赫玛斯普及学者引入；P037—P038：捐产、学术和实践；P048、P050：政策变化及王权—学者关系。",
+    "checked": "2026-10-07"
   }
 ]
