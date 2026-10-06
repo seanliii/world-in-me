@@ -3,8 +3,8 @@
   "id": "world-in-me",
   "title": "世界照见我",
   "subtitle": "从旅途，到历史，到可以检查的一次行动",
-  "date": "2026-10-05",
-  "contentVersion": "2026-10-05-world-and-life-reading",
+  "date": "2026-10-06",
+  "contentVersion": "2026-10-06-primary-text-continuation",
   "heroImages": [
     "giza-pyramids",
     "sarajevo-latin-bridge",
@@ -98,13 +98,13 @@
   "note": "六封补充邮件目前完整读取6/6，独立回查5/6。具体项目与协作事件另在本地私人研究包中分析，不随公共网站发布；读取、回答和行为改变是三个不同的完成条件。部分原对话在邮件中有缺尾，另含重复正文；六封读取不等于全部源对话完整。",
   "counts": {
     "chapters": 13,
-    "chapterSections": 82,
+    "chapterSections": 90,
     "legacyQuestions": 66,
     "additionalQuestions": 31,
     "answers": 15,
-    "books": 57,
+    "books": 61,
     "originalWorks": 21,
-    "sources": 236,
+    "sources": 257,
     "plannedStops": 20,
     "mentionedCountries": 8,
     "events": 37,
@@ -112,7 +112,7 @@
     "practices": 5,
     "videos": 3,
     "podcasts": 3,
-    "corrections": 30
+    "corrections": 33
   },
   "files": [
     "manifest.json",

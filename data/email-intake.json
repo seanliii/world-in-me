@@ -148,7 +148,7 @@
       "id": "email-6",
       "label": "邮件 6",
       "status": "题录与已有细读已核；更多国别原文精读仍待补",
-      "note": "十九个命名作品逐项登记，误配和未核不编剧情。《耻》与《独立的太阳》已有实际片段细读，其余九国本次仍未取得可读原著片段，未算全部深读完成；原线程缺尾未收到。",
+      "note": "十九个命名作品逐项登记，误配和未核不编剧情；原十一国已有六国真实片段（含《沙鱼》第一章），另五国正文待补。片段不等于通读，原线程缺尾仍未收到。",
       "bodyReceived": true,
       "bodyFullyRead": true,
       "questionsMapped": true,
@@ -163,6 +163,10 @@
         {
           "href": "#chapter/literature",
           "label": "小说不是国家病历"
+        },
+        {
+          "href": "#question/q01",
+          "label": "六国实读与五国缺口"
         }
       ],
       "sourceTailMissing": true
