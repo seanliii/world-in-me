@@ -7036,5 +7036,453 @@
     "limits": "辞典讨论但丁和古典文学；本次只取这一名称对应，不据其文学叙述认证Aeaea真实海岛、英雄到访或任何确定航线。其余神话、引文及地理解释未在本次路线中采为史实。",
     "locator": "“Circe”条目第一句中的古名与mod.所列现代名；末尾OUP1968及Paget Toynbee版权说明。",
     "checked": "2026-10-06"
+  },
+  {
+    "id": "Q26-CN-01",
+    "title": "中文突厥学研究并非空白：研究者访谈与同文概念切换",
+    "originalTitle": "跨学科推进突厥学研究——访中国社会科学院大学冷门绝学协同创新研究院突厥学研究中心主任李大龙",
+    "author": "班晓悦采访撰文；受访者李大龙",
+    "year": 2025,
+    "url": "https://www.cass.cn/keyandongtai/qiangyuanzhanlue/202502/t20250225_5848979.shtml",
+    "language": "中文",
+    "kind": "原机构发布的具名研究者访谈；不是教材或学科计量普查",
+    "access": "实际读取2025年2月25日稿的导语，以及受访者关于研究对象、语族与民族、国内研究/译著和研究困难的回答；保存完整HTML与文本，未把所列著作全部算已读。",
+    "supports": "中文专业研究、译著和机构确实存在；受访者区分古代汗国人群与现代语言/民族类别。记者导语的范围含混，不能据其“退出”一句推出全部相关人群消失，也不能替记者断言只指某一政权。",
+    "limits": "导语是记者表述，回答是受访者立场；所列研究成果和困难不等于独立普查，不能推全国学校是否普及、政治动机或用户记忆。有关祖源、边疆与文化政策的规范性主张不作本题历史事实证明。",
+    "locator": "页首日期/署名；导语“退出历史舞台”所在段；第一组问答第三点关于语族/民族，后面的学界成果和当前困难问答。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "Q26-CN-02",
+    "title": "《突厥集史》1958年书目：研究存在与读完正文分开",
+    "originalTitle": "突厥集史",
+    "author": "岑仲勉；中华文史学术论著库所载书目",
+    "year": 1958,
+    "url": "https://academic.ancientbooks.cn/docLunzhu/lunzhuPeriodView.jspx?docbookid=ZHB030000123",
+    "language": "中文",
+    "kind": "出版机构相关学术书目数据库的公开元数据，不是原著正文",
+    "access": "只读公开题名、作者、中华书局、1958年、第1版/第2次印等元数据；没有读取本书章节正文或纸本版权页。",
+    "supports": "至少有明确可核的20世纪中文突厥研究著作，不应把个人未接触等同于中国学界没有此类研究。",
+    "limits": "书目存在不证明每个学校讲授，也不证明书中某项历史论证正确；不把所列第2次印刷信息改写为已验初印或通读。",
+    "locator": "“主要责任者”“出版日期”“出版者”“版次”“印次”字段。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "Q26-CN-03",
+    "title": "中文研究怎样区别帝国、自称与现代民族：昝涛文章校样",
+    "originalTitle": "从奥斯曼帝国到“新奥斯曼主义”：历史记忆与现实政治",
+    "author": "昝涛",
+    "year": "所见校样页脚2021-07-06；正式出版日期本次未核",
+    "url": "https://ccj.pku.edu.cn/Article/DownLoad?id=767683037421637&type=ArticleFile",
+    "language": "中文",
+    "kind": "北大平台提供的具名研究文章校样PDF；不是土耳其原始史料",
+    "access": "取得20页PDF，实际读题名/研究问题、第二节开头和印181页自称/他称的讨论；印181对应PDF4已目视原图。未通读全文，不采用未核现实政治判断。",
+    "supports": "中文学术讨论确实在处理奥斯曼与内亚、名称和认同的关系；该页主动区分古代泛称与现代民族认同，可以作为专业研究视角存在的具体例子。",
+    "limits": "PDF为带“三校样”页脚的版本，不冒充最终刊本；本题仅据此说明研究对象与提问存在，不认证该文全部帝国史概括、人口比例、现代外交或作者的规范判断。不能由一篇论文推出全国学界一致或课堂普及。",
+    "locator": "PDF1题名与研究问题；PDF3第二节开头；PDF4=印181自称/他称及奥斯曼人/突厥人称谓；PDF5仅核该部分继续讨论多元帝国身份。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CEN-01",
+    "title": "《利雅得女孩》获正式发行许可：作者回应",
+    "originalTitle": "وزارة الثقافة والإعلام تفسح رسمياً رواية «بنات الرياض»",
+    "author": "طامي السميري（《利雅得报》）；引述作者 رجاء الصانع",
+    "year": "2006-03-03",
+    "url": "https://www.alriyadh.com/135346",
+    "language": "阿拉伯语",
+    "kind": "同期原创报道，含作者直接陈述；不是许可文件",
+    "access": "已取得并实际阅读原站相关正文；研究原件仅在本机留存供核对，网站不复制全文。",
+    "supports": "文化与新闻部已正式放行小说；作者期待本地书店发行，并谈此前网络与影印流传。",
+    "limits": "3月3日是报道日，只能确定此前已经放行；不能补写成许可当天或确定为2月某日。此前非正规流传不单独证明正式禁令；不推定进口令、私人持有或英译本待遇。",
+    "verifiedReadUrls": [
+      "https://www.alriyadh.com/135346"
+    ],
+    "locator": ".article-text，正文第1段；报头公历2006-03-03、伊历1427年2月3日，第13766号。",
+    "yearNote": "页面报头为历史刊期；抓取的是现存网页，不是2006年行政原件。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CEN-02",
+    "title": "两名公民反对发行许可的诉讼被驳回：报道级证据",
+    "originalTitle": "Court Rejects Case Against Rajaa Al-Sanea",
+    "author": "Raid Qusti，Arab News",
+    "year": "2006-10-09",
+    "url": "https://www.arabnews.com/node/290232",
+    "language": "英语",
+    "kind": "同期原创司法新闻；本轮只取得原媒体的索引正文",
+    "access": "最终web.run返回了较完整的原媒体索引正文（含后半部请求与拟上诉）；原站仍403，未冒称取得原站HTML或判决。",
+    "supports": "报道说两名公民因部方准许发行而起诉，指小说损害沙特女孩形象；要求撤销发行许可、阻止机场港口输入并处罚作者。法院前一天驳回；报道律师拟上诉。",
+    "limits": "未获判决、许可或海关命令原件。请求不等于执行中的进口禁令，拟上诉不等于已上诉或已改判；法院驳回也不证明内容永获认可。报道提到王室程序指示，不补其未交代的年份或原令文本。",
+    "verifiedReadUrls": [],
+    "locator": "最终索引正文：开头三句为驳回、原告与理由；后部为律师拟上诉、部方法律顾问及原告撤销许可/机场港口输入请求。没有原站固定段号。",
+    "yearNote": "报道日2006-10-09；事件日2006-10-08是依报道“昨天”折算，不是判决落款。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CEN-03",
+    "title": "路透社所述《利雅得女孩》初期受禁与后续流通",
+    "originalTitle": "Girls of Riyadh spurs rush of Saudi novels",
+    "author": "Reuters；Gulf News刊载",
+    "year": "2007-07-24（Gulf News刊载页的最后更新时间）",
+    "url": "https://gulfnews.com/world/gulf/saudi/girls-of-riyadh-spurs-rush-of-saudi-novels-1.190862",
+    "language": "英语",
+    "kind": "路透社原创新闻的媒体刊载页；本轮仅索引可读",
+    "access": "只读到web.run返回的原媒体索引正文；原站403，未冒称原页全文读取。",
+    "supports": "报道把小说初期在沙特的待遇称为被禁，并置于性、宗教及女性写作引起争议的背景。",
+    "limits": "这是媒体描述，不交付初始行政决定、令号、精确起始日或进口范围。后来的可售叙述不是此前从未被禁的证据。与其他路透社转载不能算独立印证。",
+    "verifiedReadUrls": [],
+    "locator": "索引正文关于最初被禁的段落；原页403，未获得固定原页段号。",
+    "yearNote": "可复核索引明确显示Gulf News最后更新于2007-07-24；不作初始禁令日。另一个Reuters同文刊载线索标2007-07-23，原页抓取超时，不据此假装读到Reuters原站。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CEN-04",
+    "title": "埃及电影审查负责人称将完整上映、只限成人",
+    "originalTitle": "الرقابة المصرية تعرض فيلم «عمارة يعقوبيان» للكبار فقط",
+    "author": "نشأت الدبيس，《利雅得报》开罗记者；直接引述Ali Abu Shadi",
+    "year": "2006-06-13",
+    "url": "https://www.alriyadh.com/162534",
+    "language": "阿拉伯语",
+    "kind": "同期原创新闻，含有权电影审查负责人直接表态",
+    "access": "已取得并实际阅读原站相关正文；研究原件仅在本机留存供核对，网站不复制全文。",
+    "supports": "Ali Abu Shadi称电影将公开上映、不作删减，但只供成人；否认存在阻止完整上映的政治顾虑。",
+    "limits": "这是上映前的表态报道，不是签发许可原件或各影院拷贝核验。只能用于电影与成人分级，不能移植成小说审查结论，也不保证后续从无删改。",
+    "verifiedReadUrls": [
+      "https://www.alriyadh.com/162534"
+    ],
+    "locator": ".article-text，第1—2段；报头2006-06-13，第13868号。",
+    "yearNote": "",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CEN-05",
+    "title": "议员要求讨论电影中的腐败与同性关系",
+    "originalTitle": "نواب مصريون يستمرون بمهاجمة (عمارة يعقوبيان)",
+    "author": "德新社（د.ب.ا），《利雅得报》刊载",
+    "year": "2006-07-04",
+    "url": "https://www.alriyadh.com/168550",
+    "language": "阿拉伯语",
+    "kind": "同期通讯社报道的完整刊载页",
+    "access": "已取得并实际阅读原站相关正文；研究原件仅在本机留存供核对，网站不复制全文。",
+    "supports": "议员向议长提交紧急请求；反对点包括官商腐败、同性关系与国家形象。稿件同时描述影院仍放映并挂成人限定标志。",
+    "limits": "请求不等于已经获通过的删改或禁映决定。第4段谈《达·芬奇密码》的书籍和电影限制，绝不是本书的禁令。不能把整个议会或全国观众视为立场一致。",
+    "verifiedReadUrls": [
+      "https://www.alriyadh.com/168550"
+    ],
+    "locator": ".article-text，第1—2段诉求，第4段另一作品，第5段在映与成人限定；2006-07-04，第13889号。",
+    "yearNote": "",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CEN-07",
+    "title": "补充：2007年电视改编剧本的删词要求，不是小说禁令",
+    "originalTitle": "رقابة التليفزيون تحذف جملة «الحكومة الكافرة» فقط من سيناريو «عمارة يعقوبيان»",
+    "author": "رشا سلامة，《埃及今日报》；引述编剧عاطف بشاي",
+    "year": "2007-05-31",
+    "url": "https://www.almasryalyoum.com/news/details/2135878",
+    "language": "阿拉伯语",
+    "kind": "同期原创新闻，含电视改编编剧回应",
+    "access": "已取得并实际阅读原站相关正文；研究原件仅在本机留存供核对，网站不复制全文。",
+    "supports": "电视审查对剧本中特定指称政府的措辞提出删除及同义句调整；报道也区分电视审查与另一艺术审查部门的意见。",
+    "limits": "对象是电视剧剧本，不是2006年电影或小说。报道及编剧愿遵从不等于已核验最终播出版；不得借来补电影删改或小说禁令。",
+    "verifiedReadUrls": [
+      "https://www.almasryalyoum.com/news/details/2135878"
+    ],
+    "locator": "div.article-details.update-font：原页六块正文；第1段删词，第3—6段编剧回应、两类审查意见及制作说明。报头2007-05-31，第1082号。",
+    "yearNote": "",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CEN-08",
+    "title": "《简单过去时》禁至1977说法的出版社原始页面",
+    "originalTitle": "Driss Chraïbi",
+    "author": "New York Review Books（作者介绍，页面未署个人作者）",
+    "year": "页面发布日期未列；回顾1954、1977",
+    "url": "https://www.nyrb.com/collections/driss-chraibi",
+    "language": "英语",
+    "kind": "出版社自己的作者介绍，回顾性叙述",
+    "access": "已取得并实际阅读原站相关正文；研究原件仅在本机留存供核对，网站不复制全文。",
+    "supports": "出版社明确说1954年小说在摩洛哥引起丑闻，并被禁至1977。",
+    "limits": "直接证明出版社确实作此叙述，不等于取得当年的行政决定或独立核实完整沿革。起始禁令日期、决定机关、地区细分、媒介版本、执行方式和1977年解除手续均缺；不能从出版年自动补出禁令日。",
+    "verifiedReadUrls": [
+      "https://www.nyrb.com/collections/driss-chraibi"
+    ],
+    "locator": ".collection-hero__description，第1段提到处女作的句群。",
+    "yearNote": "网页现存版本2026-10-06读取；无页面刊日，不以当今销售状态证明历史。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "SAB-P-01",
+    "title": "萨宾娜生活口述的实际样章：生计、答谢与转述关系",
+    "originalTitle": "María Sabina: Selections — The Life",
+    "author": "María Sabina（叙述）；Álvaro Estrada（整理）；Jerome Rothenberg（选集编辑）",
+    "year": 2003,
+    "url": "https://content.ucpress.edu/title/9780520239531/9780520239531_sabina.pdf",
+    "language": "英语译文；不是马萨特克语逐字稿",
+    "kind": "大学出版社公开的生活口述样章；经过整理、英译和编辑",
+    "access": "实际取得并读出版社样章全部36个PDF页，即印刷页3—38，第1—11节及第12节的一部分；主任务另复读印12、17、19、36并查看印36原图。不是通读整个生活口述或全书。",
+    "supports": "在叙述内部看到童年旁听、战争消息、养家劳动、求助、钱物答谢与反对借智慧牟利并存；区分她的自我理解、讲述行为与外部事实认证。",
+    "limits": "未读1977年西语原版主文，未对勘其他英译本；访谈原带、确切日期、删改和逐稿确认程序未核。病因与恢复是自述，不认证疗效；不由答谢叙述推算出版/录音合同及收益，不摘录操作性内容。",
+    "verifiedReadUrls": [
+      "https://content.ucpress.edu/title/9780520239531/9780520239531_sabina.pdf"
+    ],
+    "locator": "印12童年听唱；印17对Álvaro的称呼及家计；印19劳动；印36城市医生、语言中介与答谢/规范张力。样章印3—38并非全篇。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "SAB-P-02",
+    "title": "2003萨宾娜选集的版本与目录",
+    "originalTitle": "María Sabina: Selections",
+    "author": "University of California Press；作者与编者字段依出版方",
+    "year": 2003,
+    "url": "https://www.ucpress.edu/books/maria-sabina/paper",
+    "language": "英语",
+    "kind": "原出版社书目和目录；不是已读主文的替代品",
+    "access": "实际读取书页元数据与目录，核ISBN9780520239531、2003年10月、Rothenberg编辑、The Life与Estrada的署名；没有把出版社完整英译的介绍当成本次全书通读。",
+    "supports": "生活口述、唱词与评论在选集中分别排列，叙述者、整理者及编辑不应混成同一声音。",
+    "limits": "本次阅读只到出版社样章，卷末来源说明未核；不由书目信息认定与1981英译逐字相同，也不把出版社用语当作对全部地方传统的独立调查。",
+    "verifiedReadUrls": [
+      "https://www.ucpress.edu/books/maria-sabina/paper"
+    ],
+    "locator": "About the Book、About the Author与Table of Contents；THE LIFE／Written with Álvaro Estrada。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "SAB-P-03",
+    "title": "萨宾娜不是唯一实践者：Munn的有限比较与翻译说明",
+    "originalTitle": "Henry Munn: From 'The Uniqueness of María Sabina' (In Memoriam)",
+    "author": "Henry Munn（文章）；Jerome Rothenberg（刊载导语）",
+    "year": "所给网页标2014-02-15；导语说明文章来自2003选集",
+    "url": "https://jacket2.org/commentary/henry-munn-uniqueness-mar%C3%ADa-sabina-memoriam",
+    "language": "英语",
+    "kind": "研究者本人文章与编辑说明；不是萨宾娜生活口述",
+    "access": "实际读栏目导语和所刊文章；主任务复读开头比较对象、Eloína Estrada de González翻译唱词录音的段落及编者对口述/唱词译介的说明。音频本轮听取0秒，未复现声学比较。",
+    "supports": "Munn报告他在Huautla于1967—1980年录制另外四位实践者，比较共享表达与个体差别；萨宾娜的高知名度不能替代整类人。翻译分工与研究者解释须分开。",
+    "limits": "四个比较对象不是全国调查；Munn的传统、诗性和疗效解释不自动成为本次核验事实。Eloína翻译唱词录音不等于整部生活访谈均由她翻译；不独立裁定马萨特克语正确译法，也不把唱词录音过程移给生活访谈。",
+    "verifiedReadUrls": [
+      "https://jacket2.org/commentary/henry-munn-uniqueness-mar%C3%ADa-sabina-memoriam"
+    ],
+    "locator": "Rothenberg导语；Munn正文第1段四位比较对象；正文Eloína Estrada de González翻译录音段。",
+    "yearNote": "网页是否为最初发布版本未另核，不把页面日期当作文章首次发表或选集出版日期。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "NAH-01",
+    "title": "Molina：nanacatl条与数字化底本说明",
+    "originalTitle": "Vocabulario en lengua Mexicana y Castellana — Nanacatl",
+    "author": "Alonso de Molina；GDN数字化说明署Marc Thouvenot",
+    "year": "1571词典；GDN据1970年Porrúa版录入，现存数字页面",
+    "url": "https://gdn.iib.unam.mx/diccionario/nanacatl/152784",
+    "language": "纳瓦特尔语词目、西班牙语释义；数字化说明含法语",
+    "kind": "UNAM GDN对历史词典的转录及规范化页面",
+    "access": "本轮读保存TXT，并从保存HTML复核选定词条；另读数字化说明开头、规范化说明。未目视1571或1970印本。",
+    "supports": "该选定词条将nanacatl释为蘑菇，标Molina_2、1571、62r；数字条目分原拼写与规范化拼写。",
+    "limits": "词条释义不是完整历史词源论证，也不等于凡此词皆指幻觉性或仪式用蘑菇。数字转录不能冒称1571原页已核。",
+    "verifiedReadUrls": [
+      "https://gdn.iib.unam.mx/diccionario/nanacatl/152784"
+    ],
+    "locator": "GDN /diccionario/nanacatl/152784：Paleografía至Entradas之前；Folio 62r；/textos/molina-2开头及规范化说明。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "NAH-02",
+    "title": "Molina：nacatl与“肉”",
+    "originalTitle": "Vocabulario en lengua Mexicana y Castellana — Nacatl",
+    "author": "Alonso de Molina；UNAM GDN数字转录",
+    "year": "1571词典；通过GDN数字转录",
+    "url": "https://gdn.iib.unam.mx/diccionario/nacatl/152647",
+    "language": "纳瓦特尔语、西班牙语",
+    "kind": "历史词典数字条目",
+    "access": "实际读保存TXT并复核保存HTML的选定条目；未目视Molina原印页。",
+    "supports": "nacatl被另列为肉，标62r；与nanacatl不是同一条目。",
+    "limits": "分列能防止把两个字串直接互换，不能单凭分列排除它们可能的历史形态关联，更不能证明整个复合词的唯一词源。",
+    "verifiedReadUrls": [
+      "https://gdn.iib.unam.mx/diccionario/nacatl/152647"
+    ],
+    "locator": "/diccionario/nacatl/152647：Paleografía至Entradas前；Folio 62r。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "NAH-03",
+    "title": "Molina：teotl与“神”",
+    "originalTitle": "Vocabulario en lengua Mexicana y Castellana — Teotl",
+    "author": "Alonso de Molina；UNAM GDN数字转录",
+    "year": "1571词典；通过GDN数字转录",
+    "url": "https://gdn.iib.unam.mx/diccionario/teotl/159255",
+    "language": "纳瓦特尔语、西班牙语",
+    "kind": "历史词典数字条目",
+    "access": "实际读保存TXT并复核保存HTML的选定条目；未核1571原页。",
+    "supports": "teotl在这一条释为神，标101r。",
+    "limits": "单词释义不自动决定复合词中词素的全部作用，更不能自动推出单数的神、身体或基督教圣餐观念。",
+    "verifiedReadUrls": [
+      "https://gdn.iib.unam.mx/diccionario/teotl/159255"
+    ],
+    "locator": "/diccionario/teotl/159255：Paleografía至Entradas前；Folio 101r；所引用的是选定Molina_2条，不是页面混列的其他时代例句。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "NAH-04",
+    "title": "Wimmer：teonanacatl的定义与引文线索",
+    "originalTitle": "Dictionnaire de nahuatl classique — TEONANACATL",
+    "author": "Alexis Wimmer；UNAM GDN收录",
+    "year": "2004词典；现存数字页面",
+    "url": "https://gdn.iib.unam.mx/diccionario/teonanacatl/63485",
+    "language": "纳瓦特尔语、法语",
+    "kind": "现代学者编纂的古典纳瓦特尔语词典条目",
+    "access": "本轮读保存TXT中全部选定词条，并复核保存HTML；没有跟进其所引手稿图页。",
+    "supports": "条目定义为幻觉性蘑菇，指出在nanacatl的一般名称下描述，并引Sah11,130与Sah11,147。",
+    "limits": "它没有在该条给出“神之肉”的唯一词源证明；未给出不等于该译法全无别的文献来源。条内旧医疗说法不作疗效认可。Sah定位不直接等于手稿folio。",
+    "verifiedReadUrls": [
+      "https://gdn.iib.unam.mx/diccionario/teonanacatl/63485"
+    ],
+    "locator": "/diccionario/teonanacatl/63485：Paleografía、Traducción、Contexto、Fuente字段；2004 Wimmer。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "NAH-05",
+    "title": "Wimmer：nanacatl的语境不止词义",
+    "originalTitle": "Dictionnaire de nahuatl classique — NANACATL",
+    "author": "Alexis Wimmer；UNAM GDN收录",
+    "year": "2004词典；现存数字页面",
+    "url": "https://gdn.iib.unam.mx/diccionario/nanacatl/56471",
+    "language": "纳瓦特尔语、法语，附西班牙语与英语例释",
+    "kind": "现代词典中的多来源语料摘引",
+    "access": "本轮实际读Contexto完整区段；没有读其引用的全书、手稿或现代植物分类论文。",
+    "supports": "定义与例句涉及不同菇类、聚会招待，以及第九卷所引的舞蹈、哭泣等身体及群体表达；提供Sah9,38/39等追索线索。",
+    "limits": "这些是Wimmer选引，不是本轮亲读卷九原页。不能把条头的幻觉性定义覆盖nanacatl所有用法，不能据此重建祭仪流程、确定物种或认定每位参与者动机。",
+    "verifiedReadUrls": [
+      "https://gdn.iib.unam.mx/diccionario/nanacatl/56471"
+    ],
+    "locator": "/diccionario/nanacatl/56471：Paleografía至Fuente的Contexto区段，尤其指Sah9,38及Sah9,39的两条语境。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "NAH-06",
+    "title": "CF_INDEX：是索引地址，不是原文或译义",
+    "originalTitle": "Gran Diccionario Náhuatl — teonanacatl / CF_INDEX",
+    "author": "UNAM GDN平台；该索引编者在本批有效页面中未核定",
+    "year": "条目Fuente标“1580 CF Index”；不是本轮已核的现代索引编制年或1577手稿年代",
+    "url": "https://gdn.iib.unam.mx/diccionario/teonanacatl/256980",
+    "language": "纳瓦特尔语词形；西班牙语字段名",
+    "kind": "现代数字平台收录的文本索引项",
+    "access": "实际读保存TXT并复核保存HTML；/textos/cf只返回通用页面，未提供有效索引编者说明。",
+    "supports": "原拼写字段列teunanacatl，规范字段列teonanacatl；所列内容为XI-130 147的位置索引。",
+    "limits": "不能把数字平台的Traducción字段名称误认为这里有翻译句；不能将索引看成1577双栏原文，也不能把1580标签与1577手稿年份强行统一。",
+    "verifiedReadUrls": [
+      "https://gdn.iib.unam.mx/diccionario/teonanacatl/256980"
+    ],
+    "locator": "/diccionario/teonanacatl/256980：Paleografía、Grafía normalizada、Traducción uno、Diccionario、Fuente、Notas。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "NAH-07",
+    "title": "López Austin：材料分层、转译与nanacatl段",
+    "originalTitle": "Descripción de medicinas en textos dispersos del libro XI de los Códices Matritense y Florentino",
+    "author": "Alfredo López Austin",
+    "year": "1974；PDF文件名的20221104不是论文发表年",
+    "url": "https://ru.historicas.unam.mx/bitstream/handle/20.500.12525/2304/78488-Texto%20del%20trabajo-231483-1-10-20221104.pdf?sequence=1&isAllowed=y",
+    "language": "西班牙语论述及译文，附纳瓦特尔语转录",
+    "kind": "UNAM原发学术论文；刊布殖民文本并进行对勘",
+    "access": "本轮以pypdf及已有文本层读PDF1—4（印45—48）、32—35（印76—79）的相关部分，并读PDF78—79（印122—123）的有关注释；仅检索其他页，未通读92幅PDF，未目视论文图页。",
+    "supports": "作者区分原住民医学专门提供者与熟悉自然的非医学专门提供者，说明改编章节、批注、不同底本与语词搜集。第44项将nanacatl与teunanacatl联结，帮助看到自然分类、身体经验和旧医疗知识相邻，而非只有单一神学释义。",
+    "limits": "阅读来自含OCR误字的文本层，不冒称逐字纳瓦校勘。出版者题录标45—132，PDF另有文字层标133—135的索引及末尾空幅；本次引用不依赖该差异。没有读Matritense或1577手稿；旧医疗断言不作有效性证明。",
+    "verifiedReadUrls": [
+      "https://ru.historicas.unam.mx/bitstream/handle/20.500.12525/2304/78488-Texto%20del%20trabajo-231483-1-10-20221104.pdf?sequence=1&isAllowed=y"
+    ],
+    "locator": "Estudios de Cultura Náhuatl 11（1974）；PDF1—4/32—35/78—79；纳瓦文本印76、78与西文第44项印77、79；注203—205在印123。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "NAH-08",
+    "title": "1830年卷三题名：作者与刊行编者不是同一层",
+    "originalTitle": "Historia general de las cosas de Nueva España, tomo tercero — portada",
+    "author": "Bernardino de Sahagún原著；Carlos María de Bustamante刊行并加注补；Alejandro Valdés印刷",
+    "year": "1830刊本；内容源自16世纪写作，不是1577手稿本身",
+    "url": "http://cdigital.dgb.uanl.mx/la/1080012524_C/1080012525_T3/1080012525_01.pdf",
+    "language": "西班牙语",
+    "kind": "历史刊本题名页的馆藏扫描",
+    "access": "本轮目视现成题名右页图（图页1/3）；核作者、编者、卷次、刊地与1830年。未通览整个六幅前置PDF。",
+    "supports": "题名将Sahagún、Bustamante与刊行信息分开，并说明有注释与补充；可据此区分原著层和1830编辑层。",
+    "limits": "不是1577双栏手稿，不能把刊本的正字、标点、注释与19世纪献辞归给16世纪原住民。题名统署不能证明每条未签名脚注都是某人独撰。",
+    "verifiedReadUrls": [
+      "http://cdigital.dgb.uanl.mx/la/1080012524_C/1080012525_T3/1080012525_01.pdf"
+    ],
+    "locator": "保存图sahagun-title-page4-right.png；对应保存的题名PDF第4图右半这一文件定位；无印页号，底部México/1830。",
+    "checked": "2026-10-06",
+    "transportNotice": "这个实际核读的旧文献入口使用HTTP，连接未加密。仅作公开文献入口，不应在该站填写个人信息；没有把未经验证的HTTPS地址冒充可用副本。"
+  },
+  {
+    "id": "NAH-09",
+    "title": "1830卷三第242页：蘑菇记述处在自然史分类中",
+    "originalTitle": "Historia general de las cosas de Nueva España, libro XI, capítulo VII, p. 242",
+    "author": "Bernardino de Sahagún原著；1830版Carlos María de Bustamante编注",
+    "year": "16世纪材料的1830年西班牙语刊本",
+    "url": "http://cdigital.dgb.uanl.mx/la/1080012524_C/1080012525_T3/1080012525_26.pdf",
+    "language": "西班牙语，夹纳瓦特尔语名词",
+    "kind": "历史刊本正文的馆藏扫描",
+    "access": "本轮先定位已有OCR，再目视第242页（图页2/3）；只核该页蘑菇段。相邻第241、243页仅见OCR和馆藏目录线索，不冒称目视。",
+    "supports": "该页确有蘑菇、视象、旧医疗分类及道德化评价相邻的叙述，支持文献中的文化分类与评价并存。",
+    "limits": "没有在该段读到“神之肉”的释义或完整祭仪叙述；本页不证明仪式起源年代、所有地区传统或现代疗效。OCR把词项读坏，不以其误字当历史异体；食用数量与做法不抄入交付。",
+    "verifiedReadUrls": [
+      "http://cdigital.dgb.uanl.mx/la/1080012524_C/1080012525_T3/1080012525_26.pdf"
+    ],
+    "locator": "卷三印242；sahagun-1830-xi7.pdf第2图左半；馆藏卷三目录置于Libro XI/Capítulo VII/Parte 1。",
+    "checked": "2026-10-06",
+    "transportNotice": "这个实际核读的旧文献入口使用HTTP，连接未加密。仅作公开文献入口，不应在该站填写个人信息；没有把未经验证的HTTPS地址冒充可用副本。"
+  },
+  {
+    "id": "NAH-10",
+    "title": "《作者述说》第77页：宣教正文与1830脚注的声音",
+    "originalTitle": "Historia general de las cosas de Nueva España, tomo III — Relación del autor digna de ser notada",
+    "author": "Bernardino de Sahagún正文；1830刊本编注层，题名署Carlos María de Bustamante",
+    "year": "16世纪作者述说；本轮所读为1830刊本",
+    "url": "http://cdigital.dgb.uanl.mx/la/1080012524_C/1080012525_T3/1080012525_09.pdf",
+    "language": "西班牙语",
+    "kind": "历史刊本作者自述与页下注",
+    "access": "本轮读开头PDF1L/1R的OCR窗口，目视印77（PDF4R，图页3/3）的正文及脚注；未通读整个Relación。",
+    "supports": "第77页正文记述宣教中的拆庙、监视夜间礼仪和拘捕；页下注批评殖民破坏。记录者参与干预与后来的编辑评价，需分开归属。",
+    "limits": "正文自述不是中立人口普查；这页没有把某次镇压对象限定为teonanacatl，不能改写成已核蘑菇专项禁令。脚注属1830编注层，未逐条签名；不能直接当Sahagún本人的反殖民宣言。",
+    "verifiedReadUrls": [
+      "http://cdigital.dgb.uanl.mx/la/1080012524_C/1080012525_T3/1080012525_09.pdf"
+    ],
+    "locator": "卷三Relación del autor，印77，sahagun-relacion-autor1.pdf第4图右半；末段及脚注(a)。",
+    "checked": "2026-10-06",
+    "transportNotice": "这个实际核读的旧文献入口使用HTTP，连接未加密。仅作公开文献入口，不应在该站填写个人信息；没有把未经验证的HTTPS地址冒充可用副本。"
+  },
+  {
+    "id": "NAH-12",
+    "title": "Getty项目说明：中部纳瓦材料与双栏的边界",
+    "originalTitle": "Florentine Codex — Getty Projects",
+    "author": "Getty Research Institute项目说明",
+    "year": "页面无单一刊日；图注标手稿1577；项目自2015起，保存于2026-10-06",
+    "url": "https://www.getty.edu/projects/florentine-codex/",
+    "language": "英语",
+    "kind": "负责数字化项目的机构说明，不是手稿原文",
+    "access": "本轮读保存TXT的About/Background及图注，从保存HTML复核关键双栏说明；没有打开1577阅读器或读其中双栏图像。",
+    "supports": "说明材料围绕墨西哥中部纳瓦文化，在Tlatelolco形成；区分主要纳瓦文与Sahagún的西班牙语解释。",
+    "limits": "机构介绍不是任何具体folio已读的证明；不因看到两种语言的说明便声称二者完全对等或已完成对勘，也不据平台当前计划判断历史。",
+    "verifiedReadUrls": [
+      "https://www.getty.edu/projects/florentine-codex/"
+    ],
+    "locator": "About → Background → About the Codex；上方手稿图注1577。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "NAH-15",
+    "title": "卷九的商人、宴集主题：仅出版社目录级",
+    "originalTitle": "Florentine Codex: Book 9 — The Merchants",
+    "author": "Bernardino de Sahagún原著；University of Utah Press书目与目录",
+    "year": "版权栏1959；网页发表日未列",
+    "url": "https://uofupress.com/books/florentine-codex-book-9/",
+    "language": "英语",
+    "kind": "出版机构的卷目及目录说明",
+    "access": "本轮只读保存文本中的卷名、版权栏与目录相关行；未读卷九正文。",
+    "supports": "可确定该卷以商人为主题且目录含宴集与奉献；与Wimmer的卷九例句合看，提供群体社会语境线索。",
+    "limits": "目录不等于原章节已读；不能单凭目录把每个蘑菇例句安入某一章、某个节日、某位参与者或重建完整仪式。",
+    "verifiedReadUrls": [
+      "https://uofupress.com/books/florentine-codex-book-9/"
+    ],
+    "locator": "Book 9: The Merchants；Copyright 1959；目录第7—9章等相关行。",
+    "checked": "2026-10-06"
   }
 ]
