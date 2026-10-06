@@ -1,7 +1,7 @@
 {
   "format": "world-in-me-public-build-v1",
-  "artifactId": "b539be60513de2c341968b57d36f954419d2f76489639f642ed2f50754b735a7",
-  "builtAt": "2026-10-06T22:17:24.732590+00:00",
+  "artifactId": "64b9a8601c8bb08bbae7442c4cec8acae8ab21fcc18307135365d8a466c6b860",
+  "builtAt": "2026-10-06T23:36:52.387019+00:00",
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "README.md": "99c7bd6a83cdf149f4c008e9598770123f2e38b339d020ca68f6e5423d242b25",
@@ -13,7 +13,7 @@
     "data/chapters.json": "878d2eba457f66aa50231b396ab262bc6fd912e3a4180db725d3979f29aebd89",
     "data/corrections.json": "2c2967c8d8c6e478677f74603886d25b6076ba9170797331dcc106eb5f7e0284",
     "data/coverage.json": "4ca26c5bb187929bb7b17a14c5525c352d4e5d1dcaf078dc19550531fd23ccb2",
-    "data/email-intake.json": "95bf64398ffca6b1f54fef2a7cae2f8885b23d5eb6d02caa2db1d1055ba34d9e",
+    "data/email-intake.json": "5574827730a8f1ebaa7199681ac4e53f51e65b049855a77b7f165ab50893fb88",
     "data/journey.json": "cdb8b59723012fdb43877e5a7257d98bb52cc82e909dd649c265ea1e62079a93",
     "data/library.json": "58a4c0d570b9d7fa04b896daaa35b368212873b1f07b45a2aaa509c327d6cde7",
     "data/manifest.json": "d03aaff66cf9e16439003591c1e2eae0b77f40c49ba16d17dbd928e3f5c976d3",
