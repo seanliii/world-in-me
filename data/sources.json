@@ -6506,5 +6506,82 @@
     "locator": "印刷p.14（PDF 2）：2003年注册、Bair的导师角色、与佛教并列的组织目标；pp.15、17–18（PDF 3、5–6）：田野范围、借用争议和蒙古师承叙述；p.22注11（PDF 10）：Olkhon会议及跨地区来访；pp.23–26（PDF 11–14）：亲属支持、语言、口述/档案/梦境与机构的自我解释。PDF第16页仅有印刷页码28。",
     "yearNote": "David G. Anderson主编，The Healing Landscapes of Central and Southeastern Siberia，章1，pp.13–28；University of Alberta Press / CCI Press",
     "checked": "2026-10-06"
+  },
+  {
+    "id": "LC-BARAKAT-FR",
+    "title": "《笑之石》法译本样张：亲近、退避与行动资格",
+    "originalTitle": "La pierre du rire",
+    "author": "Hoda Barakat；法译 Nadine Acoury",
+    "year": "1996（法译版权）；所读电子版书目2018",
+    "url": "https://actes-sud.fr/catalogue/la-pierre-du-rire-003930",
+    "language": "法语译本；原作阿拉伯语",
+    "kind": "出版社明确提供的电子样张，实际通过阅读器读取正文",
+    "access": "实际从出版社“Lire un extrait”进入Eden/Cantook，读取版权、题名、题辞、第一部分标号1—3的已提供正文及两条译注。阅读器位置不是纸本页码；没有通读全书。",
+    "supports": "可核Naji与Khalil的交谈、Khalil对Rita及离去者的揣测、战后整理房间与来访者离开的反差，以及叙述中两种男性行动位置的划分。",
+    "limits": "法译不是阿语原文；既有英语书目与这次法译阅读分开。没有比较完整译本或通读小说；叙述、人物推断与作者现实主张须分开，身体直觉和针灸议论不构成医学证据。",
+    "bibliographicUrl": "https://actes-sud.fr/catalogue/la-pierre-du-rire-003930",
+    "verifiedReadUrls": [
+      "https://edenlivres.fr/p/9782330099442?autoplay=1"
+    ],
+    "locator": "版权位于阅读器位置4，题名/译者位置5，题辞位置6，第一部分标题位置7；正文在位置8—9时已提供的内容单元“1”内，含标号1—3。短引取第2小节的第二次出现，紧接Khalil想向Naji说话的说明，未写成已经说出的发言。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "LC-BARAKAT-EN",
+    "title": "《笑之石》英语期刊节选：所见、承认与哀悼",
+    "originalTitle": "from The Stone of Laughter",
+    "author": "Hoda Barakat；题录另列Sophie Bennett，所读首图未标其角色",
+    "year": 2009,
+    "url": "https://www.jstor.org/stable/27743113",
+    "language": "英语节选；原小说为阿拉伯语",
+    "kind": "出版期刊所转载小说节选的公开首页预览；不是书评或题录代替正文",
+    "access": "实际视觉读取JSTOR公开首个预览图：两个完整正文段落及第三段开头，第三段句中截断；另读题名、作者与经Interlink许可转载的脚注。未读1102—1103或整本小说。",
+    "supports": "所见的被包裹身体不等于人物已经接受死亡；预想式的集体哀悼叙述与人物独处、对女性经验的羡慕相接。",
+    "limits": "不是现实宗教仪式田野调查或性别本性证据。只读首图，不能补写下一页或结局；题录没有独立解决Sophie Bennett角色、整书印次或不同季节标签，本次只引用2009卷期。与法译样张读的是不同段落，不宣称同段异文校勘。",
+    "bibliographicUrl": "https://doi.org/10.1353/cal.0.0545",
+    "verifiedReadUrls": [
+      "https://www.jstor.org/page-scan-delivery/get-page-scan/27743113/0"
+    ],
+    "locator": "该条目预览索引0、题名和文章起页共同定位到1101；图底只标文章全范围1101—1103，并非单页独立页码。第一段为是否真正看见死亡，第二段以将来时为主展开女性哀悼，后段也转入一般现在时，第三段转入Khalil独处的想法。",
+    "yearNote": "Callaloo 32(4)，条目范围1101—1103；本次只读首个预览图。图脚©2006不自动等于整书初版或具体印次。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "LC-ITALIAN",
+    "title": "《الطلياني／意大利人》阿语原作：葬礼、家属解释与兄弟争论的连续免费样章",
+    "originalTitle": "الطلياني",
+    "author": "شكري المبخوت／Shukri Mabkhout",
+    "year": "2014（eKtab书目登记）；所读电子样章的纸本版次未载",
+    "url": "https://ektab.com/ar/reader-introductory-fragment/altlyany",
+    "language": "阿拉伯语原作；本次未用英译替代",
+    "kind": "正规电子书平台明确标作免费样章的连续原著文本；平台重排PDF，不是简介、评论或纸本扫描",
+    "access": "从eKtab此书商品页的“免费样章”链接进入匿名阅读器，读取其声明isSample=true并提供的样章PDF；文件共11页，全部逐页视觉核读。没有购买、借阅登录或取得整本付费资源。题名、作者、出版社、ISBN和书目年另核同一商品页；样章未提供版权页。",
+    "supports": "确认开篇如何区分目击、传闻与家属归因；葬礼中的身份评判；妹妹作为消息来源；兄弟政治争论与维护发言空间并存。只支持本次所读小说片段的叙述分析。",
+    "limits": "只读合法公开样章内的连续文字。前一标题单元的两小节与后一单元开头相接可见；没有读到全文末尾、袭击的最终解释、完整学生运动、新闻职业或爱情结局。叙述者是小说中的讲述者，不等于作者；家属和兄长的评价不是全国调查或政策研究。阿语样章为平台重排件，未取得纸本版权页，也未与2014纸本、2021英译逐段校勘。机器提取含私用区字形，判断以原图为准；不据此猜补字句。",
+    "bibliographicUrl": "https://ektab.com/ar/altlyany",
+    "verifiedReadUrls": [
+      "https://ektab.com/ar/altlyany",
+      "https://ektab.com/ar/reader-introductory-fragment/altlyany"
+    ],
+    "locator": "样章PDF文件页1—3：الزقاق الأخير第1小节，葬礼及袭击；页4—5：同题第2小节，家属解释及未解问题。页6：شعاب الذكريات第1小节；页7：第2小节；页8—9：第3小节；页10—11：第4小节所显示文字。短引在文件页1舅父劝参加礼拜的段落。本定位不等于纸本页码。",
+    "yearNote": "商品页ISBN 978-9938-886-48-1并列2014；样章为mPDF 8.3.1重排、元数据生成日期2026-10-04，不能据此推定小说新版或纸本印次。2021 Europa英译及译者仅作为既有书目另记；未读其连续正文。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "LC-QUENUM",
+    "title": "Un piège sans fin：公开听写试题中的连续法语节选",
+    "originalTitle": "Un piège sans fin",
+    "author": "Olympe Bhêly-Quenum（所引作品）；载体为Prytanée militaire de Saint-Louis试题",
+    "year": 2013,
+    "url": "https://prytanee.sn/wp-content/uploads/2023/02/suj-depuis-2010-pms.pdf",
+    "language": "原法语的教学转载；非所读译本",
+    "kind": "公开学校试题集转载的署名小说节选；有连续正文，非介绍或剧情概要",
+    "access": "塞内加尔圣路易Prytanée军事学校的招生页面公开提供试题集。实际读取PDF第20页下半份的两段连续法语小说摘录；上半份为重复印刷，不算独立证据。书名、作者及STOCK在载体中署明，尚未取得该Stock印本页影。",
+    "supports": "在限定的两段中细读第一人称参与视角、声音比喻、持续动作、身体接触与抗争无效之间的张力。",
+    "limits": "只核这份学校转载，不认证底本原书逐字一致、版次、年份或页码。听写题名不是已核小说章节名；叙述者未具名，不补成某个角色。公开可读不等于有权公开重发整篇。比喻与人物感觉不是昆虫学资料、历史灾情统计或贝宁人的共同性格。",
+    "bibliographicUrl": "https://prytanee.sn/admission/",
+    "locator": "PDF 20，下半页，题名之后至作者出处之前的两段；正文PDF纵坐标约593.98—771.24，短引在612.34—625.30。",
+    "yearNote": "此字段指载体试题组年份；不表示小说出版年。代码、相邻页题头与下载日期已分开记录。",
+    "checked": "2026-10-06"
   }
 ]
