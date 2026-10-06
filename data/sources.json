@@ -1356,7 +1356,7 @@
     "url": "https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/lecture/",
     "language": "英语",
     "kind": "诺贝尔奖官方网站讲座记录",
-    "access": "实际读取官方页面：讲者、标题、2009年12月8日讲座日期及讲稿和录像入口；本次取得的PDF无法完整解析，不把它登记为已读全文，也未观看全片。",
+    "access": "早期核验仅读取官方页面：讲者、标题、2009年12月8日讲座日期及讲稿和录像入口；当时取得的PDF无法完整解析，未登记为已读全文，也未观看全片。后续选页核读如有补充，另列在本卡末尾。 增补核读：2026-10-06已实际核读同场讲座的官方2010排印稿所列页（CQ09-S04），旧记录仅表示此前核读程度；依然不是全书或全片。",
     "supports": "核实奥斯特罗姆以多中心治理为题的正式讲座存在，为超出市场／国家二分法提供后续阅读入口。",
     "limits": "讲座页面不能替代案例证据，不能凭标题认定所有社群都能自治。具体合作安排只按书页已读范围与本网站设计示例讨论。",
     "checked": "2026-10-05"
@@ -4886,6 +4886,888 @@
     "supports": "英荷金融长期互补、1795年后战争与贸易阻断，以及截至1815年前后伦敦的相对地位。1820年银行清算另据AQ-S07，不归给本篇。",
     "limits": "未阅读全文；未复算证券价格或独立核阅Coutts/英格兰银行原账。 仅用英荷互补、不同证券市场和战争断裂解释；不采用其早期VOC/EIC年表。 不以刊34页1720年后超越支付中心的笼统句排定交接年；它与AQ-S05的1750报价指标不是同一可比口径。",
     "yearNote": "Financial History Review 18(1), 21–46；2011年2月1日在线发表；LSE公开正式刊版含仓储封面，2012年是入库时间",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CAN-HUMBOLDT",
+    "title": "洪堡的古代研究手稿：希腊范型与同一页上的异议",
+    "originalTitle": "Über das Studium des Alterthums, und des griechischen insbesondre",
+    "author": "Wilhelm von Humboldt；含Dalberg、Wolf等人的边批；Albert Leitzmann编者说明；Wilhelm von Humboldt: Schriften数字转录",
+    "year": "1793手稿；1896初刊",
+    "url": "https://wvh-schriften.de/106",
+    "language": "德语",
+    "kind": "哲学教育手稿、同期边批与后世编者考证，三层分开",
+    "access": "实际读正文§§1—30、§43及所列边批，重点§§17—20、25—27和边批xi、xv、xvii；另读Entstehungsgeschichte关于1793写作、友人传阅和1896初刊的说明。未通读全部注释及所引通信。 后续复核编者关于沃尔夫1807年匿名改写使用部分片段的说明。",
+    "supports": "作者把古代研究的范型限定为希腊、常进一步限定为雅典；达尔贝格的边批提出腓尼基、埃及影响。同一手稿可见分歧，不等于当年公布的教育法令。",
+    "limits": "所谓希腊民族性格与普遍人性属于作者的规范判断，不能当人口调查；边批的借用主张也须另查古代材料。手稿直到1896年才初刊，不能仅由1793写作推出其直接影响全国课程。",
+    "verifiedReadUrls": [
+      "https://wvh-schriften.de/106"
+    ],
+    "locator": "数字文本按《全集》卷1页255—281标页；§18、§20、§26，边批xi／xv／xvii；末尾Bemerkungen zur Entstehungsgeschichte。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CAN-HEGEL",
+    "title": "黑格尔怎样把埃及写成谜题，把希腊写成解答",
+    "originalTitle": "Lectures on the Philosophy of History",
+    "author": "G. W. F. Hegel；J. Sibree英译；George Bell & Sons 1894印本",
+    "year": 1894,
+    "url": "https://hegel.net/hegelwerke/Sibree1894-Lectures_on_the_Philosophy_of_History.pdf",
+    "language": "英语译文；原讲稿德语",
+    "kind": "19世纪哲学讲稿合编本的英译扫描",
+    "access": "实际核题名页，读印刷207—209、229—234页（PDF255—257、277—282），另跳读PDF288（按相邻页序为印240，末位扫描残缺）；视觉复核207、209、230、233页。不是全书通读。",
+    "supports": "在同一文本中，埃及被安排为精神尚未自由的矛盾和谜题，希腊被安排为解答；作者仍承认东方文化基础，并提到杨与商博良的破译工作。",
+    "limits": "这里研究的是作者如何叙述历史，不把文明等级、种族措辞或其古代史细节当已证事实。题名页说明译自第三德文版；这是合编传统，不是某一次讲课的原始逐字记录。",
+    "verifiedReadUrls": [
+      "https://hegel.net/hegelwerke/Sibree1894-Lectures_on_the_Philosophy_of_History.pdf"
+    ],
+    "locator": "1894题名页；Egypt，印207—209；Transition to the Greek World，印229—232；The Greek World，印232—234。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CAN-BERNASCONI",
+    "title": "新讲义校勘如何改变我们对黑格尔与埃及的理解",
+    "originalTitle": "Hegel and Egypt’s African Element",
+    "author": "Robert Bernasconi",
+    "year": 2024,
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4ADA6583DC0E96DA7E4A77D1C9951C47/S2051536724000027a.pdf/hegel_and_egypts_african_element.pdf",
+    "language": "英语",
+    "kind": "Hegel Bulletin 45(1):6—22；讲稿版本比较的署名原研究",
+    "access": "实际读印刷6—17页的正文与注释开头；视觉核题名页及16页结论。未另行通读作者所据《全集》27卷各分册。",
+    "supports": "比较不同讲次与1837、1840合编本，主张埃及的非洲因素参与了向希腊过渡的论证，而非可以删掉的题外话。",
+    "limits": "是具名研究者的解释，不是全部学界一致裁定；尤其不能把某合编本的一句话未经校勘当作每个讲次都说过的原话。",
+    "verifiedReadUrls": [
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4ADA6583DC0E96DA7E4A77D1C9951C47/S2051536724000027a.pdf/hegel_and_egypts_african_element.pdf"
+    ],
+    "locator": "DOI 10.1017/hgl.2024.2；I版本问题、III埃及的非洲因素、IV矛盾与过渡。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CAN-LOUVRE",
+    "title": "卢浮宫埃及馆：研究埃及与把它放进哪种框架是两件事",
+    "originalTitle": "Excursion dans le musée égyptien de Champollion",
+    "author": "Musée du Louvre",
+    "year": "原页未单列发布年",
+    "url": "https://www.louvre.fr/decouvrir/le-palais/excursion-dans-le-musee-egyptien-de-champollion",
+    "language": "法语",
+    "kind": "博物馆对自身馆史与现存装饰的机构说明",
+    "access": "实际读公开全文；采用1827年开馆、商博良与天花装饰说明。关联影片只见入口，未当作已看。",
+    "supports": "1827年12月15日新馆开幕；馆方指出装饰借希腊罗马与《圣经》框架呈现埃及，列出把古埃及展示给希腊的寓意画。",
+    "limits": "机构馆史并非所有观众的接受调查，也不能由一座博物馆推出所有欧洲国家都采用同一祖谱。",
+    "verifiedReadUrls": [
+      "https://www.louvre.fr/decouvrir/le-palais/excursion-dans-le-musee-egyptien-de-champollion"
+    ],
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "BQ33-01",
+    "title": "上座部佛教的社会史：授戒组织与斯里兰卡僧派",
+    "originalTitle": "Theravāda Buddhism: A Social History from Ancient Benares to Modern Colombo",
+    "author": "Richard F. Gombrich",
+    "year": 2006,
+    "url": "https://wiswo.org/books/_resources/book-reference-pdfs/Gombrich-1988-Theravada_Buddhism.pdf",
+    "language": "英语；未核对巴利语、僧伽罗语引文原件",
+    "kind": "署名研究专著原书电子版；宗教机构公开镜像，非出版社下载",
+    "access": "定点阅读原书正文和版权页，不是全书通读；第二版；第一版1988年。本次文件名虽含1988，扉页和版权页明确为2006第二版。。PDF页：[4, 5, 122, 123, 124, 125, 126, 127, 128, 129, 172, 173, 174, 175, 176, 177, 178, 180, 181, 182, 183, 188, 189, 190]；印刷页：['107–114', '157–163', '165–168', '173–175']",
+    "supports": "区分出家、具足戒、受戒谱系和共同僧事；nikāya并非只按教义观点划分。 斯里兰卡Siyam与Amarapura的不同建立、授戒和组织路径，以及僧派内部再分支。 任命、寺院继承、王权和殖民登记可以与经典、师徒、修行声望叠加。",
+    "limits": "文中的today至多是该书写作/2006修订时的描述，绝非2026现状。 第7章作者明确大量依赖Kitsiri Malalgoda；本轮未读Malalgoda原书，不把两者算作独立复核。 不采用作者关于衰落、腐化或宗教特性的概括给传统排名；不把2006版三大nikāya说法写成2026名单。 寺产细节还需地方原件；此书不能单独证明今天的法定权利或每寺实际运行。",
+    "verifiedReadUrls": [
+      "https://wiswo.org/books/_resources/book-reference-pdfs/Gombrich-1988-Theravada_Buddhism.pdf"
+    ],
+    "locator": "PDF页：[4, 5, 122, 123, 124, 125, 126, 127, 128, 129, 172, 173, 174, 175, 176, 177, 178, 180, 181, 182, 183, 188, 189, 190]；印刷页：['107–114', '157–163', '165–168', '173–175']",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "BQ33-02",
+    "title": "斯里兰卡佛教事务部门：寺院与寺产办事程序",
+    "originalTitle": "Vihara Dewalagam — Temple and Devalagam Procedures",
+    "author": "Department of Buddhist Affairs, Sri Lanka",
+    "year": "页面未标发布年",
+    "url": "https://dba.gov.lk/vihara-dewalagam/",
+    "language": "英语",
+    "kind": "主管部门自述的实际行政程序，一手组织文件；不是独立执行成效审计",
+    "access": "已读12项办事程序正文；2026-10-06取得的英文网页快照；页脚2026不是可证明的发布日期。Temple and Devalagam Procedures，第1–12项；止于The Relevant Officer之前",
+    "supports": "登记寺院需有关nikāya的Mahanayaka确认住持身份，并另交Sanghika寺地产权文件。 第8项区分住持提名受托人及后续申请、担保手续；第11项规定第4(1)类受托管理寺院的报表与审计流程。 租地、亡僧款项/车辆、树木出售等须不同文件和机关意见；第6项还另列个人取得财产并非Sanghika的认定程序。",
+    "limits": "确认/证明住持身份不等于该长老亲自任命每一名住持。 这些是机构公布的办事要求，不能证明每项都被一致执行。 未用网页推断完整现行法，也不采用页面中的任职人员、联系方式或其他私人信息。",
+    "verifiedReadUrls": [
+      "https://dba.gov.lk/vihara-dewalagam/"
+    ],
+    "locator": "Temple and Devalagam Procedures，第1–12项；止于The Relevant Officer之前",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "BQ33-03",
+    "title": "斯里兰卡《佛教寺产条例》官方存档英文本：版本边界明确的条文证据",
+    "originalTitle": "Buddhist Temporalities Ordinance",
+    "author": "锡兰立法机关；本文档由斯里兰卡Public Trustee官网提供",
+    "year": 1931,
+    "url": "https://www.publictrustee.gov.lk/wp-content/themes/publictrustee/pdf/Buddhist_Temporalities.pdf",
+    "language": "英语",
+    "kind": "法律的官方网页存档重排文本；未取得1931原始公报扫描或2026权威整合本",
+    "access": "已读取得的21页文件，但该文件本身不完整；第19号条例；题头载1931-11-01及1940、1941、1947、1955修订号。全文整合截止不明，不称1955定本或2026现行本。。PDF页：1–21；第2–7、10–20、23–26、29–33、35–43条；重点第4、10–11、15、20、35–41条",
+    "supports": "第4条区分受托人管理与部分豁免寺院的controlling viharadhipati管理。 第10–11条区分提名与行政任命；第15条允许有利害关系者提出寺产管理投诉和附条件的法院请求。 第20条及第35–41条区别寺院/个人供养、账目审计和僧人受戒登记。",
+    "limits": "所存文本的修订整合截止不明，不能认定为2026现行法律。 只能写“1931条例的这个官网存档英文本如何规定”；不可拿文件生成日当修法日。 第21页止于下一节标题，且没有A/B表附表；已读21页不等于通读一部完整现行法律。 第15条私人起诉前须有Public Trustee证书；不能改写成任何人可不经条件直接起诉。 旧文本的Public Trustee权限不直接搬作2026机关分工；2026仅另据BQ33-02公布程序描述。 读取时官网证书过期；仅无登录公开文件请求关闭证书核验。哈希证明本轮字节一致，不提供官方真实性的密码学保证。",
+    "verifiedReadUrls": [
+      "https://www.publictrustee.gov.lk/wp-content/themes/publictrustee/pdf/Buddhist_Temporalities.pdf"
+    ],
+    "locator": "PDF页：1–21；第2–7、10–20、23–26、29–33、35–43条；重点第4、10–11、15、20、35–41条",
+    "transportNotice": "因官网TLS证书过期或域名不匹配，本次只对无登录公开文件禁用证书验证；不把哈希当作官方真实性认证。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "BQ33-04",
+    "title": "泰国1962年《僧团法》：1989年佛教大学英译刊本",
+    "originalTitle": "Acts on the Administration of the Buddhist Order of Sangha",
+    "author": "泰国立法机关；英译 Siri Buddhasukh，协助 Chalerm Srinakornkhet",
+    "year": 1989,
+    "url": "https://sujato.wordpress.com/wp-content/uploads/2010/07/sangha-acts.pdf",
+    "language": "英语法律译本；未读泰语原公报",
+    "kind": "佛教大学所刊法律译本的公开扫描；当前副本由Bhikkhu Sujato网站托管",
+    "access": "读取出版/译者页、目录和1962法正文；OCR辅助并目视复核关键页；First Edition，B.E.2532/1989；本包只采用其中B.E.2505即1962年法，不混用同册1902和1941年法。PDF页：[2, 3, 24, 25, 26, 27, 28, 29]；印刷页：1962年法第36–46页；另有出版/目录页；第7–9、12、18–27、31–41条为主要采用范围；第24页含正文第36–37页，已目视核读第7、8条",
+    "supports": "第7–9、12条安排国王、僧王和长老会议；第18、20–23条涉及共同规则、分区行政以及戒师/住持等任免程序。 第24–25条把惩戒依据指向法与律，同时把程序、管辖及何时终局交给长老会议规则。 第37–41条区别住持日常管理教育、寺院财产与中央僧产管理，不等于所有寺产都是僧王私产。",
+    "limits": "这是1962年法在1989译本中的历史安排，绝非2026组织图；不以旧教育部或宗教事务部名称指称今天分工。 目录给B.E.2505括注1963；正文署令日期是B.E.2505年12月25日，第2条另规定公报刊后次日生效。法名年、署令日和生效日不能混同；本包称1962年法，不武断把目录1963判为误植，也不补未亲核的具体生效日。 未完成1992、2017、2018及后续修法原件审计，不能用于当下人员任免、处罚期限或诉讼建议。 该册序言的国家与僧团关系评价是编译机构立场，不当作社会实践已经和谐的独立证据。 第25条委托另定终局层级，本文没有进一步读到相关僧团细则，不能捏造具体上诉链。",
+    "verifiedReadUrls": [
+      "https://sujato.wordpress.com/wp-content/uploads/2010/07/sangha-acts.pdf"
+    ],
+    "locator": "PDF页：[2, 3, 24, 25, 26, 27, 28, 29]；印刷页：1962年法第36–46页；另有出版/目录页；第7–9、12、18–27、31–41条为主要采用范围；第24页含正文第36–37页，已目视核读第7、8条",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "BQ33-05",
+    "title": "泰国宗教行政与实际宗教生活：Larsson作者录用稿",
+    "originalTitle": "Buddhist Bureaucracy and Religious Freedom in Thailand",
+    "author": "Tomas Larsson",
+    "year": 2018,
+    "url": "https://api.repository.cam.ac.uk/server/api/core/bitstreams/e4a4efe4-fbc0-4e33-bc4d-bd722f6b012d/content",
+    "language": "英语",
+    "kind": "署名研究论文的大学存档作者录用稿",
+    "access": "定点阅读原作者稿正文，不是只读摘要；未读期刊排版全文；剑桥大学Apollo存档的Accepted version；DOCX正文标Forthcoming，文件创建/上传2017-11-28。不是2018期刊排版PDF。。按word/document.xml中w:body直接子w:p排列，一基编号；空段也计数；只连接各段w:t文字；所读段号：[1, 2, 4, 5, 8, 10, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 53, 54, 56, 58, 64, 70]",
+    "supports": "国家法定僧团与世俗宗教行政机关是相联而非同一结构；行政投入/集中不能直接当作所有宗教生活被同等控制。 作者比较Mahanikai、Thammayut和其他地方/修行传统，并讨论1920–30年代Sriwichai的授戒授权冲突。 作者的Santi Asoke个案区分1975宣告独立、1989的资格/授戒和服饰法律争议，与其他团体在认可授戒框架内的解释差异。",
+    "limits": "采用的是2017-11-28作者稿，可反映其研究时期，不自动包含2018以后发展。 Santi Asoke及Sriwichai事实来自作者研究；没有读其所有被引案件原判决或档案，不独立裁定任何人的宗教/法律资格。 不采用其“佛教无相当于伊斯兰法的制度”等广泛跨宗教概括充当本包结论。 不把作者关于约束较少的论点扩成所有人都自由；其同文也讨论强制、性别排除和改革风险。 未直接读取本文引用的各项改革建议全文，建议不是已经生效的法律。",
+    "verifiedReadUrls": [
+      "https://api.repository.cam.ac.uk/server/api/core/bitstreams/e4a4efe4-fbc0-4e33-bc4d-bd722f6b012d/content"
+    ],
+    "locator": "按word/document.xml中w:body直接子w:p排列，一基编号；空段也计数；只连接各段w:t文字；所读段号：[1, 2, 4, 5, 8, 10, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 53, 54, 56, 58, 64, 70]",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "BQ33-06",
+    "title": "同读经典也会争论谁的译法可靠：Mahamevnāva个案",
+    "originalTitle": "Guardians of the Law: Sinhala Language and Buddhist Reformation in Postwar Sri Lanka",
+    "author": "Krishantha Fedricks",
+    "year": 2022,
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CF37CE64BFE7BB9EFE2126936FF3D34E/9781009286046c7_143-160.pdf/guardians_of_the_law.pdf",
+    "language": "英语；作者分析僧伽罗语材料和访谈，本轮未核原语言录音",
+    "kind": "出版社提供的署名研究原章PDF；语言人类学研究，不是该团体的统一章程",
+    "access": "定点阅读原章正文及研究方法，不是全书通读；Buddhism and Comparative Constitutional Law，第7章，Cambridge University Press开放版。PDF页：[1, 2, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]；印刷页：['143–144', '148–158']；['7.1', '7.4–7.8']",
+    "supports": "Mahamevnāva以自己认可的通俗僧伽罗语译本、教学和媒体传播建立解释权威。 2013年的批评及作者记录的回应显示：同说维护经典，仍会争论语言、内容准确性与仪式形式。 作者把相关实践与国家语言观念联系起来；团体自称超越政治与作者观察不能混为同一层次。",
+    "limits": "不替研究对象判断谁传的是真法、谁是假信徒，也不把作者笔下的修行主张当疗效或人格诊断。 此处Mahamevnāva是研究中的组织/运动，不另算成一条已核受戒nikāya；其正式受戒归属未在本轮核定。 未核2026分院/人数或现任人物；不采用章中数量作为今天数据。",
+    "verifiedReadUrls": [
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CF37CE64BFE7BB9EFE2126936FF3D34E/9781009286046c7_143-160.pdf/guardians_of_the_law.pdf"
+    ],
+    "locator": "PDF页：[1, 2, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]；印刷页：['143–144', '148–158']；['7.1', '7.4–7.8']",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "BQ33-07",
+    "title": "《大般涅槃经》英译：经典如何表述法、律与检验教说",
+    "originalTitle": "Mahā-parinibbāna Sutta: Last Days of the Buddha (DN 16)",
+    "author": "经典文本；英译 Sister Vajira、Francis Story；Buddhist Publication Society修订版",
+    "year": 1998,
+    "url": "https://accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html",
+    "language": "英语译自巴利语；本轮未读/校勘巴利原文",
+    "kind": "经典的一手文本英译；宗教规范与叙事，不是现代社会调查或国家法律",
+    "access": "定点阅读第四、六部分相关段落及版本说明；Last Days of the Buddha修订版1998；Access to Insight网页注明最后修订2013-11-30。Part Four §§7–11（Four Great References）；Part Six §§1–4；页首与页末版本说明",
+    "supports": "第四部分让自称来自佛陀、僧众或长老的教说再与经律核对；权威主张不是只靠头衔便自动成立。 第六部分把法与律列作身后依止，同时谈长幼称谓、僧团与规则，不能读作无共同体权威。",
+    "limits": "说明此经典/译本如何提出规范；不证明现代寺院已经照办，更不替任一教派作信仰真伪裁决。 未用它推导泰国国家法、斯里兰卡寺产法或所有佛教传统的统一章程。 译者/编辑注释与经文分开；没有把现代英译的选择当作已完成原语校勘。",
+    "verifiedReadUrls": [
+      "https://accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html"
+    ],
+    "locator": "Part Four §§7–11（Four Great References）；Part Six §§1–4；页首与页末版本说明",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-MA-1912",
+    "title": "1912年《非斯条约》",
+    "originalTitle": "1912年《非斯条约》",
+    "author": "法国政府、摩洛哥苏丹；MJP依摩洛哥官方公报转录",
+    "year": 1912,
+    "url": "https://mjp.univ-perp.fr/constit/ma1912.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：条约第1—9条；底本《Bulletin officiel de l’Empire chérifien》1912-11-01第1号。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "保留苏丹及宗教机构；法国决定改革、军事占领、审批达希尔，控制外交及借款。",
+    "limits": "条约序言的秩序、改革和发展是缔约权力的正当化表述；网页导言另属现代编者说明。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/ma1912.htm"
+    ],
+    "locator": "条约第1—9条；底本《Bulletin officiel de l’Empire chérifien》1912-11-01第1号。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-MA-1956",
+    "title": "1955—1956年摩洛哥独立文件集",
+    "originalTitle": "1955—1956年摩洛哥独立文件集",
+    "author": "法摩、西摩双方及丹吉尔会议；MJP转录",
+    "year": "1955、1956",
+    "url": "https://mjp.univ-perp.fr/constit/ma1956.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1955-11-06拉塞勒圣克卢声明；1956-03-02法摩声明及附件；1956-04-07西摩声明；网页的1953—1956背景说明。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "法国1956-03-02承认独立；国防、外交与立法权限发生转移，附件保留过渡安排；西班牙区不是同日同一文书退出。",
+    "limits": "1953罢黜及1955回归节点来自编者背景说明，不冒称取到了当时全部军事或王室档案；3月声明转录首段把此前声明月份写成12月，与本页11月6日标题及声明日期冲突，本文采用11月6日。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/ma1956.htm"
+    ],
+    "locator": "1955-11-06拉塞勒圣克卢声明；1956-03-02法摩声明及附件；1956-04-07西摩声明；网页的1953—1956背景说明。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-TN-1881",
+    "title": "《巴尔杜条约》与《拉马尔萨公约》",
+    "originalTitle": "《巴尔杜条约》与《拉马尔萨公约》",
+    "author": "法国政府、突尼斯贝伊；MJP转录",
+    "year": "1881、1883",
+    "url": "https://mjp.univ-perp.fr/constit/tn1881.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1881-05-12条约第1—10条；1883-06-08公约第1—5条。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "边境安全、法国驻军和外交控制；债务、改革和借款限制；保留贝伊不等于内部事务不受控制。",
+    "limits": "不将边境骚乱的法方说法当作中立战争起因，也不将签字当作全体居民同意。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/tn1881.htm"
+    ],
+    "locator": "1881-05-12条约第1—10条；1883-06-08公约第1—5条。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-TN-1956",
+    "title": "突尼斯内部自治与独立文件",
+    "originalTitle": "突尼斯内部自治与独立文件",
+    "author": "法国政府、突尼斯政府；MJP转录",
+    "year": "1955、1956",
+    "url": "https://mjp.univ-perp.fr/constit/tn1956.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1955-06-03总公约第2、4、10条；1956-03-20议定书全文；编者说明末段。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "1955内部自治仍保留法国防务、外交权限；1956承认独立并废改相抵触安排；1957改共和国作为背景节点。",
+    "limits": "正文所说“无痛苦、无冲突”是谈判文书的政治修辞，不能代替此前抗争史；1957节点来自编者说明，并非本轮另读制宪议会原件。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/tn1956.htm"
+    ],
+    "locator": "1955-06-03总公约第2、4、10条；1956-03-20议定书全文；编者说明末段。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-PERRIER",
+    "title": "Un protectorat provisoire pour toujours…",
+    "originalTitle": "Un protectorat provisoire pour toujours…",
+    "author": "Antoine Perrier",
+    "year": 2019,
+    "url": "https://hal.science/hal-03111123/document",
+    "language": "法语",
+    "kind": "署名原始历史研究／作者机构开放稿",
+    "access": "实际读取范围：HAL作者稿PDF第2—4、6—9及12页；《Histoire@Politique》39，2019年9—12月。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "双重行政与被延宕的改革；本地公务员、教师和部长的权利要求及不同政治选择；法国行政人员并非单纯为了降低开支。",
+    "limits": "实际采用上述正文页，不声称调阅论文引注中的阿拉伯语档案原件；作者使用的阿文材料先经其法译，再由本任务中文释义。",
+    "verifiedReadUrls": [
+      "https://hal.science/hal-03111123/document"
+    ],
+    "locator": "HAL作者稿PDF第2—4、6—9及12页；《Histoire@Politique》39，2019年9—12月。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-TN-NATIONALISM",
+    "title": "Neo Destour",
+    "originalTitle": "Neo Destour",
+    "author": "Antoine Perrier",
+    "year": 2023,
+    "url": "https://hal.science/hal-04138661v1/document",
+    "language": "英语",
+    "kind": "署名学术工具书条目／补充来源",
+    "access": "实际读取范围：作者存档PDF第1—3页正文、第3—4页书目。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "1934新宪政党、群众动员及镇压；与UGTT合作；1952后武装行动、1954谈判；布尔吉巴与本·优素福分歧。",
+    "limits": "这是署名学术工具书条目，只补运动时间线，不冒称原始研究；与2019论文和政治条约交叉使用；不采用会员数、伤亡数和简化的总统就任表述。 文内叙述将独立后总统与1956相连，不以此确定共和国建立年；1957另依所核建国文件背景。",
+    "verifiedReadUrls": [
+      "https://hal.science/hal-04138661v1/document"
+    ],
+    "locator": "作者存档PDF第1—3页正文、第3—4页书目。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-AEF-CONGO",
+    "title": "刚果条约、占有文件与1910年AEF组织法令",
+    "originalTitle": "刚果条约、占有文件与1910年AEF组织法令",
+    "author": "布拉柴、马科科；法国政府；MJP转录",
+    "year": "1880、1882、1910",
+    "url": "https://mjp.univ-perp.fr/constit/cg1880.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1880-09-10、10-03占有与让与记述、1882批准法；1910-01-15法令预算条款第8—12条及署日期。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "沿河据点与条约进入；联邦、地方预算分层；乍得当时仍有军事领地预算，不能把1910写成四个同型殖民地。",
+    "limits": "让与记述为法国保存、表述的文书，不代表所有地方社群的理解；1910为组织节点，不是全域征服完成。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/cg1880.htm"
+    ],
+    "locator": "1880-09-10、10-03占有与让与记述、1882批准法；1910-01-15法令预算条款第8—12条及署日期。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-AEF-BAT",
+    "title": "Les archives de l’AEF",
+    "originalTitle": "Les archives de l’AEF",
+    "author": "Jean-Pierre Bat",
+    "year": 2009,
+    "url": "https://hal.science/hal-04765989v1/file/revue-afrique-et-histoire-2009-1-page-301.html",
+    "language": "法语",
+    "kind": "署名原始历史／档案研究",
+    "access": "实际读取范围：HAL保存的期刊HTML正文第2—7、9、37、39段；《Afrique & histoire》2009/1，起页301。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "1839起加蓬据点、1880年代向内陆扩张；1958自治、1960四地独立；主权档案转移及非洲方面的争取。",
+    "limits": "有关1910四领地的概述与法令中的殖民地／军事领地层次须区分；本包未将文章引注的档案全算作已读。",
+    "verifiedReadUrls": [
+      "https://hal.science/hal-04765989v1/file/revue-afrique-et-histoire-2009-1-page-301.html"
+    ],
+    "locator": "HAL保存的期刊HTML正文第2—7、9、37、39段；《Afrique & histoire》2009/1，起页301。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-AEF-DRAME",
+    "title": "“Fâcher le Cœur des Blancs”：殖民乌班吉沙里姆布姆／帕纳抵抗（1929—1931）",
+    "originalTitle": "“Fâcher le Cœur des Blancs”：殖民乌班吉沙里姆布姆／帕纳抵抗（1929—1931）",
+    "author": "Patrick Dramé",
+    "year": 2025,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13395239/",
+    "language": "英语",
+    "kind": "署名原始历史研究／开放期刊全文",
+    "access": "实际读取范围：PMC全文：引言；The Pana Campaign in Bocaranga；Ardo Messianism；Constructing a Space of Resistance中地理与策略部分。在线发表于2025-03-20；页面列War in History 33(3)、起页269。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "强迫劳动、地方中介苛役和保护自治的联系；逃村、藏匿资源到1930年博卡朗加袭击；山地、洞穴抵抗与殖民惩罚行动。",
+    "limits": "本文与Kongo-Wara相关但不把帕纳行动缩成其机械延伸；未引用人数、伤亡和档案报告的精确日序；不把作者推测的仪式传播当已证事实。 文内Boutin报告年的1929与脚注1930有冲突；本页不采用该报告精确日期或兵力／死亡数。殖民报告有限，不能把研究者推断当作帕纳本人原话。",
+    "verifiedReadUrls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13395239/"
+    ],
+    "locator": "PMC全文：引言；The Pana Campaign in Bocaranga；Ardo Messianism；Constructing a Space of Resistance中地理与策略部分。在线发表于2025-03-20；页面列War in History 33(3)、起页269。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-AEF-WORK",
+    "title": "刚果—海洋铁路：档案中的劳动与人口迁移",
+    "originalTitle": "刚果—海洋铁路：档案中的劳动与人口迁移",
+    "author": "法国国家劳动世界档案馆（ANMT）",
+    "year": 2024,
+    "url": "https://archives-nationales-travail.culture.gouv.fr/Decouvrir/Dossiers-du-mois/Le-chemin-de-fer-Congo-Ocean-effroyable-consommateur-de-vies-humaines",
+    "language": "法语",
+    "kind": "官方档案馆文献展示与原件引述",
+    "access": "实际读取范围：正文“Un chemin de fer…”至“Sources”；1925年合同第4条的馆方引述、1926年工作报告说明。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "1921—1934铁路工程；殖民行政为承包企业征集劳力；资源外运、强制迁移与恶劣劳动条件。",
+    "limits": "读到的是档案馆正文及其引述，未把89 AQ等整宗档案当成已调阅；不复算人数、里程和死亡估计。",
+    "verifiedReadUrls": [
+      "https://archives-nationales-travail.culture.gouv.fr/Decouvrir/Dossiers-du-mois/Le-chemin-de-fer-Congo-Ocean-effroyable-consommateur-de-vies-humaines"
+    ],
+    "locator": "正文“Un chemin de fer…”至“Sources”；1925年合同第4条的馆方引述、1926年工作报告说明。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-AEF-ASSEMBLY",
+    "title": "中非共和国成立的地方议会决议",
+    "originalTitle": "中非共和国成立的地方议会决议",
+    "author": "乌班吉沙里领地议会／中非制宪议会",
+    "year": 1958,
+    "url": "https://mjp.univ-perp.fr/constit/cf1958.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1958-12-01第199/58号决议第1—4条；底本《AEF官方公报》1959-01-01第10、47页。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "地方议会选择共同体成员国、成立共和国，并明确希望与其他AEF成员联合。",
+    "limits": "法条显示正式安排，不单独证明实施效果或被统治者同意。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/cf1958.htm"
+    ],
+    "locator": "1958-12-01第199/58号决议第1—4条；底本《AEF官方公报》1959-01-01第10、47页。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-AEF-EXIT",
+    "title": "中非共和国独立文件",
+    "originalTitle": "中非共和国独立文件",
+    "author": "法国与中非共和国；MJP转录",
+    "year": 1960,
+    "url": "https://mjp.univ-perp.fr/constit/cf1960ind.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：网页独立文件导入与1960-08-13独立节点。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "1960主权转移路径；与1958成员国地位不同。",
+    "limits": "本轮没有逐国读齐加蓬、刚果、乍得各份移交文书，因此矩阵对四地统一只报1960年，不拼凑精确日表。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/cf1960ind.htm"
+    ],
+    "locator": "网页独立文件导入与1960-08-13独立节点。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-CM-MANDATE",
+    "title": "国联法国喀麦隆委任统治书",
+    "originalTitle": "国联法国喀麦隆委任统治书",
+    "author": "国际联盟理事会",
+    "year": 1922,
+    "url": "https://mjp.univ-perp.fr/constit/cm1922.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1922-07-20委任书序言、第1—6条；MJP转录。 公开HTTPS；原始响应仅在内存解析 后续主任务以系统curl正常验证证书链取得并读第9—12条，核第10条已要求年报。",
+    "supports": "战后分割旧德国殖民地；国际授予管理而非普通吞并；军事、劳动和土地规则中的限制。",
+    "limits": "1911交换领地的回溯日期不采用网页导言中的简写；法律保护并不证明实践平等。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/cm1922.htm"
+    ],
+    "locator": "1922-07-20委任书序言、第1—6条；MJP转录。；第9—12条，重点第10条年度报告。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-TG-MANDATE",
+    "title": "法管多哥从军事占领到委任统治",
+    "originalTitle": "法管多哥从军事占领到委任统治",
+    "author": "法国政府、国际联盟；MJP转录",
+    "year": "1915、1921、1922",
+    "url": "https://mjp.univ-perp.fr/constit/tg1920.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1915-02-02占领区军管命令；1921-03-23专门领地与专员法令；页面1922委任书定位。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "1914战争占领后的军事管理、1921专员领地与1922委任制度不是普通殖民地成立的同一动作。",
+    "limits": "仅采用已显示的占领与专员条款及文书定位，完整委任约束另以喀麦隆文本和1946双份托管原文比较。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/tg1920.htm"
+    ],
+    "locator": "1915-02-02占领区军管命令；1921-03-23专门领地与专员法令；页面1922委任书定位。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-TRUST-UNTS",
+    "title": "法国喀麦隆与法管多哥托管协定",
+    "originalTitle": "法国喀麦隆与法管多哥托管协定",
+    "author": "联合国、法国政府",
+    "year": 1946,
+    "url": "https://treaties.un.org/doc/publication/UNTS/Volume%208/v8.pdf",
+    "language": "en/fr",
+    "kind": "联合国条约原文／官方PDF",
+    "access": "实际读取范围：UNTS第8卷（1947年刊）；第119、121号协定。目录PDF第5—7页；喀麦隆英文正文PDF150、152、154、156、158页（印刷138—146偶数页）；多哥PDF180、182、184、186、188页（印刷168—176偶数页）。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "1946-12-13批准；年报、请愿、视察；法国广泛立法与行政权；须受宪章和协定限制；当地代表与政治表达义务。",
+    "limits": "共408页，仅读上述两协定相关页，不是通读整卷。第4条“如法国领土组成部分管理”有宪章及协定条件，不能删掉前半句或条件中的任一边。",
+    "verifiedReadUrls": [
+      "https://treaties.un.org/doc/publication/UNTS/Volume%208/v8.pdf"
+    ],
+    "locator": "UNTS第8卷（1947年刊）；第119、121号协定。目录PDF第5—7页；喀麦隆英文正文PDF150、152、154、156、158页（印刷138—146偶数页）；多哥PDF180、182、184、186、188页（印刷168—176偶数页）。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-CM-REPORT",
+    "title": "La France au Cameroun (1945–1971)",
+    "originalTitle": "La France au Cameroun (1945–1971)",
+    "author": "Karine Ramondy主持；法国与喀麦隆14位历史研究者",
+    "year": 2025,
+    "url": "https://www.vie-publique.fr/files/rapport/pdf/297054_0.pdf",
+    "language": "法语",
+    "kind": "署名联合原始历史研究／官方公开完整PDF",
+    "access": "实际读取范围：公开1035页PDF：封面、作者及出版信息；PDF7—8年表；PDF15—16方法说明、21页、27与33页（印刷26、32）；目录1028—1033用于定位，不作正文证据。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "殖民外交与1916／1922转折；UPC的独立行动和1955禁令、1958 Um Nyobè遇害、1960主权改变；镇压跨越独立前后。",
+    "limits": "公开研究报告，不是私密报告。仅用实际读到的正文、年表与明确范围；年表将1946-04-18列为托管节点，本包以联合国协定的1946-12-13批准日为准。",
+    "verifiedReadUrls": [
+      "https://www.vie-publique.fr/files/rapport/pdf/297054_0.pdf"
+    ],
+    "locator": "公开1035页PDF：封面、作者及出版信息；PDF7—8年表；PDF15—16方法说明、21页、27与33页（印刷26、32）；目录1028—1033用于定位，不作正文证据。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-TG-EXIT",
+    "title": "多哥独立与奥林匹奥独立演说",
+    "originalTitle": "多哥独立与奥林匹奥独立演说",
+    "author": "Sylvanus Olympio；MJP转录及编者说明",
+    "year": 1960,
+    "url": "https://mjp.univ-perp.fr/constit/tg1960ind.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1956—1960背景说明；1960-04-27独立演说全文。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "联合国监督背景、1958选举改变领地领导权、1960独立；英管多哥与法管多哥不同去向。",
+    "limits": "选举和1956公投背景来自编者说明；演说是民族主义者的自述，不能证明所有多哥人立场一致。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/tg1960ind.htm"
+    ],
+    "locator": "1956—1960背景说明；1960-04-27独立演说全文。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-MG-COLONY",
+    "title": "马达加斯加1885条约及1896殖民地法",
+    "originalTitle": "马达加斯加1885条约及1896殖民地法",
+    "author": "法国与马达加斯加；法国政府；MJP转录",
+    "year": "1885、1896",
+    "url": "https://mjp.univ-perp.fr/constit/mg1896.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1885-12-17条约有关外交、内政与Diego-Suarez条款；1896-08-06独条法；网页早期殖民与1895军事扩张背景。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "条约限制主权后走向吞并；1896-08-06而不是索引页误列的4月6日；周边岛屿附属行政。",
+    "limits": "1885条约的法文版本不等于当地理解；不将整岛征服视为签字当日完成。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/mg1896.htm"
+    ],
+    "locator": "1885-12-17条约有关外交、内政与Diego-Suarez条款；1896-08-06独条法；网页早期殖民与1895军事扩张背景。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-MG-EXIT",
+    "title": "马达加斯加1960移交与独立声明",
+    "originalTitle": "马达加斯加1960移交与独立声明",
+    "author": "法国政府、Philibert Tsiranana政府",
+    "year": 1960,
+    "url": "https://mjp.univ-perp.fr/constit/mg1960ind.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1960-04-02权限移交协议第1—3条；1960-06-26共同声明；网页关于1947的背景说明。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "1947抵抗与镇压背景；1958共同体与1960独立不同；4月签约与6月生效应分开。",
+    "limits": "1947只给经过核对的事件存在与镇压，不增加伤亡、组织归责或逐地进程；具体防务执行未展开。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/mg1960ind.htm"
+    ],
+    "locator": "1960-04-02权限移交协议第1—3条；1960-06-26共同声明；网页关于1947的背景说明。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-DJ-COLONY",
+    "title": "奥博克、各保护条约及法属索马里海岸组织文件",
+    "originalTitle": "奥博克、各保护条约及法属索马里海岸组织文件",
+    "author": "法国及当地统治者；MJP转录",
+    "year": "1862、1884、1885、1896",
+    "url": "https://mjp.univ-perp.fr/constit/dj1859.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1862条约及后续保护条约目录与背景；1896-05-20法令第1—2条；1898行政、1906地区安排选段。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "购让据点、保护关系和统一殖民行政的拼接；1896合并行政、司法和财政，以吉布提为首府。",
+    "limits": "1896文书仍使用protectorat一词；不能把一串不同法律关系倒写为1862就取得今日全部国土。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/dj1859.htm"
+    ],
+    "locator": "1862条约及后续保护条约目录与背景；1896-05-20法令第1—2条；1898行政、1906地区安排选段。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-DJ-EXIT",
+    "title": "吉布提独立宪制法",
+    "originalTitle": "吉布提独立宪制法",
+    "author": "吉布提国民议会、Hassan Gouled Aptidon",
+    "year": 1977,
+    "url": "https://mjp.univ-perp.fr/constit/dj1977ind.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1977-06-27宪制法LR/77-001第1—7条；MJP据吉布提官方公报转录。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "1977-05-08公投、6月27日独立；主权改变，既有不相抵触法律暂时沿用。",
+    "limits": "1958／1967公投的操纵、人口排除和具体独立组织活动未取足原文，不在本包补编。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/dj1977ind.htm"
+    ],
+    "locator": "1977-06-27宪制法LR/77-001第1—7条；MJP据吉布提官方公报转录。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-KM-COLONY",
+    "title": "科摩罗1946行政财政自治法与殖民行政前史",
+    "originalTitle": "科摩罗1946行政财政自治法与殖民行政前史",
+    "author": "法国政府；MJP转录",
+    "year": "1841、1886、1912、1946",
+    "url": "https://mjp.univ-perp.fr/constit/km1946.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1946-05-09第46-973号法第1—3条；编者关于1841、1886、1912及1958选择的说明。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "马约特与其他三岛的进入时间及法律关系不同；1912并入马达加斯加；1946另设自治领地。",
+    "limits": "1841及1886早期条约本轮未逐条重读；不将编者“保护”简写取代让与／保护之别。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/km1946.htm"
+    ],
+    "locator": "1946-05-09第46-973号法第1—3条；编者关于1841、1886、1912及1958选择的说明。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-KM-EXIT",
+    "title": "科摩罗独立声明、建国法与联合国接纳决议",
+    "originalTitle": "科摩罗独立声明、建国法与联合国接纳决议",
+    "author": "Ahmed Abdallah、科摩罗议会、联合国大会",
+    "year": 1975,
+    "url": "https://mjp.univ-perp.fr/constit/km1975ind.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1975-07-06独立声明；7月8日75-13/CHD法第1条；联大3385(XXX)决议1975-11-12；1974公投表。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "声明与联合国接纳文本所列四岛；1974岛际投票差异、1975法国仅承认三岛独立。",
+    "limits": "公投票数未复算，不引用百分比；这些原文不抹消留法选民的政治选择，也不单靠法国国内投票裁决整体领土争议。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/km1975ind.htm"
+    ],
+    "locator": "1975-07-06独立声明；7月8日75-13/CHD法第1条；联大3385(XXX)决议1975-11-12；1974公投表。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-MAY-RESOLUTION",
+    "title": "联大第31/4号决议：科摩罗马约特岛问题",
+    "originalTitle": "联大第31/4号决议：科摩罗马约特岛问题",
+    "author": "联合国大会",
+    "year": 1976,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/United_Nations_General_Assembly_resolution_A-RES-31-4.pdf",
+    "language": "英语",
+    "kind": "联合国决议原文扫描／公共镜像",
+    "access": "实际读取范围：1976-10-21决议序言及第1—6段，原刊印刷第10页，单页PDF。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "谴责1976分岛公投及法国留驻，主张科摩罗整体领土完整。",
+    "limits": "官方原刊扫描的Wikimedia公共镜像，不是维基百科条目；决议与法国国内法立场分列，不冒称国际法院判决。",
+    "verifiedReadUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c8/United_Nations_General_Assembly_resolution_A-RES-31-4.pdf"
+    ],
+    "locator": "1976-10-21决议序言及第1—6段，原刊印刷第10页，单页PDF。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-MAY-DECREE-ORIGINAL",
+    "title": "2025-1427号法令：马约特省—大区",
+    "originalTitle": "2025-1427号法令：马约特省—大区",
+    "author": "法国政府／法国官方公报",
+    "year": 2025,
+    "url": "https://regions-france.org/wp-content/uploads/2026/01/joe_20251231_0306_0104-1.pdf",
+    "language": "法语",
+    "kind": "法国官方公报原版PDF／公开副本",
+    "access": "实际读取范围：2025-12-31 JORF第104号文本；PDF1—3页，尤以生效说明与R.7311-1至R.7311-3；末页仅辅助定位。 公开HTTPS；原始响应仅在内存解析 后续复读PDF第11页第6条全部三款，分开一般生效与两项改选事件触发。",
+    "supports": "名称和代码调整相关条款2026-01-01施行；省／大区、两类议会用语改为马约特省—大区及其议会。",
+    "limits": "这是JORF原版PDF的Régions de France公开副本。部分咨询机构和选举条款另有后续生效时间，不说整份法令均于1月1日生效。",
+    "verifiedReadUrls": [
+      "https://regions-france.org/wp-content/uploads/2026/01/joe_20251231_0306_0104-1.pdf"
+    ],
+    "locator": "2025-12-31 JORF第104号文本；PDF1—3页，尤以生效说明与R.7311-1至R.7311-3；末页仅辅助定位。；PDF第11页第6条全部三款。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-MAY-GOV",
+    "title": "马约特地方政府当前官网",
+    "originalTitle": "马约特地方政府当前官网",
+    "author": "Département-Région de Mayotte",
+    "year": 2026,
+    "url": "https://www.mayotte.fr/",
+    "language": "法语",
+    "kind": "地方政府当前官方网页",
+    "access": "实际读取范围：2026年6月8日公开消息标题、当前项目与机构称谓；2026-10-06访问。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "现行官方使用Département-Région de Mayotte，交叉核对2025法令。",
+    "limits": "仅核名称与现行机构，不采用首页其他新闻、资金和人物事实。",
+    "verifiedReadUrls": [
+      "https://www.mayotte.fr/"
+    ],
+    "locator": "2026年6月8日公开消息标题、当前项目与机构称谓；2026-10-06访问。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-REUNION-INSEE",
+    "title": "Région La Réunion",
+    "originalTitle": "Région La Réunion",
+    "author": "法国国家统计与经济研究所INSEE",
+    "year": 2026,
+    "url": "https://www.insee.fr/fr/metadonnees/geographie/region/04-la-reunion",
+    "language": "法语",
+    "kind": "官方当前行政地理目录",
+    "access": "实际读取范围：当前官方地理目录：大区04、组成省974；建立日期栏1982-03-02。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "留尼汪现行大区和同名省的关系；1982大区节点。",
+    "limits": "访问年为2026，不是声称页面最初发布于2026；与1946省制法交叉核对。",
+    "verifiedReadUrls": [
+      "https://www.insee.fr/fr/metadonnees/geographie/region/04-la-reunion"
+    ],
+    "locator": "当前官方地理目录：大区04、组成省974；建立日期栏1982-03-02。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-REFORMS",
+    "title": "1945—1958法国海外制度改革文件集",
+    "originalTitle": "1945—1958法国海外制度改革文件集",
+    "author": "法国政府、制宪议会；MJP转录",
+    "year": "1946、1956、1958",
+    "url": "https://mjp.univ-perp.fr/france/1945outremer.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1946-03-19第46-451号法目录与说明；1946-04-11禁强迫劳动法第1—3条；1956改革及1958共同体背景说明。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "殖民地转海外省、禁止强迫劳动、扩大代表与领地政府；共同体成员国不等于已经独立。",
+    "limits": "部分改革在该页仅为导引或编者说明，不声称逐份读齐实施细则；不把1946法律颁布当立即实现平等。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/france/1945outremer.htm"
+    ],
+    "locator": "1946-03-19第46-451号法目录与说明；1946-04-11禁强迫劳动法第1—3条；1956改革及1958共同体背景说明。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-MU-ARCHIVES",
+    "title": "Brief History of Mauritius",
+    "originalTitle": "Brief History of Mauritius",
+    "author": "毛里求斯国家档案馆",
+    "year": "原页未单列发布年",
+    "url": "https://nationalarchives.govmu.org/nationalarchives/?page_id=1390",
+    "language": "英语",
+    "kind": "独立国家档案馆历史说明",
+    "access": "实际读取范围：1715、1810、1814、1835、1968时间节点。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "1715法国取得岛屿；1810英国攻占，1814确认转手；1968独立是结束英国统治。",
+    "limits": "不采用该页1721与La Bourdonnais的可疑对应，也不把语言、宗教和法律保留一概归入1814条约第8条。页面无明确出版年。",
+    "verifiedReadUrls": [
+      "https://nationalarchives.govmu.org/nationalarchives/?page_id=1390"
+    ],
+    "locator": "1715、1810、1814、1835、1968时间节点。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-ISLANDS-1814",
+    "title": "1814年《巴黎和约》",
+    "originalTitle": "1814年《巴黎和约》",
+    "author": "法国与欧洲缔约国；MJP转录",
+    "year": 1814,
+    "url": "https://mjp.univ-perp.fr/traites/1814paris.htm",
+    "language": "法语",
+    "kind": "政治／法律原文的大学文献库转录",
+    "access": "实际读取范围：1814-05-30和约第8条，并参照第11条。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "法兰西岛及罗德里格斯、塞舌尔等附属地明确让予英国；不是当地独立。",
+    "limits": "条约不独立证明各附属岛最初占有、定居和奴隶制度的细节；不把1792返还基准当首次殖民日期。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/traites/1814paris.htm"
+    ],
+    "locator": "1814-05-30和约第8条，并参照第11条。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-TAAF-HISTORY",
+    "title": "Livret de découverte des îles Éparses",
+    "originalTitle": "Livret de découverte des îles Éparses",
+    "author": "TAAF行政机关",
+    "year": "出版年份未在版权页核定",
+    "url": "https://taaf.fr/content/uploads/2019/09/LIVRET-EPARSES-2016web.pdf",
+    "language": "法语",
+    "kind": "官方行政历史手册／法国立场",
+    "access": "实际读取范围：40页公开PDF，第4—5页：法国主权表述、1960／2005／2007行政沿革、2010框架与气象站。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "法方记载Tromelin1776悬旗、Glorieuses1892占有、三岛1897公告；1960另归法国管理，2007并入TAAF。",
+    "limits": "上述占有节点是法方叙述，不构成主权争议的中立裁决；该手册记载2010共管协议未获法方批准，不能据此断言2026批准现状。 文件名含2016，PDF元数据生成于2019；二者不能直接认证出版年，也不能将其“目前未批准”表述搬作2026状态。",
+    "verifiedReadUrls": [
+      "https://taaf.fr/content/uploads/2019/09/LIVRET-EPARSES-2016web.pdf"
+    ],
+    "locator": "40页公开PDF，第4—5页：法国主权表述、1960／2005／2007行政沿革、2010框架与气象站。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-TAAF-CURRENT",
+    "title": "TAAF当前管辖区介绍",
+    "originalTitle": "TAAF当前管辖区介绍",
+    "author": "TAAF行政机关",
+    "year": 2026,
+    "url": "https://taaf.fr/",
+    "language": "法语",
+    "kind": "官方当前行政网页",
+    "access": "实际读取范围：2026-10-06页面“Présentation des territoires”与末尾机构说明；页面含2026年9月活动。 AnySearch公开原文提取",
+    "supports": "Éparses当前仍由TAAF列为其辖区，区别于海外省、大区；无永久人口的特殊行政领地。",
+    "limits": "读官方行政立场，不由实际管辖推出国际主权已获所有方面承认。",
+    "verifiedReadUrls": [
+      "https://taaf.fr/"
+    ],
+    "locator": "2026-10-06页面“Présentation des territoires”与末尾机构说明；页面含2026年9月活动。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-MAY-CLAIM",
+    "title": "2026年联合国大会科摩罗发言会场报道",
+    "originalTitle": "2026年联合国大会科摩罗发言会场报道",
+    "author": "联合国会议报道；记录科摩罗总统立场",
+    "year": 2026,
+    "url": "https://gadebate.un.org/en/81/comoros",
+    "language": "英语",
+    "kind": "联合国官方会议原始报道／非逐字讲话",
+    "access": "实际读取范围：2026-09-24会场报道中Mayotte三段；不是页面的AI字幕。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "科摩罗在2026年仍公开主张马约特属于其整体领土，不能以法国2026国内制度变更说争议终结。",
+    "limits": "取得官方会场报道全文，未取得链接中的完整法语讲话PDF。仅证明仍有此主张，不替代讲话逐字稿或联合国新决议。",
+    "verifiedReadUrls": [
+      "https://gadebate.un.org/en/81/comoros"
+    ],
+    "locator": "2026-09-24会场报道中Mayotte三段；不是页面的AI字幕。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "FQ-AEF-FOUNDATION",
+    "title": "乌班吉沙里行政沿革与1920乍得分列",
+    "originalTitle": "乌班吉沙里行政沿革与1920乍得分列",
+    "author": "MJP编者；附法国1894年法令",
+    "year": "1894、1910、1920",
+    "url": "https://mjp.univ-perp.fr/constit/cf1894.htm",
+    "language": "法语",
+    "kind": "大学文献库制度史说明＋法律转录",
+    "access": "实际读取范围：网页导言关于1910联邦和1920乍得单列；1894法令背景。 公开HTTPS；原始响应仅在内存解析",
+    "supports": "乍得1920单列殖民地这一范围节点。",
+    "limits": "1920节点仅据编者制度史说明，未单独获取当年法令；1910层次另由实际原法第12条核验。",
+    "verifiedReadUrls": [
+      "https://mjp.univ-perp.fr/constit/cf1894.htm"
+    ],
+    "locator": "网页导言关于1910联邦和1920乍得单列；1894法令背景。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CQ09-S01",
+    "title": "社会知识的使用",
+    "originalTitle": "The Use of Knowledge in Society",
+    "author": "F. A. Hayek",
+    "year": 1945,
+    "url": "https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf",
+    "language": "英语",
+    "kind": "作者原文：经济协调论证；不是团队管理试验",
+    "access": "The American Economic Review 35(4), 1945年9月，519—530页；耶鲁大学托管的原刊扫描件，含1页JSTOR题录。。已读正文全部12页；未把扫描生成日期当作论文发表年。；PDF第2—13页＝印刷519—530页，全文核读。重点519—522（知识分散）、524—527（现场调整仍需跨局部协调）。",
+    "supports": "分散的现场知识与跨局部协调须同时处理。",
+    "limits": "讨论经济知识与价格，不直接检验公司授权或证明某种统一指标、现代AI管理方案有效。",
+    "verifiedReadUrls": [
+      "https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf"
+    ],
+    "locator": "PDF第2—13页＝印刷519—530页，全文核读。重点519—522（知识分散）、524—527（现场调整仍需跨局部协调）。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CQ09-S02",
+    "title": "组织中的正式权威与实际权威",
+    "originalTitle": "Formal and Real Authority in Organizations",
+    "author": "Philippe Aghion；Jean Tirole",
+    "year": 1997,
+    "url": "https://people.duke.edu/~qc2/BA532/1997%20JPE%20Aghion%20and%20Tirole.pdf",
+    "language": "英语",
+    "kind": "原始理论论文：不完全合同与信息获取模型",
+    "access": "Journal of Political Economy 105(1), 1997年2月，1—29页；杜克大学托管的原刊扫描件，含1页JSTOR题录。不是1994年工作稿，也不冒称作者接受稿。。只按所列选页使用；未复算模型证明、未核读所引企业史或法律资料。；PDF第2—18、25、27—29页＝印刷1—17、24、26—28页。重点2—3（正式/实际权威）、5—8（模型假设）、10—12（权衡）、14—16（条件与有条件委托）、26（测量限制）。",
+    "supports": "决定权、信息和主动调查会相互影响；下放有收益也有失控成本。",
+    "limits": "不是企业随机试验；收益、信息与退出的简化假设不构成公平合作保证。日常可撤授权不等于其基础模型的不可推翻决定权。",
+    "verifiedReadUrls": [
+      "https://people.duke.edu/~qc2/BA532/1997%20JPE%20Aghion%20and%20Tirole.pdf"
+    ],
+    "locator": "PDF第2—18、25、27—29页＝印刷1—17、24、26—28页。重点2—3（正式/实际权威）、5—8（模型假设）、10—12（权衡）、14—16（条件与有条件委托）、26（测量限制）。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CQ09-S03",
+    "title": "工作团队中的心理安全与学习行为",
+    "originalTitle": "Psychological Safety and Learning Behavior in Work Teams",
+    "author": "Amy Edmondson",
+    "year": 1999,
+    "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf",
+    "language": "英语",
+    "kind": "原始实证论文：单家公司、多方法现场研究，横截面问卷",
+    "access": "Administrative Science Quarterly 44(2), 1999年6月，350—383页；MIT托管原刊扫描件，含1页JSTOR题录。。核读概念、取样、主要结果与作者限制；不采纳OCR表格系数，不将未读附录量表用作诊断。；PDF第2、4、6、8—11、13—14、17—20、30—32页＝印刷350、352、354、356—359、361—362、365—368、378—380页。",
+    "supports": "该样本中，团队心理安全与学习行为有正向关联。",
+    "limits": "非随机分配；单企业、非代表性样本、团队数有限；横截面不能确定因果或保证创业/AI团队效果。不是减少质量责任。",
+    "verifiedReadUrls": [
+      "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf"
+    ],
+    "locator": "PDF第2、4、6、8—11、13—14、17—20、30—32页＝印刷350、352、354、356—359、361—362、365—368、378—380页。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "CQ09-S04",
+    "title": "超越市场与国家：复杂经济系统的多中心治理",
+    "originalTitle": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
+    "author": "Elinor Ostrom",
+    "year": 2010,
+    "url": "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf",
+    "language": "英语",
+    "kind": "作者讲座：综合既有现场与实验研究；不是本次独立复核的单一新试验",
+    "access": "2009年12月8日诺贝尔奖讲座；本次为官网所载Les Prix Nobel. The Nobel Prizes 2009（Karl Grandin编，Stockholm, 2010）排印稿，印刷408—444页，共37页。不是2010年AER文章版。。本次实际取得并核读讲稿选页，补上本地既有M-OSTROM只核讲座入口的不足；未读完整专著。；PDF第1—2、11—16、26—29页＝印刷408—409、418—423、433—436页。重点420、422、433、435—436。",
+    "supports": "讨论规则参与、成本收益、对参与者负责的监督、低成本纠纷处理及退出条件。",
+    "limits": "主要讨论公共物品和公共池资源；不证明创业团队照搬即可成功，不提供通用工资或收益公平公式。讲座引用的底层研究未独立核读。 与既有M-OSTROM为同一场讲座的正文和入口，不是两份独立研究。",
+    "verifiedReadUrls": [
+      "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf"
+    ],
+    "locator": "PDF第1—2、11—16、26—29页＝印刷408—409、418—423、433—436页。重点420、422、433、435—436。",
     "checked": "2026-10-06"
   }
 ]

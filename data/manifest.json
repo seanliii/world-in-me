@@ -4,7 +4,7 @@
   "title": "世界照见我",
   "subtitle": "从旅途，到历史，到可以检查的一次行动",
   "date": "2026-10-06",
-  "contentVersion": "2026-10-06-history-and-reading-next",
+  "contentVersion": "原文深读：埃及、法国非洲、宗教权威与现代协作",
   "heroImages": [
     "giza-pyramids",
     "sarajevo-latin-bridge",
@@ -78,7 +78,7 @@
       "kind": "method",
       "title": "方法与公共行动补充材料",
       "status": "部分正文与目录已读取",
-      "note": "Dunning读取出版社简介和目录；OHA读取2018版导言及现行伦理声明；阿伦特读取Canovan导言而非原著；Ostrom官方讲座页可核，讲稿未完成可用文本核验。"
+      "note": "Dunning读取出版社简介和目录；OHA读取2018版导言及现行伦理声明；阿伦特读取Canovan导言而非原著；Ostrom讲稿已核读选定页（CQ09-S04，2009讲座的2010排印稿）；未通读《公共资源的治理》，也未观看全片。"
     },
     {
       "id": "original-book-register",
@@ -98,16 +98,16 @@
   "note": "六封补充邮件目前完整读取6/6，独立回查5/6。具体项目与协作事件另在本地私人研究包中分析，不随公共网站发布；读取、回答和行为改变是三个不同的完成条件。部分原对话在邮件中有缺尾，另含重复正文；六封读取不等于全部源对话完整。",
   "counts": {
     "chapters": 13,
-    "chapterSections": 94,
+    "chapterSections": 99,
     "legacyQuestions": 66,
     "additionalQuestions": 31,
-    "answers": 16,
-    "books": 62,
+    "answers": 19,
+    "books": 64,
     "originalWorks": 21,
-    "sources": 281,
+    "sources": 330,
     "plannedStops": 20,
     "mentionedCountries": 8,
-    "events": 44,
+    "events": 46,
     "photos": 20,
     "practices": 5,
     "videos": 3,

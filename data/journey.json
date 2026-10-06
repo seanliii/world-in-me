@@ -772,6 +772,17 @@
       ]
     },
     {
+      "id": "canon-humboldt-manuscript",
+      "year": 1793,
+      "date": null,
+      "title": "洪堡古代研究手稿：先问培养怎样的人",
+      "body": "希腊范型与友人的反对边批并存；这是写作年，1896才初刊，不能当作1793公开学校政策。",
+      "theme": "civilizations",
+      "refs": [
+        "CAN-HUMBOLDT"
+      ]
+    },
+    {
       "id": "amsterdam-end-1820",
       "year": 1820,
       "date": null,
@@ -781,6 +792,17 @@
       "refs": [
         "AQ-S07",
         "AQ-S09"
+      ]
+    },
+    {
+      "id": "canon-louvre-egypt",
+      "year": 1827,
+      "date": null,
+      "title": "卢浮宫埃及馆开幕：收藏与认祖并非同一位置",
+      "body": "12月15日开幕；研究、展陈和教育范型应分别考察，不把欧洲接受史写成完全遗忘埃及。",
+      "theme": "civilizations",
+      "refs": [
+        "CAN-LOUVRE"
       ]
     },
     {
