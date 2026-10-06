@@ -5769,5 +5769,471 @@
     ],
     "locator": "PDF第1—2、11—16、26—29页＝印刷408—409、418—423、433—436页。重点420、422、433、435—436。",
     "checked": "2026-10-06"
+  },
+  {
+    "id": "DEV-WDI",
+    "title": "科特迪瓦与毛里求斯的人均实际产出时间序列",
+    "originalTitle": "GDP per capita (constant 2015 US$), NY.GDP.PCAP.KD",
+    "author": "World Bank，World Development Indicators；各国国民账户与人口资料",
+    "year": "1960—2024数据；2026-10-06读取",
+    "url": "https://api.worldbank.org/v2/country/CIV;MUS/indicator/NY.GDP.PCAP.KD?format=json&date=1960:2024&per_page=200",
+    "language": "英语指标与数值",
+    "kind": "官方数据库的实际API响应；历史统计估算，不是实验",
+    "access": "实际取得两国1960—2024共130项年度值；响应标lastupdated为2026-07-13。逐项检查指定年份与1960基值，按各国自身1960=100计算，展示一位小数。",
+    "supports": "区分科特迪瓦早期增长、后来大幅回落和再恢复，以及毛里求斯不同的长期轨迹；不把非洲经济都写成从未增长。",
+    "limits": "不变美元不是购买力平价，不代表家庭中位收入、分配或自由。指数比较的是各自基年后的变化，不是两国绝对生活水平之比；资料会修订，不能与2007论文中的旧基年序列直接拼接。",
+    "verifiedReadUrls": [
+      "https://api.worldbank.org/v2/country/CIV;MUS/indicator/NY.GDP.PCAP.KD?format=json&date=1960:2024&per_page=200"
+    ],
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "DEV-CIV-GROWTH",
+    "title": "科特迪瓦的增长、专业化与贸易条件：早期繁荣为何转向回落",
+    "originalTitle": "Cote d’Ivoire: From Success to Failure — A Story of Growth, Specialization, and the Terms of Trade",
+    "author": "Zeljko Bogetic、John Noer、Carlos Espina",
+    "year": 2007,
+    "url": "https://documents1.worldbank.org/curated/en/685621468246573905/pdf/wps4414.pdf",
+    "language": "英语",
+    "kind": "World Bank Policy Research Working Paper 4414；作者研究，不等于机构一致结论",
+    "access": "实际读题名、摘要和正文印1—3页（PDF5—7）以及研究结构；视觉核PDF6的表1。只采用增长分期、产出与人口分母和历史起点，不复制未重算的生产率系数。",
+    "supports": "经济转折早于1999政变与2002战争；总量、每人产出、投资和消费需分开。讨论专业化、资本与贸易条件，不能仅用最近冲突解释全部此前下降。",
+    "limits": "未独立重估增长核算或回归；生产率余项不能当作国民能力。旧序列与本次WDI版本不完全相同，不能照搬关于精确回到哪一年水平的门槛。",
+    "verifiedReadUrls": [
+      "https://documents1.worldbank.org/curated/en/685621468246573905/pdf/wps4414.pdf"
+    ],
+    "locator": "2007年11月；印1—3（PDF5—7），表1的样本时期与每人指标；摘要是作者结论，不当全部已复算结果。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "DEV-CIV-AG",
+    "title": "农业价格、稳定基金与科特迪瓦国家收入",
+    "originalTitle": "Distortions to Agricultural Incentives in Cote d’Ivoire",
+    "author": "Philip Abbott",
+    "year": 2007,
+    "url": "https://documents1.worldbank.org/curated/en/546141468150872673/pdf/560300NWP0CI0v1Cote1dIvoire10708rev.pdf",
+    "language": "英语",
+    "kind": "Agricultural Distortions Working Paper 46；署名原研究",
+    "access": "实际读印1—4、6—8及有关农业政策、价格与冲突的所列段；不是83页全文通读。",
+    "supports": "产量、出口量、生产者价格与财政收入不自动同向；稳定机构可同时提供价格缓冲、提取农业收入，土地扩展与移民又影响供给。",
+    "limits": "本文不采用该文把BCEAO成立追溯至1946、或把治理简写成法国央行管理的说法；当代货币治理以本站另核官方文件为准。模型和价格比较不证明某一政策是所有危机的唯一原因。",
+    "verifiedReadUrls": [
+      "https://documents1.worldbank.org/curated/en/546141468150872673/pdf/560300NWP0CI0v1Cote1dIvoire10708rev.pdf"
+    ],
+    "locator": "2007年12月；PDF页比正文印页多1。采用印1—4、6—8及政策讨论，不使用未核的图表系数或今天税率。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "DEV-CIV-SCD",
+    "title": "科特迪瓦2015诊断：价格、财政、土地与贫困的连接",
+    "originalTitle": "Côte d’Ivoire: From Crisis to Sustained Growth — Priorities for Ending Poverty and Boosting Shared Prosperity",
+    "author": "World Bank，Country Department AFCF2",
+    "year": 2015,
+    "url": "https://documents1.worldbank.org/curated/en/640251467986253436/pdf/98178-CAS-P147907-IDA-SecM2015-0151-IFC-SecM2015-0108-MIGA-SecM2015-0064-Box391505B-PUBLIC-disclosed-7-16-15.pdf",
+    "language": "英语",
+    "kind": "Systematic Country Diagnostic，2015-06-30；机构研究诊断，不是所有命题的独立实验",
+    "access": "实际核题名，读印6—7和25—27页（PDF28—29、47—49）；视觉核贫困图的调查／预测标记及正文。未通读158页。",
+    "supports": "生产激励、农产品财政、1980年代后期收入和债务、土地权利及政治变化之间的具体联系；2011后恢复与减贫不能只看GDP。",
+    "limits": "1985—2008贫困数经过可比性调整，后续图中部分值是预测，不是新调查；国家贫困线不是可跨国直接比较的统一标准。治理因果是报告分析，不据此证明多党竞争必然产生冲突。",
+    "verifiedReadUrls": [
+      "https://documents1.worldbank.org/curated/en/640251467986253436/pdf/98178-CAS-P147907-IDA-SecM2015-0151-IFC-SecM2015-0108-MIGA-SecM2015-0064-Box391505B-PUBLIC-disclosed-7-16-15.pdf"
+    ],
+    "locator": "印6—7（调查可比性、图2.1/2.2）；印25—27（4.1—4.7）。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "DEV-MUS-SUB",
+    "title": "毛里求斯为什么不是简单的自由贸易成功例",
+    "originalTitle": "Mauritius: A Case Study",
+    "author": "Arvind Subramanian",
+    "year": 2001,
+    "url": "https://www.imf.org/external/pubs/ft/fandd/2001/12/subraman.htm",
+    "language": "英语",
+    "kind": "Finance & Development 38(4)，2001年12月；研究者署名案例分析",
+    "access": "实际读公开全文，重点贸易保护、糖业优惠、出口加工区、国内投资和制度解释。2001工作稿另有扫描件下载，但未把未读扫描当第二份正文证据。",
+    "supports": "出口政策与受保护的国内产业并存；外部贸易优惠及国内投资重要，却不足以单独解释为何类似安排在别处不奏效。",
+    "limits": "文中当时的增长、就业和制度指标不是2026现状；部分制度评分是拟合值，不作直接民意测量。与同作者工作稿不是两份独立印证。 原文区分园区与非园区相同的法定最低工资，以及女性相对男性较低的法定工资；不把两种差别混为一种。",
+    "verifiedReadUrls": [
+      "https://www.imf.org/external/pubs/ft/fandd/2001/12/subraman.htm"
+    ],
+    "locator": "Globalization strategy／Institutions／Special factors各节及Table 2、Table 3说明；未采用表格中未经复算的因果贡献值。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "DEV-MUS-FRANKEL",
+    "title": "毛里求斯成功解释的竞争：政策、优惠、投资与制度",
+    "originalTitle": "Mauritius: African Success Story",
+    "author": "Jeffrey A. Frankel",
+    "year": 2010,
+    "url": "https://www.nber.org/system/files/working_papers/w16569/w16569.pdf",
+    "language": "英语",
+    "kind": "NBER Working Paper 16569，2010年12月；未同行评议的讨论稿",
+    "access": "实际读题名、摘要、概要及PDF10—11、17—19（正文印9—10、16—18）；视觉核印17页的劳动规则与外资争论。未通读或重算回归。",
+    "supports": "1970出口加工区将投入品、税收和劳动规则连在一起；知识、海外联系、国内资本与国际配额共同作用，并与Subramanian的解释有具体分歧。",
+    "limits": "对外资份额小能否否定知识扩散有不同解释，不代表本次已识别其净效应。本文不采纳其无原住民岛屿即可解释和谐的推论，也不把增长成功当全部社会关系公平。 关于工资制度的简述与Subramanian更细的性别／园区区别须对照，本文不据此宣称所有园区雇员法定最低工资一律低于区外。",
+    "verifiedReadUrls": [
+      "https://www.nber.org/system/files/working_papers/w16569/w16569.pdf"
+    ],
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "DEV-GENDER",
+    "title": "毛里求斯增长之外：女性劳动参与与照护约束",
+    "originalTitle": "Fostering Labor Force Participation among Mauritian Women: Quantitative and Qualitative Evidence",
+    "author": "Isis Gaddis、Marco Ranzani",
+    "year": 2020,
+    "url": "https://documents1.worldbank.org/curated/en/704641592550122964/pdf/Fostering-Labor-Force-Participation-among-Mauritian-Women-Quantitative-and-Qualitative-Evidence.pdf",
+    "language": "英语研究；部分访谈原为克里奥尔语",
+    "kind": "World Bank署名定量与定性研究报告",
+    "access": "实际读题名、印3、5—6、9、23、25—27页；视觉核第6页图2和脚注。定性研究包含2019-10-12至19日四组共22名当时无经济活动的女性，非全国随机访谈。",
+    "supports": "经济转型、参与机会增加与性别差距、照护负担、托育费用和时间限制可并存；同一国家内部也有不同处境。",
+    "limits": "第6页工作年龄统计脚注为16—64，图2另标非在读者，不能改成全体15岁以上人口。第5页一般定义与实际分析口径须分开；访谈不是全国发生率，2018—2020资料不等2026现状。未以报告中的育儿假法条作为今日法律建议。",
+    "verifiedReadUrls": [
+      "https://documents1.worldbank.org/curated/en/704641592550122964/pdf/Fostering-Labor-Force-Participation-among-Mauritian-Women-Quantitative-and-Qualitative-Evidence.pdf"
+    ],
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "TQ32-01",
+    "title": "1950前后选举竞争、宗教行政与国家宗教教育的关系",
+    "originalTitle": "Diyanet: The Turkish Directorate for Religious Affairs in a changing environment",
+    "author": "Thijl Sunier、Nico Landman、Heleen van der Linden、Nazlı Bilgili、Alper Bilgili；VU University Amsterdam / Utrecht University",
+    "year": 2011,
+    "url": "https://research.vu.nl/ws/portalfiles/portal/628513/299249.pdf",
+    "language": "英语",
+    "kind": "署名团队原研究报告；历史章综合既有研究，机构研究含文书与访谈",
+    "access": "实际核读：印页5—7（方法）；12—14（1946、1950）；16—20（1980、1990年代至AKP兴起）；32—38（职能、国家工具及异议）；66（普通学校不由Diyanet主管）。仓储封面多一页，对应PDF页码通常加1。",
+    "supports": "为正文S1的选举—宗教需求机制、1950年前后行政连续性提供依据；为S2的军政时期背景及国家学校/Diyanet分工提供背景。 1965年第633号法的职能在印页32被转引；报告引用1965-07-02这一日期，但本次未据第633号法原刊独立确认它是通过、公布还是生效日。",
+    "limits": "由荷兰外交部门委托；方法部分说明官员可能只给出政治、外交上得体的回答。不是选民代表性调查，也不是1950现场见证。 不沿用印页32将后来的三项职能概括前推至1924的简写，不据此覆盖RG-08；不采用其组织图、人口比例或“现任”称谓作为2026事实。 本包不采用报告对2010新法的具体生效日写法；6002号法未纳入本次原法核读。报告只能用于其历史和调查时期。",
+    "verifiedReadUrls": [
+      "https://research.vu.nl/ws/portalfiles/portal/628513/299249.pdf"
+    ],
+    "locator": "印页5—7（方法）；12—14（1946、1950）；16—20（1980、1990年代至AKP兴起）；32—38（职能、国家工具及异议）；66（普通学校不由Diyanet主管）。仓储封面多一页，对应PDF页码通常加1。",
+    "yearNote": "原报告封面为January 2011；下载封面的2026不是出版年。 报告未标注另一译本日期；本包中文概述写于2026-10-06。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "TQ32-02",
+    "title": "1982宪法：宗教自由、强制宗教文化课与国家宗教机关并列",
+    "originalTitle": "Türkiye Cumhuriyeti Anayasası, Kanun No. 2709",
+    "author": "土耳其《官方公报》；1982年制宪文本及公投通过文本",
+    "year": 1982,
+    "url": "https://www.resmigazete.gov.tr/arsiv/17863_1.pdf",
+    "language": "土耳其语",
+    "kind": "原始公报法文本；同一宪法的公投前、后两个刊本",
+    "access": "实际核读：1982-10-20第17844号公报PDF第1页通过日期；1982-11-09第17863号增刊第1页公投/公布信息、第6—7页第24条、第39页第136条、第56—57页第177条。",
+    "supports": "第24条同时规定信仰自由、不受强迫参与仪式或披露信仰；宗教及道德教育受国家监督；中小学宗教文化与道德课属必修，其他宗教教育依本人或未成年人的法定代理人意愿。 第136条将Diyanet置于一般行政体系，要求遵守世俗原则、处于各种政治观点之外，并以全国团结和整合为目标。",
+    "limits": "法条是制度要求，不证明课堂已中立、机关已在实践中独立于政党或各种信仰已同等受益。 仅核1982原文及本包涉及的历史争议，不描述2017后修宪、2018行政隶属或2026现制。",
+    "verifiedReadUrls": [
+      "https://www.resmigazete.gov.tr/arsiv/17844.pdf",
+      "https://www.resmigazete.gov.tr/arsiv/17863_1.pdf"
+    ],
+    "locator": "1982-10-20第17844号公报PDF第1页通过日期；1982-11-09第17863号增刊第1页公投/公布信息、第6—7页第24条、第39页第136条、第56—57页第177条。",
+    "yearNote": "两份原刊的Kabul tarihi分别写18/10/1982和7/11/1982，对应制宪通过与公投认可；不是二选一的日期错误。 按土耳其语原文作中文释义；不是官方中文译本，不把原法年份当成译本年份。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "TQ32-03",
+    "title": "1997年第4306号法：八年连续基础教育与旧初中段招生过渡",
+    "originalTitle": "İlköğretim ve Eğitim Kanunu ... Değişiklik Yapılması ... Hakkında Kanun, No. 4306",
+    "author": "Türkiye Büyük Millet Meclisi（土耳其大国民议会）",
+    "year": 1997,
+    "url": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc080/kanuntbmmc080/kanuntbmmc08004306.pdf",
+    "language": "土耳其语",
+    "kind": "议会官方法令汇编原法刊本；5页",
+    "access": "实际核读：PDF第1页（印页1049）标题日期及第1—2条；第2页第5、7—9条；第5页第10—11条。",
+    "supports": "第1、5条设八年连续的基础教育学校；第2条给出停止旧附属初中段招生及在读学生过渡安排。 法律同时调整国家教育管理与经费，不是一句对居民信仰的禁令；学校通道变化与2012年第6287号法对读。",
+    "limits": "不能把1997-02-28政治过程写成该法的通过日。 法条不列每所imam-hatip学校，不据此报关闭数量、女童辍学变化，或说所有宗教学校、宗教课被一举消灭。",
+    "verifiedReadUrls": [
+      "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc080/kanuntbmmc080/kanuntbmmc08004306.pdf"
+    ],
+    "locator": "PDF第1页（印页1049）标题日期及第1—2条；第2页第5、7—9条；第5页第10—11条。",
+    "yearNote": "第10条：公布之日生效。 按土耳其语原文作中文释义；不是官方中文译本，不把原法年份当成译本年份。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "TQ32-04",
+    "title": "2012年第6287号法：4+4+4、imam-hatip初中与自愿宗教选修",
+    "originalTitle": "İlköğretim ve Eğitim Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun, No. 6287",
+    "author": "土耳其《官方公报》",
+    "year": 2012,
+    "url": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120411-8.htm",
+    "language": "土耳其语",
+    "kind": "原始公报法律全文；HTML原字节与可读文本均保存",
+    "access": "实际核读：标题日期；第2、6、9—11、13、26条。第9条重订1739号法第25条；第10条重订第26条。",
+    "supports": "小学4年、初中4年，加上4年义务高中阶段；第9条明确列普通初中与imam-hatip初中。 中学和高中可自愿选修《古兰经》与穆罕默德生平；其他选修与不同学校课程选项仍由教育部确定。",
+    "limits": "法律上的自愿选修不等于每个学生都没有排课、家庭或同伴压力。 没有把1982宪法必修的宗教文化与道德课改成这两门选修课；不可混为一项制度。 条文列有正规或非正规高中教育形式；不据“12年”就断言所有人都在同类学校同样完成十二年，也不虚报女童教育的净因果效果。",
+    "verifiedReadUrls": [
+      "https://www.resmigazete.gov.tr/eskiler/2012/04/20120411-8.htm"
+    ],
+    "locator": "标题日期；第2、6、9—11、13、26条。第9条重订1739号法第25条；第10条重订第26条。",
+    "yearNote": "原文末行10/4/2012不替代有明确标签的通过日与公布/生效日。 按土耳其语原文作中文释义；不是官方中文译本，不把原法年份当成译本年份。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "TQ32-05",
+    "title": "2013年公共人员衣着修订：删除女性露头要求，但保留职业边界",
+    "originalTitle": "2013/5443: Kamu Kurum ve Kuruluşlarında Çalışan Personelin Kılık ve Kıyafetine Dair Yönetmelikte Değişiklik ...",
+    "author": "土耳其部长会议；《官方公报》",
+    "year": 2013,
+    "url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131008-10.htm",
+    "language": "土耳其语",
+    "kind": "条例修订原文；附同一条例1982原刊核对被删除的首句",
+    "access": "实际核读：2013公报导语及第一项修订第1—4条；1982-10-25公报第1页决议日期、第2页第5(a)条、第3页第6条、第4页第19条。",
+    "supports": "原第5(a)首句含工作地点须露头的女性衣着规定；2013修订删除“Kadınlar;”之后的该首句，且移动专用工作服条款。 第2条把适用特别规章者明确列为警察系统人员、法官、检察官及军队人员。",
+    "limits": "这是公共机构工作人员衣着规则，不是大学学生规则；不得说2005判决被这条条例自动推翻。 不是所有职业、所有学校或社会场合在2013-10-08全面解禁；所列职业须查各自规则，本包不推断它们同日的具体许可。 移除一项国家衣着限制不证明不戴头巾的人不再受压力，也不证明全部性别不平等已解决。",
+    "verifiedReadUrls": [
+      "https://www.resmigazete.gov.tr/eskiler/2013/10/20131008-10.htm",
+      "https://www.resmigazete.gov.tr/arsiv/17849.pdf"
+    ],
+    "locator": "2013公报导语及第一项修订第1—4条；1982-10-25公报第1页决议日期、第2页第5(a)条、第3页第6条、第4页第19条。",
+    "yearNote": "第一项修订第3条：公布之日生效。 按土耳其语原文作中文释义；不是官方中文译本，不把原法年份当成译本年份。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "TQ32-06",
+    "title": "Leyla Şahin案：保护世俗大学与成年女性受教育权的具体冲突",
+    "originalTitle": "Leyla Şahin v. Turkey [GC], application no. 44774/98",
+    "author": "欧洲人权法院大审判庭；附Tulkens法官不同意见",
+    "year": 2005,
+    "url": "https://hudoc.echr.coe.int/eng?i=001-70956",
+    "language": "英语官方判决文本；所附不同意见英文标记为Translation",
+    "kind": "法院判决原文件及所附不同意见",
+    "access": "实际核读：事实§§14—17、28；多数意见§§104—123、154—162；裁判主文；Tulkens不同意见§§1—20。主文印页39—40；不同意见从印页42/PDF44开始。",
+    "supports": "医学女学生因头巾被拒参加课程和考试；大审判庭以16比1认定宗教自由与受教育权均未受本案所涉公约条款侵犯。 多数意见考虑世俗性、他人权利、公共秩序及不戴头巾者可能承受的压力；不同意见要求具体证明危害，不接受仅凭衣着概括当事人，指出拒绝教育本身的损失。",
+    "limits": "必须区分法院多数结论、不同意见与本包分析；不能把少数意见写成申请人胜诉。 判决允许本案背景中的国家裁量，不是要求每国、每校一律禁戴头巾。 案卷记录有纪律程序；不把不同意见中的论证概括为“她从未受过任何处分”。",
+    "verifiedReadUrls": [
+      "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-70956&filename=001-70956.pdf"
+    ],
+    "locator": "事实§§14—17、28；多数意见§§104—123、154—162；裁判主文；Tulkens不同意见§§1—20。主文印页39—40；不同意见从印页42/PDF44开始。",
+    "yearNote": " 不同意见注明Translation但没有独立首译日期；PDF元数据的2019重制时间不是判决日或可证首译日。中文释义写于2026-10-06。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "TQ32-07",
+    "title": "Hasan与Eylem Zengin案：必修课名称不保证不同信仰得到平等尊重",
+    "originalTitle": "Hasan and Eylem Zengin v. Turkey, application no. 1448/04",
+    "author": "欧洲人权法院（原第二庭）",
+    "year": 2007,
+    "url": "https://hudoc.echr.coe.int/eng?i=001-82580",
+    "language": "英语（HUDOC英译；主文说明法文作成）",
+    "kind": "法院判决原文件的HUDOC英译版本",
+    "access": "实际核读：事实§§6—19；政府意见§§44—45；法院§§56—79；补救§84及主文。PDF第1页终局日期、第7页1990豁免安排、第19—23页理由、第25页主文及原作语言。",
+    "supports": "Alevi家庭为女儿申请宗教文化与道德课豁免遭拒；法院认为当时课程及豁免制度不足以尊重家长信念，认定第一议定书第2条受侵犯。 1990规则对声明属于基督教或犹太教的特定学生设豁免；政府主张无神论等也可申请，但未给实例。法院指出需披露信仰、缺乏清晰保障等问题。 反对过度推断的证据：§59认可多元、反狂热教学的宗旨；§63说明仅仅较多教授多数宗教，不当然构成灌输。",
+    "limits": "裁判不是禁止全部宗教教学，也不是单独认定第9条侵权；§79认为无需另行处理第9条。 本包没有复查其后教材、执行监督及2013或2026豁免实务；2007个案不能自动升级成今天的办事指南。 只沿用家庭的自我认同及法律争议，不裁定Alevi、逊尼或其他传统谁是真宗教。",
+    "verifiedReadUrls": [
+      "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-82580&filename=001-82580.pdf"
+    ],
+    "locator": "事实§§6—19；政府意见§§44—45；法院§§56—79；补救§84及主文。PDF第1页终局日期、第7页1990豁免安排、第19—23页理由、第25页主文及原作语言。",
+    "yearNote": "2007-10-09是判决通知日；原文件另标2008-01-09终局，不能合并。 所读英译没有独立译者/首译日；不把判决年、下载年或2019 PDF重制年冒充译本日期。中文释义写于2026-10-06。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "ID63-01",
+    "title": "Bosnian Muslims and the Yugoslav Idea",
+    "originalTitle": "Bosnian Muslims and the Yugoslav Idea",
+    "author": "Xavier Bougarel",
+    "year": 2003,
+    "url": "https://shs.hal.science/halshs-02610513/document",
+    "language": "英语作者稿",
+    "kind": "署名历史研究章节，含文献与历史文件引文；不是由本稿独立调阅全部原始档案",
+    "access": "实读HAL封面与PDF第2—7页（作者稿内页1—6），另查PDF第11页（内页10）；正文采用内页1、3—6。未通读该书，也未把文中引用的著作当作本次已读。",
+    "supports": "国家安排、宗教文化机构与共同体认同可以以不同速度和方向改变。 1968政治承认须与1971普查登记区分；共和国空间对民族表达有实际意义。 南斯拉夫认同可是真实归属，不只是一种被迫或虚假的过渡标签；1949年Preporod解散是制度中断的反例。",
+    "limits": "2003是原章节年份，2020是HAL入库年份；PDF制作时间不是研究发表年。 没有据作者对1953年人口的二次统计计算趋势；没有采用存稿中其他容易混淆的精确日期或译句。 不把其政治史概括作为每一位居民的心理证据。",
+    "verifiedReadUrls": [
+      "https://shs.hal.science/halshs-02610513/document"
+    ],
+    "locator": "内页1：不应把归属转变一律归为投机；内页3：1929行政区重划；内页4—5：战争与共和国安排、战后机构限制、1968政治承认；内页6：混合婚姻、南斯拉夫认同与民族认同的并存和变化。",
+    "yearNote": "载Dejan Djokić编，Yugoslavism: Histories of a Failed Idea 1918–1992，Hurst，书目页码100–114；本次读取HAL作者存稿。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "ID63-02",
+    "title": "Nationality Categories, National Identification and Identity Formation in “Multinational” Bosnia",
+    "originalTitle": "Nationality Categories, National Identification and Identity Formation in “Multinational” Bosnia",
+    "author": "Tone R. Bringa",
+    "year": 1993,
+    "url": "https://scholarworks.iu.edu/journals/index.php/aeer/article/download/591/693/0",
+    "language": "英语",
+    "kind": "署名人类学田野研究文章，含村落交往、当事人叙述与普查制度讨论",
+    "access": "分段实读正文印刷页80—88，并查看89页参考文献；重点使用81—87页。另实读期刊页面书目字段及卷期。",
+    "supports": "共同体差异在交往中被学习和重申，不依赖把血统当作自明事实。 家庭和地方经历的记忆并不完全一致；同属一个文化共同体可以有不同对外关系。 普查名称改变并不等于人们同时改信；日常交往界线与领土国家界线不能直接重合。",
+    "limits": "村落田野不是全国代表性调查，也不能替所有穆斯林、塞族或克族发言。 Dolina沿用作者田野称呼，本稿未将它核成可导航的真实村名。 文章对若干政治史节点使用简写；本稿不采用其把全部民族承认压到1971年的表述，而与ID63-01的1968节点分开。 卷期与citation_date是1993，但网站自动生成的How to Cite出现2000；保留此元数据不一致，不以自动引文改写原卷期。",
+    "bibliographicUrl": "https://scholarworks.iu.edu/journals/index.php/aeer/article/view/591",
+    "verifiedReadUrls": [
+      "https://scholarworks.iu.edu/journals/index.php/aeer/article/download/591/693/0"
+    ],
+    "locator": "81页：Muslim/muslim及文化身份与信仰的区别；82—84页：探访、习俗、迁移女性的二战记忆、婚姻界线与城乡差异；85—86页：国籍与民族概念、1948/1953/1961/1971分类、不同登记选择；86—88页：1992叙述与强制排斥。",
+    "yearNote": "Anthropology of East Europe Review，11(1 & 2)，80–89。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "ID63-03",
+    "title": "Historijat（馆史）",
+    "originalTitle": "Historijat（馆史）",
+    "author": "Gazi Husrev-begova biblioteka u Sarajevu",
+    "year": "网页未核独立发布年",
+    "url": "https://ghb.ba/historijat/",
+    "language": "波斯尼亚语",
+    "kind": "具名文化机构的自述，内引创设文书；不是本稿亲验捐产文书原件",
+    "access": "馆史网页正文已读；主要采用BIBLIOTEKA部分的设立依据、迁馆和战争期间转移馆藏的段落。",
+    "supports": "有可指认的书、档案、馆名和阅读机构跨越政治变动，且保存依赖主动搬迁和重新安置。 物件与机构的延续不等于馆舍、条件或民族定义从未改变。",
+    "limits": "馆方对馆藏保存完整性的说法未由逐件清点独立核验，本稿不照搬其绝对程度。 一个机构保存的文化材料不等于全体居民拥有同一记忆，更不是现代民族从1537以来不变的证明。",
+    "verifiedReadUrls": [
+      "https://ghb.ba/historijat/"
+    ],
+    "locator": "BIBLIOTEKA段：1537年学校捐产文书规定余款购书供阅读、抄写；1935迁馆；1992起多地点转移；2014-01-15新馆开放。",
+    "yearNote": "网页未核得独立发表日期；使用的是1537、1935、1992及2014等历史事件，不引用当下馆藏量或开放时间。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "ID63-04",
+    "title": "Bošnjački sabori 1993. i 1994. godine",
+    "originalTitle": "Bošnjački sabori 1993. i 1994. godine",
+    "author": "Vijeće Kongresa bošnjačkih intelektualaca（VKBI）",
+    "year": "网页未核独立发布年",
+    "url": "https://vkbi.ba/?p=1213",
+    "language": "波斯尼亚语",
+    "kind": "参与召集的知识分子组织之机构史及当事发言、决议引述",
+    "access": "网页正文已读；核心使用Prvi Bošnjački sabor部分，不扩写第二次大会或其他民族史。",
+    "supports": "改称由具体机构、会议与代表作出，而非无主体的历史自然过程。 “恢复旧称”是参与组织连接历史与当代的记忆表达。 当事叙述承认无法用通常的全民公投程序处理当时的战时决策；不能把大会自身当作全民意见统计。",
+    "limits": "这是回顾性机构自述，不是1993年签章宣言原件、完整逐字实录或全民同意的统计证据。 网页中的民族起源、领土继承与权利叙事不作为中立历史事实照单全收。 没有采用未具名记者的“一夜改名”修辞来证明所有普通人同时改变。 Isaković关于公投的引述处在和平方案与战时重大决策的语境，不足以证明他专门要求就民族名称公投。",
+    "verifiedReadUrls": [
+      "https://vkbi.ba/?p=1213"
+    ],
+    "locator": "首届大会段：萨拉热窝Holiday Inn、1993-09-27—28；召集机构与Isaković有关无法举行全民公投的引述；9月28日名称采纳及“恢复旧称”的叙述。",
+    "yearNote": "本次使用1993-09-27—28大会的机构回顾，不将网页发表时间与会议时间混同。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "ID63-05",
+    "title": "Census of Population, Households and Dwellings in BiH 2013 — Personal Questionnaire (P-1)",
+    "originalTitle": "Census of Population, Households and Dwellings in BiH 2013 — Personal Questionnaire (P-1)",
+    "author": "波黑人口普查统计机构；联合国统计司保存英文原表",
+    "year": 2013,
+    "url": "https://unstats.un.org/unsd/demographic/sources/census/quest/BIH2013enIn.pdf",
+    "language": "英语官方空白表",
+    "kind": "空白官方个人普查表的联合国统计司存档，不含任何已填写个人资料",
+    "access": "实读PDF第1—2页中的第19、24、25、26、46题以及第24、25题前的自愿回答告知；其余经济、健康题不用于本稿。",
+    "supports": "国籍、民族、宗教、母语在调查设计中是分开的字段。 民族和宗教可以不作答；问卷并未把Bošniak与信教资格当成一个问题。 存在由谁提供答复的记录，不把全部登记都写成每个人独自秘密投票。",
+    "limits": "仅说明2013年的调查工具，不提供2026年的法律意见。 空白表不能证明实际访问时无人施压、每项记录无误或每个人都有完全同等的表达条件。",
+    "verifiedReadUrls": [
+      "https://unstats.un.org/unsd/demographic/sources/census/quest/BIH2013enIn.pdf"
+    ],
+    "locator": "PDF第1页右栏：19国籍；PDF第2页左栏（印刷13页）：24民族/国族、25宗教、26母语以及24/25可不作答说明；右栏46题记录由谁提供数据。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "ID63-06",
+    "title": "Popis stanovništva, domaćinstava i stanova u Bosni i Hercegovini: Etnička/nacionalna pripadnost, vjeroispovjest i maternji jezik",
+    "originalTitle": "Popis stanovništva, domaćinstava i stanova u Bosni i Hercegovini: Etnička/nacionalna pripadnost, vjeroispovjest i maternji jezik",
+    "author": "Agencija za statistiku Bosne i Hercegovine（波黑统计局）",
+    "year": 2019,
+    "url": "https://www.popis.gov.ba/popis2013/doc/Knjiga2/K2_B_E.pdf",
+    "language": "波斯尼亚语与英语",
+    "kind": "统计局直接出版的2013人口普查详细分类与交叉原表",
+    "access": "实读书名及出版页、目录、方法说明印刷15—18页，表3全国起始两组对开页918—921（PDF460—461）。未通读532个PDF页面的全部地方表。",
+    "supports": "全国总数3,531,159；民族Bosniak1,769,592、Muslim12,121、Bosnian37,110。 民族Bosniak且宗教Ateisti为5,730，直接证明调查中这两种字段并非同一个分类。 1993改称未使后来的统计只剩一个民族自称；但不能把横截面统计当作同一批人的身份转变轨迹。",
+    "limits": "这是BHAS公布口径下的2013登记与通常居住人口，不是血统、内在信仰、最新人口或战争责任资料。 只使用同一版本、同一全国交叉表；不混入其他机构口径或2016简表。 详细表把宗教Islamska与Muslimanska分列；未擅自合并这两行，更未把民族Muslim列误当宗教合计。 不据两次普查的总人数变化推算改名人数；迁移、死亡、出生、调查定义与代答均不能略去。",
+    "verifiedReadUrls": [
+      "https://www.popis.gov.ba/popis2013/doc/Knjiga2/K2_B_E.pdf"
+    ],
+    "locator": "方法15页：通常居住人口；16—17页：民族与宗教申报、可不表态、代答及未知值；18页：母语；表3印刷918—919页：全国总数与民族列；920—921页：Bosniak×Ateisti及其他宗教交叉项。",
+    "yearNote": "2019是本次实读详细统计书的出版年；调查基准时点为2013-09-30的24:00，不是2019或2026人口。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "SP-Q04-S01",
+    "title": "西班牙前工业经济：2024年修订的增长重建（第2章）",
+    "originalTitle": "Growth Recurring in a Preindustrial Economy",
+    "author": "Leandro Prados de la Escosura；Carlos Álvarez-Nogal；Carlos Santiago-Caballero",
+    "year": 2024,
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-60792-9_2.pdf",
+    "language": "英语",
+    "kind": "作者原研究的修订版章节／出版社PDF",
+    "access": "A Millennial View of Spain’s Development, 第2章，Springer，2024，印刷页27—90。章首页注明由三人合著，修订2022年同组作者论文的产出、人口及人均产出估算。不是全书阅读。 正文印刷页27—50（PDF1—24）；表2.3在印刷页62—72中的指定1566—1807年行；附录印刷页74—82（PDF48—56）。不声称逐行读遍整份年表或全书。",
+    "supports": "真实产出的历史重建支持先收缩、后恢复、再放慢的分期；不能将17—18世纪写成连续向下的一条线。 分开总产出、人口和人均产出；表2.2提供四个与本题有关的阶段。 与英国、荷兰、法国的GDP比较及战争税负—城市市场收缩解释可以定位，但前者有远期价格基准问题，后者仍是待检验假说。",
+    "limits": "不是现代逐年国民核算：农业取自税收重建；工业及服务业主要用剔除农业人口后的城镇人口作替代指标，不能称为逐行业直接测量。 人口用稀疏基准、新卡斯蒂利亚出生死亡率及迁移猜估拼接；区域代表性、时间插值和取样误差不能消失。 表2.2为各序列单独平滑后的年均对数趋势率，λ=1000；不能当作每一年观察值，也不强求显示位数下三列严格相减。 图2.13的国外底层论文及1990年国际价格回推未由本包重算；本包不据图读出精确国别收入倍数。 与S02同组作者且共享、修订部分材料，不算两份完全独立的验证；不把2018年的争论写成已由本章自动解决。",
+    "bibliographicUrl": "https://link.springer.com/chapter/10.1007/978-3-031-60792-9_2",
+    "verifiedReadUrls": [
+      "https://link.springer.com/content/pdf/10.1007/978-3-031-60792-9_2.pdf"
+    ],
+    "locator": "印刷页29—32／PDF3—6：人口基准、出生死亡率、迁移估算及其限制。；印刷页33—41／PDF7—15：什一税农业重建、非农城镇人口替代指标、表2.1及总产出合成。；印刷页42—44／PDF16—18：分期结果及表2.2；表2.2已对原PDF图像核数。；印刷页46—50／PDF20—24：人均产出与人口、分配、欧洲比较图2.13及解释假说。；印刷页74—81／PDF48—55：今西班牙地域口径、人口基准与农业史料拼接；页78注35明确未全面校正免征及特定什一税分流。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "SP-Q04-S02",
+    "title": "西班牙农业与西北欧差距：有地区和每工产出数据的工作稿",
+    "originalTitle": "Spanish Agriculture in the Little Divergence",
+    "author": "Carlos Álvarez-Nogal；Leandro Prados de la Escosura；Carlos Santiago-Caballero",
+    "year": 2016,
+    "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/270-2016_escosura.pdf",
+    "language": "英语",
+    "kind": "学者原工作稿／华威大学公开PDF",
+    "access": "CAGE Working Paper Series No.270，2016年2月，University of Warwick。实际读取58页工作稿，不冒充同年期刊发表版。 封面与摘要；重点读取PDF7—15、18—29；表1—2、表5、图5及附录A-1/A-2/A-3/A-4；附录C部分来源表。工作稿正文页码通常为PDF页码减1。",
+    "supports": "提供内陆与地中海地区的跨期谷物指数，不支持把所有地区写成同时、同程度失败。 表5可以说明本国农业每工产出恢复而仍相对英国、荷兰省掉队；有具体单位和各国不同观察年份。 1635—1659对法战争、1640起葡萄牙与加泰冲突，可能通过招兵、货币不稳、城市及外部需求影响生产；北部玉米扩展耕作提供适应性变化实例。",
+    "limits": "本包采用的是2016工作稿的一套估算，不与2024年GDP修订拼成同一数据库；2018年S03对其什一税处理有实质批评。 缺年用附近序列插补，地区权重依赖1799年普查；免征、征收分流、新作物及逃税可改变税收与产量的关系。 Holland是比较输入中的荷兰省序列，不是全部尼德兰；Britain沿用表5列名，本包未独立复核其底层地域拼接口径。 每工产出用劳动人口而非工时，劳动参与假设较强；1910英镑比较通常取购买力换算，但Holland因缺购买力平价采用市场汇率并假设物价相近。不是工资或农户收入比较。 战争、财政、需求及气候解释不是本稿识别出的独立因果系数；安达卢西亚降水关联不能代替全国气候效应。",
+    "bibliographicUrl": "https://ideas.repec.org/p/cge/wacage/270.html",
+    "verifiedReadUrls": [
+      "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/270-2016_escosura.pdf"
+    ],
+    "locator": "正文页6—14／PDF7—15：什一税可靠性、插值、区域覆盖及1799年权重。；正文页17—18／PDF18—19：五个宏观地区的谷物变化，明确谷物不等于全部农业。；正文页21—23／PDF22—24：农业劳动人口假设及英国、Holland比较方法。；正文页24—28／PDF25—29：玉米、土地利用、17世纪多线战争、需求与气候假说。；正文页42／PDF43表5：农业每工产出的国别比较，已目视核表。；正文页49／PDF50表A-2：地区谷物指数；正文页52—53／PDF53—54：部分地区底层来源位置。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "SP-Q04-S03",
+    "title": "四省什一税原始资料重建：总量下降与人均上升可以并存",
+    "originalTitle": "¿Descendió el producto agrario por habitante en la Europa moderna? El caso castellano",
+    "author": "Enrique Llopis Agelán；José Antonio Sebastián Amarilla；José Ubaldo Bernardos Sanz；Ángel Luis Velasco Sánchez；Vanesa Abarca Abarca",
+    "year": 2018,
+    "url": "https://recyt.fecyt.es/index.php/IHE/article/download/70850/42925",
+    "language": "西班牙语；另有英文摘要",
+    "kind": "学者原论文／期刊托管的正式版PDF",
+    "access": "Investigaciones de Historia Económica – Economic History Research 14 (2018), 69—81；2017-03-31在线发表，使用2018卷页PDF。 题名摘要及相关方法、结果：印刷页69—76、78—79，重点为73—76与78—79；不据未读参考书扩张书目。",
+    "supports": "现代省界下的布尔戈斯、萨拉曼卡、阿维拉、塞哥维亚呈现不同总量与人均结果，直接限制全民、全地区同步衰落说。 作者核对征收组成、特免、未纳入作物和1761年后excusado分流，提出比单纯按税收趋势回推更乐观的地区结果。 农村家庭可能通过更多工作、作物和非农收入多样化改善处境，依赖工资的劳动者却可能承受实际工资下降；平均值不是人人同向。",
+    "limits": "研究的四省不是整个西班牙。567个征收辖区样本覆盖四省约19%人口、19个农区中的17个；本包不把作者全国GDP外推当成直接全国测量。 主要是相隔近两世纪的短期平均值对照，不能据此填出完整17世纪逐十年过程；初期各省年份不同，必须随表保留。 塞哥维亚早期非谷物产出需要估计；什一税对畜产、自用产出等仍有漏计。作者所称增长下限也不是统计置信区间。 其批评针对2007/2013及2015/2016版本，不是对尚未出版的2024修订直接检验；两套估算不能简单平均或判一方已被彻底推翻。",
+    "bibliographicUrl": "https://recyt.fecyt.es/index.php/IHE/article/view/70850",
+    "verifiedReadUrls": [
+      "https://recyt.fecyt.es/index.php/IHE/article/download/70850/42925"
+    ],
+    "locator": "印刷页73—75／PDF5—7：四教区查报、567个征收辖区、样本及比较窗口；对旧估算的四类批评。；印刷页76／PDF8表1—2及脚注：四省农业总量指数与人均值，已目视核表。；印刷页78—79／PDF10—11：恢复、地方和人群差异、作者提出的全国外推及其论证。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "SP-Q04-S04",
+    "title": "多线战争、地方权利和王朝韧性：Storrs的档案导论",
+    "originalTitle": "The “Decline” of Spain in the Seventeenth Century",
+    "author": "Christopher Storrs",
+    "year": 2011,
+    "url": "https://www.gale.com/academic/essays/product/s/christopher-storrs-decline-spain-seventeenth-century",
+    "language": "英语",
+    "kind": "学者署名档案研究导论；引用英国外交档案，但本包未核档案原件",
+    "access": "State Papers Online 1509–1714，Cengage Learning EMEA Ltd，网页末尾建议引注年份2011。实际读取Gale托管的署名导论，不是《The Resilience of the Spanish Monarchy 1665–1700》全书。 网页正文及注释；阅读文末书目只用于辨认引文，不把所列书籍算作已读。页面正文位于嵌入JSON，最初只提取到题名，已重新抽出完整正文。",
+    "supports": "多领地王朝试图分摊军费和兵额，碰上地方权利与保护海外利益的冲突，1640年的反抗又增加战线和负担。 1648荷兰共和国、1668葡萄牙的政治结果，与1652加泰重新受王室控制不是同一种结局。 相对法国的军事与外交退让，还涉及法国力量恢复和他国均势选择；17世纪末王朝没有因此整体消失。",
+    "limits": "不是兵力、战役胜率或国民收入数据集；不能用外国外交官的衰败感受替代GDP。 不采用首段把1655牙买加行动归给Blake、把1588或1643当统一终结点的说法；本包不据此扩写这些事件。 不采用把整个17世纪人口概括成单向下滑的旧叙述替代S01分期；不照抄对卡洛斯二世个人能力的贬损判断。 1652恢复统治不等于全民自由同意，也不证明其后全部边界不变；本包未读SP94各卷原件或此文列出的专著。",
+    "verifiedReadUrls": [
+      "https://www.gale.com/academic/essays/product/s/christopher-storrs-decline-spain-seventeenth-century"
+    ],
+    "locator": "本地TXT第2行：外交报告覆盖断裂与观察者偏见。；本地TXT第11—15行：武装联盟、1640年起义、1668年葡萄牙结果与恢复部分领地。；本地TXT第32—37行：法国崛起、地区损失、后半世纪恢复及王朝仍有资源。；本地TXT第1行：仅取1648年承认荷兰共和国独立，不采用该段其他战役概括。；本地TXT第153—155行：题名、出版载体与2011引注年份。",
+    "checked": "2026-10-06"
+  },
+  {
+    "id": "SP-Q04-S05",
+    "title": "1713年英西乌得勒支和约：1714年官印本第十、十一条",
+    "originalTitle": "Treaty of Peace and Friendship, between the most Serene and most Potent Princess ANNE ... and the most Serene and most Potent Prince PHILIP the Vth, the Catholick King of Spain. Concluded at Utrecht the 2/13 Day of July, 1713. / Tractatus Pacis & Amicitiæ",
+    "author": "大不列颠与西班牙缔约双方；伦敦王室印刷人John Baskett等刊印",
+    "year": 1714,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Tractatus_pacis_%26_amiciti%C3%A6_%28microform%29_-_inter_Serinissimam_ac_Potentissimam_Principem_Annam%2C_Dei_Gratia_Magn%C3%A6_Britanni%C3%A6%2C_Franci%C3%A6%2C_%26_Hiberni%C3%A6%2C_Reginam%2C_Fidei_Defensorem_%28IA_cihm_42223%29.pdf",
+    "language": "全件含拉丁、西班牙及英语材料；本次实读题名页与第十、十一条英语栏。未作三语全本对勘。",
+    "kind": "同时代条约官印本影印／公共领域原始文献",
+    "access": "London: Printed by John Baskett, and by the Assigns of Thomas Newcomb and Henry Hills, 1714；奉女王命印行。Queen’s University Douglas Library藏本的CIHM缩微复制、Internet Archive扫描、Wikimedia Commons公开副本。不是签署手稿。 PDF第6页题名页；PDF第86—89页（印刷第81—84页）的第十、十一条英语栏；读OCR后逐页看原扫描件。第84页仅采用第十一条末段，不扩用同页开始的第十二条。",
+    "supports": "1713年西班牙对大不列颠让出指定城港、防御设施及梅诺卡岛的条约结果，可与经济恢复分栏核对。",
+    "limits": "文本证明约定及范围，不单凭条文证明此前每场战役如何胜败、条文全面实施或居民生活变化。 第十条不是把所有周边陆地无条件一并处分；本包不据它处理今天的疆界或法律争议。 不从条文的永久措辞推断梅诺卡此后从未再易手；本包未展开18世纪后续岛屿战争。 原件有不规则页码及OCR错误，以已目视的PDF页号和印刷页号双定位；不声称通读126页扫描件。",
+    "bibliographicUrl": "https://archive.org/details/cihm_42223",
+    "verifiedReadUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/65/Tractatus_pacis_%26_amiciti%C3%A6_%28microform%29_-_inter_Serinissimam_ac_Potentissimam_Principem_Annam%2C_Dei_Gratia_Magn%C3%A6_Britanni%C3%A6%2C_Franci%C3%A6%2C_%26_Hiberni%C3%A6%2C_Reginam%2C_Fidei_Defensorem_%28IA_cihm_42223%29.pdf"
+    ],
+    "locator": "PDF第6页：1714印刷年份，条约日2/13 July 1713；本包用新历1713-07-13。；印刷第81—83页／PDF86—88：第十条的直布罗陀城、城堡、港口及附属防御设施处分；第83页顶部为第十条末句。；印刷第83—84页／PDF88—89：第十一条处分梅诺卡岛及马翁港等。",
+    "checked": "2026-10-06"
   }
 ]

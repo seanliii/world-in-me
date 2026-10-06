@@ -940,6 +940,17 @@
       ]
     },
     {
+      "id": "identity-name-1993",
+      "year": 1993,
+      "date": null,
+      "title": "波黑：集体采名与个人归属不完全相同",
+      "body": "9月27—28日大会在萨拉热窝举行，参与组织记述采纳Bosniak名称；不是全体居民一夜完成同一变化。",
+      "theme": "borders",
+      "refs": [
+        "ID63-04"
+      ]
+    },
+    {
       "id": "event-1995-14",
       "year": 1995,
       "date": null,
@@ -948,6 +959,17 @@
       "theme": "borders",
       "refs": [
         "H-S13"
+      ]
+    },
+    {
+      "id": "turkey-education-2012",
+      "year": 2012,
+      "date": null,
+      "title": "土耳其学制与宗教课程重新组合",
+      "body": "6287号法规定4+4+4及自愿宗教选修，不能与1982宪法的必修宗教文化课混为一项。",
+      "theme": "belief",
+      "refs": [
+        "TQ32-04"
       ]
     },
     {
