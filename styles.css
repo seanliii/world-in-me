@@ -501,6 +501,7 @@ dialog::backdrop{background:#16382e66;backdrop-filter:blur(4px)}
 .no-script a{text-decoration:underline}
 html[data-large-text=true] .reading-body{font-size:20px}
 html[data-large-text=true] .reading-body p{line-height:2.1}
+.personal-page{--serif:"Songti SC","STSong","SimSun",serif}
 .personal-import-panel{display:flex;gap:25px;align-items:center;flex-wrap:wrap;border:1px solid #c4d0bd;background:#edf1e7;padding:27px;margin-bottom:42px}
 .personal-import-panel>div{flex:1;min-width:230px}
 .personal-import-panel h2{font-size:25px;line-height:1.7}

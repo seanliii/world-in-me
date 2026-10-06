@@ -1,10 +1,10 @@
 {
   "format": "world-in-me-public-build-v1",
-  "artifactId": "67734bf58bdc763236b135f1386e3cb92a8f21ddb5a80c8f1f1811249fcb291b",
-  "builtAt": "2026-10-06T00:57:26.369683+00:00",
+  "artifactId": "9134c59542ba4fe912b73dc354622952b3136ed25c6c064daeb115464c7234a9",
+  "builtAt": "2026-10-06T01:10:22.196258+00:00",
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "README.md": "48cd228dd7c557e4869b7c18113d5e773c2bb2262f8faff43a0f335ac3356521",
+    "README.md": "eaf3334a69c5bf76cce4d6c8037032e8213079d48724c77640b124033fb5cea1",
     "assets/NATURAL-EARTH.md": "9aa7edc6f09ff1e21b862e143527a8849b99d604e46123b76ed2eaff9892ebd2",
     "assets/icon.svg": "40c610aec1a276f28f629d4c19687bec50a26490232eaef76638218c40e5500c",
     "assets/world.geo.json": "912bfd4afee17c7f27561a5d4ca8867084ae9927bd849edac198b684f5a0deba",
@@ -35,7 +35,7 @@
     "js/views/practice.mjs": "242d75cab87ed5e93424c7c8d0e5af866151f915fd133045330199cc35f8d132",
     "js/views/reading.mjs": "333cf4d6dfb6d92e2744db7333227361059b58bef407a70072c990a07e38bc74",
     "research/研究总稿.md": "dcaf2ecbee5cf7842a48b89345a8a50188c22b2130253534e8f3afd822b88577",
-    "styles.css": "eee76050fc8496be71f3eed13c72383b6ec7e782f6ebab05934447d1b1197ed2"
+    "styles.css": "9bf47af1a01866299ce5561a500c5e5969d41452e99b5339c1d54b9ef3dd715e"
   },
   "privateMaterialIncluded": false,
   "scope": "仅公共研究、页面程序及匿名覆盖状态；个人研究包由用户在浏览器中主动导入。"
