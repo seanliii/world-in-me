@@ -8073,5 +8073,228 @@
     ],
     "locator": "页题“第二节 文学”，下方“来源：贝宁”“出版日期：2004年07月”及公开预览，未点读受限后文。",
     "checked": "2026-10-07"
+  },
+  {
+    "id": "SA94-S01",
+    "title": "南非《1993年临时宪法》：公民权、平等与财产／土地救济",
+    "originalTitle": "Constitution of the Republic of South Africa Act 200 of 1993 (Interim Constitution)",
+    "author": "Parliament of the Republic of South Africa（南非议会官方历史文本）",
+    "year": 1993,
+    "url": "https://www.parliament.gov.za/storage/app/media/Acts/1993/Act_200_of_1993_Constitution_of_the_Republic_of_South_Africa_Act_Interim_Constitution.pdf",
+    "language": "英语",
+    "kind": "官方历史宪法汇编文本；非现行法律建议",
+    "access": "取得172页PDF；实读题名和版本信息、第5—8、10—12及57—58页的相关条文，不称通读全法。",
+    "supports": "共同公民资格、投票与政治参与、平等及反歧视、迁徙居住权；不排除促进受歧视群体的措施；财产权保护、公共目的征收与补偿、土地权利返还同时存在。",
+    "limits": "法律上的资格与救济框架不等于所有人在实际中均能无障碍行使权利；财产条款不是改革完成或不准改革的证据。仅核1994历史版本，不更新后来宪法、地方法或2026适用规则。",
+    "verifiedReadUrls": [
+      "https://www.parliament.gov.za/storage/app/media/Acts/1993/Act_200_of_1993_Constitution_of_the_Republic_of_South_Africa_Act_Interim_Constitution.pdf"
+    ],
+    "locator": "PDF2：批准、施行及修正清单；PDF5—8：§§4—8、18—22；PDF11：§28；PDF57—58：§§121—123。第6条提前生效注在PDF6。",
+    "yearNote": "法律编号年份1993；PDF2记1994-01-25批准、主要条款1994-04-27施行，PDF6另记第6条1994-03-09生效。现存文本包含列明的1994年修正，不冒称签署日原始未修正公报。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "SA94-S02",
+    "title": "1994年重建与发展白皮书：政府目标与政策取舍",
+    "originalTitle": "White Paper on Reconstruction and Development, Government Gazette No. 16085, Notice No. 1954 of 1994",
+    "author": "Government of National Unity／Ministry in the Office of the President；前言署Nelson Mandela",
+    "year": 1994,
+    "url": "https://www.gov.za/sites/default/files/governmentgazetteid16085.pdf",
+    "language": "英语",
+    "kind": "官方同期政策原件；规范与规划，不是成果审计",
+    "access": "取得82页公报PDF；实读封面、前言、问题界定、经济政策、投资贸易、劳工、财政及土地先导计划相关页。PDF有零偏移对象警告，但采用页文字可读；不据机器提取宣布逐页通读。",
+    "supports": "1994政府同时追求基本服务、再分配与增长，承认土地、居住隔离、技能和产业结构问题；财政约束、私人／外国投资、渐进贸易开放及政府—企业—工会协商均是明示选择；土地改革不只包括产权返还。",
+    "limits": "白皮书的目标、预算与将来式时间表不能当作实际服务覆盖或土地交付；其经济理由是政府立场，不自动证实净效果。未评估所有后继政府或单一领导人责任。",
+    "verifiedReadUrls": [
+      "https://www.gov.za/sites/default/files/governmentgazetteid16085.pdf"
+    ],
+    "locator": "公报/PDF1：提交与刊载日；4—7：前言及§1.2诊断；20—24：§§3.1—3.7经济、投资与贸易；26—27：劳动与福利；30：财政；43：土地返还、再分配、权属及安置先导计划。",
+    "yearNote": "1994-11-15提交议会；1994-11-23政府公报刊载。此为政府白皮书，不与此前RDP Base Document混为同一文本。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "SA94-S03",
+    "title": "南非贫困与不平等评估：截至2015年的消费、空间和劳动证据",
+    "originalTitle": "Overcoming Poverty and Inequality in South Africa: An Assessment of Drivers, Constraints and Opportunities",
+    "author": "World Bank，与南非DPME国家规划委员会秘书处、Statistics South Africa合作；任务组共同负责人Victor Sulla、Precious Zikhali",
+    "year": 2018,
+    "url": "https://documents1.worldbank.org/curated/en/530481521735906534/pdf/124521-REV-OUO-South-Africa-Poverty-and-Inequality-Assessment-Report-2018-FINAL-WEB.pdf",
+    "language": "英语",
+    "kind": "官方合作原创调查分析与历史比较报告",
+    "access": "取得148页公开PDF，封面有Public Disclosure Authorized；实读调查方法、图20、贫困线表、消费基尼注、空间／服务／财富与劳动的正文选段。仅目读所需图20，不称全书通读。",
+    "supports": "按指定人均消费与国家较低贫困线，2005/06、2010/11、2014/15贫困人口占比51.0%、36.4%、40.0%；2015年4月价贫困线每人月647兰特；2014/15消费基尼0.63。空间差距、技能和就业机会、财富集中与基本服务改善并存；报告讨论全球商品周期、2008/09冲击及国内结构。",
+    "limits": "消费汇总剔除部分大额耐用品，不能当收入、工资或净财富；与Stats SA另一个不平等汇总口径不同。跨期为代表性调查而非追踪每个同一家庭。报告摘要PDF17对财富分位和调查期的写法，与主文PDF78—79（2011—2015五轮调查、最高十分位）不一致；本文只取主文集中方向，不用份额。主文PDF69一处LCS年份误写2015/16，采用PDF34脚注4、70图注明确的2014/15。未重算数据、空间因果或政策贡献，不沿用报告世界最高排名。",
+    "verifiedReadUrls": [
+      "https://documents1.worldbank.org/curated/en/530481521735906534/pdf/124521-REV-OUO-South-Africa-Poverty-and-Inequality-Assessment-Report-2018-FINAL-WEB.pdf"
+    ],
+    "locator": "PDF2—3：版本与性质；14：署名；正文页=PDF页−27。PDF33—35／印6—8：图20、Box1、表1与调查年；PDF44—48／印17—21：空间与服务；PDF68—70／印41—43：空间边界、消费基尼及注14；PDF78—79／印51—52：财富；PDF28、84／印1、57：全球背景；PDF103、112—113／印76、85—86：劳动技能。",
+    "yearNote": "2018年3月发布；本稿只用截至2015的结果及较早基线，不采用报告2016—2017现況或2030预测。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "SA94-S04",
+    "title": "后种族隔离南非的收入与非收入不平等：1990年代至2005年的实证比较",
+    "originalTitle": "Income and non-income inequality in post-apartheid South Africa: What are the drivers and possible policy interventions?",
+    "author": "Haroon Bhorat；Carlene van der Westhuizen；Toughedah Jacobs（DPRU）",
+    "year": 2009,
+    "url": "https://tips.org.za/files/income_and_non-income_inequality_in_post-apartheid_south_africa_-_bhorat_van_der_westhuizen_jacobs.pdf",
+    "language": "英语",
+    "kind": "具名原作者的历史分期实证研究；DPRU／TIPS公开研究报告",
+    "access": "取得69页PDF；实读题名、数据与指标、收入分解、服务和资产指标、社会补助的比较方法与结论。表8及说明实际看图；未把封面后机构简介或搜索摘要当全部论证。",
+    "supports": "1995 IES和2005/06 IES的家庭人均收入比较显示收入差距扩大；1993 PSLSD与2005 GHS的家庭服务／资产指数显示另一维度改善。黑人内部差距扩大不意味着种族间差距消失；工资获取和技能需求是作者讨论的重要机制，社会补助收入不可忽略。",
+    "limits": "收入指标按人均家庭收入并采用人口权重；非收入指标以家庭为单位，是服务及耐用品指数，不是资产市场价值、净财富或土地面积。调查题目、收入项目与权重差异限制可比性；扣除补助后的静态比较不等于随机政策效果。表8及数据节为1993—2005，图8标题错写1995—2005，本文按方法与表列年，不取误标题；目录亦有若干年份/页码错误。与SA94-S03部分共用StatsSA资料，非完全独立复证。",
+    "verifiedReadUrls": [
+      "https://tips.org.za/files/income_and_non-income_inequality_in_post-apartheid_south_africa_-_bhorat_van_der_westhuizen_jacobs.pdf"
+    ],
+    "locator": "PDF1—2：2009原稿与2012说明；5—7：目的、1995/2005-06 IES与人均处理；10：表2黑人内部收入差距；16—18、21—23：工资与技能；23—24：PSLSD1993/GHS2005、表8与非收入指标；42—45：补助收入及静态扣除比较；53：结论。",
+    "yearNote": "正文封面2009年4月；第2页TIPS项目介绍为2012年5月，不能将机构后加说明当数据年或作者新研究。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "LPS-S01",
+    "title": "塔伊夫的过渡分权：战前制度、和平协商与未完成转型",
+    "originalTitle": "A Quarter Century of “Transitory Power Sharing.” Lebanon’s Unfulfilled Taʾif Accord of 1989 Revisited",
+    "author": "Stephan Rosiny",
+    "year": 2015,
+    "url": "https://www.civil-center.org/files/taif/A-Quarter-Century-of-Transitory-Power-Sharing.pdf",
+    "language": "英语",
+    "kind": "具名学者论文的38页公开作者稿／未排印稿；对应期刊Civil Wars论文，非简介",
+    "access": "正常公开GET取得38页PDF，首面标作者及GIGA机构；实际核读PDF9—16关于战前安排、1932、1943、谢哈布内阁及1989—1990谈判/修宪，PDF18—23、29—30相关设计与局限。正文只采用本题历史范围，不移入其战后多年事件。",
+    "supports": "1932普查争议与旧六比五代表安排；1943口头宪章及三大职位惯例；1958—1964内阁对半的调整；社会边缘化、迁移与庇护网络；议员谈判和1990战事结束分开；宗派保障与超越配额目标之间的张力。",
+    "limits": "下载载体不是期刊官网，题名/作者与期刊题录已核，但不声称该载体由作者本人上传或每字等同期刊终稿。页码仅用稿内1—38，不套485—502的期刊页。作者对制度效果的解释不等于独立因果估计；其1932以后人口比例、难民和死亡人数本稿不采数值。没有把该文2015/2016写作时的“至今”当2026状态。",
+    "verifiedReadUrls": [
+      "https://www.civil-center.org/files/taif/A-Quarter-Century-of-Transitory-Power-Sharing.pdf"
+    ],
+    "locator": "PDF9—11：Defective Consociationalism until 1989；PDF12—13：The Negotiations of Taʾif（10月22日达成、1990年10月战事结束）；PDF14—16：Fixed Shares of Power及谢哈布内阁；PDF18—21：地区/服务与政治教派主义目标；PDF29—30：总结的保障与转型张力。",
+    "yearNote": "对应期刊Civil Wars 17(4):485—502卷期为2015；Crossref记纸本日期2015-10-02、网络刊发2016-02-22。所读作者稿本身未列出版年，year指对应期刊卷期，不冒称下载文件印于2015。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "LPS-S02",
+    "title": "黎巴嫩内战的史学与记忆：起因争论、变化的联盟与居民代价",
+    "originalTitle": "The historiography and the memory of the Lebanese civil war / Historiography and memory of the Lebanese Civil War 1975–1990",
+    "author": "Sune Haugbolle",
+    "year": 2011,
+    "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/historiography-and-memory-lebanese-civil-war.html",
+    "language": "英语",
+    "kind": "具名学者的史学评述；Sciences Po Mass Violence and Resistance – Research Network机构全文",
+    "access": "正常GET取得完整文章HTML，页面标2011-10-25及作者。定点核读A导论、B起因与动力、C教派暴力讨论、D大规模暴力、E日常暴力与失踪者家属，未把所有被引书籍当本次已读。",
+    "supports": "内因与外因相互交织的史学分歧；1943—1975制度可行性争论；1969—1975巴勒斯坦武装问题；1975-04-13升级事件；1982以色列入侵；1985—1987难民营之战与战争末期基督徒阵营内战；地方领袖协调功能及其削弱；绑架、关卡身份筛选、炮击、迁离及1982家属组织。",
+    "limits": "这是二级史学综合，不是本次独立采访居民或重建军令链。Khazen、Johnson、Picard等立场只按Haugbolle的评述呈现；不冒称通读其书。文章在导论有将1989协定与战争结束压缩叙述的写法，本稿以其1975—1990分期及Rosiny明确日期校正，不写1989即时停战。不采其总伤亡、流离失所比例或各屠杀人数；未核算这些来源。",
+    "verifiedReadUrls": [
+      "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/historiography-and-memory-lebanese-civil-war.html"
+    ],
+    "locator": "页首Date:25 October, 2011 / Auteur:Haugbolle Sune；B) Outbreak, cores issues and driving forces of the war；C) Debates over sectarian violence；D) Massacres...之Massacres of the two-years war、1982 invasion...；E) Shelling, car-bombs and “habitual” forms of mass violence末段家属组织。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "LPS-S03",
+    "title": "《塔伊夫协议》：政治改革、分阶段去教派化与行政分权",
+    "originalTitle": "The Taif Agreement",
+    "author": "黎巴嫩议员达成的民族和解文件；黎巴嫩常驻联合国代表团公开英文文本",
+    "year": 1989,
+    "url": "https://www.un.int/lebanon/sites/www.un.int/files/Lebanon/the_taif_agreement_english_version_.pdf",
+    "language": "英语（官方机构公开英译；未逐条核阿语原文）",
+    "kind": "正式和平／民族和解文件的官方公开文本；不是落实报告",
+    "access": "正常下载8页PDF并核读相关政治改革条款；首面英文导语标1989年9月谈判及11月4日议会批准，10月22日达成日期另由LPS-S01核读，不把不同程序日混称同日。",
+    "supports": "政治改革A.5议会两大类席位各半与类内宗派、地区分配；B/C/D总统、总理与部长会议权力及表决；G废除政治教派主义的分阶段目标、委员会及过渡配置；III.A统一国家框架下的地方行政分权与服务。",
+    "limits": "协议是规范性承诺，不证明解除武装、机构设置、去教派化或地方服务全部实现；不能与1990入宪、1990战事结束混成一个时点。不采用其108席总额当今天议会人数。官方英译有排字/表述问题，本稿不据I.H有关巴勒斯坦安置的译词立论，也不宣称核了阿语。",
+    "verifiedReadUrls": [
+      "https://www.un.int/lebanon/sites/www.un.int/files/Lebanon/the_taif_agreement_english_version_.pdf"
+    ],
+    "locator": "PDF2政治改革A.5—7：对半与未来参议院；PDF2—4 B/C/D：行政权及决策；PDF5 G与III.A：废除政治教派主义、过渡公职安排和行政分权。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "LPS-S04",
+    "title": "黎巴嫩宪法：明确标注1990年9月21日修订的相关条款",
+    "originalTitle": "The Lebanese Constitution — selected provisions amended/introduced by the Constitutional Law of September 21, 1990",
+    "author": "Lebanese National Assembly（黎巴嫩国民议会）",
+    "year": 1990,
+    "url": "https://www.lp.gov.lb/backoffice/uploads/files/Lebanese%20%20Constitution-%20En.pdf",
+    "language": "英语（议会公开汇编译文）",
+    "kind": "官方宪法汇编中的历史修订条款；不是逐年原始公报或2026合规指南",
+    "access": "正常GET取得24页官方PDF。核读序言及第17、22、24、49、53、64、65、95条的明示1990修订注记与正文；实际采用者在页码中逐列，不把封面1926宪法原颁布日期当这些新条款的年份。",
+    "supports": "1990-09-21入宪的议会平分、行政权交部长会议、总统依据有约束力的议会咨询指定总理、总统列席不投票、总理主持/执行职责；重大事项三分之二门槛；第22及95条的有条件、分阶段制度目标。",
+    "limits": "本次只依汇编中标注1990的相关版本内容解释历史调整，没有核完整1926—2026历次修宪、当前执行情况或法律咨询。第22/95条的应然文字不能证明参议院、委员会或去政治教派化已完成。三大职位的教派身份属政治惯例，不能由第49/53/64条凭空读出。",
+    "verifiedReadUrls": [
+      "https://www.lp.gov.lb/backoffice/uploads/files/Lebanese%20%20Constitution-%20En.pdf"
+    ],
+    "locator": "PDF2序言1990注记；PDF5第17条；PDF6第22条；PDF7第24条；PDF11第49条；PDF12—13第53条；PDF15—16第64条；PDF16—17第65条（普通多数/重大事项门槛）；PDF23第95条。",
+    "yearNote": "原宪法颁布1926-05-23；本卡year仅指所采1990-09-21修订条款。官方汇编文件未给整体出版年，本稿不自行补年。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "KH-S01",
+    "title": "阿塞拜疆与亚美尼亚：纳卡冲突（2021年历史研究版）",
+    "originalTitle": "Azerbaijan and Armenia: The Nagorno-Karabakh Conflict",
+    "author": "Cory Welt; Andrew S. Bowen",
+    "year": 2021,
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R46651/R46651.1.pdf",
+    "language": "英语",
+    "kind": "institutional-specialist-research-report",
+    "access": "美国国会研究处CRS R46651，固定第1版，2021-01-07，26页完整PDF公开HTTP200。实读指定历史与2020段，不把整份美国政策部分当已通读。",
+    "supports": "1923自治州地位、1988归属动员与苏联边界、1994年5月停火后的事实控制及跨群体流离失所。\n\n纳卡与周边地区的范围不同；国际承认边界与实际控制不同。\n\n2020-09-27战事、领土变动、舒沙／舒希及多处平民伤害；2020-11-09声明未解决最终地位。\n\n归还地区、拉钦、维和与交通条款的历史执行与限制，另有返乡所需重建的讨论。",
+    "limits": "这是具名机构研究综合，不是本次现场调查；历史约50万人为所引研究估算，不是重新普查或当前人数。\n\n引述Thomas de Waal、安理会决议及人权材料不等于本次读了这些原件；不另登记它们。\n\n报告部分内容反映2021年初认识，不能据此认证2026控制线、和平进展或俄军部署。\n\n自治／独立表述中提到1991宣告，KH-S03另提1992立法机关宣告；正文按解体前后阶段写，不把二者硬并为同日事件。\n\n与KH-S03共享Cory Welt作者及部分材料，不计独立重复验证。",
+    "verifiedReadUrls": [
+      "https://www.congress.gov/crs_external_products/R/PDF/R46651/R46651.1.pdf"
+    ],
+    "locator": "PDF5—6＝印刷2—3页：历史、自治、1988、1994与注3人口估算；PDF10＝印刷7：2020开战；PDF12、14＝印刷9、11：控制和人道影响；PDF16—20＝印刷13—17：声明、实施边界及返乡困难。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "KH-S02",
+    "title": "亚美尼亚、阿塞拜疆与俄罗斯领导人2020年11月三方声明",
+    "originalTitle": "Statement by the Prime Minister of the Republic of Armenia, the President of the Republic of Azerbaijan and the President of the Russian Federation",
+    "author": "Nikol Pashinyan; Ilham Aliyev; Vladimir Putin（以2020年三国领导人身份）；亚美尼亚政府官网公布",
+    "year": 2020,
+    "url": "https://www.primeminister.am/en/press-release/item/2020/11/10/Announcement/",
+    "language": "英语",
+    "kind": "primary-joint-ceasefire-statement",
+    "access": "政府官网公开英文原文HTTP200；逐条完整读取九点及续段。发布页为2020-11-10，声明达成日2020-11-09由KH-S01核实，生效时刻由第1项核实。",
+    "supports": "停火自2020-11-10莫斯科时间00:00生效，各方停在当时阵地。\n\n地区归还、俄罗斯维和、初始五年及续期／退出通知机制、返乡与被拘押者及遗体交换条款。\n\n第6项拉钦走廊宽5公里，俄罗斯维和控制，阿塞拜疆保障双向通行；第9项是另一项连接纳希切万与阿塞拜疆本土的交通安排。",
+    "limits": "文本是当事国承诺，不证明每项落实或居民权利已实现；不是最终地位或责任裁决。\n\n政府托管不等于中立叙述；这里只提取三方条文，不采网站其他立场。\n\n第6项原定克尔巴贾尔期限与后来延期不同，本稿不把原定期限直接说成实际交接日。\n\n不以2020维和五年安排推定2026仍有部署；不作路线、安全或法律操作建议。",
+    "verifiedReadUrls": [
+      "https://www.primeminister.am/en/press-release/item/2020/11/10/Announcement/"
+    ],
+    "locator": "首段签署主体；第1项生效；第2、6项地区；第3—5项维和；第6项及两段续文拉钦；第7返乡；第8交换；第9及续文交通。本地P编号保存完整段落，不用编号开头丢弃续段。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "KH-S03",
+    "title": "2023年阿塞拜疆重获纳卡控制与纳卡亚美尼亚人的流离失所",
+    "originalTitle": "Azerbaijan’s Retaking of Nagorno-Karabakh and the Displacement of Karabakh Armenians",
+    "author": "Cory Welt",
+    "year": 2023,
+    "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12265/IN12265.3.pdf",
+    "language": "英语",
+    "kind": "institutional-specialist-research-brief",
+    "access": "CRS Insight IN12265固定第3版，2023-10-18，4页PDF，HTTP200。实读第1页、2页人道／返乡不确定性段及3页地图、作者；未把后续外交预测当事实。",
+    "supports": "纳卡国际承认归属、当地分离控制与亚美尼亚力量的关系，2020部分恢复阿塞拜疆控制。\n\n2022年12月后的通行限制；2023-09-19—20军事行动、解除武装与重获控制；短期大规模人口外流。\n\n埃里温、巴库、原纳卡自治州及相关地区的位置；图示的虚线明确是2020战争前接触线。",
+    "limits": "CRS为机构研究综合，不是法院判决；政府承诺、NGO评论与观察分别属其来源，不能当最终责任认定。\n\n与KH-S01共享作者和既有研究，未提供独立统计验证。\n\n此文2023年概述不是2026实时进展；未来返乡或和平谈判内容不当完成事实。\n\n图1内部边界近似，虚线系2020年前接触线，不能因报告日期2023而当2023／2026控制线；不作通行建议。",
+    "verifiedReadUrls": [
+      "https://www.congress.gov/crs_external_products/IN/PDF/IN12265/IN12265.3.pdf"
+    ],
+    "locator": "PDF1：事件与历史背景；PDF2：人道处境和返乡不确定性（不采其未来外交推测）；PDF3图1及原注、作者；PDF4报告编号／版本与免责声明。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "KH-S04",
+    "title": "亚美尼亚难民应对计划：2023年10月至2024年3月",
+    "originalTitle": "ARMENIA REFUGEE RESPONSE PLAN — October 2023–March 2024",
+    "author": "UNHCR及Refugee Response Plan应对伙伴；抵达数据明确转引亚美尼亚政府",
+    "year": 2023,
+    "url": "https://data.unhcr.org/en/documents/download/103868",
+    "language": "英语",
+    "kind": "humanitarian-response-plan-and-operational-needs-report",
+    "access": "UNHCR公开PDF，24页，HTTP200；发布页明确2023-10-07。实读2、4—8页统计、需求、接收与应对；规划期延至2024年3月，不代表后续已完成。",
+    "supports": "政府通报2023-09-24至10-04抵达100,632名难民；同文区分登记数及援助计划规模。\n\n难民抵达时饥饿、疲惫及住房、医疗、儿童教育与心理社会支持需求。\n\n接收社区和受影响家庭是政策之外的行动主体，不能只以政府表态替代生活处境。",
+    "limits": "100,632是限定时间的抵达数，来自政府通报，并非UNHCR独立逐人复核、死亡人数或任何国际罪行最终认定。\n\n101,000是计划规模；第5页100,514是另一时点估计，不能与第4页抵达数加总。\n\n对需求、规划和应提供支持的表述不是实际援助效果或所有人个体状况的证明。\n\n不能由该批人数推断永久流亡、未来返乡结果或群体本性；不作个体医疗、路线或法律建议。",
+    "verifiedReadUrls": [
+      "https://data.unhcr.org/en/documents/download/103868",
+      "https://data.unhcr.org/en/documents/details/103868"
+    ],
+    "locator": "PDF2：101,000规划概览；PDF4：Current Situation，100,632、政府数据来源与9月24日至10月4日；PDF5：时间不同的估计／规划表；PDF6—8：需求、接收者与应对。发布日见同源落地页。",
+    "checked": "2026-10-07"
   }
 ]
