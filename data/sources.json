@@ -8856,5 +8856,45 @@
     "locator": "PDF1–14对应印36–49；核心PDF7–10＝印42–45，PDF3＝印38及PDF11–13＝印46–48用于解释限度。PDF9／印44做1张原页目读；TXT用=== PDF PAGE N ===，不是换页符。",
     "yearNote": "Asian and African Area Studies 7(1), 2007, pp.36—49；所述16—17世纪人物与文献日期不是现代研究发表日期。",
     "checked": "2026-10-06"
+  },
+  {
+    "id": "ROR-HISTORY-KING-20261007-01",
+    "title": "Charles King《The Black Sea: A History》2005平装版：Amazon公开样章实读页3–8",
+    "originalTitle": "The Black Sea: A History",
+    "author": "Charles King",
+    "year": "2005平装；版权2004",
+    "url": "https://read.amazon.com/sample/019928394X?clientId=share",
+    "language": "英语",
+    "kind": "正规零售阅读器的公开原著选段",
+    "access": "无登录公开试读，原著连续正文印刷页3–8已读；不是全书。 主任务已逐张目视核对所列正文图页及版权页。",
+    "supports": "作者与版次；第一章开头关于水域、学科地图、区域联系、边疆的序论结构。",
+    "limits": "仅页3–8，不能称第一章或全书读完；页8末句缺后续，未读“民族”概念的完整展开；样章支持作者的研究问题、概念区分与序论论证结构，不足以验证各时期的案例或因果结论；跨海联系不等于始终和谐、共享身份或全体沿岸人的共同记忆；BSEC、欧盟与冷战后秩序的描述属于原书写作时点，不是2026年的时政核验；试读图像版权仍归权利人；保存于私有研究目录供核验，不授权公开重发原书图页。",
+    "bibliographicUrl": "https://www.amazon.com/Black-Sea-History-Charles-King/dp/019928394X",
+    "verifiedReadUrls": [
+      "https://read.amazon.com/sample/019928394X?clientId=share"
+    ],
+    "locator": "印刷页3–8＝阅读器图页24–29；版权页＝阅读器5；书名页＝阅读器4。",
+    "yearNote": "版权页直接核验，不仅是题录；实际印次年份未核。",
+    "checked": "2026-10-07"
+  },
+  {
+    "id": "ROR-HISTORY-KINROSS-20261007-01",
+    "title": "Lord Kinross《The Ottoman Centuries》Morrow Quill平装版：公开样章实读页17–19、23–26",
+    "originalTitle": "The Ottoman Centuries: The Rise and Fall of the Turkish Empire",
+    "author": "Lord Kinross（John Patrick Douglas Balfour）",
+    "year": "1979首个Morrow Quill平装版；版权1977",
+    "url": "https://read.amazon.com/sample/0688080936?clientId=share",
+    "language": "英语",
+    "kind": "正规零售阅读器的公开原著选段",
+    "access": "无登录公开试读；两组分别连续的原著正文：17–19、23–26。 主任务已逐张目视核对所列正文图页及版权页。",
+    "supports": "作者同一性、原题名及平装版；序言末段与第一章开头的起源叙事、传说定位、边疆社会论述。",
+    "limits": "没有读完整序言、第一章或全书；页20–22不构成此次正文阅读范围；页23的页码为按下一页推定；第17页承前、第26页续后，不用缺失上下文补出作者未见论证；这是作者如何叙述起源的证据，不是对塞尔柱、蒙古、早期奥斯曼各项史实的独立史料核实；序言涉及早期边疆，第一章涉及初期安纳托利亚；不能推广为整个奥斯曼统治期或全部巴尔干地区的经验；传说不能直接当作事件实录；改宗、宽容与非强制的广泛概括还需未读部分和其他证据检验；版权页确认的是1979首个Morrow Quill平装版及相应ISBN；扫描印本的实际印刷年份未注明，不能称1979第一印；试读图像只留私有目录供核验，不据公开试读推断全书免费或可自由再传播。",
+    "bibliographicUrl": "https://www.amazon.com/Ottoman-Centuries-Lord-Kinross/dp/0688080936",
+    "verifiedReadUrls": [
+      "https://read.amazon.com/sample/0688080936?clientId=share"
+    ],
+    "locator": "印刷17–19＝阅读器16–18；印刷23–26＝阅读器22–25；首个23未印页码，依据相邻印刷24定位；版权页＝阅读器5。",
+    "yearNote": "本次直接读版权页，实际扫描印本印刷年份未核。",
+    "checked": "2026-10-07"
   }
 ]
